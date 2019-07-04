@@ -1,0 +1,3603 @@
+id|name
+003381|fermented cheese
+002017|enriched dough
+002100|lean dough
+003144|fermented cereal-based product
+002417|crusty bread
+002043|fresh cheese
+003440|whey cheese
+003406|brined cheese
+002202|processed cheese
+003448|feta
+003432|streched curd cheese
+003452|mozzarella
+003444|caciocavallo
+003456|ricotta
+003443|brocciu
+003457|schabziger
+003428|ripened cheese
+003459|soft cheese
+003458|semi soft cheese
+003450|hard cheese
+003489|extra hard cheese
+002319|American cheese
+002633|velveeta
+002329|The Laughing Cow
+003561|fromage blanc
+002568|quark
+002408|cottage cheese
+002393|chhena
+002569|queso blanco
+002570|queso fresco
+003564|petit-suisse
+003560|faisselle
+003492|mould ripened cheese
+003486|blue veined cheese
+003496|Bleu
+003518|Roquefort
+003500|Camembert
+003498|Brie
+003501|Carré de l'est
+003499|Buche de chèvre
+003514|Parmesan
+003495|Asiago
+003517|Romano
+003521|Sapsago
+003523|Spalen
+003469|Cheddar
+003475|Granular
+003467|Caciocavallo
+003476|Gruyère
+003470|Comté
+003468|Cantal
+003466|Brick cheese
+003509|Limburger
+003482|Trappist
+003474|Gouda
+003480|Raclette
+003472|Fontina
+003524|Stilton
+003504|Gorgonzola
+003502|Danablu
+003497|Blue Wensleydate
+003506|Hand cheese
+003513|Neufchatel
+003477|Laguiole
+002325|Kiri
+002320|Cancoillotte
+002322|Crème de Brie de Meaux
+003465|Beaufort
+002359|beefsteak
+003085|carpaccio
+001960|cocoa
+001963|cocoa butter
+001964|cocoa powder
+002729|nugget
+001924|camel milk
+002022|ewe milk
+001918|buffalo milk
+003143|fermented butter
+001589|hand
+002133|merguez
+001952|chipolata
+003253|chorizo
+003563|salami
+003562|fuet
+003244|Morcela de Arroz
+001858|algae as food
+002501|laurel
+002588|rosemary
+002591|sage
+002621|tarragon
+002623|thyme
+002374|broccoli
+002375|brussel sprout as food
+002384|cauliflower as food
+002321|Chinese cabbage
+002477|head cabbage
+002460|garlic as food
+002539|onion
+002598|shallot
+002347|aubergine
+002350|baby corn
+002410|courgette
+002418|cucumber
+002461|gherkin
+002519|melon as food
+002537|okra
+002566|pumpkin
+002617|sweet pepper
+002625|tomato as food
+002392|cherry tomato
+002549|pear tomato
+002559|plum tomato
+002641|watermelon as food
+002055|fungi as food
+003250|cep
+003254|common mushroom
+003249|brown mushroom
+003270|portobello mushroom
+003267|morel
+003275|truffle
+002357|basil
+002387|celery leaf
+002388|chard
+002398|chive
+002438|escarole
+002464|grape leaf
+002506|lettuce
+002528|mint
+002545|parsley
+002587|rocket
+003347|tzatziki
+002604|spinach
+002639|watercress
+002652|witloof
+002361|beetroot
+002382|carrot
+002385|celeriac
+002483|horseradish
+002546|parsnip
+002561|potato as food
+002573|radish
+002594|salsify
+002615|swede
+002618|sweet potato
+002632|turnip
+002656|yam
+002345|artichoke
+002346|asparagus
+002352|bamboo shoot
+002380|cardoon
+002386|celery
+002444|fennel
+002504|leek
+002543|palm heart
+002579|rhubarb
+001897|bean
+002104|lentil
+002175|pea
+001665|nut
+001859|almond as food
+001965|coconut as food
+002181|pecan
+002189|pistachio
+001961|cocoa bean
+003158|olive as food
+002177|peanut as food
+001697|peanut and primary derivative thereof
+002245|sesame oil
+002246|sesame seed
+002302|walnut
+001838|walnut and primary derivative thereof
+002303|walnut oil
+002580|rice
+001514|dark chocolate
+002266|steak tartare
+002048|fried rice
+003412|dosa
+002555|pico de gallo
+001503|corn tortillas
+002239|sashimi
+003171|sushi
+001942|ceviche
+001565|fruit based dish
+003166|sorbet
+002031|fish sashimi
+002131|meat sashimi
+002185|pie
+001969|compote
+002052|fruit salad
+002204|pudding
+001906|blood sausage
+002366|black pudding
+002224|rice pudding
+003185|cheesecake
+001802|sugar confectionery
+003134|cupcake
+003242|éclair
+003135|custard cake
+001466|burger
+002071|hamburger
+001945|cheeseburger
+002049|frikadeller
+001638|meatball
+002563|prawn
+002095|lamb meat
+002130|meat patty
+000649|gram-positive
+000648|gram-negative
+000473|Neisser-positive
+000472|Neisser-negative
+000019|phenotype wrt metabolic activity
+000060|catalase activity
+000222|catalase positive
+000221|catalase negative
+000116|microscopic morphological phenotype
+000025|physiological phenotype
+000243|conjugating
+000296|gram stain phenotype
+000174|Neisser stain phenotype
+000020|phenotype wrt morphology
+000065|conjugation phenotype
+001005|biofilm phenotype
+000143|presence of quorum sensing
+000142|presence of nanotube
+000353|multicellular arrangement phenotype
+000228|cellular shape phenotype
+000848|rod-shaped
+000563|coccobacillus
+000850|round-shaped
+000888|spiral-shaped
+001329|spirillum
+001330|spirochete
+001043|comma-shaped
+000892|stalked
+000893|star-shaped
+000817|pleomorphic
+000891|square-shaped
+000629|filamentous
+000865|sheathed
+000928|trichome forming
+000064|colony morphology phenotype
+000105|liquid culture morphology phenotype
+000157|taxis phenotype
+000182|aerotactic
+000763|negative aerotactic
+000821|positive aerotactic
+000230|chemotactic
+000822|positive chemotactic
+000764|negative chemotactic
+000369|osmotactic
+000192|anemotactic
+000207|barotactic
+000262|durotactic
+000265|electrotactic
+000300|gravitactic
+000317|hydrotactic
+000335|magnetotactic
+000387|phototactic
+000409|rheotactic
+000452|thermotactic
+000454|thigmotactic
+000295|gliding
+000439|swarming
+000440|swimming
+000460|twitching
+000015|phenotype wrt adhesion
+000139|planktonic
+000068|decarboxylase activity
+000251|decarboxylase negative
+000252|decarboxylase positive
+000371|oxidase activity
+000784|oxidase negative
+000785|oxidase positive
+002711|halotolerant
+002883|acido tolerant
+000128|phenotype wrt habitat osmolarity
+000370|osmotolerant
+000367|osmophile
+000368|osmophobe
+000018|phenotype wrt growth
+000150|sporulating
+000286|flocculent
+000297|granular
+000809|pigmented
+001272|purple pigmented
+001372|violet pigmented
+001156|indigo pigmented
+001008|blue pigmented
+001137|green pigmented
+001386|yellow pigmented
+001240|orange pigmented
+001280|red pigmented
+001019|brown pigmented
+001007|black pigmented
+001131|golden pigmented
+001318|silver pigmented
+001382|white pigmented
+001054|cream pigmented
+001255|pink pigmented
+001197|maroon pigmented
+001107|fluorescent pigmented
+002337|antimicrobial resistant
+002677|antifungal resistant
+002680|antiviral resistant
+002671|antibacterial resistant
+002683|antiyeast resistant
+000379|phenotype wrt carbon source
+000385|phenotype wrt reducing equivalent source
+000383|phenotype wrt living energy source
+000712|lithotroph
+000778|organotroph
+001105|fermentative
+000733|methanogenic
+000443|syntrophic
+002991|hydrogen oxidizing
+003028|sulfur oxidizing
+002984|ferrous iron oxidizing
+002955|ammonia oxidizing
+003036|anammox
+002959|arsenic oxidizing
+003299|photoorganoheterotroph
+000402|psychrotrophic
+000275|extreme thermophile
+002945|thermal resistant
+002987|heat resistant
+002975|cold resistant
+002982|extreme cold resistant
+002983|extreme heat resistant
+001997|disease resistant
+000381|phenotype wrt drug impact
+000378|phenotype wrt antimicrobial impact
+000125|phenotype wrt disease impact
+000384|phenotype wrt metal concentration impact
+000137|phenotype wrt relative humidity impact
+001992|desiccation resistant
+001994|desiccation tolerant
+001993|desiccation sensitive
+001999|disease tolerant
+001998|disease sensitive
+002338|antimicrobial sensitive
+002684|antiyeast sensitive
+002678|antifungal sensitive
+002681|antiviral sensitive
+002672|antibacterial sensitive
+002339|antimicrobial tolerant
+002685|antiyeast tolerant
+002679|antifungal tolerant
+002682|antiviral tolerant
+002673|antibacterial tolerant
+002676|antibiotic tolerant
+002675|antibiotic sensitive
+002522|metal sensitive
+002523|metal tolerant
+002875|vancomycin sensitive
+002818|meticillin sensitive
+002821|moxifloxacin sensitive
+002774|ciprofloxacin sensitive
+002876|vancomycin tolerant
+002819|meticillin tolerant
+002822|moxifloxacin tolerant
+002775|ciprofloxacin tolerant
+001712|phenotype wrt chemical composition
+002829|penicillin resistant
+002830|penicillin sensitive
+002831|penicillin tolerant
+002881|acido resistant
+002886|alkali resistant
+002882|acido sensitive
+002887|alkali sensitive
+000133|phenotype wrt molecule impact
+000138|phenotype wrt temperature impact
+000152|stress resistant
+000153|stress sensitive
+000154|stress tolerant
+000598|drug resistant
+000600|drug tolerant
+000599|drug sensitive
+000104|lichen forming
+000057|bloom forming
+000136|phenotype wrt radiation impact
+002212|radiation resistant
+002213|radiation sensitive
+002214|radiation tolerant
+002330|UV radiation resistant
+002659|UVA radiation resistant
+002662|UVB radiation resistant
+002665|UVC radiation resistant
+002492|ionizing radiation resistant
+002493|ionizing radiation sensitive
+002494|ionizing radiation tolerant
+002666|UVC radiation sensitive
+002663|UVB radiation sensitive
+002660|UVA radiation sensitive
+002331|UV radiation sensitive
+002332|UV radiation tolerant
+002667|UVC radiation tolerant
+002664|UVB radiation tolerant
+002661|UVA radiation tolerant
+002985|freeze-thaw resistant
+000373|part of food
+000902|surface of food
+000456|transconjugating
+000789|paired
+000652|grape-like clustered
+000552|chained
+000578|cuboidal
+000914|tetrad
+000872|singled
+002290|thermal tolerant
+002289|thermal sensitive
+002478|heat sensitive
+002440|extreme cold sensitive
+002442|extreme heat sensitive
+002453|freeze-thaw sensitive
+002404|cold sensitive
+002480|heat tolerant
+002441|extreme cold tolerant
+002443|extreme heat tolerant
+002454|freeze-thaw tolerant
+002406|cold tolerant
+000656|halophile
+000242|conidial
+000122|non-sporulating
+001145|home-made food
+002238|salted food
+001781|soybean and related product
+003059|leaf based drink
+003215|malt
+001142|head
+001346|tail
+001728|powdered food
+003053|goulash
+002120|maize and primary derivative thereof
+003595|pozol
+003069|pozole
+001337|stew
+001448|birria
+002269|stewed food
+001515|dashi
+002093|kombu
+001676|okpehe
+000511|beer yeast
+000968|wine yeast
+001170|lager yeast
+000981|ale yeast
+000999|baking powder
+001000|baking soda
+000894|starter yeast
+000474|Saccharomyces cerevisiae starter
+001188|lyophilized milk starter
+003537|sourdough starter
+002705|emmer wheat product
+002701|durum wheat product
+002690|bread wheat product
+002746|spelt product
+002702|einkorn wheat product
+002723|khorasan product
+001893|barley and primary derivative thereof
+002233|rye and primary derivative thereof
+002154|oat and primary derivative thereof
+001622|lupin and related product
+001132|grain and primary derivative thereof
+001462|buckwheat and primary derivative thereof
+002276|sunflower seed
+002295|triticale and primary derivative thereof
+001723|poppy seed and primary derivative thereof
+001734|quinoa and primary derivative thereof
+002285|teff and primary derivative thereof
+001484|chia seed and primary derivative thereof
+002137|millet and primary derivative thereof
+001403|amaranth and primary derivative thereof
+001731|pumpkin seed and primary derivative thereof
+001551|flaxseed and primary derivative thereof
+001593|hemp seed and primary derivative thereof
+002745|sourdough bread
+002756|yeast bread
+002435|enriched bread
+002462|gluten-free bread
+003415|final sourdough
+003407|chief sourdough
+003436|type I sourdough
+003437|type II sourdough
+003438|type III sourdough
+003435|traditional sourdough
+002503|leavened bread
+003420|laboratory sourdough
+002301|viennoiserie
+002416|croissant
+002333|Vienna bread
+002323|Danish pastry
+002373|brioche
+002174|pastry product
+001920|bun
+002280|sweet dough
+003421|leavened dough
+002413|cream pastry
+002565|puff pastry
+002326|Knieküchle
+001556|food fermentation equipment
+002025|fermentation vat
+003301|ripening room
+001209|milled food
+001458|bran
+003414|fermented dough
+002270|storage box
+001241|oven
+002000|dough mixer
+000386|phenotype wrt shape
+000880|smooth colony
+000632|fluffy colony
+000897|structured colony
+000144|pseudohyphae growth
+000099|hyphae growth
+000148|sexual reproduction
+000051|asexual reproduction
+000147|sexual mating
+000310|homothallic
+000305|heterothallic
+000022|phenotype wrt ploidy
+000096|haploid
+000069|diploid
+000159|tetraploid
+000037|aneuploid
+000163|triploid
+000053|autoploid
+000036|alloploid
+000172|MATa
+000173|MATalpha
+000203|auxotroph
+000399|prototroph
+000024|phenotypre wrt genetic
+000169|wild-type
+000118|mutant
+000577|crabtree positive
+000576|crabtree negative
+003067|petite positive
+000879|small colony
+000513|big colony
+002035|flor
+001531|drosophila
+003526|Tilsit
+003505|Gubbeen
+003525|Taleggio
+003508|Liederkranz
+003520|Saint-Paulin
+003540|Fuzhuan brick tea
+003387|meju
+001950|chili pepper and related product
+002395|chili pepper
+003352|chili sauce
+001267|pressed food
+001901|berry and primary derivative thereof
+001903|blackberry and primary derivative thereof
+001904|blackcurrant and primary derivative thereof
+001907|blueberry and primary derivative thereof
+002218|raspberry and primary derivative thereof
+002220|redcurrant and primary derivative thereof
+002272|strawberry and primary derivative thereof
+002103|lemon and primary derivative thereof
+002106|lime and primary derivative thereof
+002121|mandarin and primary derivative thereof
+002162|orange and primary derivative thereof
+001989|date and primary derivative thereof
+002027|fig and primary derivative thereof
+002090|kaki and primary derivative thereof
+003109|olive and primary derivative thereof
+001887|avocado and primary derivative thereof
+001891|banana and primary derivative thereof
+002010|durian and primary derivative thereof
+002091|kiwi and primary derivative thereof
+002111|litchi and primary derivative thereof
+002122|mango and primary derivative thereof
+002188|pineapple and primary derivative thereof
+003356|guacamole
+001879|apple and primary derivative thereof
+002179|pear and primary derivative thereof
+002208|quince and primary derivative thereof
+001881|apricot and primary derivative thereof
+001946|cherry and primary derivative thereof
+002150|nectarine and primary derivative thereof
+002176|peach and primary derivative thereof
+002191|plum and primary derivative thereof
+001954|cinnamon and related product
+001955|citronella grass and related product
+001957|clove and related product
+002616|sweet corn
+002061|ginger and related product
+002099|lavander and related product
+002164|oregano and related product
+002310|white mustard and related product
+002312|winter savory and related product
+002304|wasabi and related product
+001860|amaranth
+001917|buckwheat
+001948|chia seed
+002033|flaxseed
+002076|hemp seed
+002206|pumpkin seed
+002209|quinoa
+002355|barley product
+002513|maize
+002195|poppy seed
+002525|millet
+002536|oat as food
+002590|rye
+002622|teff
+002626|triticale
+002643|wheat product
+002118|lupin
+002119|lupin seed
+000359|neutralophile
+000628|filament-shaped
+000650|gram-variable
+000735|microaerotolerant
+000736|microanaerobe
+002962|beeswax
+003016|propolis
+001070|dietary supplement
+003071|royal jelly
+003040|bee pollen
+002457|frog leg
+003556|fermented fresh cheese
+003592|fermented cottage cheese
+003397|sour cream
+003530|plant based juice
+000984|animal based juice
+003534|fruit based juice
+003539|vegetable based juice
+003087|cereal based drink
+003061|legume based drink
+003064|nut based drink
+003108|oleaginous seed based drink
+003423|oat beverage
+003427|rice beverage
+003410|corn beverage
+003431|spelt beverage
+003366|soy beverage
+003360|lupin beverage
+003354|cowpea beverage
+003362|peanut beverage
+003349|almond beverage
+003353|coconut beverage
+003357|hazelnut beverage
+003363|pistachio beverage
+003370|walnut beverage
+003395|sesame beverage
+003382|flaxseed beverage
+003384|hempseed beverage
+003401|sunflower beverage
+003364|quinoa beverage
+003434|teff beverage
+003350|amaranth milk
+002259|soybean
+001603|ionised food
+001729|pressure treated food
+002079|high pressure treated food
+002770|cantaloupe as food
+002728|muskmelon
+002155|octopus and product thereof
+001986|cuttlefish and product thereof
+001872|animal roe
+003149|fish roe and product thereof
+003375|caviar
+003208|kazunoko
+003216|masago
+003235|tobiko
+003191|cod roe
+003273|sea urchin roe
+001535|echinoderm and product thereof
+002241|sea cucumber and product thereof
+003197|filmjölk
+003214|långfil
+003238|viili
+003210|kumis
+003181|amasi
+003194|dahi
+003193|dadih
+003217|matsoni
+003574|mabisi
+003580|chibwantu
+003218|munkoyo
+002316|yak milk
+003240|xueo
+002221|reheated food
+002068|griddled food
+002240|scalded food
+002249|simmered food
+001905|blanched food
+001266|preserved food
+003013|plant based drink
+003589|wheatgrass juice
+003576|beet juice
+003578|carrot juice
+003579|celery juice
+003582|cucumber juice
+003601|tejuino
+003447|corn milk
+003588|turnip juice
+003584|lemon juice
+003587|tomato juice
+003586|pineapple juice
+003054|grain based drink
+001590|hazelnut and primary derivative thereof
+002074|hazelnut
+001979|cranberry and primary derivative thereof
+002412|cranberry as food
+003088|clam juice
+001636|meat juice
+003454|oat milk
+003455|rice milk
+003460|spelt milk
+003461|teff milk
+003416|flax milk
+003418|hemp milk
+003429|sesame milk
+003433|sunflower milk
+003393|quinoa milk
+003378|cowpea milk
+003386|lupin milk
+003399|soy milk
+003373|almond milk
+003376|coconut milk
+003377|coconut water
+003383|hazelnut milk
+003390|peanut milk
+003391|pistachio milk
+003402|walnut milk
+003442|barley milk
+003405|barley beverage
+001475|cashew and primary derivative thereof
+001936|cashew seed
+001935|cashew apple
+003351|cashew beverage
+003374|cashew milk
+000110|medical sample
+000462|urine sediment
+000416|salivary sediment
+000431|sputum sediment
+000227|cell sediment
+000291|furniture
+000506|bed as furniture
+000553|chair
+000908|table as furniture
+000954|washing machine
+000896|stool as furniture
+000882|sofa as furniture
+000255|dental chair
+002484|hospital bed
+000699|kitchen sponge
+000594|dishcloth
+000698|kitchen sink
+000503|bathroom sink
+002707|faucet handle
+000873|sink drain
+002787|dish towel
+000666|high chair tray
+001165|jellyfish
+001297|sap
+001130|gelatine as ingredient
+000423|silo
+000447|textile
+000926|towel
+001245|paper towel
+000856|sauna
+000920|toilet
+000404|public toilet
+000922|toilet seat
+000208|bathroom equipment
+000455|toilet equipment
+000210|bedroom equipment
+000330|kitchen equipment
+000507|bed sheet
+000810|pillow as equipment
+001101|feather pillow
+000509|bedspread
+000331|landfill
+000167|waste treatment environment
+002877|waste container
+001168|kitchen garbage
+002902|dustbin
+003140|emesis basin
+002901|dumpster
+001770|shoe factory
+000420|shoe
+002748|theatre shoe
+000672|hospital gown
+001343|surgical gown
+001244|paper gown
+000728|medical glove
+000861|scrub as clothing
+000905|surgical cap
+000217|boot swab
+001322|slaugterhouse equipment
+001461|brisket saw
+001635|meat hook
+001467|butcher's knife
+001510|cutting table
+000582|cutting board
+002891|apron
+000566|coffeemaker
+000575|countertop
+000595|dishwasher
+000909|tableware
+001509|cutlery
+001079|drinking glass
+001072|dinner plate
+002262|spoon
+001486|chopstick
+002040|fork as utensil
+002092|knife
+001827|toothpick
+001084|eating utensil
+000923|toiletries
+001032|chewing stick
+001357|toothpaste
+001356|toothbrush
+001311|shampoo
+001312|shaving cream
+000995|baby wipe
+001348|tampon
+001243|panty liner
+001052|cotton swab
+001096|facial tissue
+000658|handkerchief
+001296|sanitary towel
+001155|incontinence pad
+000520|blender
+000636|freezer
+000837|refrigerator
+000738|microwave oven
+000958|water heater system
+001378|water heater
+001149|hot water tank
+001010|boiler
+001025|calorifier
+002909|heat exchanger
+003229|shower head
+002918|nozzle
+002949|water tap
+000916|thermometer as medical device
+001239|oral thermometer
+001279|rectal thermometer
+001083|ear thermometer
+001118|forehead thermometer
+000889|spirometer
+000405|public transport
+000899|subway
+000795|passenger train
+000859|school bus
+000480|airplane
+003313|bus driver
+003324|prostitute
+003331|veterinarian
+002469|guinea fowl meat
+002567|quail meat
+002576|ratite meat
+002731|ostrich meat
+002556|pig's trotter
+001410|animal brain and product thereof
+001423|animal tongue and product thereof
+001414|animal kidney and product thereof
+001415|animal liver and product thereof
+001419|animal roe and product thereof
+001420|animal skin and product thereof
+001421|animal stomach and product thereof
+001413|animal heart and product thereof
+002037|foie gras
+001422|animal tail and product thereof
+001408|animal bone and product thereof
+001411|animal foot and product thereof
+002200|prawn and product thereof
+001412|animal head and product thereof
+001409|animal bone marrow and product thereof
+001418|animal neck and product thereof
+001407|animal blood and product thereof
+002114|lobster and product thereof
+001977|crab and product thereof
+002277|surimi
+002045|freshwater fish meat
+002126|marine fish meat
+001996|diadromous fish meat
+001114|food rind
+001481|cheese rind
+001846|whey
+003153|granita
+001842|water based dish
+003152|gelato
+002053|fruit smoothie
+003102|kebab
+000607|eating and drinking place
+001283|restaurant
+001016|brasserie
+001022|cafeteria
+001347|take-away restaurant
+001099|fast food restaurant
+001115|food truck
+001109|food cart
+001108|food booth
+001023|café
+003284|diner
+001270|public house
+001071|dining car
+000531|buffet
+001460|breakfast cereal
+000788|packed lunch
+001186|lunch box
+000835|ready made meal
+000823|potluck
+003192|constructed wetland
+003396|sewer
+003365|sewerage system
+003400|storm drain
+002816|meltwater
+000959|water storage system
+001274|rainwater tank
+003522|Scimudin
+003473|Formaggio di Fossa
+003483|Valtellina Casera
+003479|Morbier
+003503|Epoisses
+003478|Leerdammer
+003511|Maroilles
+003515|Pont l'Evêque
+003507|Langres
+003519|Saint-Nectaire
+000161|transport and storage equipment
+000787|packaging
+001110|food container
+001456|bottle
+001472|can
+003048|fox
+002908|hagfish
+000574|cosmetics
+001141|hairspray
+000994|baby diaper
+003057|iguana
+002911|kelp
+001614|leech
+000987|annelid
+000707|lichen
+003062|lion
+002527|mink
+003422|moose
+000745|moss
+002532|muskrat
+002148|mustelidae
+003110|otter
+002169|parrot
+002544|parakeet
+000820|porifera
+003426|reindeer
+003073|seal
+001776|snail
+001777|snake
+001791|stink bug
+003306|tilapia
+000123|oxidoreductase activity
+003079|toad
+002956|amphibian
+003031|trout
+003309|tuna
+003310|turbot
+002947|tubeworm
+002635|vole
+001840|wasp
+002315|yak
+002318|zebra
+002349|baboon
+001898|bear
+001895|bat
+002358|beaver
+001923|camel
+002397|chinchilla
+003413|elk
+000992|ascidian
+003045|dolphin
+002894|bryozoan
+001851|zooplankton
+001714|phytoplankton
+001001|bamboo
+000974|Crassulaceae
+002396|chimpanzee
+000977|abalone
+001919|bumblebee
+002889|amphipod
+002897|cod
+001400|alligator
+001507|crocodile
+001424|ant
+001878|antelope
+001428|aphid
+001882|armadillo
+003551|bison
+003552|buffalo
+002994|kiwi
+003000|moldy peanut
+002996|mango
+003010|papaya
+002961|banana
+002963|berry
+002966|cantaloupe
+002973|coconut
+000721|maize storage
+000271|exosphere
+000344|mesosphere
+000435|stratosphere
+000451|thermosphere
+001823|toe
+000194|animal farm
+000171|zoo
+000311|horticulture farm
+000798|periphytic
+000080|epilythic
+000082|epipelic
+000086|epixylic
+000084|epipsammic
+000620|epizootic
+000070|endolithic
+000071|endolython
+000074|endophyton
+000077|endozoon
+000081|epilython
+000083|epipelon
+000073|endopelon
+000076|endopsammon
+000085|epipsammon
+000087|epixylon
+000088|epizoon
+000111|metaphyton
+000124|periphyton
+000072|endopelic
+000075|endopsammic
+000618|endozootic
+000732|metaphytic
+002186|pigeon
+002172|passerine bird
+002448|finch
+001358|trachea
+001562|fossil stromatolite
+000155|stromatolite
+002919|oat plant
+000881|snow
+000681|ice
+000052|atmosphere part
+000233|cloud
+000234|cloud water
+000459|troposphere
+003294|mackerel
+003302|sardine
+002458|frozen soil
+000017|phenotype wrt environment
+000840|residential toilet
+001271|public toilet seat
+000869|shower
+001150|hotel bathroom
+000421|shower aerosol
+000675|hotel
+000956|water droplet
+000966|whirlpool bath
+000953|washbasin
+000910|tap
+002619|swimming pool
+002564|public sauna
+001576|gas tank
+001587|guano
+000299|grassland
+000314|hotel equipment
+000944|valley
+000991|artic valley
+000415|room floor
+000226|ceiling tile
+000219|carpet
+000539|carpet floor
+000220|carpet tile
+000839|residential carpet
+000676|hotel carpet
+001144|hip bone
+003198|fjord water
+000438|surgical drain
+001608|knee
+001196|marine rock
+001580|geyser
+001741|reef
+003168|submarine
+002709|glacier
+000830|prosthetic joint
+000398|prothesis
+001316|silcone rubber voice prothesis
+000444|syringe
+000786|pacemaker
+000701|laryngeal prosthetic device
+000564|cochlear prosthesis
+000528|bone-anchored prosthesis
+000498|auricular prosthesis
+000591|dental prothesis
+000829|prostate
+000466|wall
+000225|cave
+000345|metallic coin
+000206|banknote
+000145|public equipment
+000202|automated teller machine
+000682|indoor air
+000781|outdoor air
+002747|stormwater
+003271|rainwater treatment utility
+000481|airport terminal
+000457|traveller luggage
+002217|radish plant
+002216|radish as food
+000654|groin
+000754|nare
+001252|perirectal area
+000366|oropharynx
+003297|nursing home resident
+003322|military service member
+002885|activated carbon fiber felt
+002884|activated carbon biofilter
+002757|activated carbon filter
+000492|antacid suspension
+003573|fermented table olive
+000870|shrimp hatchery
+001692|paper mill sludge
+002892|barley plant
+000043|apiary
+001884|arugula
+001967|collard green
+001087|empyema
+003014|pleural empyema
+001782|spacecraft assembly clean room
+002800|ginseng plant
+002779|cotton plant
+001038|clean room
+001685|packaging clean room
+001443|bio clean room
+000433|sterile clean room
+001811|tannery sludge
+002943|tannery wastewater
+002944|textile wastewater
+002979|dye textile wastewater
+001817|textile dye effluent
+001112|food processing appliance
+001559|food slicing machine
+001555|food dicing machine
+001554|food blender
+001093|evaporator
+000164|ubiquitous
+001313|ship scrapping waste
+000289|freight transport equipment
+000418|ship
+000419|ship hull
+000868|ship tank
+001027|cargo oil tank
+000774|oil tanker
+000866|ship ballast
+000867|ship ballast water
+000355|naval surface ship
+000162|transport equipment
+000725|marine freight transport equipment
+000247|cruise ship
+002698|cruise ship passenger
+002603|spa
+002495|jacuzzi
+002451|footwarm bath
+002203|public bathing facility
+002755|whirlpool spa
+001809|swine house
+000962|water vapor
+001987|dairy barn
+001974|cow barn
+001922|calf barn
+001786|stall
+000605|earring hole
+000434|storage equipment
+001931|cantaloupe rind
+001342|surface smear
+001566|fruit rind
+001482|cheese smear
+002307|watermelon rind
+002274|submarine glassy basalt
+002062|glassy rind of seafloor basalt
+001583|glassy rind of lava
+001689|palagonite rind
+003202|glassy rim of the pillow basalt
+002135|mid-ocean ridge basalt
+001801|submarine basalt
+003554|submarine hotspring
+003026|submarine hydrocarbon seep
+003274|submarine thermal spring
+003169|submarinegroundwater discharge
+000211|bile resistant
+000401|psychrophile
+000449|thermophile
+000343|mesophile
+000319|hyperthermophile
+000657|halophobe
+001214|moderate halophile
+001203|meso-halophile
+001095|extreme halophile
+000188|alkaliphile
+000177|acidophile
+000179|aerobe
+000279|facultative anaerobe
+000770|obligate anaerobe
+000769|obligate aerobe
+000278|facultative aerobe
+000347|microaerophile
+000183|aerotolerant
+000130|phenotype wrt habitat temperature
+000127|phenotype wrt habitat acidity
+000382|phenotype wrt habitat salinity
+000129|phenotype wrt habitat oxygen
+000189|anaerobe
+000126|phenotype wrt energy source
+003282|chemoorganoheterotroph
+002896|chemolithotroph
+000021|phenotype wrt motility
+000117|motile
+000417|sessile
+000029|adherent
+000617|endophyte
+000517|biotrophic
+002827|obligate phytopathogen
+000120|non motile
+002806|human pathogen
+002809|insect pathogen
+000002|microbial phenotype
+000132|phenotype wrt microbial-host interaction
+000195|animal hosted
+000394|plant hosted
+000239|commensal
+002734|plant symbiont
+000375|pathogen
+002669|animal pathogen
+002764|animal opportunist
+002668|animal commensal
+000813|plant opportunist
+002732|phytopathogen
+002733|plant commensal
+002835|plant obligate symbiont
+002833|plant facultative symbiont
+003125|animal symbiont
+003182|animal facultative symbiont
+003183|animal obligate symbiont
+000276|extremely acidophilic
+000499|autotroph
+003281|chemo litho autotroph
+000665|heterotroph
+002895|chemoheterotroph
+002923|photoheterotroph
+003445|chemolithoheterotroph
+001098|facultative chemo lithotroph
+002922|photoautotroph
+000218|carboxydotroph
+000135|phenotype wrt pressure
+000390|piezophile
+000772|obligate piezophile
+000391|piezosensitive
+000392|piezotolerant
+000555|chemotroph
+000805|phototroph
+000134|phenotype wrt nutrient abundance
+000245|copiotrophic
+000361|oligotrophic
+000257|diazotroph
+000635|free-living diazotroph
+000906|symbiotic diazotroph
+000758|natron-alkaliphilic
+001035|chlorophototroph
+001205|methanotroph
+000734|methylotroph
+001204|methanol oxidizing
+000744|mixotroph
+002924|photolithoautotroph
+002888|alkali tolerant
+000304|hemolytic
+000482|alpha-hemolytic
+000040|anoxygenic
+000023|phenotype wrt stress
+002674|antibiotic resistant
+003038|arsenite oxidizing
+000512|beta-hemolytic
+000055|bioluminescent
+002874|vancomycin resistant
+002773|ciprofloxacin resistant
+002820|moxifloxacin resistant
+002817|meticillin resistant
+002521|metal resistant
+000016|phenotype wrt community behaviour
+001444|biofilm forming
+001664|non-biofilm forming
+000380|phenotype wrt color
+000762|necrotrophic
+000372|parasite
+000616|endoparasite
+000609|ectoparasite
+000001|microbial habitat
+000007|experimental medium
+000010|living organism
+000008|food
+000013|natural environment habitat
+000005|aquaculture habitat
+000009|habitat wrt chemico-physical property
+000012|microorganism associated habitat
+000026|planet
+000011|medical environment
+000014|part of living organism
+000006|artificial environment
+000004|animal husbandry and agricultural habitat
+000041|antibiotic-containing media
+000170|yeast extract
+000109|medical product
+000121|non-immune serum
+000100|industrial habitat
+000149|spore
+000038|animal feed
+000114|microorganism
+000141|polluted environment
+000034|agricultural product
+000049|area with epidemiologic property
+000115|microorganism part
+000046|aquaculture pond
+000102|iron-rich environment
+000033|agricultural input
+000062|cell culture
+000030|aerosol
+000168|wet environment
+000160|thermal area
+000113|microflora
+000166|volcanic area
+000094|food for human
+000089|eukaryote host
+000054|biofilm
+000090|extreme environment
+000058|bovine serum
+000095|greenhouse
+000140|plant habitat
+000066|constructed habitat
+000467|waste
+000027|Earth
+000035|agricultural species
+000045|aquaculture farm
+000112|microbial mat layer
+000156|subterrestrial habitat
+000158|terrestrial habitat
+000028|L-( null )-tartrate enriched soil
+000048|area with climate property
+000097|hospital environment
+000098|household good
+000032|agricultural equipment
+000044|aquaculture equipment
+000061|cell
+000079|environmental matter
+000093|fish pond
+000186|air
+000050|artificial water environment
+000003|animal habitat
+000151|sterile water
+000108|medical equipment
+000047|aquatic environment
+000039|animal part
+000101|intercellular
+000078|environment wrt oxygen level
+000091|farm
+000092|field
+000067|cultivated habitat
+000056|bioreactor
+000103|laboratory equipment
+000031|agar
+000165|urea solution
+000178|adipocyte
+000308|high sulfur concentration environment
+000312|hospital water
+000338|marine environment
+000256|diagnostic equipment
+000323|industrial product
+000412|road part
+000322|industrial chemical
+000432|starter culture
+000244|contaminated site
+000200|arthropod part
+000284|flagellum
+000327|inside the body
+000204|back
+000313|host associated biofilm
+000197|anoxic environment
+000362|oomycete
+000246|crop
+000270|exoskeleton
+000437|sulfide-rich environment
+000349|microorganism gas vesicle
+000364|organ
+000428|soil part
+000059|breeding site
+000464|vaccine
+000824|poultry farm
+000336|mariculture farm
+000198|aquarium
+000215|body fluid
+000191|anaerobic environment
+000181|aerobic environment
+000348|microaerophilic environment
+000281|fertilizer
+000580|curtain
+000280|feeder cell
+000315|house
+000232|city
+000274|extracellular
+000293|geothermal area
+000237|coelomic cavity
+000212|biofilm in natural environment
+000175|abdomen
+000224|cattle-dipping vat
+000283|fish pen
+000436|subtropical area
+000325|industrial water and effluent
+000408|respiratory tract part
+000264|ear part
+000463|urogenital tract part
+000277|eye part
+002837|probiotic feed
+000442|symbiosome
+000429|solfatara
+000266|endolithic environment
+000468|water
+000427|soil
+000176|acid environment
+000187|alkaline environment
+000307|high pressure environment
+000302|haline environment
+000309|high temperature environment
+000238|cold temperature environment
+000306|high osmolarity environment
+000180|aerobic bioreactor
+000190|anaerobic bioreactor
+000259|ditch water
+000253|deep subsurface
+000376|perineum
+000351|mire
+000339|meal
+000261|drug
+000411|rhizosphere part
+000301|hair
+000363|operating room
+000461|ultrasound gel
+000448|therapeutic equipment
+000290|fungi
+000400|protozoa
+000410|rhizosphere
+000388|phyllosphere
+000223|catheter
+000201|artificial water structure
+000389|phyllosphere part
+003128|canned olive
+000184|agricultural pest
+000395|plant part
+000356|needle
+000407|respiratory tract
+000450|thermophilic methanogenic bioreactor
+000685|industrial waste
+000670|home food processing equipment
+000677|household waste
+000532|building construction and demolition waste
+000478|agricultural waste
+000260|domestic appliance
+000267|endosphere
+000287|forage
+000229|cereal feed
+000350|mineral matter
+000231|circulatory system part
+000254|denitrification reactor
+000241|composting reactor
+000249|cyanide treatment bioreactor
+000426|sludge blanket reactor
+000346|methanogenic reactor
+000333|lower layer of a microbial mat
+000406|recreational fishing fish pond
+000458|tropical zone
+000445|temperate zone
+000354|mushroom farm
+000213|biomat
+000560|clothe
+000209|beak
+000469|water well
+000424|skin part
+000324|industrial site
+000334|lymphatic system part
+000316|household product
+000337|marine cage
+000365|organic matter
+000196|animal tissue
+000374|pasture
+000250|dairy farm equipment
+000425|slough
+000263|dust
+000318|hydrotelluric environment
+001183|livestock habitat
+000185|agricultural tool
+000446|terrestrial landscape
+001727|poultry house
+000397|prepared food
+000352|monument
+000358|neuston
+000422|shrimp culture pond
+000214|body
+000328|intensive care unit
+000342|medical sink
+000273|extra-intestinal
+000272|extra-genital
+000294|germ cell
+000193|animal
+000393|plant
+000282|finger
+000119|nest
+000298|granuloma
+000583|dairy farm
+000320|immune cell
+000808|pig farm
+000326|inland water body
+000199|aquatic eukaryotic species
+000292|garden
+000269|environment water
+000465|vertebrate part
+000332|lesion
+000321|immune system
+000205|bandage
+000258|digestive system part
+000341|medical outfit
+000240|commodity and primary derivative thereof
+000510|beef farm
+000377|peritoneal cavity
+000357|nervous system part
+000268|enterocyte
+000303|hatchery
+000403|public building
+000146|rural area
+000340|meat and bone meal
+000414|room
+000527|bone meal
+000522|blood meal
+000631|fish meal
+000667|high salt concentration environment
+000726|meat meal
+001871|animal neck
+002362|berry as food
+002066|grape and primary derivative thereof
+002369|blueberry as food
+002574|raspberry as food
+002368|blackcurrant as food
+002578|redcurrant as food
+001784|spice
+002182|pepper
+000961|water treatment plant
+003190|cinnamon
+001983|cumin
+002153|nutmeg
+003201|ginger
+002365|black pepper
+000671|home heating system
+000606|earth
+000678|human body
+002646|white pepper
+000878|skin papule
+000645|gingival crevice
+000572|conjunctiva
+000669|home drainage system
+002541|oregano
+002428|durian as food
+000957|water from air and water system
+000711|liquid food
+000946|vertebrate
+000955|water cooling system
+000838|research and study center
+000615|endometrium
+000936|upper respiratory tract
+000802|pharyngeal mucosa
+000543|catfish pond
+000903|surface soil
+000780|osteolytic bone lesion
+000471|Intestinal mucosal lesion
+000862|seabed
+000627|eye
+000724|marine eukaryotic species
+000587|deep periodontal lesion
+000797|periodontal lesion
+000934|ulcerative lesion
+000761|necrotic lesion
+000819|pneumonic lesion
+000756|nasal epithelia
+000755|nasal cavity
+000767|nose
+000568|combustible liquid
+000646|gingival lesion
+000794|paper pulp
+000674|hot spring biomat
+000875|skin
+000688|insect part
+000887|spinal cord
+000792|paper
+000641|gastrointestinal tract
+000716|lung
+000551|cervix
+000945|vascular
+000938|urethra
+002257|soil with chemical property
+002258|soil with physical property
+000477|additive
+000753|mussel farm
+000630|fish farm
+000659|harbor
+000690|intertidal zone
+000709|limestone
+000847|rock scraping
+000846|rock
+000689|interstitial fluid
+000717|lymph
+000831|pus
+000907|synovial fluid
+000557|chyle
+000550|cerebrospinal fluid
+000949|vitreous humor
+000818|pleural fluid
+000558|chyme
+000523|blood plasma
+000604|ear wax
+000495|aqueous humour
+000514|bile
+000622|excreta
+000485|amniotic fluid
+000521|blood
+000931|trypanosome
+000912|terrestrial plant
+000898|subgingival biofilm
+000590|dental biofilm
+000694|invertebrate species
+000911|terminal airway
+000700|laboratory animal
+000836|reef surface biofilm
+000651|granite stone
+000536|canker
+000570|composite food
+000538|caries
+000746|mound
+000757|nasopharynx
+000561|coal
+000592|desert
+000565|coelom fluid
+000662|heart valve
+000608|ectomycorrhizal fungus
+000638|gall bladder
+000597|drinking water facility
+000668|highly acid environment
+000624|extractive industrial site
+000548|cellulosic substrate
+002718|hydrothermal vent
+000596|domestic animal
+000967|wild animal
+000803|phenol
+000691|intestinal content
+000895|stomach content
+000964|wetland
+000812|plant nodule
+000500|bacteriocyte
+000952|vomit
+000547|cellulose
+002754|waste water
+000586|dead wood
+000853|sandstone
+000625|extreme high temperature environment
+000487|anaerobic dechlorinating bioreactor
+000696|jungle
+000483|alpine soil
+000935|upland
+000703|leafy soil
+000747|mountain
+000779|ornithogenic soil
+000542|carrier
+000950|volcanic soil
+002551|permafrost
+000571|compost
+000593|desert soil
+000919|throat swab
+000588|deep sea
+000904|surface water
+001332|sponge
+000470|Glomus vesiculiferum
+000918|throat
+000739|mid-vaginal wall
+000901|sulfidogenic bioreactor
+000759|natural gas
+000947|veterinary drug
+000519|bladder stone
+000490|animal with age or sex property
+000644|gill
+000849|root part
+000663|hemodialysis machine
+000826|probe
+000915|therapeutic ultrasound equipment
+000864|sensor
+000486|amoebas
+000673|hospital hot water
+000806|phylloplane
+000969|woody landscape
+000816|plant tissue
+000768|noxious plant
+000544|caulosphere
+000540|carposphere
+000493|anthosphere
+000800|pest insect
+000525|blood vessel
+000626|extremely acid environment
+000579|culture system
+000602|ear
+000603|ear canal
+000782|outer ear
+001324|soap
+000740|middle ear
+000971|zoo animal
+000860|scratch
+000843|road
+000825|prepuce
+000545|caulosphere part
+000807|phylloplane part
+002804|home plumbing
+000494|anthosphere part
+000783|ovary
+000541|carposphere part
+000939|urinary catheter
+000655|growing plant
+000815|plant product and primary derivative thereof
+000775|open-ocean
+000693|intravascular catheter
+000941|urogenital tract
+001212|mine waste
+001158|industrial scrap
+001062|dairy farming waste
+001157|industrial organic waste
+000664|hemolymph
+000777|organic waste
+000742|mineral oil
+001327|solid agricultural waste
+001148|horticultural waste
+001172|landfill site waste
+001181|liquid agricultural waste
+000752|mushroom
+000960|water transport structure
+000488|anaerobic sludge blanket reactor
+000917|thermophilic anaerobic methanogenic reactor
+000900|sulfide-oxidizing bioreactor
+000634|forest soil
+000653|green forage
+000720|maize feed
+000569|common millet feed
+000832|quinoa feed
+000715|lucerne
+000549|cereal flours feed
+000633|food for particular diet
+000851|rye feed
+000842|rice feed
+000965|wheat feed
+000886|sorghum feed
+000871|silage
+000722|malt feed
+000501|barley feed
+000929|trona crust
+000852|salt crust
+000640|gastric acid
+000799|peritoneal fluid
+000743|mineral soil
+000948|vitreous fluid
+000680|humus soil
+000516|biofertilizer
+000679|humus
+000533|bulk soil
+000567|cold seep
+000751|musculoskeletal system part
+000913|testis
+000833|rash
+000766|nervous system
+001225|municipal solid waste
+002856|shower curtain
+000857|savannah
+000706|leukocyte
+000621|excavation
+000559|circulatory system
+000737|microbial mat
+000584|dairy starter culture
+000930|tropical country
+000639|garden soil
+000855|sandy soil
+000876|skin bump
+000877|skin nodule
+001620|litter
+000683|industrial building
+000845|road side
+000479|air treatment unit
+002719|hydrothermal vent chimney
+000601|dune soil
+000844|road junction
+000741|milking machine
+000534|bulk tank
+000589|deep tissue
+000581|cut
+000863|secretion
+001621|livestock barn
+001485|chicken coop
+000660|harvesting tool
+000951|volcano
+001949|chicken house
+000546|cellar
+000834|raw primary commodities
+000854|sandstone monument
+000637|freshwater aquarium
+000993|ash dump
+000925|toundra
+000489|animal product and primary derivative thereof
+000475|abrasion
+000476|abscess
+000970|wound
+000529|broncho-pulmonary segment
+000530|bronchus
+000748|muddy water
+000841|respiratory therapy equipment
+000885|soil matter
+000611|effluent
+000704|lentic water
+000940|urinary tract
+000619|epithelial layer
+000496|arthropod
+000814|plant organ
+000623|extra-uterus
+000692|intra-uterus
+000942|uterus
+000497|atherosclerotic lesion
+000684|industrial equipment
+000874|site contaminated with organic compound
+000413|rodent nest
+000705|lentic water body
+000713|lotic water body
+000943|vagina
+000932|tuberculoid granuloma
+000562|coast
+000723|mammalian part
+000585|dead matter
+000537|carcass
+000505|bay
+000484|alveolar epithelium
+000927|tree part
+000708|light organ
+000933|ulcer
+000719|lymphatic system
+000790|pancreas
+000515|biliary tract
+000791|pancreatic duct
+000642|gastrointestinal tract part
+000729|medical mask
+000727|medical bed sheet
+000750|musculoskeletal system
+000714|lower respiratory tract
+000718|lymph node
+000801|phagocyte
+000760|necropolis
+000924|tomb
+000749|mural painting
+001300|sea ice
+000554|chapel
+000730|membrane
+000710|lining
+000884|soil crust
+000828|processed commodity and food
+000883|soft tissue
+000890|spleen
+000526|bone fracture
+000695|jail
+000491|animal with disease
+000573|cornea
+000647|glial cell
+000765|nerve
+000687|inner ear
+000937|ureter
+000535|burn
+000793|paper carton
+000524|blood serum
+000661|head kidney
+000518|bladder
+000731|meninges
+000556|chest
+000610|edible film
+000811|placenta
+000430|spoiled food
+000702|latrine
+000686|innate immune system
+000613|embryonic structure
+000612|egg part
+000963|welfare center
+000858|school
+000773|office
+000502|bathroom
+000508|bedroom
+000504|bathtub
+000921|toilet bowl
+000697|kitchen
+000975|PCE contaminated site
+001034|chlorine-contaminated site
+001166|joint
+001256|piping system
+001248|peptic ulcer
+002407|cool soil
+001360|tree
+001286|root cap
+002862|sulfate-rich wastewater
+001374|warm-blooded animal
+001031|chemical plant
+001042|college
+001365|university
+001276|raw milk
+001308|sewage oxidation pond
+001189|machinery
+001192|male animal
+001169|laboratory
+002535|nutrient-poor soil
+001185|lumber
+001230|nematode
+001161|infant formula
+001167|kerosene
+001067|dental abscess
+001339|subcutaneous abscess-like lesion
+001325|soft tissue abscess
+001249|perineal abscess
+001317|silt
+001037|clay
+001298|sawmill
+001182|liver abscess
+001227|nasal passage abscess
+001250|periodontal abscess
+001368|vaginal abscess
+001151|human Bartholin abscess
+001363|twig
+001282|reptile
+001046|cooling tower
+002782|deep-sea hot vent
+002783|deep-sea hydrothermal vent
+001319|skeleton
+001024|calcereous rock
+001069|desert rock
+001315|shoreline
+002627|tropical soil
+001133|granitic rock
+001314|shore
+001152|human appendix abscess
+001220|mucus
+001228|nasal secretion
+001291|saliva
+001302|sebum
+001018|breast milk
+001350|tears
+001345|sweat
+001208|milk and milk product
+001201|meristem
+001362|tuber
+001021|bulbous plant
+001320|skin ulcer
+001618|lime soap
+001135|grass plant
+001257|plankton
+001068|dental caries
+001073|dish
+001278|ready-to-eat meal
+001323|snack
+001091|epithelium
+001195|marine coast
+001039|coal spoil
+001490|coal-cleaning residue
+001269|probiotic food
+001344|swamp
+001328|soup
+001162|ingredient for hot drink
+001004|benzene-contaminated site
+001305|self-heated organic material
+000997|backwater
+001351|teat
+001497|concentrated food
+001143|hindgut
+001036|chocolate product
+001247|pea family
+001307|sewage
+001210|mine
+001211|mine drainage
+001476|cattle dipping
+001044|condiment
+001078|drink
+001045|confectionery
+000998|bacteriome
+001229|neck
+001076|drainage canal
+001075|drainage
+001379|water of an humidifier
+002784|deep-sea hydrothermal vent chimney
+001370|vascular tissue
+001217|mouth part
+001056|creosol
+001085|eel farm
+001349|tank water
+001262|posterior intestinal content
+001334|sprout
+001198|marsh
+001237|oil well
+002838|produced water
+001259|plantlet
+001104|fen
+001290|saline wetland
+001121|freshwater wetland
+001102|feces
+001303|sediment
+001674|oil spill
+001367|urine
+001164|irrigation ditch
+001077|drainage ditch
+001033|chipboard factory
+001173|leachate
+001359|treated wood
+000982|alfalfa silage
+001190|maize silage
+001284|rice silage
+001200|meat and meat product
+002788|drilling bore water
+002638|water-stressed soil
+002389|chemically stressed soil
+001048|coral
+001326|solfataric soil
+001235|oil field
+001057|crucifer
+001293|sand
+001103|female animal
+001369|vaginal secretion
+001124|furuncle fluid
+001306|semen
+001117|foregut
+001128|gastric antrum
+001111|food flavour
+001592|heat-preserved food
+001199|mashed food
+001009|bog
+001041|coastal wetland
+001090|epidermis part
+001127|gas seep
+000976|Tasmanian devil
+001159|industrial sludge
+001179|leopard
+001335|sputum
+001175|leaf part
+001287|root cortex part
+001139|guar gum
+001187|lynx
+001336|stem part
+001206|midge
+001251|peripheral nervous system
+001254|pet
+001384|working animal
+001381|water tank
+001060|cuticle
+001020|buccal
+001309|sewage sludge
+001242|panda
+001292|salt-tolerant plant
+001125|garden plant
+001213|model plant
+001123|fruit part
+001106|flower part
+001273|quarry
+001193|mammary gland
+001364|udder parenchyma
+001304|seedling
+001088|endodermis
+001223|mudpit
+001050|cortex
+001226|muscle
+001089|epidermis
+001246|parenchyma
+001299|sclerenchyma
+001160|indwelling urinary catheter
+001375|waste food compost
+001511|dairy parlour waste
+001558|food processing waste
+000985|animal waste
+000979|air conditioning system
+001627|manure
+001647|mining slag heap
+001097|factory
+001281|refinery
+001489|coal mine waste
+001261|pond water
+001180|lignocellulose
+002828|oil field water
+001479|cereal grain and primary derivative thereof
+001086|egg and egg product
+002436|enriched soil
+001136|grass silage
+000972|Asteraceae
+000983|alkaline salt crust
+001837|vitamin supplement
+001277|raw seafood
+000973|Cerrado
+001352|teat canal
+001295|sandy bulk soil
+001026|canopy humus
+001120|forest humus
+002377|burnt soil
+001222|mud volcano
+001202|mesentery
+001224|municipal sludge
+001140|gut
+002851|saline wastewater
+001191|malachite green effluent
+001258|plant material
+001147|hoof
+001377|water column
+000990|artery
+001216|moor
+000996|backswamp
+001154|hypersaline microbial mat
+001003|barrier flat
+001030|cheese starter culture
+001354|terrestial wetland
+001294|sandy beach
+001371|vegetable garden soil
+001064|dead tissue
+001236|oil industry
+001063|dead organism
+001012|bone caries
+001361|trunk
+001310|shale sandstone
+001015|branch
+002808|industrial wastewater
+002796|food processing wastewater
+002198|poultry litter
+001546|fermented food
+002752|waste treatment equipment
+002753|waste treatment plant
+001094|extractive industry equipment
+001028|central nervous system
+001119|forest
+001047|cooling water
+002767|black smoker
+001687|packed food
+001074|district heating plant
+001081|drinking water reservoir
+001082|drinking water supply
+001126|garden vegetable and primary derivative thereof
+001275|raw meat
+001301|seafood and seafood product
+001355|tidal creek
+001264|power plant
+001380|water system
+001353|temperature sensor
+001014|brain abcess
+002479|heat stressed soil
+001153|humidifier
+001174|leaf
+002534|nitrogen-poor soil
+002405|cold soil
+001065|decaying matter
+001373|warehouse
+001113|food processing effluent
+001333|spring
+001171|lake
+002426|dry soil
+001092|estuary
+000980|air filter
+001263|potato silage
+001100|fat body
+001218|mucosal tissue
+001629|marinated food
+001755|salt-preserved food
+001804|sugar-preserved food
+001774|smoked food
+001029|cereal and pseudo-cereal dough-based product
+001122|fruit and primary derivative thereof
+001177|legume seed and primary derivative thereof
+001238|oilfruit and primary derivative thereof
+001232|nut and primary derivative thereof
+001116|foot
+001017|breast
+001163|insect
+001221|mud
+001564|frozen food
+001526|dried food
+001499|cooked food
+001604|jarred food
+001473|canned food
+001055|creek
+001260|pond
+001285|river
+001376|water canal
+001146|honey and apiculture product
+001268|primate part
+000989|arachnid
+001059|crustacean
+000986|animal with life stage property
+001013|botanical garden soil
+001080|drinking water filter
+001138|ground food
+001061|cyanobacterial mat
+002768|black smoker chimney
+001500|cooled food
+001742|reptile and product thereof
+001383|wood
+001002|bark
+001289|ruminant digestive system part
+001321|slaughtering product
+001338|stratified water
+001066|defrosted food
+001215|mollusc
+001176|leg
+001006|bird and reptile GIT part
+001184|lower gastrointestinal tract part
+001366|upper gastrointestinal tract part
+001207|midgut
+001720|polar sea ice
+001219|mucous membrane
+001194|manure compost
+001040|coastal fish farm
+001234|offal and product thereof
+001058|crude oil
+001053|cotton-waste compost
+001331|splenic abcess
+001049|corneal ulcer
+001387|yolk sac
+001129|gastric body
+000988|anus
+003052|frog
+001231|nursing home
+001253|peritoneum
+001340|sugar
+001178|lenticel
+001134|granulocyte
+000978|agranulocyte
+001785|spider
+001496|colon
+001572|fuel oil piping system
+001575|gas piping system
+001771|shrub
+001751|saline sediment
+001533|duodenal ulcer
+001450|black sediment
+001821|tick
+001658|mummy tissue
+001787|star coral
+001814|termite
+001815|terrestrial crustacean
+001568|fruit with edible peel and primary derivative thereof
+001569|fruit with inedible peel and primary derivative thereof
+001807|surface sediment
+001385|worm
+001845|weed
+001457|brackish pond
+001754|salt lake mud
+001599|hot mud
+001613|leafy vegetable
+001429|appendix
+001738|rectum
+001792|stomach
+001849|young animal
+001747|root and tuber vegetable
+001465|bulb vegetable
+001570|fruiting vegetable
+001764|sedimentation pond
+001459|brassica vegetable
+002002|dried animal product
+001769|shallow pond
+001789|stem vegetable
+001573|fungi and related product
+001398|algae and related product
+001577|gastric mucosa
+001543|embryo
+003058|juice
+001628|maple tree
+001397|alcoholic drink
+001648|mite
+001995|deteriorated canned food
+001563|freshwater mud
+001430|aquatic sediment
+001506|cresote treated wood
+001675|oil-water separator
+001666|oak
+001670|offspring
+001661|nasopharyngeal mucosa
+001438|beach mud
+001836|vestibular mucosa
+001449|black anoxic freshwater mud
+001491|coastal lagoon mud
+001519|deep sea mud
+001524|ditch mud
+001806|supragingival plaque
+002562|poultry deep litter
+001395|adult animal
+001730|progeny
+001724|potato
+001579|geothermal lake
+001780|solar lake
+001542|elm
+001652|moth
+001693|parasitic nematode
+001399|alkaline lake
+001439|bean and related product
+001617|lentil and related product
+001696|pea and related product
+001739|red clay
+001645|milk
+001732|pupa
+001453|blood-feeding insect
+001794|stomach ulcer
+001612|leafhopper
+001541|elkhorn coral
+001760|scleractinian coral
+001609|larvae
+002812|leaching column
+001602|intra-uterine progeny
+001578|gazpacho
+001641|meroplankton
+001595|holoplankton
+001616|legume soup
+001733|quiche
+001756|sandwich
+003114|pizza
+001501|corn chip
+001745|rice chip
+003106|mixed salad
+001726|potato chip
+001703|periodontal pocket
+001402|almond tree
+001958|coal spoil heap
+001585|green tea leaf
+001779|soft drink
+001598|hot drink
+001637|meat soup
+001550|fish soup
+001512|dairy soup
+001746|roasted coffee bean
+001710|petroleum refinery
+001464|bug
+001493|cockroach
+001639|meringue
+001805|sunflower seed and primary derivatives thereof
+002115|loukoumi
+002223|rice and primary derivative thereof
+001441|bee
+001768|sesame seed and primary derivative thereof
+001646|milk chocolate
+001494|cocoa bean and primary derivative thereof
+001480|cheese
+001495|coconut and primary derivative thereof
+001401|almond and primary derivative thereof
+001717|pistachio and primary derivative thereof
+002178|peanut butter
+001584|gold mine
+001649|mixed cereal-based snack
+001642|mesenteric artery
+001706|pesto
+001824|tomato ketchup
+001660|mustard
+001440|bechamel sauce
+001633|mayonnaise
+001985|curry powder
+002243|sea salt
+001396|aioli
+002855|sewage plant
+002001|dragee
+001947|chewing gum
+001932|caramel
+002151|nougat
+000796|perchlorate-contaminated site
+002070|gum drop
+001740|red-pigmented bacteriome
+002128|marshmallow
+003394|salmon egg
+001848|xylem
+001718|plant residue
+001672|oil reservoir
+002927|produced water of an oil reservoir
+002926|produced water from an oil well
+001700|peatland
+001571|fuel ethanol production facility
+001735|raised mire
+001698|peat cut
+001830|tundra mire
+001513|dambo
+001474|carr
+001656|mudflat
+001699|peat swamp forest
+001688|paisa mire
+001719|pocosin
+001452|blanket bog peat
+001406|anaerobic sediment
+001673|oil seep
+002807|industrial effluent treatment plant
+001528|drilling mud
+001529|drilling pipe
+001663|nitrogen fertilizer factory
+001454|borax leachate
+001434|arsenate treated wood
+001850|zinc factory
+001405|anaerobic mud
+001709|petrochemical factory
+001483|chemical weapons factory
+001944|cheese brine
+001686|packaging factory
+001841|water based beverage
+001610|latex processing factory
+001761|sea sand
+001843|water dispenser
+001502|corn silage
+001586|grocery
+001679|orange storehouse
+001839|war readiness warehouse
+001669|offshore oil industry
+001540|electronics device industry
+001818|textile industry
+001545|eucalyptus tree
+001705|permafrost sediment
+001681|ornemental tree
+001737|rectal swab
+001833|vaginal swab
+001567|fruit tree
+002871|trichome
+001829|transverse colon
+001813|terminal ileum
+001772|sigmoid colon
+001432|arm
+001855|UHT food
+002268|sterilized food
+002173|pasteurized food
+002267|steamed food
+002069|grilled food
+002228|roasted food
+001426|anther part
+001643|methane seep
+001594|high temperature oil field
+001445|birch
+001812|tea tree
+003047|fermented plant-based food
+001671|oil pipeline
+001498|conifer
+001561|forest tree
+001391|Brassica
+001626|manufacture
+001788|stem cortex part
+001640|meromictic lake
+001553|fly
+001390|Arabidopsis
+001607|jointvetch
+002781|decantation tank
+001708|petiole
+001600|hydathode
+001778|soda
+001611|leaf margin
+001451|blade
+001835|vein
+001644|midrib
+001759|saw mill
+001795|stomata
+001691|paper mill
+002854|sewage pipe
+001525|domestic sewage
+001766|seed part
+001388|Achillea millefolium
+001392|Osmitopsis asteriscoides
+001684|ovule part
+001826|tooth
+001928|canned meat
+001588|hamburger meat
+001463|bud
+001704|periodontium
+001678|open pit mine
+001632|market garden plant
+002786|digester
+001857|agricultural soil
+001783|sphagnum bog
+002252|slaughtering waste
+001752|salivary gland
+001389|Allium
+001702|pericarp
+001446|bird
+001574|funicle
+001690|palisade layer
+001808|sweet clover
+001790|stigma
+001798|style
+001425|anther
+001767|sepal
+001707|petal
+001748|rotting hay
+001683|ovule
+001682|ovary wall
+001721|pollen tube
+002928|pulp-bleaching waste water
+001597|hot dog
+001927|canned fish
+001624|mammal meat
+001847|whole egg
+001619|liquid egg product
+003100|ice cream
+001984|cured food
+001530|drinking water
+001468|butter
+001393|Salicornioideae
+001416|animal manure
+001634|meat based dish
+002007|dried plant product
+001725|potato based dish
+001536|egg based dish
+001548|fish based dish
+002309|wheat and primary derivative thereof
+001657|muesli
+001478|cereal bar
+001701|pecan and primary derivative thereof
+001549|fish meat and fish meat product
+001532|dry forest humus
+001716|pine forest humus
+001606|jellyfish and product thereof
+002299|urchin and product thereof
+001831|tunicate and product thereof
+001651|mollusc and product thereof
+001695|pasta based dish
+001650|mixed dish
+001508|crustacean and product thereof
+001744|rice based dish
+001659|mushroom based dish
+001615|legume based dish
+001762|seafood based dish
+001834|vegetable based dish
+001803|sugar-beet
+002916|mill wastewater
+002893|brewery wastewater
+002951|zinc- and sulfate-rich wastewater
+001711|petroleum reservoir
+002030|fish farming pond
+001825|tongue
+001757|sandy sediment
+002255|soap scum
+001492|coastal sand
+001680|organic leachate
+001521|dental root
+001810|tannery
+001591|heartwood
+001655|mud sediment
+001557|food processing factory
+002766|biofilter
+001520|dental plaque
+001668|oesophagus
+001435|avian crop
+001471|caecum
+001582|gizzard
+001743|reticulum
+001560|fore-stomach
+001677|omasum
+001523|digester sludge
+001394|abomasum
+001982|cultivated field
+001715|pine forest
+001518|decaying marine algae
+002184|pickled food
+001431|aquifer sediment
+001758|sausage
+001820|thermal spring
+001819|thermal power plant
+001844|water in cooling tower
+002082|hospital equipment
+001631|marine mud
+001765|seed
+002018|environmental water with chemical property
+003145|fermented fish product
+001750|rye grass silage
+001822|tobacco warehouse
+001797|stratified lake
+002019|environmental water with physical property
+002990|hotspring
+001522|dental root canal
+001605|jejunum
+001601|ileum
+001581|gingival sulcus
+001653|mouth
+001534|duodenum
+001713|phloem
+001625|mammalian
+001427|aorta
+001596|honey
+001487|citrus fruit and primary derivative thereof
+001722|pome fruit and primary derivative thereof
+001442|berry and small fruit and primary derivative thereof
+001796|stone fruit and primary derivative thereof
+001447|bird meat
+001694|pasta and related product
+001436|bakery product
+001736|raw dough
+003094|fermented meat
+001773|sludge
+001816|terrestrial invertebrate product
+001404|amphibian and product thereof
+001873|animal skin
+001630|marine crustacean
+001516|dead animal
+001552|flour
+001455|borehole
+001763|seagrass
+001517|decaying insect-invaded wood
+001775|smooth cord grass
+001865|animal brain
+003449|frozen yogurt
+001889|baked food
+001433|aromatic product and primary derivative thereof
+001869|animal kidney
+001870|animal liver
+001867|animal head
+001866|animal foot
+001868|animal heart
+001876|animal tongue
+001875|animal tail
+001864|animal bone
+001417|animal marrowbone
+001874|animal stomach
+001654|mucosal surface
+003095|fermented seafood
+001863|animal blood
+001929|canned seafood
+001477|cattle-farm compost
+001470|caecal content
+001749|rumen
+001623|lymphocyte
+001800|subgingival plaque
+001488|cloaca
+001539|elbow
+001505|cream
+001662|newborn animal
+001504|coronary artery
+002140|modified-atmosphere-packed food
+002300|vacuum-packed food
+001828|tortoise
+001544|eosinophil
+001437|basophil
+001832|turtle
+003046|fermented liquid
+002256|soft tick
+002468|groundwater body
+002248|sharpshooter
+002367|blackberry as food
+002117|low salinity mud flat sediment
+002540|orange as food
+002046|freshwater sediment
+002650|wine grape as food
+002607|strawberry as food
+002548|pear as food
+002571|quince as food
+002514|mandarin as food
+002341|apple as food
+002505|lemon as food
+002507|lime as food
+002294|tomato plant
+002391|cherry as food
+002547|peach as food
+003223|plum as food
+002533|nectarine as food
+002342|apricot as food
+003172|table olive
+003544|sugar cane juice
+002610|sugar cane field
+002419|date as food
+002446|fig as food
+002496|kaki as food
+002251|slaughter plant
+002498|kiwi as food
+002353|banana as food
+002515|mango as food
+002125|marine black mud
+002508|litchi as food
+002124|marine anoxic mud
+002348|avocado as food
+002558|pineapple as food
+001915|broccoli and related product
+001937|cauliflower and related product
+002116|louse
+002232|rum
+002157|okra and related product
+001886|aubergine and related product
+002281|sweet pepper and related product
+002293|tomato and related product
+002058|garlic and related product
+002247|shallot and related product
+002160|onion and related product
+001951|chinese cabbage and related product
+002075|head cabbage and related product
+001916|brussel sprout and related product
+001981|cucumber and related product
+002158|oleander
+002296|truffle and related product
+002279|sweet corn and related product
+002306|watermelon and related product
+001968|common mushroom and related product
+001888|baby corn and related product
+001972|courgette and related product
+002060|gherkin and related product
+002205|pumpkin and related product
+002132|melon and related product
+002141|morel and related product
+001941|cep and related product
+002190|plant cutting
+002028|filarial nematode
+002614|surgical device
+002518|medical center
+002229|rocket and related product
+002021|escarole and related product
+002105|lettuce and related product
+002305|watercress and related product
+002067|grape leaf and related product
+001943|chard and related product
+002260|spinach and related product
+002313|witloof and related product
+001940|celery leaf and related product
+001953|chive and related product
+001970|contaminated drinking water
+003147|fermented shrimp paste
+002145|mulberry tree
+002192|plum tree
+001341|surface of cheese
+002234|sage and related product
+002170|parsley and related product
+002138|mint and related product
+001894|basil and related product
+002291|thyme and related product
+002098|laurel and related product
+003510|Livarot
+003481|Toma
+002231|rosemary and related product
+001900|beetroot and related product
+001934|carrot and related product
+002197|potato and related product
+002282|sweet potato and related product
+002317|yam and related product
+002284|tarragon and related product
+001933|cardoon and related product
+002297|turnip and related product
+001885|aspargus and related product
+002237|salsify and related product
+002278|swede and related product
+002215|radish and related product
+002171|parsnip and related product
+002081|horseradish and related product
+001938|celeriac and related product
+002078|herbivore
+001911|bouillabaisse
+002166|paella
+002524|milk rice
+002097|lasagna
+002143|moussaka
+002139|mixed vegetable
+002219|ratatouille
+003368|tea infusion
+001966|coffee beverage
+001962|cocoa beverage
+003034|acid hot spring
+002107|liqueur
+002261|spirit
+001959|cocktail drink
+002236|saline brine sediment
+002159|olive tree
+002080|honey bee
+002199|poultry meat
+002041|fowl
+001527|dried nut
+002144|mucocutaneous surface
+001902|biscuit
+003084|cake
+003131|choux pastry
+002225|rice-plant residue
+001925|canal of root filled tooth
+002036|fluvial dambo
+002292|tidal mudflat
+002592|saline water
+002371|brackish water
+002227|ripened sausage
+002467|ground water
+002085|ice-cream factory
+001976|crab
+001910|bottling factory
+001930|canning factory
+002127|marine sediment
+002343|arable soil
+002039|food fermentation industry
+002073|hay
+002029|fir tree
+002263|spruce
+001956|citrus tree
+002211|rabbit tick
+002581|rice paddy
+002034|flea
+002051|fruit fly
+001939|celery and related product
+001883|artichoke and related product
+002024|fennel and related product
+002222|rhubarb and related product
+002101|leek and related product
+002167|palm heart and related product
+001890|bamboo shoot and related product
+003585|orange juice
+003581|cranberry juice
+003583|grape juice
+002168|paper manufacture
+001892|banana tree
+001880|apple tree
+002180|pear tree
+001990|date palm tree
+001912|bovine milk
+002244|seed eating bird
+001975|cow milk
+002083|human milk
+002136|milk product
+001853|Arabidopsis thaliana
+002288|testa part
+002015|embryo part
+001852|Aeschynomene indica
+002038|folivorous bird
+002032|fish-eating bird
+002054|fruit-eating bird
+002011|earthworm-eating bird
+002936|sewage disposal plant
+002917|municipal sewage plant
+002163|orange tree
+002013|egg sac part
+003512|Munster
+003559|cream cheese
+003471|Emmental
+003527|romadur
+003516|Reblochon
+003494|smear ripened cheese
+002948|wastewater treatment digester
+002890|anaerobic digester
+002938|shea cake digester
+002946|thermophilic aerobic digester
+002142|mosquito
+002014|embryo
+002016|endosperm
+002287|testa
+002230|rodent
+002152|nucellus
+002012|egg sac
+002088|integument
+002134|micropyle
+002194|pollen
+002538|oligotrophic water
+002439|eutrophic water
+002520|mesotrophic water
+002383|catfish meat
+002655|wuchang bream meat
+002456|freshwater bream meat
+002376|buegill sunfish meat
+002586|roach meat
+002624|tilapia meat
+002381|carp meat
+002308|weatherfish meat
+001537|egg white
+002108|liquid egg mixed
+002110|liquid egg yolk
+002109|liquid egg white
+002077|hen egg
+002354|barb meat
+002059|geese egg
+002009|duck egg
+002207|quail egg
+002047|fried food
+001908|boiled food
+001538|egg yolk
+002193|poached food
+002196|pork
+001899|beef
+002042|fresh animal manure
+003121|wort
+003080|Ntoba Mbodi
+003593|metata ayib
+002644|wheat semolina
+003096|fermented vegetable product
+002065|goat milk
+002123|mare milk
+002094|kombucha
+003122|yoghurt from bambara groundnut
+002064|goat meat
+002149|mutton meat
+002210|rabbit meat
+002020|equine meat
+003199|flatfish-Sikhae
+002242|sea pineapple and product thereof
+002264|squid and product thereof
+002147|mussel and product thereof
+002165|oyster and product thereof
+002509|lobster as food
+002411|crab as food
+003007|oil mill wastewater
+002096|landfill leachate
+002939|sludge digester
+002465|greenhouse soil
+002531|mushroom bed
+002146|mummy
+001896|beach sand
+002283|tap water
+001854|Intertidal sand
+001988|dairy industry
+002486|hospital water supply
+002898|compost biofilter
+002485|hospital nebulizer
+003343|fermented beverage
+001877|anoxic sewage sludge
+002156|oil sludge
+001862|anaerobic sewage sludge
+002642|wheat field
+002250|slash pine forest
+002311|wild fish meat
+001861|anaerobic digester sludge
+002023|farmed fish meat
+002286|tenderloin
+002273|striploin
+001547|fillet
+002390|chemocline
+002554|pickles
+002113|lobster
+002275|sugar factory
+001909|bottled water
+002026|ferret
+002445|field soil
+002187|pine
+002271|straw
+002086|industrial bakery
+003344|fermented fruit
+003035|alkaline hotspring
+003063|neutral hotspring
+002235|sake
+002265|stable manure
+003355|fermented soybean
+003050|freshwater hotspring
+002511|low nutrient aquatic habitat
+001921|cake pre mix
+002512|mackerel meat
+002599|shark meat
+002356|barracuda meat
+002577|ray meat
+001973|couscous
+001913|bread
+003228|sandwich bread
+001978|cracker
+002620|table grape as food
+001914|bread pre mix
+003464|yeast bread dough
+002636|waffle mixture
+002005|dried pasta
+002044|fresh pasta
+002063|gnocchi
+002542|paddle fish meat
+002429|eel meat
+002609|sturgeon meat
+002550|perch meat
+002403|cod meat
+002298|turtle product
+002112|lizard product
+002628|trout meat
+002057|game mammal meat
+002455|freshwater
+002253|snail product
+002087|insect product
+001980|crocodile product
+002050|frog product
+002254|snake product
+001856|activated sludge
+001991|dead body
+002314|wood tick
+002072|hard tick
+002056|game bird meat
+003398|sourdough
+002596|sardine meat
+002334|anchovie meat
+002653|wolffish meat
+002335|anglerfish meat
+002370|bonito meat
+002425|dolphinfish meat
+002481|herring emat
+002629|tuna meat
+002340|aphotic zone
+002553|photic zone
+002434|emperor meat
+002529|mullet meat
+002647|whitefish meat
+002597|shad meat
+002450|flouder meat
+002473|halibut meat
+002602|sole meat
+002630|turbot meat
+002471|haddock meat
+002472|hake meat
+002645|white mustard
+002651|winter savory
+002399|citronella grass
+002502|lavander
+002637|wasabi
+002601|smelt meat
+002400|clove
+003535|garlic oil
+002084|ice tea
+003533|fermented tea leaf
+002008|dried seaweed
+002437|erythrocyte
+002201|primate
+002129|meat industry
+002657|yeast
+003575|apple juice
+002161|opossum
+002516|marine marsh sediment
+002452|forest pond sediment
+002415|creek sediment
+002423|ditch sediment
+002606|squirrel
+002344|arctic marine sediment
+002612|sulfidic coastal sediment
+002517|marine sulfidic sediment
+002724|kidney
+002608|stream sediment
+002466|ground beef
+002654|wombat
+002378|calcareous ooze
+002364|black anoxic marine sediment
+002424|dog tick
+002713|heart
+002530|murine
+002328|Ornithodoros turicatae
+002327|Ornithodoros moubata
+002489|human filarial nematode
+002490|human louse
+002572|rabbit
+002575|rat flea
+002600|siliceous ooze
+002686|aquatic plant
+002497|kangaroo
+002402|coastal sediment
+002526|mineral water
+002449|flavoured water
+002447|filtered tap water
+002379|carbonated bottled water
+002487|hot tap water
+002691|brine pool
+002491|hyper saline brine sediment
+002631|turkey meat
+002427|duck meat
+002463|goose meat
+002394|chicken meat
+002459|gamefowl
+002500|landfowl
+002730|ocean trench
+002688|bone marrow
+003419|kimchi
+002499|lake sediment
+002720|hypersaline water
+002324|Drosophila melanogaster
+002726|livestock
+002640|waterfowl
+002694|clinic
+002336|animal filarial nematode
+002433|embryonic axis part
+002488|human
+002589|ruminant
+002957|anaerobic wastewater digester
+003023|sour anaerobic digester
+003002|municipal sewage sludge digester
+002432|embryonic axis
+002409|cotyledon
+002482|hilum
+002430|egg cell
+002560|pork chop
+003127|beer wort
+003165|sauerkraut
+003124|Gundruk
+003404|yoghurt from fermented soybean milk
+002585|river sediment
+002584|rice-straw residue
+002583|rice waste
+002699|cultivated plant
+002401|coarse beach sand
+002611|sulfide-rich freshwater sediment
+002605|spring sediment
+002715|hospital water distribution system
+003142|fermented beet
+002689|brain
+002634|venison meat
+002687|aquifer
+002363|bison meat
+002420|deep-sea sediment
+002742|skin lesion
+002714|hospital
+002351|bacon
+002582|rice straw
+002372|brewery
+002595|salt pork
+002414|creamery
+002593|salmon meat
+002735|rainwater
+002421|deer meat
+002557|pigeon meat
+002431|elk meat
+002648|wild boar meat
+002476|hare meat
+002649|wild rabbit meat
+002422|deer tick
+002552|pheasant meat
+002708|fracture water
+002725|liver
+003538|thyme oil
+002360|beer-bottling plant
+002470|guinea pig
+002475|hamster
+002743|small ruminant
+002706|estuarine sediment
+002860|sugar cane
+002749|tidal flat sediment
+002744|soda lake sediment
+002740|salted lake sediment
+002832|pharynx
+002670|anoxic river sediment
+002727|mouse
+002736|rat
+002771|cereal crop
+001011|bone
+002710|graft recipient
+002803|grapevine
+001051|cortical bone
+002789|endothelium
+002791|eschar
+002863|sulfide mound
+002716|human body louse
+002834|plant litter
+002850|root
+003205|hopped wort
+003236|unhopped wort
+002751|vinegar factory
+002695|coal mine lake sediment
+002778|contaminated sediment
+003043|contaminated soil
+002776|coastal aquifer
+002759|alluvial gravel aquifer
+002852|sand aquifer
+002794|flooded soil
+002815|marine wetland
+002777|coffee plant
+002693|brown dog tick
+002658|Brugia malayi
+002704|embryonic root part
+002810|intestine
+002712|healthy person
+002859|submersed aquatic plant
+002853|scald
+002780|cultivated Leguminosae
+002873|underground mine
+002703|embryonic root
+002721|hypocotyl
+002741|shoot apex
+002793|fish
+002717|human head louse
+002722|intertidal sediment
+003178|acidified beer wort
+002878|water-table aquifer
+002696|cold-seep sediment
+002814|marine microbial mat
+002805|hot water distribution system
+002799|geothermal aquifer
+002802|granitic rock aquifer
+002692|broiler meat strip
+002739|sake brewery
+002795|flowing water
+002700|deer herd meat
+002737|red deer meat
+002738|roe deer meat
+002769|brine
+002842|rennet
+002758|algae
+002870|tobacco plant
+003116|septic tank
+002785|dendritic cell
+002933|salmonides
+002931|river water
+002930|rice plant
+003174|wastewater treatment equipment
+002880|acid mine drainage
+002977|cotton cultivated soil
+002904|flower
+003266|mine waste water
+002903|farmed fish
+002941|stem
+003117|soil contaminated with agricultural activity
+003120|urban soil
+002813|malt vinegar brewery
+002929|radioactive sediment
+002937|shallow coastal aquifer
+002907|gravel aquifer
+003118|soil contaminated with industrial xenobiotic compound
+002997|marine sponge
+002932|root nodule
+002940|soda lake
+002914|maize plant
+002921|pericycle
+002950|wheat plant
+002841|radicle
+002906|fruit
+002836|plumule
+002935|sediment contaminated by organic pollutants
+002910|inorganically contaminated sediment
+002976|contaminated water
+002915|marine and hypersaline microbial mat
+002925|pine litter
+002912|leaf litter
+002900|drinking water treatment plant
+003099|humus-rich acidic ash soil
+003115|salt contaminated soil
+002954|amended soil
+003032|unamended soil
+002899|creek water
+002942|stream water
+002879|Damselfish
+002913|lining of the small intestine
+002934|seaweed
+002905|freshwater fish
+003160|pesticide enriched soil
+002980|edible oil and related product
+003022|sauce
+003033|water pipe
+003077|sulfide-rich water
+002992|intestinal epithelium
+003017|pyritic acid mine drainage
+003042|contaminated groundwater
+003289|gold mine wastewater
+002978|drinking water system
+003024|stem nodule
+003006|oil contaminated sediment
+003162|roadside soil
+002988|high-level radioactive sediment
+003163|salt stressed soil
+002972|coal mine lake
+002952|acid mine water
+003029|tidal marsh
+003126|arsenic contaminated-soil
+003019|rhizoplane
+003020|root cortex
+003021|salmon
+002970|cis-dichloroethene contaminated sediment
+002986|grape
+003008|olive
+003009|orange
+003005|nitrobenzene contaminated sediment
+003003|naphthalene contaminated sediment
+001265|prepared meat
+003157|metal contaminated soil
+003037|anoxic water
+002971|citrus fruit
+002974|coffee
+003239|wastewater treatment plant
+003027|sulfide-saturated mud sediment
+002989|hospital drinking water
+002967|catfish
+003148|fertilized soil
+003018|raspberry
+002969|cherry
+002964|blackberry
+002953|almond
+002965|blueberry
+003025|strawberry
+003011|peach
+003015|plum
+002999|melon
+002960|avocado
+003012|pear
+003030|tomato
+002958|apple
+002993|intestinal mucosa
+002968|cephalopod
+002995|macrophage
+003001|monocyte
+002981|egg
+003004|neutrophil
+002998|mast cell
+003039|bedside carafe
+003204|herbicide enriched soil
+003065|palm oil
+003207|insecticide enriched soil
+003272|root hair
+003262|industrial waste water treatment plant
+002089|jam
+001926|candied food
+003276|water pollution treatment plant
+003055|gum tissue
+003049|fresh meat
+003105|marine water
+003051|freshwater marsh
+003072|saline marsh
+003189|chromate contaminated soil
+003232|soil of roadside tree
+003176|Cu-stressed soil
+003203|heavy metal contaminated soil
+003070|root endodermis
+003076|stem epidermis
+003075|stem cortex
+003060|leaf epidermis
+003246|agricultural wastewater treatment plant
+003104|livestock manure
+003103|liver paste
+003225|salicylate enriched soil
+003219|pantothenate enriched soil
+003257|domestic wastewater treatment plant
+003237|urea enriched soil
+003342|bedside water bottle
+003081|anoxic zone of freshwater lake
+003093|fermented dairy product
+003101|illuminated anoxic zone of aquatic environment
+003044|decaying plant material
+003068|pheasant
+003056|hare
+003041|boar
+003074|squid
+003066|partridge
+003283|dairy wastewater treatment plant
+003089|decaying fruit
+003130|chicken manure
+003133|coral reef water
+003164|saltern
+003092|dog
+003265|mercury-enriched soil
+003132|coastal water
+003086|cat
+003098|gum margin
+003082|baking yeast
+003083|bobtail squid
+003241|yogurt
+003113|pet turtle
+003112|pet bird
+003119|stem endodermis
+001971|cooked fish
+003097|garden lettuce
+003146|fermented milk
+003129|cattle waste
+003167|stratified marine water column
+003111|peat
+003161|pig manure
+003154|horse manure
+003155|hospital humidifier
+003150|fish waste
+003252|chloropicrine-enriched soil
+003141|farmyard manure
+003209|kefir
+003091|decaying wood
+003090|decaying leaf
+003107|monkey
+003230|skin abscess
+003173|tsetse fly
+003175|young adult
+003227|saltern crystallizer pond
+003213|lagoon
+003151|garlic plant
+003233|solar saltern
+003159|onion plant
+003187|chicken yard waste
+003195|dry sausage
+003371|Balinese traditional fermented sausage
+003138|decaying bark
+003123|Euprymna scolopes
+003558|Greek sausage
+003243|Bulgarian yogurt
+003156|ill person
+003139|donkey
+003221|peritrophic membrane
+003170|sugar-beet refinery
+002006|dried pea
+002004|dried lentil
+002003|dried bean
+002474|ham
+003226|saline lake
+003137|decaying bamboo leaf
+003380|deer
+003136|decaying apple
+003200|freshwater lake
+003231|skin wound
+003224|puparia
+003220|patient
+003596|fermented juice
+003260|highly alkaline saline soda lake
+003261|hypersaline lake
+003247|bite
+003546|wine
+003212|laboratory rat
+003256|digestive chamber
+003541|beer
+003196|female tsetse fly
+003177|Glossina
+003258|furuncle
+003557|French dry sausage
+003188|child
+003180|adult tsetse fly
+003206|immunodeficient person
+003222|pet rabbit
+003255|cultivated crucifer
+003543|cider
+003211|laboratory mice
+003184|baby
+003293|low temperature ground water
+003425|red deer
+003417|forest musk deer
+003441|white tail deer
+003268|open skin wound
+003264|marine fish
+003179|adolescent
+003304|soybean plant
+003277|Medicago
+003300|poultry
+003548|apple cider
+003248|boy
+003290|guar plant
+003296|mung bean plant
+003251|cheese factory
+003345|organic compound contaminated soil
+003597|fermented Elaeis Palm sap
+003307|tomato-marinated broiler meat strip
+003263|infant
+003286|extreme acid mine drainage
+003298|pea plant
+003295|mammalian livestock
+003280|cabbage
+003278|brocoli
+003279|brussel sprout
+003287|fenugreek
+003245|adult human
+003550|beer Shava
+003547|Bristish beer
+003259|girl
+003600|fermented cabbage juice
+003292|large intestine
+003303|small intestine
+003323|polluted seawater
+003316|duck
+003318|goose
+003330|turkey
+003269|patient with infectious disease
+003308|traveler
+003319|hen
+003312|Alfalfa
+003361|natural gas-enriched soil
+003359|hydrocarbon contaminated soil
+003315|dairy livestock
+003329|swine
+003325|quail
+003320|horse
+003288|formula fed infant
+003314|chicken
+003311|worker
+003305|student
+003348|PCB contaminated soil
+003335|crude-oil-contaminated seawater
+003291|inmate
+003327|scientist
+003317|farmer
+003339|soldier
+003372|PAH contaminated soil
+003403|xylene contaminated soil
+003379|creosote contaminated soil
+003334|broiler chicken
+003321|medical staff
+003340|sow
+003389|oil contaminated soil
+003333|alkaline soda lake
+003336|livestock boar
+003337|pig
+003392|quinate enriched soil
+003328|slaughterer
+003332|welder
+003385|landfill contaminated by PCB
+003346|spring high in sulfide
+003338|researcher
+003411|creosote wood preservative-contaminated soil
+003078|sunflower oil
+003409|contaminated soil with total petroleum hydrocarbon
+003430|soil contaminated with used engine oil
+003424|phenanthrene contaminated soil
+003341|ABF pig
+003369|vegetable puree
+003367|sulfide-rich hot spring
+003565|vinegar
+003536|olive oil
+003568|rice vinegar
+003439|warm seawater
+003567|malt vinegar
+003570|soy sauce
+003408|chlorophenol-contaminated groundwater
+003234|sour milk
+003446|contaminated aquifer
+003358|hospital tap water
+003462|warm coastal water
+003555|fermented dry sausage
+003485|arsenic-rich aquifer
+003484|aquifer contaminated with unleaded gasoline
+003488|chloroethene-contaminated aquifer
+003545|waste water pipe
+003490|goat
+003453|newborn infant
+003451|man
+003487|cauliflower
+003463|woman
+003493|pregnant woman
+003491|mother
+003528|working horse
+003531|sheep
+003529|decaying leaf litter
+003532|cattle
+003553|marine farm fish
+003542|bovine
+003549|beef cattle
+003590|acetamide enriched soil
+003566|ewe
+003569|lamb
+003285|elderly person
+003572|cow
+003571|bull
+003577|calf
+003591|decaying leaf litter from a pine forest
+003594|dairy goat
+003598|dairy sheep
+003599|dairy cow
+000000|root for extraction
+000106|liquid medium
+000248|cryophile
+000643|genital tract
+001469|buttermilk
+001799|subgingiva
+001793|stomach mucosa
+000329|intracellular
+002102|left arm
+002226|right arm
+002613|surgery
+002510|louse-born
+002697|community
+003186|chicken faeces
+000288|free-living
+002811|isoniazid resistant
+002849|rifampin resistant
+002792|ethambutol resistant
+002839|pyrazinamide resistant
+000360|nutrient broth
+001233|obligate halophile
+000107|lytic
+000063|coagulase activity
+000236|coagulase positive
+000235|coagulase negative
+002762|ampicillin resistant
+002763|ampicillin sensitive
+002920|oxacillin resistant
+000776|opportunistic pathogen
+000614|encapsulated
+002869|tetracycline resistant
+002858|streptomycin resistant
+002840|quinolone resistant
+002823|naladixic acid resistant
+002760|aminoglycosides resistant
+002772|chloramphenicol resistant
+002790|erythromycin resistant
+000441|symbiont
+003326|saprophytic
+000285|flesh
+002183|phagocytosis resistant
+002866|susceptible to quinupristin
+002865|susceptible to dalfopristin
+002848|resistance to quinupristin
+002845|resistance to dalfopristin
+001667|obligate methanotroph
+000131|phenotype wrt immune system impact
+002843|resistance to amikacin
+002846|resistance to imipenem
+002847|resistance to levofloxacin
+000771|obligate parasite
+000396|pore forming
+002867|teicoplanin resistant
+002868|teicoplanin sensitive
+000453|thermotolerant
+002864|susceptibility to azithromycin
+002857|spectinomycin-resistant
+002844|resistance to cotrimoxazole
+000216|body surface
+002798|gentamicin sensitive
+002797|gentamicin resistant
+002872|trimethoprim resistant
+002861|sulfamethoxazole resistant
+002801|glycopeptide antibiotics resistant
+002761|amoxicillin resistant
+002824|norfloxacin resistant
+002825|norfloxacin sensitive
+002826|norfloxacin tolerant
+002765|antagonist
+001753|salt
+002750|vegetarian
+003388|natto
+000804|photosynthetic
+000042|antimicrobial activity
+000827|probiotic
+001288|ropy colony
