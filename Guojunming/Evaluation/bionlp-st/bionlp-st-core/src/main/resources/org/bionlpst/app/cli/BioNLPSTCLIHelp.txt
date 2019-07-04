@@ -1,0 +1,41 @@
+BioNLPSTCLI evaluates predictions to the BioNLP-ST 2016 data sets (SeeDev and BB tasks).
+
+Usage:
+	java -jar BioNLP-ST.jar [options]
+	
+Options:
+	-help
+		print this message and exit
+		
+	-task TASK
+		select the task (mandatory)
+
+	-train
+	-dev
+	-test
+		set on which annotations were predicted (one of these or -reference is mandatory)
+	
+	-reference DIR
+		directory or zip file containing reference annotations
+	
+	-prediction DIR
+		directory or zip file containing predicted annotations in BioNLP-ST format, or file in PubAnnotation format (mandatory)
+
+	-pubannotation
+	    read predictions from a PubAnnotation JSON file
+	    
+	-detailed
+		output detailed error analysis, will not work with -test
+	
+	-alternate
+		compute alternate scores
+
+	-force
+		evaluate even if the data fails the check
+
+	-check
+		do not evaluate, only check
+
+	-list-tasks
+		print a list of supported tasks with their evaluations and exit, if -task is provided diplay evaluations of the specified task
+

@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="bionlp-st:war exploded">
+    <output-path>$PROJECT_DIR$/output/artifacts/bionlp_st_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="bionlp-st/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="bionlp-st" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/bionlp-st.iml" filepath="$PROJECT_DIR$/.idea/bionlp-st.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bionlp-st-core/bionlp-st-core.iml" filepath="$PROJECT_DIR$/bionlp-st-core/bionlp-st-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bionlp-st-web/bionlp-st-web.iml" filepath="$PROJECT_DIR$/bionlp-st-web/bionlp-st-web.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bionlp-st-web:war">
+    <output-path>$PROJECT_DIR$/bionlp-st-web/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>bionlp-st-web</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="bionlp-st-web.war">
+      <element id="artifact" artifact-name="bionlp-st-web:war exploded" />
+    </root>
+  </artifact>
+</component>
