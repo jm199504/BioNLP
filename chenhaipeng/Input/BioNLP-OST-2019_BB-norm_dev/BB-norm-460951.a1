@@ -1,0 +1,16 @@
+T1	Title 0 66	Atypical mycobacteria causing non-pulmonary disease in Queensland.
+T2	Paragraph 67 564	During the period 1971--7, the Tuberculosis Reference Laboratory in Queensland dealt with 52 isolates of atypical mycobacteria made from non-pulmonary sites under circumstances suggesting complicity in disease. Twenty-four isolates belonging to the MAIS complex were associated with lymph node infections in children. Twelve isolates belonged to the M. fortuitum-chelonei complex; most were from superficial abscesses. Five cases of M. marinum infection and 8 of M. ulcerans disease were detected.
+T3	Microorganism 9 21	mycobacteria
+T4	Phenotype 22 51	causing non-pulmonary disease
+T5	Habitat 34 43	pulmonary
+T6	Habitat 98 131	Tuberculosis Reference Laboratory
+T7	Microorganism 181 193	mycobacteria
+T8	Habitat 208 217	pulmonary
+T9	Phenotype 255 276	complicity in disease
+T10	Habitat 350 360	lymph node
+T11	Habitat 350 355	lymph
+T12	Habitat 375 383	children
+T13	Microorganism 417 446	M. fortuitum-chelonei complex
+T14	Habitat 463 484	superficial abscesses
+T15	Microorganism 500 510	M. marinum
+T16	Microorganism 530 541	M. ulcerans

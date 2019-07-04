@@ -1,0 +1,34 @@
+T1	Title 0 104	Rapid detection of eight causative pathogens for the diagnosis of bacterial meningitis by real-time PCR.
+T2	Paragraph 105 1735	We aimed to detect causative pathogens in cerebrospinal fluid (CSF) collected from patients diagnosed with bacterial meningitis by real-time polymerase chain reaction (PCR). In addition to Streptococcus pneumoniae, Haemophilus influenzae, and Mycoplasma pneumoniae described previously, five other pathogens, Neisseria meningitidis, Escherichia coli, Streptococcus agalactiae, Staphylococcus aureus, and Listeria monocytogenes, were targeted, based on a large-scale surveillance in Japan. Results in CSF from neonates and children (n=150), and from adults (n=18) analyzed by real-time PCR with molecular beacon probes were compared with those of conventional culturing. The total time from DNA extraction from CSF to PCR analysis was 1.5 h. The limit of detection for these pathogens ranged from 5 copies to 28 copies per tube. Nonspecific positive reactions were not recognized for 37 microorganisms in clinical isolates as a negative control. The pathogens were detected in 72.0% of the samples by real-time PCR, but in only 48.2% by culture, although the microorganisms were completely concordant. With the real-time PCR, the detection rate of H. influenzae from CSF was high, at 45.2%, followed by S. pneumoniae (21.4%), S. agalactiae (2.4%), E. coli (1.8%), L. monocytogenes (0.6%), and M. pneumoniae (0.6%). The detection rate with PCR was significantly better than that with cultures in patients with antibiotic administration (chi2=18.3182; P=0.0000). In conclusion, detection with real-time PCR is useful for rapidly identifying the causative pathogens of meningitis and for examining the clinical course of chemotherapy.
+T3	Phenotype 35 44	pathogens
+T4	Phenotype 134 143	pathogens
+T5	Habitat 147 166	cerebrospinal fluid
+T6	Habitat 168 171	CSF
+T7	Habitat 188 232	patients diagnosed with bacterial meningitis
+T8	Microorganism 294 318	Streptococcus pneumoniae
+T9	Microorganism 320 342	Haemophilus influenzae
+T10	Microorganism 348 369	Mycoplasma pneumoniae
+T11	Phenotype 403 412	pathogens
+T12	Microorganism 414 436	Neisseria meningitidis
+T13	Microorganism 438 454	Escherichia coli
+T14	Microorganism 456 480	Streptococcus agalactiae
+T15	Microorganism 482 503	Staphylococcus aureus
+T16	Microorganism 509 531	Listeria monocytogenes
+T17	Habitat 605 635	CSF from neonates and children
+T18	Habitat 605 608;649 660	CSF from adults
+T19	Habitat 614 622	neonates
+T20	Habitat 627 635	children
+T21	Habitat 654 660	adults
+T22	Habitat 815 818	CSF
+T23	Phenotype 879 888	pathogens
+T24	Habitat 1009 1017	clinical
+T25	Phenotype 1054 1063	pathogens
+T26	Microorganism 1252 1265	H. influenzae
+T27	Habitat 1271 1274	CSF
+T28	Microorganism 1307 1320	S. pneumoniae
+T29	Microorganism 1330 1343	S. agalactiae
+T30	Microorganism 1352 1359	E. coli
+T31	Microorganism 1368 1384	L. monocytogenes
+T32	Microorganism 1397 1410	M. pneumoniae
+T33	Habitat 1499 1538	patients with antibiotic administration
+T34	Phenotype 1657 1666	pathogens

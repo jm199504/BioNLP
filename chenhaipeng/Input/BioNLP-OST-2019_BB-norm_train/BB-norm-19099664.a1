@@ -1,0 +1,32 @@
+T1	Title 0 100	[Changes of pathogens and susceptibility to antibiotics in hematology ward from years 2001 to 2005].
+T2	Paragraph 101 1277	The purpose of this study was to determine the changes of pathogens in hematological ward and susceptibility of patients received chemotherapy to antibiotics. The pathogens were taken from blood, urine and sputum of patients who accepted chemotherapy from years 2001 to 2005, then were isolated and identified. The susceptibility test was performed by disk diffusion method. The results showed that the total of 418 strains were detected. Gram-negative bacteria were the most common of nosocomial infection. Pseudomonas aeruginosa, Enterobacter cloacae, E. coli account for the most of Gram negative- bacteria infection and most resistant to broad-spectrum penicillin, Acinetobacter baumannii showed a trend of increase. The ratios of gram positive bacteria and fungi were increased slowly, mainly as Enterococcus and Candida. Enterococcus is the most common cause of Gram-positive bacterial infection. Vancomycin resistance did not occur. It is concluded that Gram-negative bacteria are main cause of nosocomial infection in patients with hematological malignancies. Gram positive bacteria and fungi had been more frequent. Strains resistant to antimicrobial agents increase.
+T3	Phenotype 12 21	pathogens
+T4	Phenotype 26 55	susceptibility to antibiotics
+T5	Habitat 59 74	hematology ward
+T6	Phenotype 159 168	pathogens
+T7	Habitat 172 190	hematological ward
+T8	Habitat 213 243	patients received chemotherapy
+T9	Phenotype 264 273	pathogens
+T10	Habitat 290 295;314 351	blood of patients who accepted chemotherapy
+T11	Habitat 297 302;314 351	urine of patients who accepted chemotherapy
+T12	Habitat 307 351	sputum of patients who accepted chemotherapy
+T13	Habitat 317 351	patients who accepted chemotherapy
+T14	Phenotype 540 553	Gram-negative
+T15	Habitat 587 597	nosocomial
+T16	Microorganism 609 631	Pseudomonas aeruginosa
+T17	Microorganism 633 653	Enterobacter cloacae
+T18	Microorganism 655 662	E. coli
+T19	Phenotype 687 700	Gram negative
+T20	Phenotype 730 768	resistant to broad-spectrum penicillin
+T21	Microorganism 770 793	Acinetobacter baumannii
+T22	Phenotype 836 849	gram positive
+T23	Microorganism 902 914	Enterococcus
+T24	Microorganism 919 926	Candida
+T25	Microorganism 928 940	Enterococcus
+T26	Phenotype 969 982	Gram-positive
+T27	Phenotype 1004 1025	Vancomycin resistance
+T28	Phenotype 1062 1075	Gram-negative
+T29	Habitat 1103 1113	nosocomial
+T30	Habitat 1127 1167	patients with hematological malignancies
+T31	Phenotype 1169 1182	Gram positive
+T32	Phenotype 1234 1267	resistant to antimicrobial agents

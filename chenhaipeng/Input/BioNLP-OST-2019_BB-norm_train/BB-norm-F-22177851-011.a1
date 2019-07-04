@@ -1,0 +1,5 @@
+T1	Habitat 4 33	community containing H. alvei
+T2	Microorganism 25 33	H. alvei
+T3	Microorganism 355 363	P. celer
+T4	Habitat 430 456	community without P. celer
+T5	Microorganism 448 456	P. celer

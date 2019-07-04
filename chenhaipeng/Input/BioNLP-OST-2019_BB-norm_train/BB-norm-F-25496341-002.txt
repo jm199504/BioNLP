@@ -1,0 +1,6 @@
+In a first
+ example, we compared the genomic sequences of the four Arthrobacter strains isolated from cheese to that of 15 environmental isolates. Most bacteria of the genus Arthrobacter are isolated from environments such as soil, where they are considered to be ubiquitous [41].
+ Interestingly, the four cheese strains share several properties that 
+may be linked to adaptation to the cheese habitat, such as a cluster of 
+five genes involved in the catabolism of D-galactonate, as already 
+described in Arthrobacter arilaitensis Re117 [20].

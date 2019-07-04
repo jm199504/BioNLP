@@ -1,0 +1,18 @@
+T1	Title 0 134	Ampicillin-resistant Haemophilus influenzae type B possessing a TEM-type beta-lactamase but little permeability barrier to ampicillin.
+T2	Paragraph 135 1070	Ampicillin-resistant Haemophilus influenzae type B have been reported only during the past year. Five clinical isolates from the U.S. and Germany all had the TEM-type beta-lactamase which is known to be transferred widely among other gram-negative bacilli. Unlike those bacilli, however, the H. influenzae cell had very little barrier to entry of penicillins. This greater permeability of the H. influenzae cell to penicillins appeared to reduce the protective effect of its beta-lactamase, in that acquisition of the TEM-type beta-lactamase increased levels of resistance to penicillins much less for individual cells of H. influenzae than for those of Escherichia coli. Large inocula of either species appeared highly resistant. The unusually low level of resistance of individual cells of H. influenzae containing the TEM-type beta-lactamase may have delayed their emergence or recognition, and has unresolved clinical implications.
+T3	Phenotype 0 20	Ampicillin-resistant
+T4	Microorganism 21 50	Haemophilus influenzae type B
+T5	Phenotype 135 155	Ampicillin-resistant
+T6	Microorganism 156 185	Haemophilus influenzae type B
+T7	Habitat 237 245	clinical
+T8	Phenotype 369 382	gram-negative
+T9	Microorganism 383 390	bacilli
+T10	Microorganism 405 412	bacilli
+T11	Microorganism 427 440	H. influenzae
+T12	Microorganism 528 541	H. influenzae
+T13	Phenotype 697 722	resistance to penicillins
+T14	Microorganism 757 770	H. influenzae
+T15	Microorganism 789 805	Escherichia coli
+T16	Phenotype 855 864	resistant
+T17	Phenotype 893 903	resistance
+T18	Microorganism 927 940	H. influenzae

@@ -1,0 +1,18 @@
+T1	Microorganism 32 53	Debaryomyces hansenii
+T2	Microorganism 58 73	Geotrichum spp.
+T3	Habitat 110 133	surface-ripened cheeses
+T4	Microorganism 135 146	D. hansenii
+T5	Habitat 199 219;226 227	cheeses from dairies D
+T6	Habitat 199 221	cheeses from dairies C
+T7	Habitat 212 219	dairies
+T8	Microorganism 237 252	Geotrichum spp.
+T9	Habitat 282 301	cheese from dairy B
+T10	Habitat 294 299	dairy
+T11	Habitat 310 329	cheese from dairy A
+T12	Habitat 322 327	dairy
+T13	Microorganism 331 350	Yarrowia lipolytica
+T14	Microorganism 385 398	Y. lipolytica
+T15	Habitat 443 449	cheese
+T16	Habitat 443 458	cheese surfaces
+T17	Microorganism 546 557	D. hansenii
+T18	Microorganism 562 577	Geotrichum spp.

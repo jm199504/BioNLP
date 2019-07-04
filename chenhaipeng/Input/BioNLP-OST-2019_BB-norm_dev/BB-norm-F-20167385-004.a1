@@ -1,0 +1,33 @@
+T1	Habitat 56 120	community of Staphylococcus and micrococci-corynebacteria groups
+T2	Microorganism 69 83	Staphylococcus
+T3	Microorganism 88 98	micrococci
+T4	Microorganism 99 113	corynebacteria
+T5	Habitat 128 134	cheese
+T6	Habitat 128 143	cheese surfaces
+T7	Microorganism 154 164	E. faecium
+T8	Habitat 184 202	Formaggio di Fossa
+T9	Microorganism 219 230	enterococci
+T10	Habitat 245 273	Enterococcus  selective agar
+T11	Microorganism 245 257	Enterococcus
+T12	Habitat 275 277	SB
+T13	Habitat 331 337;373 380	Casera cheeses
+T14	Habitat 339 347;373 380	Taleggio cheeses
+T15	Habitat 349 359;373 380	Gorgonzola cheeses
+T16	Habitat 364 380	Scimudin cheeses
+T17	Microorganism 382 394	Lactobacilli
+T18	Habitat 421 432	Rogosa agar
+T19	Habitat 440 446	cheese
+T20	Habitat 440 455	cheese surfaces
+T21	Habitat 510 526	Pseudomonas agar
+T22	Microorganism 510 521	Pseudomonas
+T23	Habitat 540 550;574 582	Gorgonzola surfaces
+T24	Habitat 540 550	Gorgonzola
+T25	Habitat 552 560;574 582	Scimudin surfaces
+T26	Habitat 552 560	Scimudin
+T27	Habitat 565 573	Taleggio
+T28	Habitat 565 582	Taleggio surfaces
+T29	Habitat 607 613	Casera
+T30	Microorganism 626 637	Pseudomonas
+T31	Habitat 700 718	Formaggio di Fossa
+T32	Habitat 790 796	cheese
+T33	Habitat 790 805	cheese surfaces

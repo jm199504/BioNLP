@@ -1,0 +1,8 @@
+The reference strain Psychrobacter immobilis
+ PG1 was isolated from the dairy plant that produces the smear-ripened 
+cheese E, but two years earlier. The high proportion of perfect matches 
+with reference strain PG1 may thus be explained by the presence of an 
+offspring of this strain in cheese E. Many reads were also assigned to 
+the genomes of the yeasts Geotrichum candidum CLIB 918 and Debaryomyces hansenii CBS767.In the second smear-ripened cheese (cheese L), Pseudoalteromonas haloplanktis TAC125, Halomonas sp. 1 M45 and Psychrobacter celer
+ 91 were the three dominant reference bacteria, with 17.0%, 10.5% and 
+1.7% of the good quality matches, respectively.

@@ -1,0 +1,42 @@
+T1	Title 0 189	Attachment of Escherichia coli O157:H7 grown in tryptic soy broth and nutrient broth to apple and lettuce surfaces as related to cell hydrophobicity, surface charge, and capsule production.
+T2	Paragraph 190 1044	This study investigated the effect of growth in tryptic soy broth (TSB) and nutrient broth (NB) on the ability Escherichia coli O157:H7 to attach to lettuce and apple surfaces. In addition, cell surface hydrophobicity, charge and capsule production were determined on cells grown in these media. Cells grown in NB attached less to lettuce and apple surfaces than did those grown in TSB. TSB, but not NB, supported capsule production by E. coli O157:H7. Cells grown in TSB were more hydrophilic than those grown in NB. No difference was found in the electrokinetic properties of cells grown in these media. Electrostatic and hydrophobic interactions and surface proteins did not appear to play an important role in the attachment of E. coli O157:H7 to these surfaces. Of the factors studied, only capsule production was associated with attachment ability.
+T3	Phenotype 0 10	Attachment
+T4	Microorganism 14 38	Escherichia coli O157:H7
+T5	Habitat 48 65	tryptic soy broth
+T6	Habitat 56 59	soy
+T7	Habitat 70 84	nutrient broth
+T8	Habitat 88 93;106 114	apple surfaces
+T9	Habitat 88 93	apple
+T10	Habitat 98 114	lettuce surfaces
+T11	Habitat 98 105	lettuce
+T12	Habitat 129 133	cell
+T13	Phenotype 170 188	capsule production
+T14	Habitat 238 255	tryptic soy broth
+T15	Habitat 246 249	soy
+T16	Habitat 257 260	TSB
+T17	Habitat 266 280	nutrient broth
+T18	Habitat 282 284	NB
+T19	Phenotype 293 300;326 335	ability to attach
+T20	Microorganism 301 325	Escherichia coli O157:H7
+T21	Habitat 339 346	lettuce
+T22	Habitat 339 346;357 365	lettuce surfaces
+T23	Habitat 351 356	apple
+T24	Habitat 351 365	apple surfaces
+T25	Habitat 380 384	cell
+T26	Phenotype 420 438	capsule production
+T27	Habitat 501 503	NB
+T28	Habitat 521 528	lettuce
+T29	Habitat 521 528;539 547	lettuce surfaces
+T30	Habitat 533 538	apple
+T31	Habitat 533 547	apple surfaces
+T32	Habitat 572 575	TSB
+T33	Habitat 577 580	TSB
+T34	Habitat 590 592	NB
+T35	Phenotype 604 622	capsule production
+T36	Microorganism 626 641	E. coli O157:H7
+T37	Habitat 658 661	TSB
+T38	Habitat 704 706	NB
+T39	Phenotype 908 918	attachment
+T40	Microorganism 922 937	E. coli O157:H7
+T41	Phenotype 986 1004	capsule production
+T42	Phenotype 1025 1043	attachment ability

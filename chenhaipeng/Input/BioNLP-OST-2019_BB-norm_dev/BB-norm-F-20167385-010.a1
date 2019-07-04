@@ -1,0 +1,18 @@
+T1	Microorganism 19 34	Corynebacterium
+T2	Microorganism 44 52	C. casei
+T3	Microorganism 57 70	C. variabilis
+T4	Habitat 114 126	cheese rinds
+T5	Habitat 114 120	cheese
+T6	Microorganism 195 208	C. flavescens
+T7	Habitat 231 249;263 270	rind of Gorgonzola cheeses
+T8	Habitat 231 238;254 270	rind of Scimudin cheeses
+T9	Habitat 239 249;263 270	Gorgonzola cheeses
+T10	Habitat 254 270	Scimudin cheeses
+T11	Habitat 336 361	surface of Gobbeen cheese
+T12	Habitat 347 361	Gobbeen cheese
+T13	Microorganism 401 414	C. flavescens
+T14	Phenotype 426 440	yellow pigment
+T15	Microorganism 459 467	C. casei
+T16	Microorganism 469 481	C. variabile
+T17	Microorganism 487 502	C. ammoniagenes
+T18	Habitat 518 523	dairy

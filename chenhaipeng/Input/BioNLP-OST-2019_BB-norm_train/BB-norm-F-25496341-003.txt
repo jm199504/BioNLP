@@ -1,0 +1,6 @@
+As a second example, we compared the genomes of two strains of Streptococcus infantarius
+ isolated from Western African fermented milks, sequenced in this work 
+(3AG and 11FA), with those of the type strain isolated from infant feces
+ (ATCC BAA-102), and of strain CJ18, isolated from Eastern African 
+fermented milk. The four strains contain each 1900–2000 genes and share 
+1567 genes.

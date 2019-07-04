@@ -1,0 +1,18 @@
+In
+ the dairy industry, exopolysaccharides (EPS) contribute to improving 
+the texture and viscosity of cheese and yoghurt and also receive 
+increasing attention because of their beneficial properties for health. 
+For lactic acid bacteria, the production of EPS is well studied. 
+However, for dairy propionibacteria the biosynthesis of EPS is poorly 
+documented. A polysaccharide synthase-encoding gene was identified in 
+the genome of Propionibacterium freudenreichii subsp. shermanii TL 34 (CIP 103027). This gene best aligns with Tts, the polysaccharide synthase gene of Streptococcus pneumoniae
+ type 37 that is responsible for the production of a β-glucan capsular 
+polysaccharide. PCR amplification showed the presence of an internal 
+fragment of this gene in twelve strains of P. freudenreichii subsp. shermanii
+ with a ropy phenotype in YEL+ medium. The gene sequence is highly 
+conserved, as less than 1% of nucleotides differed among the 10 strains 
+containing the complete gtf gene. The same primers failed to detect the gene in Propionibacterium acidipropionici strain TL 47, which is known to excrete exopolysaccharides in milk. The presence of (1→3, 1→2)-β-d-glucan capsule was demonstrated for 7 out of 12 strains by agglutination with a S. pneumoniae-type
+ 37-specific antiserum. The presence of mRNA corresponding to the gene 
+was detected by RT-PCR in three strains at both exponential and 
+stationary growth phases. This work represents the first identification 
+of a polysaccharide synthase gene of P. freudenreichii, and further studies will be undertaken to elucidate the role of capsular EPS.

@@ -1,0 +1,62 @@
+T1	Phenotype 18 31	Gram-positive
+T2	Microorganism 32 46	Actinobacteria
+T3	Microorganism 52 73	Corynebacterium casei
+T4	Microorganism 81 93	C. variabile
+T5	Habitat 142 161	cheese from dairy A
+T6	Habitat 154 159	dairy
+T7	Microorganism 198 225	Brachybacterium alimentarum
+T8	Microorganism 235 249	Brevibacterium
+T9	Habitat 276 303	cheeses from the farmhouses
+T10	Habitat 293 303	farmhouses
+T11	Habitat 305 312	dairies
+T12	Microorganism 326 337	B. permense
+T13	Habitat 355 374	cheese from dairy A
+T14	Habitat 367 372	dairy
+T15	Microorganism 376 385	B. linens
+T16	Habitat 403 422	cheese from dairy B
+T17	Habitat 415 420	dairy
+T18	Microorganism 427 441	B. aurantiacum
+T19	Habitat 459 478	cheese from dairy C
+T20	Habitat 471 476	dairy
+T21	Microorganism 480 500	Brevibacterium  spp.
+T22	Habitat 530 549	cheese from dairy D
+T23	Habitat 542 547	dairy
+T24	Phenotype 577 595	coagulase negative
+T25	Microorganism 596 609	staphylococci
+T26	Microorganism 628 656	Staphylococcus saprophyticus
+T27	Habitat 664 684;691 692	cheeses from dairies D
+T28	Habitat 664 686	cheeses from dairies B
+T29	Habitat 677 684	dairies
+T30	Microorganism 698 712	Staph. equorum
+T31	Habitat 720 742	cheeses from dairies C
+T32	Habitat 720 740;747 748	cheeses from dairies D
+T33	Habitat 733 740	dairies
+T34	Phenotype 771 784	Gram-negative
+T35	Microorganism 812 828	Proteus vulgaris
+T36	Microorganism 833 853	Alcaligenes faecalis
+T37	Habitat 871 890	cheese from dairy C
+T38	Habitat 883 888	dairy
+T39	Habitat 927 951	surface yeast microbiota
+T40	Habitat 957 982	yeast surface  microbiota
+T41	Habitat 996 1005	farmhouse
+T42	Habitat 996 1013	farmhouse cheeses
+T43	Habitat 1060 1066	cheese
+T44	Habitat 1083 1099	industrial dairy
+T45	Habitat 1101 1106	dairy
+T46	Habitat 1151 1170	cheese from dairy A
+T47	Habitat 1163 1168	dairy
+T48	Microorganism 1197 1216	Yarrowia lipolytica
+T49	Microorganism 1221 1247	Scopulariopsis brevicaulis
+T50	Habitat 1253 1269	yeast microbiota
+T51	Habitat 1273 1292	cheese from dairy B
+T52	Habitat 1285 1290	dairy
+T53	Microorganism 1320 1335	Geotrichum spp.
+T54	Microorganism 1346 1369	Kluyveromyces marxianus
+T55	Microorganism 1374 1395	Debaryomyces hansenii
+T56	Habitat 1442 1461	cheese from dairy C
+T57	Habitat 1454 1459	dairy
+T58	Microorganism 1479 1490	D. hansenii
+T59	Microorganism 1520 1536	Geothrichum spp.
+T60	Habitat 1550 1569	cheese from dairy D
+T61	Habitat 1562 1567	dairy
+T62	Microorganism 1596 1607	D. hansenii

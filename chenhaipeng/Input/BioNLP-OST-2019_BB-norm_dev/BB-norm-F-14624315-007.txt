@@ -1,0 +1,5 @@
+This could also be seen from the data: in L. lactis subsp. cremoris B1157 about 80% of the flavour formed in the incubation experiment was 3-methylbutanal, while for C. ammoniagenes B1506 this percentage was about 20% (data not shown).Taken
+ together, our results indicate that various strains and species used in
+ the dairy industry vary significantly in the enzyme activities involved
+ in the conversion of the amino acid leucine into flavour components 
+like 3-methylbutanal.

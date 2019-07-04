@@ -1,0 +1,6 @@
+Cheeses
+ harbour a complex microbiota characterised by a succession of different
+ microorganisms during milk coagulation and ripening [24]. During cheese ripening, lactic acid bacteria (LAB) starter cultures (e.g., mesophilic Lactocococcus lactis or thermophilic Streptococcus thermophilus) metabolise residual lactose and citrate to different aroma compounds [17].
+ Later, LAB starter numbers decrease with cell death and their 
+subsequent lysis results in release of intracellular peptidases involved
+ in proteolysis of peptides to free amino acids [8, 31, 54].

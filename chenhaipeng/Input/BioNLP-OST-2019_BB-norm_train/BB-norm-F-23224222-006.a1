@@ -1,0 +1,24 @@
+T1	Microorganism 50 76	Streptococcus thermophilus
+T2	Habitat 91 99	raw milk
+T3	Habitat 91 120	raw milk  cheese from dairy A
+T4	Habitat 113 118	dairy
+T5	Phenotype 139 151	thermophilic
+T6	Phenotype 152 173	lactic acid bacterium
+T7	Phenotype 199 209	mesophilic
+T8	Phenotype 210 213	LAB
+T9	Habitat 214 229	starter culture
+T10	Habitat 258 286	raw milk cheese from dairy A
+T11	Habitat 258 266	raw milk
+T12	Habitat 279 284	dairy
+T13	Microorganism 302 319	Str. thermophilus
+T14	Habitat 347 356	GM17 agar
+T15	Microorganism 430 447	Str. thermophilus
+T16	Phenotype 523 526	LAB
+T17	Habitat 527 542	starter culture
+T18	Microorganism 586 603	Str. thermophilus
+T19	Habitat 624 632	raw milk
+T20	Habitat 686 694	raw milk
+T21	Microorganism 722 739	Str. thermophilus
+T22	Microorganism 775 792	Str. thermophilus
+T23	Habitat 823 827	milk
+T24	Habitat 846 852	cheese

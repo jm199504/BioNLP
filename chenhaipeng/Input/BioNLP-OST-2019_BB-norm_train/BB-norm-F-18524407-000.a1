@@ -1,0 +1,20 @@
+T1	Habitat 8 22	dairy industry
+T2	Habitat 103 109	cheese
+T3	Habitat 114 121	yoghurt
+T4	Phenotype 217 237	lactic acid bacteria
+T5	Phenotype 243 260	production of EPS
+T6	Habitat 292 297	dairy
+T7	Microorganism 298 314	propionibacteria
+T8	Phenotype 319 338	biosynthesis of EPS
+T9	Microorganism 435 490	Propionibacterium freudenreichii subsp. shermanii TL 34
+T10	Microorganism 492 502	CIP 103027
+T11	Microorganism 573 606	Streptococcus pneumoniae  type 37
+T12	Phenotype 635 684	production of a β-glucan capsular  polysaccharide
+T13	Microorganism 783 817	P. freudenreichii subsp. shermanii
+T14	Phenotype 826 840	ropy phenotype
+T15	Habitat 844 855	YEL+ medium
+T16	Microorganism 1039 1085	Propionibacterium acidipropionici strain TL 47
+T17	Habitat 1135 1139	milk
+T18	Phenotype 1145 1186	presence of (1→3, 1→2)-β-d-glucan capsule
+T19	Microorganism 1252 1274	S. pneumoniae-type  37
+T20	Microorganism 1518 1535	P. freudenreichii

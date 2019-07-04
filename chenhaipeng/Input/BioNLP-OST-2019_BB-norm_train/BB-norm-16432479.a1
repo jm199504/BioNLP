@@ -1,0 +1,21 @@
+T1	Title 0 131	Challenges in the control of gonorrhea in South America and the Caribbean: monitoring the development of resistance to antibiotics.
+T2	Paragraph 132 387	: The objective of this study was to ascertain the antimicrobial susceptibility of Neisseria gonorrhoeae isolates from 6 South American and 13 Caribbean countries participating in the Gonococcal Antimicrobial Surveillance Program (GASP) from 1990 to 1999.
+T3	Paragraph 388 683	: A GASP network of laboratories was launched in the Americas and the Caribbean during the 1990s. Standardized methods and interpretative criteria were established for the isolation of N. gonorrhoeae, strain identification, and determination, and quality control of antimicrobial susceptibility.
+T4	Paragraph 684 1551	: Two countries (Argentina and Uruguay) maintained continuous surveillance during the study period. Some countries gathered data periodically and several others were unable to initiate antimicrobial surveillance as a result of lack of resources. The percentage of penicillin-resistant N. gonorrhoeae isolated in the region over the decade varied considerably (1.0-11.9% carried chromosomal resistance and 17.9-38.8% produced beta-lactamase) with an overall trend to declining numbers of penicillin-resistant isolates. For tetracycline, 7.4% to 36.3% carried chromosomal resistance, whereas 12.0% to 27.4% carried plasmid-mediated resistance. There were no reports of ciprofloxacin-resistant isolates, although N. gonorrhoeae with decreased susceptibility to ciprofloxacin and azithromycin as well as spectinomycin-resistant isolates were identified in some countries.
+T5	Phenotype 105 130	resistance to antibiotics
+T6	Phenotype 183 211	antimicrobial susceptibility
+T7	Microorganism 215 236	Neisseria gonorrhoeae
+T8	Habitat 408 420	laboratories
+T9	Microorganism 573 587	N. gonorrhoeae
+T10	Phenotype 654 682	antimicrobial susceptibility
+T11	Phenotype 948 968	penicillin-resistant
+T12	Microorganism 969 983	N. gonorrhoeae
+T13	Phenotype 1074 1084	resistance
+T14	Phenotype 1171 1191	penicillin-resistant
+T15	Phenotype 1254 1264	resistance
+T16	Phenotype 1314 1324	resistance
+T17	Phenotype 1351 1374	ciprofloxacin-resistant
+T18	Microorganism 1394 1408	N. gonorrhoeae
+T19	Phenotype 1414 1441;1460 1472	decreased susceptibility to azithromycin
+T20	Phenotype 1414 1455	decreased susceptibility to ciprofloxacin
+T21	Phenotype 1484 1507	spectinomycin-resistant

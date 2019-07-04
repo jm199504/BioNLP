@@ -1,0 +1,16 @@
+T1	Microorganism 11 29	Lactococcus lactis
+T2	Microorganism 32 52	Lactococcus garvieae
+T3	Microorganism 54 85	Leuconostoc pseudomesenteroides
+T4	Microorganism 87 107	Leuconostoc  citreum
+T5	Microorganism 109 125	Lactobacillus sp
+T6	Microorganism 127 148	Carnobacterium mobile
+T7	Microorganism 150 171	Enterococcus faecalis
+T8	Microorganism 174 194	Enterococcus faecium
+T9	Microorganism 196 220	Macrococcus caseolyticus
+T10	Microorganism 225 237	Hafnia alvei
+T11	Microorganism 246 258	STEC O26:H11
+T12	Phenotype 246 250	STEC
+T13	Microorganism 313 325	STEC O157:H7
+T14	Phenotype 313 317	STEC
+T15	Habitat 336 360	pasteurized milk cheeses
+T16	Habitat 336 352	pasteurized milk

@@ -1,0 +1,13 @@
+T1	Habitat 0 7	Cheeses
+T2	Microorganism 41 60	Lb. plantarum (FH3)
+T3	Microorganism 62 76	H. alvei (B16)
+T4	Microorganism 78 95	Lc. lactis (D5.3)
+T5	Phenotype 118 135	dextran-producing
+T6	Microorganism 136 147	Leuconostoc
+T7	Microorganism 149 160	Lactococcus
+T8	Microorganism 162 175	Lactobacillus
+T9	Microorganism 209 220	Pseudomonas
+T10	Phenotype 221 234	Gram negative
+T11	Microorganism 306 317	Pseudomonas
+T12	Phenotype 320 333	Gram positive
+T13	Phenotype 334 351	catalase positive

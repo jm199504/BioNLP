@@ -1,0 +1,42 @@
+T1	Microorganism 54 75	Debaryomyces hansenii
+T2	Habitat 80 97	semi-soft cheeses
+T3	Microorganism 115 134	Geotrichum candidum
+T4	Habitat 139 151	soft cheeses
+T5	Phenotype 157 175	coagulase-negative
+T6	Microorganism 176 189	staphylococci
+T7	Microorganism 191 213	Staphylococcus equorum
+T8	Microorganism 251 262	D. hansenii
+T9	Microorganism 268 281	staphylococci
+T10	Habitat 285 291	cheese
+T11	Habitat 285 299	cheese surface
+T12	Habitat 335 347	cheese brine
+T13	Habitat 335 341	cheese
+T14	Microorganism 445 456	D. hansenii
+T15	Microorganism 506 517	D. hansenii
+T16	Habitat 529 561	cheeses of the Danish Danbo type
+T17	Habitat 596 612	ripening culture
+T18	Habitat 627 648	dairy housemicrobiota
+T19	Habitat 665 678	ripening room
+T20	Microorganism 680 691	D. hansenii
+T21	Habitat 713 719	cheese
+T22	Habitat 835 849	cheese surface
+T23	Habitat 835 841	cheese
+T24	Habitat 897 931	acid tolerant bacterial microbiota
+T25	Phenotype 897 910	acid tolerant
+T26	Phenotype 943 956	Gram-positive
+T27	Microorganism 957 968	coryneforms
+T28	Microorganism 970 989	Brevibacterium spp.
+T29	Microorganism 991 1011	Corynebacterium spp.
+T30	Microorganism 1016 1035	Microbacterium spp.
+T31	Phenotype 1090 1103	Gram-positive
+T32	Microorganism 1104 1128	Marinilactibacillus spp.
+T33	Phenotype 1133 1146	Gram-negative
+T34	Microorganism 1147 1161	Halomonas spp.
+T35	Microorganism 1163 1174	Vibrio spp.
+T36	Microorganism 1179 1191	Proteus spp.
+T37	Microorganism 1213 1231	Enterobacteriaceae
+T38	Habitat 1270 1276	cheese
+T39	Habitat 1270 1285	cheese surfaces
+T40	Phenotype 1333 1346	Gram-negative
+T41	Habitat 1488 1494	cheese
+T42	Habitat 1558 1564	cheese

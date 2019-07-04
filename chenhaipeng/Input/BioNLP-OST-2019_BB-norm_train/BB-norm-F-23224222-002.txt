@@ -1,0 +1,13 @@
+During the initial ripening period, yeasts (primarily Debaryomyces hansenii for semi-soft cheeses and additionally Geotrichum candidum for soft cheeses) and coagulase-negative staphylococci (Staphylococcus equorum) are present [3, 21, 26]. Generally, D. hansenii
+ and staphylococci on cheese surface are assumed to originate from the 
+cheese brine, which often is not changed or pasteurised between salting 
+of different batches [2, 3, 42]. For D. hansenii, Petersen et al. [46] showed that the dominating D. hansenii
+ strain on cheeses of the Danish Danbo type did not originate from the 
+added ripening culture, but from the dairy housemicrobiota present in 
+the ripening room. D. hansenii is important during 
+cheese ripening as it assimilates lactate and produces alkaline 
+metabolites such as ammonia thereby increasing pH of the cheese surface [23, 46], which enables the growth of the less acid tolerant bacterial microbiota, primarily Gram-positive coryneforms (Brevibacterium spp., Corynebacterium spp. and Microbacterium spp.) [4]. In addition, subpopulations of bacteria such as Gram-positive Marinilactibacillus spp. and Gram-negative Halomonas spp., Vibrio spp. and Proteus spp., and bacteria of the Enterobacteriaceae family have been reported to occur on cheese surfaces [14, 15, 25, 34, 35, 41, 50].
+ The presence of Gram-negative bacteria was first hypothesised to be 
+indicative of hygienic problems. However, more recent results have shown
+ that they produce important cheese flavour compounds and thus might 
+contribute positively to the cheese ripening process [11].

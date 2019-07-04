@@ -1,0 +1,37 @@
+T1	Phenotype 14 35	lactic acid bacterial
+T2	Phenotype 43 46	LAB
+T3	Microorganism 49 62	Lactobacillus
+T4	Habitat 124 130	cheese
+T5	Habitat 124 138	cheese surface
+T6	Microorganism 170 183	Lactobacillus
+T7	Habitat 213 235	Fontina cheese surface
+T8	Habitat 213 227	Fontina cheese
+T9	Microorganism 303 313	lactococci
+T10	Microorganism 318 330	lactobacilli
+T11	Habitat 368 378	Gorgonzola
+T12	Habitat 368 383	Gorgonzola rind
+T13	Microorganism 421 432	L. curvatus
+T14	Habitat 468 476	Taleggio
+T15	Habitat 468 481	Taleggio rind
+T16	Microorganism 486 495	L. brevis
+T17	Habitat 519 540;554 561	surface of Gorgonzola cheeses
+T18	Habitat 519 529;545 561	surface of Scimudin cheeses
+T19	Habitat 530 540;554 561	Gorgonzola cheeses
+T20	Habitat 545 561	Scimudin cheeses
+T21	Habitat 612 637	Formaggio di Fossa cheese
+T22	Microorganism 658 672	L. acidipiscis
+T23	Phenotype 676 689	Gram positive
+T24	Phenotype 690 693	rod
+T25	Phenotype 696 711	microaerophilic
+T26	Habitat 787 801	fermented fish
+T27	Habitat 891 903	Greek cheese
+T28	Microorganism 927 939	Enteroccocci
+T29	Habitat 974 982;1026 1034	Scimudin surfaces
+T30	Habitat 974 982	Scimudin
+T31	Habitat 1001 1011	Gorgonzola
+T32	Habitat 1001 1011;1026 1034	Gorgonzola surfaces
+T33	Habitat 1043 1050	Fontina
+T34	Habitat 1043 1055	Fontina rind
+T35	Microorganism 1150 1161	enterococci
+T36	Habitat 1233 1243	Gorgonzola
+T37	Habitat 1233 1249	Gorgonzola rinds

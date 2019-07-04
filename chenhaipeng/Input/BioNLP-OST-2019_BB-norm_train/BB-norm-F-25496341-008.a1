@@ -1,0 +1,28 @@
+T1	Habitat 83 89	cheese
+T2	Microorganism 107 137	Penicillium camemberti  FM 013
+T3	Habitat 232 253	smear-ripened cheeses
+T4	Habitat 353 373	mould-ripened cheese
+T5	Habitat 386 391	plant
+T6	Habitat 396 429	surface of the blue-veined cheese
+T7	Habitat 411 429	blue-veined cheese
+T8	Microorganism 467 494	Arthrobacter bergerei Ca106
+T9	Habitat 567 574	cheeses
+T10	Microorganism 576 589	Psychrobacter
+T11	Habitat 626 632	cheese
+T12	Habitat 634 640	Cheese
+T13	Habitat 677 712	thermophilic lactic starter culture
+T14	Phenotype 677 689	thermophilic
+T15	Microorganism 720 746	Streptococcus thermophilus
+T16	Microorganism 751 776	Lactobacillus delbrueckii
+T17	Phenotype 803 823	lactic acid bacteria
+T18	Habitat 854 861	cheeses
+T19	Microorganism 872 890	Lactococcus lactis
+T20	Phenotype 908 929	lactic acid bacterium
+T21	Microorganism 1014 1037	Psychrobacter aquimaris
+T22	Microorganism 1039 1069	Brachybacterium tyrofermentans
+T23	Microorganism 1071 1099	Corynebacterium ammoniagenes
+T24	Microorganism 1101 1124	Brevibacterium antiquum
+T25	Microorganism 1126 1152	Microbacterium gubbeenense
+T26	Microorganism 1154 1179	Brochothrix thermosphacta
+T27	Microorganism 1184 1219	Marinilactibacillus psychrotolerans
+T28	Habitat 1246 1253	cheeses

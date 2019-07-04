@@ -1,0 +1,14 @@
+T1	Microorganism 68 86	Lactococcus lactis
+T2	Microorganism 88 120	Lactococcus lactis subsp. lactis
+T3	Habitat 140 146	cheese
+T4	Microorganism 152 178	Lc. lactis subsp. cremoris
+T5	Microorganism 331 357	Lc. lactis subsp. cremoris
+T6	Habitat 390 397	cheeses
+T7	Phenotype 473 476	LAB
+T8	Habitat 477 492	starter culture
+T9	Phenotype 508 513	NSLAB
+T10	Microorganism 514 537	Lactobacillus paracasei
+T11	Habitat 569 576	cheeses
+T12	Microorganism 640 653	Lb. paracasei
+T13	Phenotype 669 674	NSLAB
+T14	Habitat 686 699	Danbo cheeses

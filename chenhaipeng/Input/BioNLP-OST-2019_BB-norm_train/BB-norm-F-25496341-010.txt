@@ -1,0 +1,6 @@
+High throughput sequencing allows higher resolution 
+quantitation and we have shown that we can recover even fairly minor 
+taxonomi groups, such as the Leuconostoc genus (see Additional file 14: Table S8), known to be part of the minority population in cheeses [48]. However, additional experiments may be needed to validate the identification and quantitation of low abundance populations.Presence
+ or absence of complete set of genes or of specific genes, and their 
+level of sequence homology allows also confirming characteristics of 
+particular strains.
