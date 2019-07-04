@@ -1,0 +1,8 @@
+Surprisingly, more than 80 thousand 
+reads (~1% of the total good quality reads in cheese L) mapped to the Penicillium camemberti
+ FM 013 genome, with 97.7% of perfect match reads, even though this 
+species is not known to occur in smear-ripened cheeses. One may 
+hypothesize that this could result from cross-contamination due to the 
+manufacturing of mould-ripened cheese in the same plant.The surface of the blue-veined cheese G was dominated by a strain close to Arthrobacter bergerei Ca106 (18.6% of the reads, 99.2% perfect match reads). Like for the two other cheeses, Psychrobacter
+ species seem to be present in this cheese. Cheese G was probably 
+manufactured with a thermophilic lactic starter culture, since Streptococcus thermophilus and Lactobacillus delbrueckii species were the dominant lactic acid bacteria, in contrast to the two other cheeses, in which Lactococcus lactis was the dominant lactic acid bacterium. Strains related to other reference strains sequenced in the present study, such as Psychrobacter aquimaris, Brachybacterium tyrofermentans, Corynebacterium ammoniagenes, Brevibacterium antiquum, Microbacterium gubbeenense, Brochothrix thermosphacta and Marinilactibacillus psychrotolerans, were also present in the cheeses (>80% perfect match reads, see Additional file 14: Table S8).

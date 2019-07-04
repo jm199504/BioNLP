@@ -1,0 +1,24 @@
+T1	Microorganism 52 66	Staphylococcus
+T2	Microorganism 68 79	Micrococcus
+T3	Microorganism 81 94	Psychrobacter
+T4	Microorganism 96 108	Enterococcus
+T5	Microorganism 113 127	Brevibacterium
+T6	Habitat 158 176	surface of cheeses
+T7	Habitat 169 176	cheeses
+T8	Habitat 212 222;256 263	Gorgonzola cheeses
+T9	Habitat 224 232;256 263	Taleggio cheeses
+T10	Habitat 237 263	Formaggio di Fossa cheeses
+T11	Habitat 391 399	Scimudin
+T12	Habitat 404 410	Casera
+T13	Phenotype 464 477	Gram positive
+T14	Microorganism 545 559	Staphylococcus
+T15	Microorganism 561 572	Micrococcus
+T16	Microorganism 574 585	Macrococcus
+T17	Microorganism 587 599	Enterococcus
+T18	Microorganism 601 614	Lactobacillus
+T19	Microorganism 616 630	Carnobacterium
+T20	Microorganism 632 643	Leuconostoc
+T21	Microorganism 645 659	Brevibacterium
+T22	Microorganism 661 676	Corynebacterium
+T23	Microorganism 678 689	Brochothrix
+T24	Microorganism 691 699	Bacillus

@@ -1,0 +1,19 @@
+T1	Title 0 159	Occurrence of extended-spectrum beta-lactamase-producing Salmonella enterica in northern Spain with evidence of CTX-M-9 clonal spread among animals and humans.
+T2	Paragraph 160 1017	Among the 1233 Salmonella enterica isolates obtained in two Spanish hospitals, five isolates (0.4%) (serovars: Virchow, four; Livingstone, one) had the phenotype of an extended-spectrum beta-lactamase (ESBL) producer. The genetic characterization of the ESBL of S. enterica Livingstone revealed a bla(SHV-2) gene. The bla(CTX-M-10) gene in a phage-related genetic environment was found in one S. enterica Virchow isolate, and the bla(CTX-M-9) gene within the In60 integron was found in the three remaining Virchow isolates. These three isolates presented indistinguishable or closely related pulsed-field gel electrophoresis patterns among themselves and also as compared with the two other bla(CTX-M-9)-containing isolates previously obtained from animals. ESBL production is an emerging mechanism of resistance in S. enterica in the two studied hospitals.
+T3	Phenotype 32 56	beta-lactamase-producing
+T4	Microorganism 57 76	Salmonella enterica
+T5	Habitat 140 147	animals
+T6	Habitat 152 158	humans
+T7	Microorganism 175 194	Salmonella enterica
+T8	Habitat 220 237	Spanish hospitals
+T9	Microorganism 271 278	Virchow
+T10	Microorganism 286 297	Livingstone
+T11	Phenotype 328 376	extended-spectrum beta-lactamase (ESBL) producer
+T12	Microorganism 422 445	S. enterica Livingstone
+T13	Microorganism 553 572	S. enterica Virchow
+T14	Microorganism 666 673	Virchow
+T15	Habitat 909 916	animals
+T16	Phenotype 918 933	ESBL production
+T17	Phenotype 962 972	resistance
+T18	Microorganism 976 987	S. enterica
+T19	Habitat 1007 1016	hospitals

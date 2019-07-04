@@ -1,0 +1,30 @@
+T1	Title 0 199	Characterization of a lipopolysaccharide-targeted monoclonal antibody and its variable fragments as candidates for prophylaxis against the obligate intracellular bacterial pathogen Coxiella burnetii.
+T2	Paragraph 200 1966	Our previous study demonstrated that treatment of Coxiella burnetii with the phase I lipopolysaccharide (PI-LPS)-targeted monoclonal antibody (MAb) 1E4 significantly inhibited C. burnetii infection in mice, suggesting that 1E4 is a protective MAb. To determine whether passive transfer of antibodies (Abs) can provide protection against C. burnetii natural infection, we examined if passive transfer of 1E4 would protect SCID mice against C. burnetii aerosol infection. The results indicated that 1E4 conferred significant protection against aerosolized C. burnetii, suggesting that 1E4 may be useful for preventing C. burnetii natural infection. To further understand the mechanisms of 1E4-mediated protection and to test the possibility of using humanized 1E4 to prevent C. burnetii infection, we examined whether the Fab fragment of 1E4 (Fab1E4), a recombinant murine single-chain variable fragment (muscFv1E4), and a humanized single-chain variable fragment (huscFv1E4) retained the ability of 1E4 to inhibit C. burnetii infection. The results indicated that Fab1E4, muscFv1E4, and huscFv1E4 were able to inhibit C. burnetii infection in mice but that their ability to inhibit C. burnetii infection was lower than that of 1E4. In addition, treatment of C. burnetii with Fab1E4, muscFv1E4, or huscFv1E4 can block C. burnetii infection of macrophages. Interestingly, treatment of C. burnetii with huscFv1E4 can significantly reduce C. burnetii infectivity in human macrophages. This report provides the first evidence to demonstrate that the humanized variable fragments of an LPS-specific MAb can neutralize C. burnetii infection and appears to be a promising step toward the potential use of a humanized MAb as emergency prophylaxis against C. burnetii exposure.
+T3	Phenotype 139 161	obligate intracellular
+T4	Phenotype 172 180	pathogen
+T5	Microorganism 181 198	Coxiella burnetii
+T6	Microorganism 250 267	Coxiella burnetii
+T7	Microorganism 376 387	C. burnetii
+T8	Habitat 401 405	mice
+T9	Microorganism 537 548	C. burnetii
+T10	Habitat 621 630	SCID mice
+T11	Microorganism 639 650	C. burnetii
+T12	Habitat 651 658	aerosol
+T13	Habitat 742 753	aerosolized
+T14	Microorganism 754 765	C. burnetii
+T15	Microorganism 816 827	C. burnetii
+T16	Microorganism 973 984	C. burnetii
+T17	Habitat 1064 1070	murine
+T18	Microorganism 1213 1224	C. burnetii
+T19	Microorganism 1317 1328	C. burnetii
+T20	Habitat 1342 1346	mice
+T21	Microorganism 1381 1392	C. burnetii
+T22	Microorganism 1457 1468	C. burnetii
+T23	Microorganism 1516 1527	C. burnetii
+T24	Habitat 1541 1552	macrophages
+T25	Microorganism 1582 1593	C. burnetii
+T26	Microorganism 1634 1645	C. burnetii
+T27	Habitat 1661 1666	human
+T28	Habitat 1661 1678	human macrophages
+T29	Microorganism 1811 1822	C. burnetii
+T30	Microorganism 1945 1956	C. burnetii

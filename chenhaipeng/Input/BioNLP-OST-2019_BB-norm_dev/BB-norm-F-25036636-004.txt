@@ -1,0 +1,6 @@
+From our metagenomic reads, we identified 
+homologs of a previously characterized secreted cold-adapted lipase and 
+protease ( de Pascale et al., 2008 and de Pascale et al., 2010) (Table S4C),
+ which could contribute to lipolysis and proteolysis and subsequent 
+flavor formation in cheeses. Collectively, these metagenomic insights 
+into the potential function of Pseudoalteromonas suggest that this and other uninoculated yet abundant microbes could play key roles in cheese rind microbial communities.

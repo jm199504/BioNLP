@@ -1,0 +1,58 @@
+T1	Habitat 18 67	microbiota of four Danish surface-ripened cheeses
+T2	Habitat 37 67	Danish surface-ripened cheeses
+T3	Habitat 87 97	farmhouses
+T4	Habitat 106 122	industrial dairy
+T5	Habitat 454 460	cheese
+T6	Habitat 454 465	cheese core
+T7	Habitat 454 501	cheese core microbiota of the farmhouse cheeses
+T8	Habitat 484 493	farmhouse
+T9	Habitat 484 501	farmhouse cheeses
+T10	Phenotype 520 530	mesophilic
+T11	Phenotype 531 551	lactic acid bacteria
+T12	Phenotype 553 556	LAB
+T13	Habitat 558 574	starter cultures
+T14	Microorganism 575 607	Lactococcus lactis subsp. lactis
+T15	Microorganism 612 637	Leuconostoc mesenteorides
+T16	Habitat 653 660	starter
+T17	Phenotype 661 664	LAB
+T18	Microorganism 685 703	Lactobacillus spp.
+T19	Habitat 708 740	cheese from the industrial dairy
+T20	Habitat 724 740	industrial dairy
+T21	Microorganism 777 790	Lb. paracasei
+T22	Habitat 796 844	surface bacterial microbiota of all four cheeses
+T23	Habitat 837 844	cheeses
+T24	Microorganism 863 883	Corynebacterium spp.
+T25	Microorganism 891 911	Brachybacterium spp.
+T26	Microorganism 912 931	Brevibacterium spp.
+T27	Habitat 994 1003	farmhouse
+T28	Habitat 994 1011	farmhouse cheeses
+T29	Microorganism 1020 1039	Brevibacterium spp.
+T30	Habitat 1057 1089	cheese from the industrial dairy
+T31	Habitat 1073 1089	industrial dairy
+T32	Microorganism 1103 1112	B. linens
+T33	Habitat 1125 1149	surface-ripening culture
+T34	Phenotype 1161 1174	Gram-negative
+T35	Microorganism 1198 1217	Alcalignes faecalis
+T36	Microorganism 1222 1238	Proteus vulgaris
+T37	Habitat 1265 1274	farmhouse
+T38	Habitat 1265 1282	farmhouse cheeses
+T39	Habitat 1288 1313	surface yeast  microbiota
+T40	Habitat 1370 1376	cheese
+T41	Habitat 1386 1403	farmhouse cheeses
+T42	Habitat 1386 1395	farmhouse
+T43	Microorganism 1437 1456	Yarrowia lipolytica
+T44	Microorganism 1458 1473	Geotrichum spp.
+T45	Microorganism 1478 1499	Debaryomyces hansenii
+T46	Habitat 1527 1559	cheese from the industrial dairy
+T47	Habitat 1543 1559	industrial dairy
+T48	Microorganism 1561 1572	D. hansenii
+T49	Microorganism 1689 1715	Streptococcus thermophilus
+T50	Habitat 1735 1744	farmhouse
+T51	Habitat 1735 1760	farmhouse raw milk cheese
+T52	Habitat 1745 1753	raw milk
+T53	Microorganism 1826 1848	Vagococcus carniphilus
+T54	Microorganism 1850 1868	Psychrobacter spp.
+T55	Microorganism 1873 1885	Lb. curvatus
+T56	Habitat 1893 1908	cheese surfaces
+T57	Habitat 1893 1899	cheese
+T58	Habitat 1967 1973	cheese

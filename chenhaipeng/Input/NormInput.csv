@@ -1,0 +1,3680 @@
+category,word,dic,obt
+Habitat,selective broths based on hypertonic strontium chloride,OntoBiotope,000360
+Habitat,selective broths based on the bi-selenite ion,OntoBiotope,000360
+Microorganism,Salmonellae,NCBI_Taxonomy,590
+Habitat,egg products,OntoBiotope,001086
+Habitat,egg,OntoBiotope,001847
+Microorganism,Salmonella,NCBI_Taxonomy,599
+Habitat,egg,OntoBiotope,001847
+Habitat,egg pulp,OntoBiotope,001086
+Habitat,strontium chloride M broth,OntoBiotope,000360
+Habitat,strontium selenite broth,OntoBiotope,000360
+Habitat,strontium selenite A broth,OntoBiotope,000360
+Habitat,bi-selenite based media,OntoBiotope,000360
+Microorganism,salmonellae,NCBI_Taxonomy,590
+Habitat,egg products,OntoBiotope,001086
+Habitat,egg,OntoBiotope,001847
+Microorganism,S. pullorum,NCBI_Taxonomy,605
+Habitat,strontium chloride M broth,OntoBiotope,000360
+Habitat,ozone,OntoBiotope,000477
+Habitat,foods,OntoBiotope,000094
+Habitat,Ozone,OntoBiotope,000477
+Habitat,O3,OntoBiotope,000477
+Habitat,food,OntoBiotope,000094
+Habitat,food industry,OntoBiotope,001557
+Habitat,ozone,OntoBiotope,000477
+Habitat,food products,OntoBiotope,000094
+Habitat,Ozone,OntoBiotope,000477
+Habitat,Ozone,OntoBiotope,000477
+Habitat,ozone,OntoBiotope,000477
+Phenotype,parasites,OntoBiotope,000372
+Habitat,ozone,OntoBiotope,000477
+Habitat,ozone,OntoBiotope,000477
+Habitat,additives,OntoBiotope,000477
+Habitat,acids,OntoBiotope,000477
+Habitat,surfactants,OntoBiotope,000477
+Habitat,sugars,OntoBiotope,001340
+Habitat,sugars,OntoBiotope,001340
+Habitat,Ozone,OntoBiotope,000477
+Habitat,food industry,OntoBiotope,001557
+Habitat,food industry,OntoBiotope,001557
+Habitat,food,OntoBiotope,000094
+Habitat,product surface,OntoBiotope,000902
+Habitat,water,OntoBiotope,000468
+Habitat,Ozone,OntoBiotope,000477
+Habitat,contaminant microflora,OntoBiotope,000113
+Habitat,meat,OntoBiotope,001200
+Habitat,poultry,OntoBiotope,002199
+Habitat,eggs,OntoBiotope,001847
+Habitat,fish,OntoBiotope,001549
+Habitat,fruits,OntoBiotope,001122
+Habitat,vegetables,OntoBiotope,001126
+Habitat,dry foods,OntoBiotope,001526
+Habitat,agricultural products,OntoBiotope,000034
+Habitat,ozone,OntoBiotope,000477
+Habitat,food surface,OntoBiotope,000902
+Habitat,food,OntoBiotope,000094
+Habitat,ozone,OntoBiotope,000477
+Habitat,food,OntoBiotope,000094
+Phenotype,glycoprotein-binding activity,OntoBiotope,000019
+Microorganism,Streptococcus pyogenes,NCBI_Taxonomy,1314
+Microorganism,Streptococcus pyogenes,NCBI_Taxonomy,1314
+Habitat,host cell,OntoBiotope,000061
+Phenotype,adhesion mechanisms,OntoBiotope,000029
+Habitat,host cell,OntoBiotope,000061
+Habitat,vaccines,OntoBiotope,000464
+Phenotype,glycoprotein-binding activities,OntoBiotope,000019
+Microorganism,streptococcal,NCBI_Taxonomy,1314
+Phenotype,activity binding to fetuin,OntoBiotope,000019
+Phenotype,activity binding to asialofetuin,OntoBiotope,000019
+Phenotype,activity binding to thyroglobulin,OntoBiotope,000019
+Phenotype,activity binding to mucin,OntoBiotope,000019
+Microorganism,S. pyogenes,NCBI_Taxonomy,1314
+Phenotype,glycoprotein-binding activity,OntoBiotope,000019
+Phenotype,adherence,OntoBiotope,000029
+Microorganism,S. pyogenes,NCBI_Taxonomy,1314
+Phenotype,virulence,OntoBiotope,000375
+Paragraph,Prospective screening culture surveillance for MRSA among patients in a community SNF.,,
+Paragraph,"Nares and stool swab cultures were obtained from newly admitted patients and from all patients quarterly. MRSA were isolated by oxacillin screening agar. Antibiograms were determined by the disk-diffusion method, and genotyping was by FIGE REA.",,
+Paragraph,"It was shown that, among isolates with the same genotypes, many had different antibiograms; among isolates with the same antibiograms, many had different genotypes; and the discriminatory indices for isolates of MRSA by FIGE REA and by antibiogram were 0.56 and 0.78, respectively.",,
+Paragraph,"Our study demonstrated that, in patients from one SNF, genotyping by FIGE REA identified two prevalent REA DNA types, but with variability of antibiogram patterns within each DNA type; the antibiogram also identified prevalent patterns with variability of REA DNA type within each antibiogram pattern. The discriminatory index of antibiograms alone, or of genotypes alone as determined by FIGE REA, was poor for strains of MRSA isolated from the SNF patients in our study.",,
+Phenotype,methicillin-resistant,OntoBiotope,002817
+Microorganism,Staphylococcus aureus,NCBI_Taxonomy,1280
+Habitat,patients,OntoBiotope,003285
+Habitat,nursing home,OntoBiotope,001231
+Phenotype,methicillin-resistant,OntoBiotope,002817
+Microorganism,Staphylococcus aureus,NCBI_Taxonomy,1280
+Microorganism,MRSA,NCBI_Taxonomy,1280
+Phenotype,MRSA,OntoBiotope,002817
+Habitat,skilled nursing facility,OntoBiotope,001231
+Habitat,skilled nursing facility,OntoBiotope,002518
+Habitat,SNF,OntoBiotope,002518
+Habitat,SNF,OntoBiotope,001231
+Microorganism,MRSA,NCBI_Taxonomy,1280
+Phenotype,MRSA,OntoBiotope,002817
+Habitat,SNF patients,OntoBiotope,003220
+Habitat,SNF,OntoBiotope,002518
+Habitat,SNF,OntoBiotope,001231
+Microorganism,MRSA,NCBI_Taxonomy,1280
+Phenotype,MRSA,OntoBiotope,002817
+Habitat,patients,OntoBiotope,003220
+Habitat,community SNF,OntoBiotope,001231
+Habitat,community SNF,OntoBiotope,002518
+Habitat,Nares swab cultures,OntoBiotope,001228
+Habitat,Nares swab cultures,OntoBiotope,000007
+Habitat,Nares,OntoBiotope,000754
+Habitat,stool swab cultures,OntoBiotope,001737
+Habitat,stool swab cultures,OntoBiotope,000007
+Habitat,stool,OntoBiotope,001102
+Habitat,patients,OntoBiotope,003220
+Habitat,patients,OntoBiotope,003220
+Microorganism,MRSA,NCBI_Taxonomy,1280
+Phenotype,MRSA,OntoBiotope,002817
+Habitat,oxacillin screening agar,OntoBiotope,000031
+Microorganism,MRSA,NCBI_Taxonomy,1280
+Phenotype,MRSA,OntoBiotope,002817
+Habitat,patients from one SNF,OntoBiotope,003220
+Habitat,SNF,OntoBiotope,002518
+Habitat,SNF,OntoBiotope,001231
+Microorganism,MRSA,NCBI_Taxonomy,1280
+Phenotype,MRSA,OntoBiotope,002817
+Habitat,SNF,OntoBiotope,001231
+Habitat,SNF,OntoBiotope,002518
+Habitat,SNF patients,OntoBiotope,003220
+Microorganism,Salmonella typhimurium,NCBI_Taxonomy,90371
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Microorganism,Ralstonia eutropha H850,NCBI_Taxonomy,53482
+Microorganism,Ralstonia eutropha H850,NCBI_Taxonomy,53482
+Microorganism,R. eutropha H850,NCBI_Taxonomy,53482
+Habitat,fructose,OntoBiotope,000007
+Habitat,biphenyl,OntoBiotope,000007
+Habitat,fructose,OntoBiotope,000007
+Habitat,biphenyl,OntoBiotope,000007
+Habitat,biphenyl,OntoBiotope,000007
+Habitat,fructose medium,OntoBiotope,000007
+Habitat,fructose,OntoBiotope,000007
+Habitat,Chondrus crispus,OntoBiotope,002758
+Microorganism,Pichia pastoris,NCBI_Taxonomy,4922
+Habitat,red alga Chondrus crispus,OntoBiotope,002758
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Phenotype,HOX activity,OntoBiotope,000371
+Phenotype,methylotrophic,OntoBiotope,000734
+Microorganism,Pichia pastoris,NCBI_Taxonomy,4922
+Phenotype,hexose oxidase production,OntoBiotope,000371
+Microorganism,P. pastoris,NCBI_Taxonomy,4922
+Microorganism,Saccharomyces cerevisiae,NCBI_Taxonomy,4932
+Phenotype,alpha-mating,OntoBiotope,000173
+Microorganism,P. pastoris,NCBI_Taxonomy,4922
+Phenotype,thermotolerance,OntoBiotope,002290
+Phenotype,nitrogen-fixing,OntoBiotope,000019
+Microorganism,cyanobacterium,NCBI_Taxonomy,1117
+Microorganism,Anabaena sp. strain L-31,NCBI_Taxonomy,29412
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Phenotype,nitrogen-fixing,OntoBiotope,000019
+Habitat,soil,OntoBiotope,000427
+Microorganism,cyanobacterium,NCBI_Taxonomy,1117
+Microorganism,Anabaena sp. strain L-31,NCBI_Taxonomy,29412
+Phenotype,abilities to survive prolonged and continuous heat stress,OntoBiotope,002480
+Microorganism,Anabaena sp. strain L-31,NCBI_Taxonomy,29412
+Microorganism,E. coli,NCBI_Taxonomy,562
+Phenotype,Nitrogenase activity,OntoBiotope,000019
+Microorganism,Anabaena,NCBI_Taxonomy,29412
+Microorganism,L-31,NCBI_Taxonomy,29412
+Microorganism,E. coli,NCBI_Taxonomy,562
+Phenotype,thermotolerance,OntoBiotope,002290
+Microorganism,Campylobacter,NCBI_Taxonomy,194
+Phenotype,human gastrointestinal pathogen,OntoBiotope,002806
+Habitat,human,OntoBiotope,002488
+Habitat,human gastrointestinal,OntoBiotope,000641
+Microorganism,Campylobacter jejuni,NCBI_Taxonomy,197
+Microorganism,C. jejuni,NCBI_Taxonomy,197
+Microorganism,Campylobacter coli,NCBI_Taxonomy,195
+Microorganism,Campylobacter,NCBI_Taxonomy,194
+Habitat,food,OntoBiotope,000094
+Habitat,red algal,OntoBiotope,002758
+Habitat,marine,OntoBiotope,000338
+Microorganism,Zobellia galactanivorans Dsij,NCBI_Taxonomy,63186
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Microorganism,Z. galactanivorans Dsij,NCBI_Taxonomy,63186
+Microorganism,Xanthomonas campestris pv. vesicatoria,NCBI_Taxonomy,456327
+Phenotype,Pathogenicity,OntoBiotope,000375
+Phenotype,gram-negative,OntoBiotope,000648
+Habitat,plant,OntoBiotope,000393
+Phenotype,plant pathogen,OntoBiotope,002732
+Microorganism,Xanthomonas campestris pv. vesicatoria,NCBI_Taxonomy,456327
+Phenotype,type III secretion,OntoBiotope,000019
+Habitat,plant cell,OntoBiotope,000061
+Habitat,plant cell,OntoBiotope,000395
+Habitat,plant,OntoBiotope,000393
+Phenotype,virulence,OntoBiotope,000375
+Microorganism,Xanthomonas,NCBI_Taxonomy,456327
+Habitat,plant cell,OntoBiotope,000395
+Habitat,plant cell,OntoBiotope,000061
+Habitat,plant,OntoBiotope,000393
+Habitat,plant,OntoBiotope,000393
+Phenotype,plant pathogenic,OntoBiotope,002732
+Habitat,animal,OntoBiotope,000193
+Phenotype,animal pathogenic,OntoBiotope,002669
+Phenotype,pathogenicity,OntoBiotope,000375
+Microorganism,Xanthomonas,NCBI_Taxonomy,338
+Microorganism,Pseudomonas syringae pv. maculicola,NCBI_Taxonomy,59511
+Microorganism,X. campestris pv. vesicatoria,NCBI_Taxonomy,456327
+Phenotype,function as transglycosylase,OntoBiotope,000019
+Phenotype,Attachment,OntoBiotope,000029
+Microorganism,Escherichia coli O157:H7,NCBI_Taxonomy,83334
+Habitat,tryptic soy broth,OntoBiotope,000360
+Habitat,soy,OntoBiotope,003304
+Habitat,nutrient broth,OntoBiotope,000360
+Habitat,apple surfaces,OntoBiotope,000902
+Habitat,apple,OntoBiotope,002341
+Habitat,lettuce surfaces,OntoBiotope,000902
+Habitat,lettuce,OntoBiotope,002506
+Habitat,cell,OntoBiotope,000061
+Phenotype,capsule production,OntoBiotope,000614
+Habitat,tryptic soy broth,OntoBiotope,000360
+Habitat,soy,OntoBiotope,003304
+Habitat,TSB,OntoBiotope,000360
+Habitat,nutrient broth,OntoBiotope,000360
+Habitat,NB,OntoBiotope,000360
+Phenotype,ability to attach,OntoBiotope,000029
+Microorganism,Escherichia coli O157:H7,NCBI_Taxonomy,83334
+Habitat,lettuce,OntoBiotope,002506
+Habitat,lettuce surfaces,OntoBiotope,000902
+Habitat,apple,OntoBiotope,002341
+Habitat,apple surfaces,OntoBiotope,000902
+Habitat,cell,OntoBiotope,000061
+Phenotype,capsule production,OntoBiotope,000614
+Habitat,NB,OntoBiotope,000360
+Habitat,lettuce,OntoBiotope,002506
+Habitat,lettuce surfaces,OntoBiotope,000902
+Habitat,apple,OntoBiotope,002341
+Habitat,apple surfaces,OntoBiotope,000902
+Habitat,TSB,OntoBiotope,000360
+Habitat,TSB,OntoBiotope,000360
+Habitat,NB,OntoBiotope,000360
+Phenotype,capsule production,OntoBiotope,000614
+Microorganism,E. coli O157:H7,NCBI_Taxonomy,83334
+Habitat,TSB,OntoBiotope,000360
+Habitat,NB,OntoBiotope,000360
+Phenotype,attachment,OntoBiotope,000029
+Microorganism,E. coli O157:H7,NCBI_Taxonomy,83334
+Phenotype,capsule production,OntoBiotope,000614
+Phenotype,attachment ability,OntoBiotope,000029
+Microorganism,Lactobacillus gasseri K 7,NCBI_Taxonomy,1334627
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Phenotype,adhesion,OntoBiotope,000029
+Habitat,Caco-2 cells,OntoBiotope,000062
+Habitat,Caco-2 cells,OntoBiotope,000268
+Habitat,pigs' jejunal tissue,OntoBiotope,002993
+Habitat,pigs,OntoBiotope,003337
+Habitat,jejunal,OntoBiotope,001605
+Microorganism,Lactobacillus (Lb.) gasseri K 7,NCBI_Taxonomy,1334627
+Phenotype,adhesion,OntoBiotope,000029
+Microorganism,Escherichia coli O8:K88,NCBI_Taxonomy,1010796
+Habitat,intestinal mucosa,OntoBiotope,002993
+Habitat,intestinal,OntoBiotope,002810
+Habitat,cultured Caco-2 cells,OntoBiotope,000062
+Habitat,cultured Caco-2 cells,OntoBiotope,000268
+Habitat,pigs' small intestinal tissue,OntoBiotope,002993
+Habitat,pigs,OntoBiotope,003337
+Habitat,small intestinal,OntoBiotope,003303
+Microorganism,Lactobacilli,NCBI_Taxonomy,1334627
+Microorganism,E. coli,NCBI_Taxonomy,1010796
+Microorganism,E. coli,NCBI_Taxonomy,1010796
+Microorganism,E. coli,NCBI_Taxonomy,1010796
+Microorganism,lactobacilli,NCBI_Taxonomy,1334627
+Habitat,fully differentiated Caco-2 cells,OntoBiotope,000061
+Microorganism,E. coli,NCBI_Taxonomy,1010796
+Microorganism,E. coli,NCBI_Taxonomy,1010796
+Habitat,Caco-2,OntoBiotope,000061
+Microorganism,E. coli,NCBI_Taxonomy,1010796
+Phenotype,adhesion,OntoBiotope,000029
+Microorganism,Lb. gasseri K 7,NCBI_Taxonomy,1334627
+Phenotype,binding,OntoBiotope,000029
+Microorganism,E. coli,NCBI_Taxonomy,1010796
+Microorganism,lactobacilli,NCBI_Taxonomy,1334627
+Microorganism,E. coli,NCBI_Taxonomy,1010796
+Microorganism,E. coli,NCBI_Taxonomy,1010796
+Microorganism,lactobacilli,NCBI_Taxonomy,1334627
+Phenotype,adhesion,OntoBiotope,000029
+Habitat,tissue derived from pigs' jejunum,OntoBiotope,002993
+Habitat,pigs' jejunum,OntoBiotope,001605
+Habitat,pigs,OntoBiotope,003337
+Microorganism,E. coli,NCBI_Taxonomy,1010796
+Microorganism,Lb. gasseri K 7,NCBI_Taxonomy,1334627
+Phenotype,adhesion,OntoBiotope,000029
+Microorganism,E. coli,NCBI_Taxonomy,1010796
+Microorganism,Lb. gasseri K 7,NCBI_Taxonomy,1334627
+Habitat,jejunal,OntoBiotope,001605
+Habitat,jejunal mucosa,OntoBiotope,002993
+Microorganism,E. coli,NCBI_Taxonomy,1010796
+Microorganism,lactobacilli,NCBI_Taxonomy,1334627
+Habitat,jejunal,OntoBiotope,001605
+Habitat,jejunal tissue,OntoBiotope,002993
+Microorganism,Lb. gasseri K 7,NCBI_Taxonomy,1334627
+Microorganism,E. coli,NCBI_Taxonomy,1010796
+Phenotype,adhesion,OntoBiotope,000029
+Habitat,Caco-2 enterocytes,OntoBiotope,000268
+Habitat,pig jejunal tissue,OntoBiotope,000196
+Habitat,pig jejunal tissue,OntoBiotope,002993
+Habitat,pig,OntoBiotope,003337
+Habitat,jejunal,OntoBiotope,001605
+Paragraph,": A GASP network of laboratories was launched in the Americas and the Caribbean during the 1990s. Standardized methods and interpretative criteria were established for the isolation of N. gonorrhoeae, strain identification, and determination, and quality control of antimicrobial susceptibility.",,
+Paragraph,": Two countries (Argentina and Uruguay) maintained continuous surveillance during the study period. Some countries gathered data periodically and several others were unable to initiate antimicrobial surveillance as a result of lack of resources. The percentage of penicillin-resistant N. gonorrhoeae isolated in the region over the decade varied considerably (1.0-11.9% carried chromosomal resistance and 17.9-38.8% produced beta-lactamase) with an overall trend to declining numbers of penicillin-resistant isolates. For tetracycline, 7.4% to 36.3% carried chromosomal resistance, whereas 12.0% to 27.4% carried plasmid-mediated resistance. There were no reports of ciprofloxacin-resistant isolates, although N. gonorrhoeae with decreased susceptibility to ciprofloxacin and azithromycin as well as spectinomycin-resistant isolates were identified in some countries.",,
+Phenotype,resistance to antibiotics,OntoBiotope,002674
+Phenotype,antimicrobial susceptibility,OntoBiotope,002338
+Microorganism,Neisseria gonorrhoeae,NCBI_Taxonomy,485
+Habitat,laboratories,OntoBiotope,001169
+Microorganism,N. gonorrhoeae,NCBI_Taxonomy,485
+Phenotype,antimicrobial susceptibility,OntoBiotope,002338
+Phenotype,penicillin-resistant,OntoBiotope,002829
+Microorganism,N. gonorrhoeae,NCBI_Taxonomy,485
+Phenotype,resistance,OntoBiotope,002829
+Phenotype,penicillin-resistant,OntoBiotope,002829
+Phenotype,resistance,OntoBiotope,002869
+Phenotype,resistance,OntoBiotope,002869
+Phenotype,ciprofloxacin-resistant,OntoBiotope,002773
+Microorganism,N. gonorrhoeae,NCBI_Taxonomy,485
+Phenotype,decreased susceptibility to azithromycin,OntoBiotope,002864
+Phenotype,decreased susceptibility to ciprofloxacin,OntoBiotope,002774
+Phenotype,spectinomycin-resistant,OntoBiotope,002857
+Habitat,frog,OntoBiotope,003052
+Habitat,food,OntoBiotope,000094
+Phenotype,pathogen,OntoBiotope,000375
+Microorganism,Escherichia coli O157:H7,NCBI_Taxonomy,83334
+Habitat,commercial apple juice,OntoBiotope,003575
+Phenotype,pathogens,OntoBiotope,000375
+Phenotype,type III secretion,OntoBiotope,000019
+Microorganism,Escherichia coli O157,NCBI_Taxonomy,1045010
+Microorganism,lambdoid phages,NCBI_Taxonomy,186765
+Phenotype,pathogenic,OntoBiotope,002806
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Phenotype,type III secretion,OntoBiotope,000019
+Habitat,human cells,OntoBiotope,000061
+Habitat,human,OntoBiotope,002488
+Habitat,eukaryotic cell,OntoBiotope,000061
+Microorganism,Sakai,NCBI_Taxonomy,386585
+Phenotype,enterohemorrhagic,OntoBiotope,002806
+Microorganism,E. coli (EHEC) O157:H7,NCBI_Taxonomy,83334
+Phenotype,EHEC,OntoBiotope,002806
+Phenotype,EHEC,OntoBiotope,002806
+Microorganism,EHEC,NCBI_Taxonomy,386585
+Microorganism,Sakai,NCBI_Taxonomy,386585
+Phenotype,EHEC,OntoBiotope,002806
+Microorganism,EHEC,NCBI_Taxonomy,562
+Phenotype,plant pathogens,OntoBiotope,002732
+Habitat,plant,OntoBiotope,000393
+Microorganism,Shigella,NCBI_Taxonomy,620
+Microorganism,lambdoid prophages,NCBI_Taxonomy,186765
+Phenotype,type III secretion,OntoBiotope,000019
+Microorganism,E. coli,NCBI_Taxonomy,562
+Phenotype,pathogenicity,OntoBiotope,002806
+Phenotype,Quorum-sensing,OntoBiotope,000143
+Phenotype,adhesion,OntoBiotope,000029
+Microorganism,Serratia marcescens MG1,NCBI_Taxonomy,615
+Microorganism,Serratia marcescens,NCBI_Taxonomy,615
+Phenotype,opportunistic pathogen,OntoBiotope,000776
+Habitat,ocular,OntoBiotope,000627
+Microorganism,S. marcescens MG1,NCBI_Taxonomy,615
+Habitat,biofilm,OntoBiotope,000054
+Phenotype,biofilm maturation,OntoBiotope,001444
+Phenotype,N-acyl homoserine lactone (AHL)-based quorum sensing,OntoBiotope,000143
+Phenotype,QS,OntoBiotope,000143
+Phenotype,adhesion,OntoBiotope,000029
+Habitat,biofilm,OntoBiotope,000054
+Phenotype,biofilm formation,OntoBiotope,001444
+Phenotype,QS,OntoBiotope,000143
+Phenotype,adhesion,OntoBiotope,000029
+Habitat,abiotic surfaces,OntoBiotope,000007
+Habitat,biotic surfaces,OntoBiotope,000007
+Phenotype,attachment,OntoBiotope,000029
+Habitat,hydrophilic tissue culture plates,OntoBiotope,000103
+Habitat,hydrophilic tissue culture,OntoBiotope,000062
+Habitat,human corneal epithelial (HCE) cells,OntoBiotope,000061
+Habitat,human,OntoBiotope,002488
+Habitat,corneal,OntoBiotope,000573
+Habitat,epithelial,OntoBiotope,001091
+Phenotype,adhesion,OntoBiotope,000029
+Habitat,abiotic surface,OntoBiotope,000007
+Phenotype,adhesion,OntoBiotope,000029
+Habitat,HCE cell,OntoBiotope,000061
+Habitat,HCE cell biotic surface,OntoBiotope,000062
+Phenotype,QS,OntoBiotope,000143
+Phenotype,attachment,OntoBiotope,000029
+Habitat,biotic HCE cell surface,OntoBiotope,000062
+Habitat,HCE cell,OntoBiotope,000061
+Phenotype,adhesion,OntoBiotope,000029
+Habitat,abiotic surface,OntoBiotope,000007
+Phenotype,QS,OntoBiotope,000143
+Phenotype,attachment,OntoBiotope,000029
+Habitat,abiotic surface,OntoBiotope,000007
+Phenotype,adhesion,OntoBiotope,000029
+Habitat,abiotic surface,OntoBiotope,000007
+Phenotype,adhesion,OntoBiotope,000029
+Habitat,biotic surface,OntoBiotope,000062
+Phenotype,QS,OntoBiotope,000143
+Phenotype,QS,OntoBiotope,000143
+Phenotype,attachment,OntoBiotope,000029
+Habitat,HCE cells,OntoBiotope,000061
+Phenotype,QS,OntoBiotope,000143
+Microorganism,S. marcescens,NCBI_Taxonomy,615
+Microorganism,S. marcescens MG1,NCBI_Taxonomy,615
+Phenotype,attachment,OntoBiotope,000029
+Habitat,biotic surfaces,OntoBiotope,000062
+Habitat,abiotic surfaces,OntoBiotope,000007
+Phenotype,QS,OntoBiotope,000143
+Phenotype,adhesion,OntoBiotope,000029
+Habitat,abiotic surface,OntoBiotope,000007
+Phenotype,adhesion,OntoBiotope,000029
+Habitat,biotic surface,OntoBiotope,000062
+Microorganism,Streptococcus pneumoniae,NCBI_Taxonomy,1313
+Phenotype,bacterial pathogenesis,OntoBiotope,000375
+Phenotype,virulence,OntoBiotope,000375
+Microorganism,Streptococcus pneumoniae,NCBI_Taxonomy,1313
+Phenotype,Gram-positive,OntoBiotope,000649
+Phenotype,virulence,OntoBiotope,000375
+Paragraph,"Patients admitted to the trauma intensive care unit (TICU) from January, 2001 through December, 2004 with blunt, non-operative traumatic brain injury who were managed solely with an ICP monitor were identified from our trauma registry and divided into two groups: (1) Those receiving no antibiotics prior to or during ICP monitoring (NONE; n = 71); and (2) those already receiving antibiotics at the time of ICP monitor insertion (PRO; n = 84). Groups were stratified on the basis of age, Injury Severity Score (ISS), Glasgow Coma Scale (GCS) Score, base excess (BE), ICP days, transfusions in 24 h, ICU days, ventilator days, head Abbreviated Injury Score (AIS), and chest AIS. The study groups did not differ with respect to age, ISS, GCS, BE, ICP days, 24-h transfusions, ICU days, ventilator days, head AIS, or length of stay. In all, 183 patients were identified, of whom 28 died within seven days and were excluded from the analysis. All patients were followed until discharge for both CNS infections and subsequent infectious complications.",,
+Paragraph,"Only two patients, both in the PRO group, developed CNS infection. Both infectious complications (0.7 vs 1.4 per patient; p < 0.05) and infections secondary to MDR pathogens (0.03 vs. 0.33 per patient; p < 0.01) were significantly more common in the PRO group. Twenty-nine percent of the ventilator-associated pneumonias and 33% of the blood stream infections in the PRO group were MDR, whereas only two blood stream infections in the NONE group (4% of the total infections) were MDR.",,
+Paragraph,The routine use of prophylactic antibiotics for ICP monitor insertion is not warranted. This practice does not reduce the CNS infection rate and is associated with more MDR pathogens in any subsequent infectious complications.,,
+Habitat,central nervous system,OntoBiotope,001028
+Phenotype,multi-drug resistance,OntoBiotope,000598
+Habitat,patients,OntoBiotope,003220
+Habitat,injuries,OntoBiotope,000970
+Habitat,open fractures,OntoBiotope,000526
+Habitat,facial fractures,OntoBiotope,000526
+Habitat,facial,OntoBiotope,001142
+Habitat,central nervous system,OntoBiotope,001028
+Habitat,CNS,OntoBiotope,001028
+Phenotype,multi-drug resistant,OntoBiotope,000598
+Phenotype,MDR,OntoBiotope,000598
+Habitat,Patients,OntoBiotope,003220
+Habitat,trauma intensive care unit,OntoBiotope,000328
+Habitat,TICU,OntoBiotope,000328
+Habitat,brain,OntoBiotope,002689
+Habitat,brain injury,OntoBiotope,000970
+Habitat,ICU,OntoBiotope,000328
+Habitat,ICU,OntoBiotope,000328
+Habitat,patients,OntoBiotope,003220
+Habitat,patients,OntoBiotope,003220
+Habitat,CNS,OntoBiotope,001028
+Habitat,patients,OntoBiotope,003220
+Habitat,CNS,OntoBiotope,001028
+Habitat,patient,OntoBiotope,003220
+Phenotype,MDR,OntoBiotope,000598
+Phenotype,pathogens,OntoBiotope,000375
+Habitat,patient,OntoBiotope,003220
+Habitat,blood stream,OntoBiotope,000521
+Phenotype,MDR,OntoBiotope,000598
+Habitat,blood stream,OntoBiotope,000521
+Phenotype,MDR,OntoBiotope,000598
+Habitat,CNS,OntoBiotope,001028
+Phenotype,MDR,OntoBiotope,000598
+Phenotype,pathogens,OntoBiotope,000375
+Microorganism,Haemophilus influenzae,NCBI_Taxonomy,727
+Habitat,children attending a day care center,OntoBiotope,003188
+Habitat,day care center,OntoBiotope,000403
+Microorganism,Haemophilus influenzae,NCBI_Taxonomy,727
+Microorganism,NTHi,NCBI_Taxonomy,727
+Habitat,throats of two healthy children,OntoBiotope,000918
+Habitat,healthy children,OntoBiotope,003188
+Habitat,healthy children,OntoBiotope,002712
+Microorganism,NTHi,NCBI_Taxonomy,727
+Microorganism,NTHi,NCBI_Taxonomy,727
+Habitat,colonized children,OntoBiotope,003188
+Habitat,colonized children,OntoBiotope,002712
+Habitat,large yellow croaker,OntoBiotope,003264
+Habitat,Pseudosciaena crocea,OntoBiotope,003264
+Habitat,large yellow croaker,OntoBiotope,003264
+Habitat,Pseudosciaena crocea,OntoBiotope,003264
+Habitat,spleen,OntoBiotope,000890
+Habitat,muscle,OntoBiotope,001226
+Phenotype,Gram-negative,OntoBiotope,000648
+Microorganism,Vibrio parahaemolyticus,NCBI_Taxonomy,670
+Habitat,blood,OntoBiotope,000521
+Habitat,spleen,OntoBiotope,000890
+Habitat,liver,OntoBiotope,002725
+Habitat,spleen,OntoBiotope,000890
+Habitat,liver,OntoBiotope,002725
+Habitat,mammals,OntoBiotope,001625
+Habitat,large yellow croaker,OntoBiotope,003264
+Phenotype,pathogenic,OntoBiotope,002669
+Microorganism,Staphylococcus,NCBI_Taxonomy,1279
+Habitat,biofilms,OntoBiotope,000054
+Microorganism,Staphylococcus,NCBI_Taxonomy,1279
+Habitat,medical devices,OntoBiotope,000108
+Habitat,Biomaterial,OntoBiotope,000108
+Microorganism,Staphylococcus epidermidis,NCBI_Taxonomy,1282
+Microorganism,Staphylococcus aureus,NCBI_Taxonomy,1280
+Phenotype,development of a biofilm,OntoBiotope,001444
+Habitat,biofilm,OntoBiotope,000054
+Habitat,host immune system,OntoBiotope,000321
+Microorganism,S. aureus,NCBI_Taxonomy,1280
+Microorganism,S. epidermidis,NCBI_Taxonomy,1282
+Habitat,biofilm,OntoBiotope,000054
+Phenotype,biofilm development,OntoBiotope,001444
+Habitat,biofilm,OntoBiotope,000054
+Phenotype,biofilm formation,OntoBiotope,001444
+Habitat,established mature biofilms,OntoBiotope,000054
+Phenotype,pathogens,OntoBiotope,000375
+Phenotype,susceptibility to antibiotics,OntoBiotope,002675
+Habitat,hematology ward,OntoBiotope,000097
+Phenotype,pathogens,OntoBiotope,000375
+Habitat,hematological ward,OntoBiotope,000097
+Habitat,patients received chemotherapy,OntoBiotope,003220
+Phenotype,pathogens,OntoBiotope,000375
+Habitat,blood of patients who accepted chemotherapy,OntoBiotope,000521
+Habitat,urine of patients who accepted chemotherapy,OntoBiotope,001367
+Habitat,sputum of patients who accepted chemotherapy,OntoBiotope,001335
+Habitat,patients who accepted chemotherapy,OntoBiotope,003220
+Phenotype,Gram-negative,OntoBiotope,000648
+Habitat,nosocomial,OntoBiotope,000011
+Microorganism,Pseudomonas aeruginosa,NCBI_Taxonomy,287
+Microorganism,Enterobacter cloacae,NCBI_Taxonomy,550
+Microorganism,E. coli,NCBI_Taxonomy,110766
+Phenotype,Gram negative,OntoBiotope,000648
+Phenotype,resistant to broad-spectrum penicillin,OntoBiotope,002829
+Microorganism,Acinetobacter baumannii,NCBI_Taxonomy,470
+Phenotype,gram positive,OntoBiotope,000649
+Microorganism,Enterococcus,NCBI_Taxonomy,1350
+Microorganism,Candida,NCBI_Taxonomy,1535326
+Microorganism,Enterococcus,NCBI_Taxonomy,1350
+Phenotype,Gram-positive,OntoBiotope,000649
+Phenotype,Vancomycin resistance,OntoBiotope,002874
+Phenotype,Gram-negative,OntoBiotope,000648
+Habitat,nosocomial,OntoBiotope,000011
+Habitat,patients with hematological malignancies,OntoBiotope,003220
+Phenotype,Gram positive,OntoBiotope,000649
+Phenotype,resistant to antimicrobial agents,OntoBiotope,002337
+Phenotype,beta-lactamase-producing,OntoBiotope,000019
+Microorganism,Salmonella enterica,NCBI_Taxonomy,28901
+Habitat,animals,OntoBiotope,000193
+Habitat,humans,OntoBiotope,002488
+Microorganism,Salmonella enterica,NCBI_Taxonomy,28901
+Habitat,Spanish hospitals,OntoBiotope,002714
+Microorganism,Virchow,NCBI_Taxonomy,48409
+Microorganism,Livingstone,NCBI_Taxonomy,260680
+Phenotype,extended-spectrum beta-lactamase (ESBL) producer,OntoBiotope,000019
+Microorganism,S. enterica Livingstone,NCBI_Taxonomy,260680
+Microorganism,S. enterica Virchow,NCBI_Taxonomy,48409
+Microorganism,Virchow,NCBI_Taxonomy,48409
+Habitat,animals,OntoBiotope,000193
+Phenotype,ESBL production,OntoBiotope,000019
+Phenotype,resistance,OntoBiotope,000598
+Microorganism,S. enterica,NCBI_Taxonomy,28901
+Habitat,hospitals,OntoBiotope,002714
+Phenotype,pathogens,OntoBiotope,000375
+Phenotype,pathogens,OntoBiotope,002806
+Habitat,cerebrospinal fluid,OntoBiotope,000550
+Habitat,CSF,OntoBiotope,000550
+Habitat,patients diagnosed with bacterial meningitis,OntoBiotope,003269
+Microorganism,Streptococcus pneumoniae,NCBI_Taxonomy,1313
+Microorganism,Haemophilus influenzae,NCBI_Taxonomy,727
+Microorganism,Mycoplasma pneumoniae,NCBI_Taxonomy,2104
+Phenotype,pathogens,OntoBiotope,002806
+Microorganism,Neisseria meningitidis,NCBI_Taxonomy,487
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Microorganism,Streptococcus agalactiae,NCBI_Taxonomy,1311
+Microorganism,Staphylococcus aureus,NCBI_Taxonomy,1280
+Microorganism,Listeria monocytogenes,NCBI_Taxonomy,1639
+Habitat,CSF from neonates and children,OntoBiotope,000550
+Habitat,CSF from adults,OntoBiotope,000550
+Habitat,neonates,OntoBiotope,003453
+Habitat,neonates,OntoBiotope,003269
+Habitat,children,OntoBiotope,003188
+Habitat,children,OntoBiotope,003269
+Habitat,adults,OntoBiotope,003245
+Habitat,adults,OntoBiotope,003269
+Habitat,CSF,OntoBiotope,000550
+Phenotype,pathogens,OntoBiotope,002806
+Habitat,clinical,OntoBiotope,003220
+Phenotype,pathogens,OntoBiotope,002806
+Microorganism,H. influenzae,NCBI_Taxonomy,727
+Habitat,CSF,OntoBiotope,000550
+Microorganism,S. pneumoniae,NCBI_Taxonomy,1313
+Microorganism,S. agalactiae,NCBI_Taxonomy,1311
+Microorganism,E. coli,NCBI_Taxonomy,562
+Microorganism,L. monocytogenes,NCBI_Taxonomy,1639
+Microorganism,M. pneumoniae,NCBI_Taxonomy,1313
+Habitat,patients with antibiotic administration,OntoBiotope,003269
+Phenotype,pathogens,OntoBiotope,002806
+Microorganism,Pseudomonas fluorescens,NCBI_Taxonomy,294
+Habitat,cross-protective vaccine,OntoBiotope,000464
+Phenotype,Gram-negative,OntoBiotope,000648
+Phenotype,virulence,OntoBiotope,000375
+Phenotype,pathogenic,OntoBiotope,000375
+Phenotype,pathogenic,OntoBiotope,002669
+Microorganism,"Pseudomonas fluorescens strain, TSS",NCBI_Taxonomy,294
+Habitat,diseased Japanese flounder cultured in a local farm,OntoBiotope,000491
+Habitat,diseased Japanese flounder cultured in a local farm,OntoBiotope,003553
+Habitat,local farm,OntoBiotope,000630
+Microorganism,TSS,NCBI_Taxonomy,294
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Phenotype,fur mutant,OntoBiotope,000118
+Microorganism,TSS,NCBI_Taxonomy,294
+Phenotype,fur null mutant,OntoBiotope,000118
+Microorganism,TFM,NCBI_Taxonomy,562
+Microorganism,TSS,NCBI_Taxonomy,294
+Microorganism,TFM,NCBI_Taxonomy,562
+Phenotype,decreased resistance against host serum bactericidal activity,OntoBiotope,000152
+Habitat,host serum,OntoBiotope,000524
+Habitat,host tissues,OntoBiotope,000196
+Habitat,host blood,OntoBiotope,000521
+Phenotype,bacterial virulence,OntoBiotope,002669
+Habitat,Japanese flounder,OntoBiotope,003553
+Habitat,Japanese flounder,OntoBiotope,000700
+Habitat,live vaccine,OntoBiotope,000464
+Habitat,oral,OntoBiotope,001653
+Microorganism,TFM,NCBI_Taxonomy,562
+Habitat,Japanese flounder,OntoBiotope,000700
+Habitat,Japanese flounder,OntoBiotope,003553
+Microorganism,P. fluorescens,NCBI_Taxonomy,294
+Microorganism,Aeromonas hydrophila,NCBI_Taxonomy,644
+Microorganism,Vibrio harveyi,NCBI_Taxonomy,669
+Microorganism,TFM,NCBI_Taxonomy,562
+Habitat,Japanese flounder,OntoBiotope,003553
+Habitat,Japanese flounder,OntoBiotope,000700
+Microorganism,TFM,NCBI_Taxonomy,562
+Microorganism,V. harveyi,NCBI_Taxonomy,669
+Microorganism,A. hydrophila,NCBI_Taxonomy,644
+Microorganism,Staphylococcus aureus,NCBI_Taxonomy,1280
+Microorganism,MRSA,NCBI_Taxonomy,1280
+Phenotype,MRSA,OntoBiotope,002817
+Habitat,environmental surfaces in a jail setting,OntoBiotope,000006
+Habitat,jail,OntoBiotope,000695
+Habitat,jail,OntoBiotope,000695
+Habitat,jail environmental surfaces,OntoBiotope,000006
+Phenotype,methicillin-resistant,OntoBiotope,002817
+Microorganism,Staphylococcus aureus,NCBI_Taxonomy,1280
+Microorganism,MRSA,NCBI_Taxonomy,1280
+Phenotype,MRSA,OntoBiotope,002817
+Habitat,primary and secondary mannitol salts,OntoBiotope,000007
+Habitat,oxacillin-resistant screening agar,OntoBiotope,000041
+Habitat,oxacillin-resistant screening agar,OntoBiotope,000031
+Phenotype,oxacillin-resistant,OntoBiotope,002920
+Microorganism,S. aureus,NCBI_Taxonomy,1280
+Phenotype,methicillin resistance,OntoBiotope,002817
+Phenotype,oxacillin resistance,OntoBiotope,002920
+Microorganism,S. aureus,NCBI_Taxonomy,1280
+Microorganism,MRSA,NCBI_Taxonomy,1280
+Phenotype,MRSA,OntoBiotope,002817
+Phenotype,resistant,OntoBiotope,002817
+Phenotype,resistant,OntoBiotope,002920
+Habitat,inmates' nasal,OntoBiotope,000767
+Habitat,inmates,OntoBiotope,003291
+Microorganism,MRSA,NCBI_Taxonomy,1280
+Phenotype,MRSA,OntoBiotope,002817
+Habitat,correctional facilities,OntoBiotope,000695
+Microorganism,MRSA,NCBI_Taxonomy,1280
+Phenotype,MRSA,OntoBiotope,002817
+Habitat,peripheral nerves,OntoBiotope,000765
+Habitat,peripheral nervous system,OntoBiotope,001251
+Habitat,PNS,OntoBiotope,001251
+Habitat,nerve,OntoBiotope,000765
+Habitat,Schwann cells,OntoBiotope,000647
+Habitat,glial cells of the PNS,OntoBiotope,000647
+Habitat,PNS,OntoBiotope,001251
+Habitat,Schwann cells,OntoBiotope,000647
+Habitat,nerve,OntoBiotope,000765
+Habitat,nerve injury,OntoBiotope,000970
+Habitat,Schwann cell,OntoBiotope,000647
+Habitat,nerve,OntoBiotope,000765
+Habitat,human,OntoBiotope,002488
+Microorganism,Mycobacterium leprae,NCBI_Taxonomy,1769
+Habitat,Schwann cells of the adult PNS,OntoBiotope,000647
+Habitat,adult,OntoBiotope,003245
+Habitat,adult PNS,OntoBiotope,001251
+Microorganism,M. leprae,NCBI_Taxonomy,1769
+Habitat,myelinated Schwann cells,OntoBiotope,000647
+Habitat,injury,OntoBiotope,000970
+Microorganism,M. leprae,NCBI_Taxonomy,1769
+Habitat,myelin-free cells,OntoBiotope,000647
+Microorganism,M. leprae,NCBI_Taxonomy,1769
+Microorganism,M. leprae,NCBI_Taxonomy,1769
+Habitat,cell,OntoBiotope,000647
+Habitat,infected cells,OntoBiotope,000647
+Habitat,adult,OntoBiotope,003245
+Habitat,adult Schwann cells,OntoBiotope,000647
+Microorganism,M. leprae,NCBI_Taxonomy,1769
+Habitat,PNS,OntoBiotope,001251
+Paragraph,To evaluate the growth potential of F. tularensis LVS strain in macrophage-like cell line J774 modulated by recombinant interferon gamma and E. coli derived lipopolysaccharide.,,
+Paragraph,"Stimulation of J774 cells either by interferon-gamma or lipopolysaccharide alone, or especially in combination before infection F. tularensis, revealed protective effects. Higher concentrations of stimulating agents were needed to inhibit ongoing F. tularensis infection.",,
+Paragraph,Stimulation of J774 cell line by combination of interferon-gamma with lipopolysaccharide inhibits the intracellular growth of F. tularensis.,,
+Microorganism,Francisella tularensis LVS,NCBI_Taxonomy,263
+Habitat,murine macrophage,OntoBiotope,002995
+Habitat,murine,OntoBiotope,002530
+Habitat,murine macrophage-like cell line J774,OntoBiotope,000062
+Microorganism,Francisella tularensis,NCBI_Taxonomy,263
+Phenotype,causative agent of human tularemia,OntoBiotope,002806
+Habitat,human,OntoBiotope,002488
+Phenotype,ability to proliferate inside the human cells,OntoBiotope,000195
+Habitat,human,OntoBiotope,002488
+Habitat,human cells,OntoBiotope,000061
+Microorganism,F. tularensis LVS,NCBI_Taxonomy,263
+Habitat,macrophage-like cell line J774,OntoBiotope,000062
+Habitat,macrophage,OntoBiotope,002995
+Microorganism,E. coli,NCBI_Taxonomy,110766
+Habitat,J774 cells,OntoBiotope,002995
+Habitat,J774 cells,OntoBiotope,000062
+Microorganism,F. tularensis,NCBI_Taxonomy,263
+Microorganism,F. tularensis,NCBI_Taxonomy,263
+Habitat,J774 cell line,OntoBiotope,002995
+Habitat,J774 cell line,OntoBiotope,000062
+Microorganism,F. tularensis,NCBI_Taxonomy,263
+Habitat,professional phagocytes,OntoBiotope,000801
+Habitat,host cells,OntoBiotope,000061
+Phenotype,Type III secretion,OntoBiotope,000019
+Phenotype,Gram-negative,OntoBiotope,000648
+Phenotype,bacterial pathogens,OntoBiotope,000375
+Habitat,host cells,OntoBiotope,000061
+Phenotype,pathogens,OntoBiotope,000375
+Microorganism,Yersinia pseudotuberculosis,NCBI_Taxonomy,633
+Habitat,cell types grown in culture,OntoBiotope,000061
+Microorganism,Y. pseudotuberculosis,NCBI_Taxonomy,633
+Habitat,professional phagocytes in Peyer's patches,OntoBiotope,000801
+Habitat,Peyer's patches,OntoBiotope,001184
+Habitat,Peyer's patches,OntoBiotope,000334
+Habitat,mesenteric lymph nodes,OntoBiotope,000718
+Habitat,spleen,OntoBiotope,000890
+Habitat,B cells,OntoBiotope,001623
+Habitat,T cells,OntoBiotope,001623
+Habitat,professional phagocytes,OntoBiotope,000801
+Habitat,neutrophils,OntoBiotope,003004
+Habitat,cells with translocated Yops,OntoBiotope,000801
+Microorganism,Y. pseudotuberculosis,NCBI_Taxonomy,633
+Habitat,cells,OntoBiotope,000801
+Habitat,isolated splenocytes,OntoBiotope,000320
+Habitat,professional phagocytes,OntoBiotope,000801
+Habitat,professional phagocytes,OntoBiotope,000801
+Habitat,isolated splenocytes,OntoBiotope,000320
+Habitat,cells,OntoBiotope,000801
+Habitat,professional phagocytes,OntoBiotope,000801
+Microorganism,Y. pseudotuberculosis,NCBI_Taxonomy,633
+Habitat,cells,OntoBiotope,000801
+Habitat,phagocytes,OntoBiotope,000801
+Habitat,cell,OntoBiotope,000801
+Microorganism,Vibrio fischeri,NCBI_Taxonomy,668
+Microorganism,Vibrio fischeri,NCBI_Taxonomy,668
+Phenotype,bioluminescent,OntoBiotope,000055
+Habitat,marine,OntoBiotope,000338
+Phenotype,exclusive symbiotic relationship,OntoBiotope,003183
+Habitat,Hawaiian bobtail squid,OntoBiotope,003123
+Habitat,Euprymna scolopes,OntoBiotope,003123
+Habitat,light organ,OntoBiotope,000708
+Microorganism,V. fischeri,NCBI_Taxonomy,668
+Habitat,juvenile squid's light organ,OntoBiotope,000708
+Habitat,juvenile squid,OntoBiotope,003123
+Habitat,juvenile squid,OntoBiotope,001849
+Microorganism,V. fischeri ES114,NCBI_Taxonomy,312309
+Habitat,microheterogeneous mixture of mono- and diphosphorylated diglucosamine disaccharides,OntoBiotope,000007
+Microorganism,V. fischeri,NCBI_Taxonomy,668
+Habitat,E. scolopes,OntoBiotope,003123
+Phenotype,symbiotic,OntoBiotope,003183
+Microorganism,Staphylococcus aureus,NCBI_Taxonomy,1280
+Phenotype,Pathogens,OntoBiotope,000375
+Habitat,mammals,OntoBiotope,001625
+Phenotype,pathogens,OntoBiotope,000375
+Phenotype,human pathogens,OntoBiotope,002806
+Habitat,human,OntoBiotope,002488
+Microorganism,Staphylococcus aureus,NCBI_Taxonomy,1280
+Microorganism,S. aureus,NCBI_Taxonomy,1280
+Phenotype,pathogens,OntoBiotope,000375
+Paragraph,"Biopsy specimens obtained by gastroscopy from 120 children with digestive system symptoms were detected by rapid urease test (RUT) and modified Giemsa staining. Positivity in both RUT and Giemsa staining was the ""gold criterion"" of H.pylori infection. Serum samples of these patients were obtained and the antibodies against cytotoxin associated gene A protein (CagA), vacuolating toxin A (VacA), urease, heat shock protein 60 (Hsp60) and RdxA (nitroreductase) were detected by protein array technique.",,
+Paragraph,"H.pylori infection was identified according to the ""gold criterion"" in 60 children. Compared with the ""gold criterion"", the goodness of fit and the coefficient of contingency in the diagnosis of H.pylori infection of the following four groups antibody detection were all statistically significant (P<0.001): anti-Ure antibody alone, anti-Ure antibody combined with anti-CagA antibody, anti-Ure antibody combined with anti-VacA antibody and anti-Ure antibody combined with anti-CagA and anti-VacA antibody. The sensitivity, specificity and accuracy of the detection of anti-Ure antibody combined with anti-CagA antibody for the diagnosis of H.pylori infection were 81.7%, 91.7% and 86.7%, respectively. The antibody detection showed a high positive predictive value (90.7%) and a high negative predictive value (83.3%).",,
+Paragraph,"The antibody detection by protein array, especially the detection of anti-Ure antibody combined with anti-CagA antibody, is valuable in the diagnosis of H.pylori infection.",,
+Microorganism,Helicobactor pylori,NCBI_Taxonomy,210
+Habitat,children,OntoBiotope,003188
+Microorganism,Helicobacter pylori,NCBI_Taxonomy,210
+Microorganism,H.pylori,NCBI_Taxonomy,210
+Microorganism,H.pylori,NCBI_Taxonomy,210
+Habitat,children,OntoBiotope,003188
+Habitat,Biopsy specimens obtained by gastroscopy,OntoBiotope,000110
+Habitat,Biopsy specimens obtained by gastroscopy,OntoBiotope,000642
+Habitat,children with digestive system symptoms,OntoBiotope,003220
+Habitat,children with digestive system symptoms,OntoBiotope,003188
+Habitat,digestive system,OntoBiotope,000641
+Microorganism,H.pylori,NCBI_Taxonomy,210
+Habitat,Serum samples of these patients,OntoBiotope,000524
+Habitat,patients,OntoBiotope,003220
+Habitat,patients,OntoBiotope,003188
+Microorganism,H.pylori,NCBI_Taxonomy,210
+Habitat,children,OntoBiotope,003188
+Habitat,children,OntoBiotope,003269
+Microorganism,H.pylori,NCBI_Taxonomy,210
+Microorganism,H.pylori,NCBI_Taxonomy,210
+Microorganism,H.pylori,NCBI_Taxonomy,210
+Habitat,Artemisia annua,OntoBiotope,000972
+Habitat,broiler,OntoBiotope,003334
+Habitat,intestinal microbiota,OntoBiotope,000113
+Habitat,intestinal,OntoBiotope,002810
+Microorganism,Clostridium perfringens,NCBI_Taxonomy,1502
+Habitat,aerial parts of the plant Artemisia annua,OntoBiotope,000395
+Habitat,plant Artemisia annua,OntoBiotope,000972
+Habitat,essential oils,OntoBiotope,000742
+Microorganism,Clostridium perfringens Type A,NCBI_Taxonomy,37763
+Habitat,broilers,OntoBiotope,003334
+Habitat,dried A. annua leaves,OntoBiotope,001174
+Habitat,dried A. annua leaves,OntoBiotope,000038
+Habitat,A. annua,OntoBiotope,000972
+Habitat,n-hexane extract from fresh A. annua leaves,OntoBiotope,000038
+Habitat,fresh A. annua leaves,OntoBiotope,001174
+Habitat,A. annua,OntoBiotope,000972
+Habitat,broiler,OntoBiotope,003334
+Habitat,Dried plant material,OntoBiotope,000038
+Habitat,Dried plant material,OntoBiotope,001258
+Habitat,Dried plant material,OntoBiotope,001174
+Habitat,plant,OntoBiotope,000972
+Habitat,feed,OntoBiotope,000038
+Habitat,body,OntoBiotope,000214
+Habitat,feed,OntoBiotope,000038
+Habitat,n-hexane extract,OntoBiotope,000038
+Habitat,feed,OntoBiotope,000038
+Habitat,broiler,OntoBiotope,003334
+Habitat,feed,OntoBiotope,000038
+Habitat,birds,OntoBiotope,003334
+Habitat,n-hexane extract,OntoBiotope,001258
+Habitat,n-hexane extract,OntoBiotope,000038
+Habitat,dried A. annua leaves,OntoBiotope,001174
+Habitat,dried A. annua leaves,OntoBiotope,000038
+Habitat,dried A. annua leaves,OntoBiotope,001258
+Habitat,A. annua,OntoBiotope,000972
+Habitat,n-hexane extract of A. annua,OntoBiotope,001258
+Habitat,n-hexane extract of A. annua,OntoBiotope,000038
+Habitat,A. annua,OntoBiotope,000972
+Habitat,broilers,OntoBiotope,003334
+Habitat,n-hexane extract,OntoBiotope,000038
+Habitat,n-hexane extract,OntoBiotope,001258
+Habitat,intestinal,OntoBiotope,002810
+Microorganism,C. perfringens,NCBI_Taxonomy,37763
+Habitat,small intestinal,OntoBiotope,003303
+Habitat,small intestinal lesions,OntoBiotope,000471
+Habitat,birds supplemented with the n-hexane extract,OntoBiotope,003334
+Habitat,n-hexane extract,OntoBiotope,001258
+Habitat,n-hexane extract,OntoBiotope,000038
+Habitat,challenged control birds,OntoBiotope,003334
+Habitat,birds receiving dried plant material,OntoBiotope,003334
+Habitat,dried plant material,OntoBiotope,000038
+Habitat,dried plant material,OntoBiotope,001258
+Habitat,dried plant material,OntoBiotope,001174
+Habitat,plant,OntoBiotope,000972
+Habitat,n-hexane extracts derived from A. annua,OntoBiotope,001258
+Habitat,n-hexane extracts derived from A. annua,OntoBiotope,000038
+Habitat,A. annua,OntoBiotope,000972
+Paragraph,"We analyzed data from 1446 inpatient cases of CDI (48.6% female; median age, 62.5 years; range, 0.1-103.7 years) at the Mayo Clinic from June 28, 2007, to June 25, 2010. Patients with severe-complicated CDI (n?= 487) were identified as those who required admission to the intensive care unit or colectomy, or died, within 30 days of CDI diagnosis. Logistic regression models were used to identify variables that were independently associated with the occurrence of severe-complicated CDI in 2 cohorts. One cohort comprised all hospitalized patients; the other comprised a subset of these inpatients who were residents of Olmsted County, Minnesota to assess the association of comorbid conditions with the development of severe-complicated infection in a population-based cohort. The linear combinations of variables identified by using logistic regression models provided scores to predict the risk of developing severe-complicated CDI.",,
+Paragraph,"In a multivariable model that included all inpatients, increasing age, leukocyte count >15?¡Á?10(9)/L, increase in serum level of creatinine >1.5-fold from baseline, and use of proton pump inhibitors or narcotic medications were independently associated with severe-complicated CDI. In the secondary analysis, which included only patients from Olmsted County, comorbid conditions were not significantly associated with severe-complicated CDI.",,
+Paragraph,"Older age, high numbers of leukocytes in blood samples, an increased serum level of creatinine, gastric acid suppression, and use of narcotic medications were independently associated with development of severe-complicated CDI in hospitalized patients. Early aggressive monitoring and intervention could improve outcomes.",,
+Microorganism,Clostridium difficile,NCBI_Taxonomy,1496
+Microorganism,Clostridium difficile,NCBI_Taxonomy,1496
+Habitat,colon,OntoBiotope,001496
+Habitat,"inpatient cases of CDI (48.6% female; median age, 62.5 years; range, 0.1-103.7 years)",OntoBiotope,003269
+Habitat,Mayo Clinic,OntoBiotope,002694
+Habitat,Patients with severe-complicated CDI,OntoBiotope,003269
+Habitat,intensive care unit,OntoBiotope,000328
+Habitat,hospitalized patients,OntoBiotope,003269
+Habitat,hospitalized,OntoBiotope,002714
+Habitat,inpatients,OntoBiotope,003269
+Habitat,population-based cohort,OntoBiotope,003269
+Habitat,inpatients,OntoBiotope,003269
+Habitat,leukocyte,OntoBiotope,000706
+Habitat,serum,OntoBiotope,000524
+Habitat,patients,OntoBiotope,003269
+Habitat,leukocytes,OntoBiotope,000706
+Habitat,blood samples,OntoBiotope,000521
+Habitat,serum,OntoBiotope,000524
+Habitat,gastric,OntoBiotope,001792
+Habitat,gastric acid,OntoBiotope,000640
+Habitat,hospitalized,OntoBiotope,002714
+Habitat,hospitalized patients,OntoBiotope,003269
+Paragraph,"We developed a decision analytic simulation model to determine the economic value of fidaxomicin for CDI treatment from the third-party payer perspective. We looked at CDI treatment in these 3 cases: (1) no fidaxomicin, (2) only fidaxomicin, and (3) fidaxomicin based on strain typing results.",,
+Paragraph,"The incremental cost-effectiveness ratio for fidaxomicin based on screening given current conditions was >$43.7 million per quality-adjusted life-year and using only fidaxomicin was dominated (ie, more costly and less effective) by the other 2 treatment strategies explored. The fidaxomicin strategy tended to remain dominated, even at lower costs. With approximately 50% of CDI due to the NAP1/BI/027 strain, a course of fidaxomicin would need to cost ¡Ü$150 to be cost-effective in the treatment of all CDI cases and between $160 and $400 to be cost-effective for those with a non-NAP1/BI/027 strain (ie, treatment based on strain typing).",,
+Paragraph,"Given the current cost and NAP1/BI/027 accounting for approximately 50% of isolates, using fidaxomicin as a first-line treatment for CDI is not cost-effective. However, typing and treatment with fidaxomicin based on strain may be more promising depending on the costs of fidaxomicin.",,
+Microorganism,Clostridium difficile,NCBI_Taxonomy,1496
+Microorganism,Clostridium difficile,NCBI_Taxonomy,1496
+Paragraph,"Antimicrobial resistance was present in all lineage clusters, but statistical testing showed a non-random distribution. Erythromycin resistance was associated with Campylobacter coli. For all antimicrobials tested, resistant isolates were distributed among relatively distant lineages indicative of widespread acquisition. There was also evidence of clustering of resistance phenotypes within lineages; indicative of local expansion of resistant strains.",,
+Paragraph,"These results are consistent with the widespread acquisition of antimicrobial resistance among chicken associated Campylobacter isolates, either through mutation or horizontal gene transfer, and the expansion of these lineages as a proportion of the population. As Campylobacter are not known to multiply outside of the host and long-term carriage in humans is extremely infrequent in industrialized countries, the most likely location for the proliferation of resistant lineages is in farmed chickens.",,
+Phenotype,antimicrobial resistance,OntoBiotope,002337
+Microorganism,Campylobacter,NCBI_Taxonomy,194
+Habitat,UK retail poultry,OntoBiotope,002199
+Phenotype,resistant,OntoBiotope,002337
+Phenotype,Antimicrobial resistance,OntoBiotope,002337
+Habitat,clinical,OntoBiotope,003220
+Microorganism,Campylobacter,NCBI_Taxonomy,194
+Habitat,retail poultry,OntoBiotope,002199
+Habitat,human,OntoBiotope,002488
+Phenotype,antimicrobial susceptibility,OntoBiotope,002338
+Microorganism,Campylobacter,NCBI_Taxonomy,194
+Habitat,retail poultry,OntoBiotope,002199
+Phenotype,resistant to erythromycin,OntoBiotope,002790
+Phenotype,resistant to chloramphenicol,OntoBiotope,002772
+Phenotype,resistant to quinolones,OntoBiotope,002840
+Phenotype,resistant to naladixic acid,OntoBiotope,002823
+Phenotype,resistant to aminoglycosides,OntoBiotope,002760
+Phenotype,resistant to ciprofloxacin,OntoBiotope,002773
+Phenotype,resistant to tetracycline,OntoBiotope,002869
+Phenotype,antimicrobial resistance,OntoBiotope,002337
+Phenotype,Antimicrobial resistance,OntoBiotope,002337
+Phenotype,Erythromycin resistance,OntoBiotope,002790
+Microorganism,Campylobacter coli,NCBI_Taxonomy,195
+Phenotype,resistant,OntoBiotope,002337
+Phenotype,resistance,OntoBiotope,002337
+Phenotype,resistant,OntoBiotope,002337
+Phenotype,antimicrobial resistance,OntoBiotope,002337
+Habitat,chicken,OntoBiotope,002394
+Microorganism,Campylobacter,NCBI_Taxonomy,194
+Microorganism,Campylobacter,NCBI_Taxonomy,194
+Habitat,humans,OntoBiotope,002488
+Phenotype,resistant,OntoBiotope,002337
+Habitat,farmed chickens,OntoBiotope,003314
+Microorganism,Pseudomonas aeruginosa,NCBI_Taxonomy,287
+Microorganism,Pseudomonas aeruginosa,NCBI_Taxonomy,287
+Phenotype,Gram-negative,OntoBiotope,000648
+Habitat,susceptible individuals,OntoBiotope,002488
+Phenotype,resistant to most clinically available antimicrobials,OntoBiotope,002337
+Microorganism,P. aeruginosa PAO1,NCBI_Taxonomy,208964
+Phenotype,pathogen,OntoBiotope,002806
+Paragraph,An outbreak investigation included a standardized exposure questionnaire admitted to all patients and medical chart abstraction. Isolates were tested for antimicrobial susceptibility and pulsed-field gel electrophoresis (PFGE).,,
+Paragraph,"During 1 October 2009-30 November 2009, 37 Israeli travelers returning from Nepal were diagnosed with S. Paratyphi A bacteremia. All 37 case isolates had an identical pattern on PFGE, and all were nalidixic acid resistant. Only 1 food venue was frequented by all the outbreak cases, with the largest number of exposures occurring around the Jewish New Year. All patients recovered without complications. Time to defervescence in 17 patients treated with ceftriaxone and azithromycin combination was 3.2 days (¡À 1.7), whereas in 13 cases treated with ceftriaxone monotherapy, the time to defervescence was 6.6 days (¡À 1.8; P < .001).",,
+Paragraph,"A point-source, ""Paratyphoid Mary""-like outbreak was identified among Israeli travelers to Nepal. Combination Ceftriaxone-Azithromycin therapy may provide a therapeutic advantage over monotherapy, and merits further clinical trials.",,
+Microorganism,Salmonella Paratyphi A,NCBI_Taxonomy,54388
+Habitat,israeli travelers,OntoBiotope,003308
+Microorganism,Salmonella Paratyphi A,NCBI_Taxonomy,54388
+Habitat,travelers,OntoBiotope,003308
+Microorganism,S. Paratyphi A,NCBI_Taxonomy,54388
+Habitat,Israeli travelers,OntoBiotope,003308
+Habitat,patients,OntoBiotope,003269
+Phenotype,antimicrobial susceptibility,OntoBiotope,002338
+Habitat,Israeli travelers,OntoBiotope,003308
+Microorganism,S. Paratyphi A,NCBI_Taxonomy,54388
+Phenotype,nalidixic acid resistant,OntoBiotope,002823
+Habitat,food venue,OntoBiotope,000607
+Habitat,food,OntoBiotope,000094
+Habitat,patients,OntoBiotope,003269
+Habitat,patients treated with ceftriaxone and azithromycin combination,OntoBiotope,003269
+Habitat,cases treated with ceftriaxone monotherapy,OntoBiotope,003269
+Habitat,Israeli travelers,OntoBiotope,003308
+Microorganism,Haemophilus influenzae,NCBI_Taxonomy,727
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Microorganism,Haemophilus influenzae,NCBI_Taxonomy,727
+Phenotype,lytic,OntoBiotope,000107
+Microorganism,¦µ st1,NCBI_Taxonomy,12333
+Microorganism,Salmonella enterica serovar Typhimurium,NCBI_Taxonomy,90371
+Habitat,chickens,OntoBiotope,003314
+Microorganism,Salmonella Typhimurium lytic bacteriophage,NCBI_Taxonomy,12333
+Microorganism,Salmonella Typhimurium,NCBI_Taxonomy,90371
+Phenotype,lytic,OntoBiotope,000107
+Microorganism,¦µ st1,NCBI_Taxonomy,12333
+Habitat,chicken,OntoBiotope,003314
+Habitat,chicken faecal material,OntoBiotope,001102
+Microorganism,Salmonella,NCBI_Taxonomy,590
+Habitat,chickens,OntoBiotope,003314
+Microorganism,¦µ st1,NCBI_Taxonomy,12333
+Microorganism,Siphoviridae,NCBI_Taxonomy,10699
+Microorganism,¦µ st1,NCBI_Taxonomy,12333
+Microorganism,S. Typhimurium,NCBI_Taxonomy,90371
+Microorganism,S. Hadar,NCBI_Taxonomy,149385
+Phenotype,lytic activity,OntoBiotope,000107
+Microorganism,¦µ st1,NCBI_Taxonomy,12333
+Microorganism,S. Typhimurium,NCBI_Taxonomy,90371
+Microorganism,¦µ st1,NCBI_Taxonomy,12333
+Habitat,host cells,OntoBiotope,000061
+Microorganism,S. Typhimurium,NCBI_Taxonomy,90371
+Microorganism,¦µ st1,NCBI_Taxonomy,12333
+Microorganism,¦µ st1,NCBI_Taxonomy,12333
+Habitat,host cells,OntoBiotope,000061
+Microorganism,¦µ st1,NCBI_Taxonomy,12333
+Habitat,intracloacal,OntoBiotope,001488
+Habitat,chickens,OntoBiotope,000700
+Habitat,chickens,OntoBiotope,003314
+Microorganism,S. Typhimurium,NCBI_Taxonomy,90371
+Microorganism,S. Typhimurium,NCBI_Taxonomy,90371
+Microorganism,Salmonella,NCBI_Taxonomy,590
+Microorganism,S. Typhimurium,NCBI_Taxonomy,90371
+Microorganism,Salmonella,NCBI_Taxonomy,590
+Habitat,visceral organs,OntoBiotope,000364
+Microorganism,¦µ st1,NCBI_Taxonomy,12333
+Habitat,caecal,OntoBiotope,001471
+Habitat,caecal wall of the chicks,OntoBiotope,001006
+Habitat,chicks,OntoBiotope,000700
+Habitat,chicks,OntoBiotope,003314
+Habitat,chicks,OntoBiotope,003263
+Microorganism,¦µ st1,NCBI_Taxonomy,12333
+Microorganism,Salmonella,NCBI_Taxonomy,590
+Habitat,caecal content of chickens,OntoBiotope,001470
+Habitat,caecal,OntoBiotope,001471
+Habitat,chickens,OntoBiotope,003314
+Paragraph,"We performed parallel searches in OVID Medline for studies that reported the time to documented clearance of MRSA and VRE colonization in the absence of treatment, published between January 1990 and July 2012.",,
+Paragraph,"For MRSA, we screened 982 articles, identified 16 eligible studies (13 observational studies and 3 randomized controlled trials), for a total of 1,804 non-duplicated subjects. For VRE, we screened 284 articles, identified 13 eligible studies (12 observational studies and 1 randomized controlled trial), for a total of 1,936 non-duplicated subjects. Studies reported varying definitions of clearance of colonization; no study reported time of initial colonization. Studies varied in the frequency of sampling, assays used for sampling, and follow-up period. The median duration of total follow-up was 38?weeks for MRSA and 25?weeks for VRE. Based on pooled analyses, the model-estimated median time to clearance was 88?weeks after documented colonization for MRSA-colonized patients and 26?weeks for VRE-colonized patients. In a secondary analysis, clearance rates for MRSA and VRE were compared by restricting the duration of follow-up for the MRSA studies to the maximum observed time point for VRE studies (43?weeks). With this restriction, the model-fitted median time to documented clearance for MRSA would occur at 41?weeks after documented colonization, demonstrating the sensitivity of the pooled estimate to length of study follow-up.",,
+Paragraph,"Few available studies report the natural history of MRSA and VRE colonization. Lack of a consistent definition of clearance, uncertainty regarding the time of initial colonization, variation in frequency of sampling for persistent colonization, assays employed and variation in duration of follow-up are limitations of the existing published literature. The heterogeneity of study characteristics limits interpretation of pooled estimates of time to clearance, however, studies included in this review suggest an increase in documented clearance over time, a result which is sensitive to duration of follow-up.",,
+Phenotype,methicillin-resistant,OntoBiotope,002817
+Microorganism,Staphylococcus aureus,NCBI_Taxonomy,1280
+Phenotype,MRSA,OntoBiotope,002817
+Microorganism,MRSA,NCBI_Taxonomy,1280
+Phenotype,vancomycin-resistant,OntoBiotope,002874
+Microorganism,Enterococcus,NCBI_Taxonomy,1350
+Phenotype,VRE,OntoBiotope,002874
+Microorganism,VRE,NCBI_Taxonomy,1350
+Phenotype,methicillin-resistant,OntoBiotope,002817
+Microorganism,Staphylococcus aureus,NCBI_Taxonomy,1280
+Phenotype,MRSA,OntoBiotope,002817
+Microorganism,MRSA,NCBI_Taxonomy,1280
+Phenotype,vancomycin-resistant,OntoBiotope,002874
+Microorganism,Enterococcus,NCBI_Taxonomy,1350
+Phenotype,VRE,OntoBiotope,002874
+Microorganism,VRE,NCBI_Taxonomy,1350
+Habitat,patient,OntoBiotope,003269
+Phenotype,MRSA,OntoBiotope,002817
+Microorganism,MRSA,NCBI_Taxonomy,1280
+Phenotype,VRE,OntoBiotope,002874
+Microorganism,VRE,NCBI_Taxonomy,1350
+Phenotype,MRSA,OntoBiotope,002817
+Microorganism,MRSA,NCBI_Taxonomy,1280
+Phenotype,VRE,OntoBiotope,002874
+Microorganism,VRE,NCBI_Taxonomy,1350
+Phenotype,MRSA,OntoBiotope,002817
+Microorganism,MRSA,NCBI_Taxonomy,1280
+Phenotype,VRE,OntoBiotope,002874
+Microorganism,VRE,NCBI_Taxonomy,1350
+Phenotype,MRSA,OntoBiotope,002817
+Microorganism,MRSA,NCBI_Taxonomy,1280
+Habitat,MRSA-colonized patients,OntoBiotope,003269
+Phenotype,VRE,OntoBiotope,002874
+Microorganism,VRE,NCBI_Taxonomy,1350
+Habitat,VRE-colonized patients,OntoBiotope,003269
+Phenotype,MRSA,OntoBiotope,002817
+Microorganism,MRSA,NCBI_Taxonomy,1280
+Phenotype,VRE,OntoBiotope,002874
+Microorganism,VRE,NCBI_Taxonomy,1350
+Phenotype,MRSA,OntoBiotope,002817
+Microorganism,MRSA,NCBI_Taxonomy,1280
+Phenotype,VRE,OntoBiotope,002874
+Microorganism,VRE,NCBI_Taxonomy,1350
+Phenotype,MRSA,OntoBiotope,002817
+Microorganism,MRSA,NCBI_Taxonomy,1280
+Phenotype,MRSA,OntoBiotope,002817
+Microorganism,MRSA,NCBI_Taxonomy,1280
+Phenotype,VRE,OntoBiotope,002874
+Microorganism,VRE,NCBI_Taxonomy,1350
+Habitat,eukaryotic cell,OntoBiotope,000061
+Habitat,cell,OntoBiotope,000061
+Habitat,cell,OntoBiotope,000061
+Habitat,cell,OntoBiotope,000061
+Habitat,macrophage cell line,OntoBiotope,002995
+Habitat,macrophage cell line,OntoBiotope,000062
+Habitat,384-well screening plates,OntoBiotope,000103
+Microorganism,Legionella pneumophila,NCBI_Taxonomy,446
+Habitat,host cell,OntoBiotope,002995
+Habitat,cell,OntoBiotope,002995
+Microorganism,Methylocella,NCBI_Taxonomy,120652
+Phenotype,methanotrophs,OntoBiotope,001205
+Phenotype,ability to grow simultaneously on methane and longer chain alkanes,OntoBiotope,001205
+Microorganism,Methylocella silvestris,NCBI_Taxonomy,199596
+Microorganism,Methylocella,NCBI_Taxonomy,199596
+Habitat,upper respiratory tract,OntoBiotope,000936
+Microorganism,Mycoplasma,NCBI_Taxonomy,2093
+Habitat,free-ranging gopher tortoises,OntoBiotope,001828
+Habitat,Gopherus polyphemus,OntoBiotope,001828
+Habitat,Upper respiratory tract,OntoBiotope,000936
+Habitat,gopher tortoise,OntoBiotope,001828
+Habitat,Gopherus polyphemus,OntoBiotope,001828
+Habitat,"Georgia, USA tortoise populations",OntoBiotope,001828
+Microorganism,Mycoplasma agassizii,NCBI_Taxonomy,33922
+Microorganism,Mycoplasma testudineum,NCBI_Taxonomy,244584
+Habitat,Georgia tortoise populations,OntoBiotope,001828
+Microorganism,M. agassizii,NCBI_Taxonomy,33922
+Microorganism,M. testudineum,NCBI_Taxonomy,244584
+Habitat,tortoises,OntoBiotope,001828
+Phenotype,pathogens,OntoBiotope,002669
+Habitat,tortoises,OntoBiotope,001828
+Habitat,tortoises,OntoBiotope,001828
+Habitat,tortoises,OntoBiotope,001828
+Microorganism,M. testudineum,NCBI_Taxonomy,244584
+Phenotype,pathogenicity,OntoBiotope,002669
+Habitat,gopher tortoises,OntoBiotope,001828
+Microorganism,M. agassizii,NCBI_Taxonomy,33922
+Microorganism,M. testudineum,NCBI_Taxonomy,244584
+Habitat,Georgia populations of gopher tortoises,OntoBiotope,001828
+Phenotype,pathogens,OntoBiotope,002669
+Phenotype,pathogens,OntoBiotope,002669
+Phenotype,pathogens,OntoBiotope,002669
+Habitat,tortoise populations,OntoBiotope,001828
+Habitat,tortoises,OntoBiotope,001828
+Microorganism,Mycobacterium tuberculosis,NCBI_Taxonomy,1773
+Habitat,apoptotic cells,OntoBiotope,000061
+Habitat,DCs,OntoBiotope,002785
+Microorganism,Mycobacterium tuberculosis,NCBI_Taxonomy,1773
+Microorganism,Mtb,NCBI_Taxonomy,1773
+Habitat,DC,OntoBiotope,002785
+Habitat,DCs,OntoBiotope,002785
+Habitat,DC,OntoBiotope,002785
+Habitat,Annexin1-deficient mice,OntoBiotope,003211
+Microorganism,Mtb,NCBI_Taxonomy,1773
+Microorganism,Mtb,NCBI_Taxonomy,1773
+Habitat,CD8+ T cell,OntoBiotope,001623
+Microorganism,Mtb,NCBI_Taxonomy,1773
+Habitat,Mtb-infected human blood monocyte-derived DCs,OntoBiotope,002785
+Habitat,Mtb-infected human blood,OntoBiotope,000521
+Habitat,human,OntoBiotope,002488
+Habitat,human blood monocyte,OntoBiotope,003001
+Microorganism,Mtb,NCBI_Taxonomy,1773
+Microorganism,Mtb,NCBI_Taxonomy,1773
+Habitat,DC,OntoBiotope,002785
+Phenotype,hydrogen cyanide (HCN) and ammonia (NH?) emitted,OntoBiotope,000019
+Microorganism,Pseudomonas aeruginosa,NCBI_Taxonomy,287
+Phenotype,hydrogen cyanide (HCN) production,OntoBiotope,000019
+Microorganism,Pseudomonas aeruginosa,NCBI_Taxonomy,287
+Microorganism,P. aeruginosa,NCBI_Taxonomy,287
+Phenotype,production of ammonia (NH3),OntoBiotope,000019
+Habitat,clinical,OntoBiotope,003220
+Habitat,patients with CF,OntoBiotope,003220
+Phenotype,pathogens,OntoBiotope,002806
+Habitat,lungs of CF patients,OntoBiotope,000716
+Habitat,airways of CF patients,OntoBiotope,000408
+Habitat,CF patients,OntoBiotope,003220
+Phenotype,Hydrogen cyanide production,OntoBiotope,000019
+Microorganism,P. aeruginosa,NCBI_Taxonomy,287
+Microorganism,P. aeruginosa,NCBI_Taxonomy,1276719
+Phenotype,produced HCN,OntoBiotope,000019
+Phenotype,HCN production,OntoBiotope,000019
+Microorganism,Burkholderia cepacia,NCBI_Taxonomy,292
+Phenotype,produced HCN,OntoBiotope,000019
+Phenotype,pathogens,OntoBiotope,000375
+Microorganism,Aspergillus fumigatus,NCBI_Taxonomy,746128
+Microorganism,Stenotrophomonas maltophilia,NCBI_Taxonomy,40324
+Microorganism,Mycobacterium abscessus,NCBI_Taxonomy,36809
+Phenotype,HCN production,OntoBiotope,000019
+Habitat,fish,OntoBiotope,002793
+Phenotype,fish pathogen,OntoBiotope,002669
+Microorganism,Vibrio salmonicida,NCBI_Taxonomy,40269
+Habitat,fish farm sediments,OntoBiotope,001430
+Habitat,fish,OntoBiotope,002903
+Habitat,fish farm,OntoBiotope,000630
+Habitat,fish,OntoBiotope,002793
+Phenotype,fish pathogen,OntoBiotope,002669
+Microorganism,Vibrio salmonicida,NCBI_Taxonomy,40269
+Habitat,fish farm sediments,OntoBiotope,001430
+Habitat,fish farm,OntoBiotope,000630
+Habitat,fish,OntoBiotope,002903
+Habitat,polyclonal rabbit serum,OntoBiotope,000524
+Habitat,rabbit,OntoBiotope,002572
+Microorganism,Vibrio,NCBI_Taxonomy,662
+Habitat,intestinal tracts of healthy fish,OntoBiotope,000641
+Habitat,healthy fish,OntoBiotope,002793
+Habitat,sediments,OntoBiotope,001430
+Microorganism,V. salmonicida,NCBI_Taxonomy,40269
+Habitat,sediment samples from diseased farms,OntoBiotope,001430
+Habitat,diseased farms,OntoBiotope,000630
+Habitat,sediment sample from a disease-free fish farm,OntoBiotope,001430
+Habitat,disease-free fish farm,OntoBiotope,000630
+Habitat,fish,OntoBiotope,002903
+Microorganism,V. salmonicida,NCBI_Taxonomy,40269
+Habitat,sediments,OntoBiotope,001430
+Habitat,fish,OntoBiotope,002903
+Habitat,fish farming,OntoBiotope,000630
+Habitat,rabbit,OntoBiotope,002572
+Habitat,rabbit serum,OntoBiotope,000524
+Habitat,rabbit serum,OntoBiotope,002572
+Habitat,rabbit serum,OntoBiotope,000524
+Habitat,rabbit,OntoBiotope,002572
+Phenotype,Gram-positive,OntoBiotope,000649
+Phenotype,Gram-negative,OntoBiotope,000648
+Microorganism,Staphylococcus aureus,NCBI_Taxonomy,1280
+Habitat,clinical,OntoBiotope,003220
+Habitat,"clinical materials (amniotic fluid, intrauterine secretions, exudates of the pelvic dead space) of patients with various infections",OntoBiotope,000039
+Habitat,amniotic fluid,OntoBiotope,000485
+Habitat,intrauterine,OntoBiotope,000692
+Habitat,exudates of the pelvic dead space,OntoBiotope,000215
+Habitat,pelvic dead space,OntoBiotope,000463
+Habitat,patients with various infections,OntoBiotope,003269
+Habitat,body,OntoBiotope,000214
+Habitat,body fluids,OntoBiotope,000215
+Habitat,genital,OntoBiotope,000643
+Habitat,genital tissues,OntoBiotope,000196
+Habitat,tissues,OntoBiotope,000196
+Habitat,tissue,OntoBiotope,000196
+Phenotype,pathogens,OntoBiotope,000375
+Habitat,genital tissues,OntoBiotope,000196
+Habitat,genital,OntoBiotope,000643
+Phenotype,Gram-positive,OntoBiotope,000649
+Phenotype,cocci,OntoBiotope,000850
+Phenotype,Gram-negative,OntoBiotope,000648
+Phenotype,anaerobes,OntoBiotope,000189
+Habitat,women with genital infections,OntoBiotope,003269
+Habitat,women with genital infections,OntoBiotope,003463
+Habitat,genital,OntoBiotope,000643
+Microorganism,Pseudomonas aeruginosa,NCBI_Taxonomy,287
+Habitat,Spheroplasts,OntoBiotope,000061
+Microorganism,Pseudomonas aeruginosa,NCBI_Taxonomy,287
+Habitat,20% sucrose,OntoBiotope,000106
+Habitat,0.2 m MgCl(2),OntoBiotope,000106
+Habitat,spheroplasts,OntoBiotope,000061
+Habitat,0.2 m Mg(2+),OntoBiotope,000106
+Habitat,20% sucrose,OntoBiotope,000106
+Habitat,sucrose,OntoBiotope,000106
+Habitat,sucrose-lysozyme preparations,OntoBiotope,000106
+Habitat,spheroplasts,OntoBiotope,000061
+Habitat,20% sucrose,OntoBiotope,000106
+Habitat,sucrose,OntoBiotope,000106
+Habitat,sucrose-lysozyme,OntoBiotope,000106
+Habitat,sucrose-lysozyme prepared spheroplasts,OntoBiotope,000061
+Habitat,sucrose-washed cells,OntoBiotope,000061
+Microorganism,P. aeruginosa,NCBI_Taxonomy,287
+Microorganism,Coxiella burnetii,NCBI_Taxonomy,777
+Habitat,Purified preparations of Coxiella burnetii,OntoBiotope,000007
+Microorganism,Coxiella burnetii,NCBI_Taxonomy,777
+Habitat,C. burnetii extracts,OntoBiotope,000007
+Microorganism,C. burnetii,NCBI_Taxonomy,777
+Microorganism,C. burnetii,NCBI_Taxonomy,777
+Habitat,normal yolk sacs,OntoBiotope,001387
+Habitat,normal yolk sacs,OntoBiotope,001387
+Habitat,infected yolk sacs,OntoBiotope,001387
+Habitat,normal yolk sacs,OntoBiotope,001387
+Habitat,infected yolk sacs,OntoBiotope,001387
+Habitat,C. burnetii extract,OntoBiotope,000007
+Microorganism,C. burnetii,NCBI_Taxonomy,777
+Habitat,Macaca mulatta infected with virulent Mycobacterium tuberculosis,OntoBiotope,002201
+Microorganism,bacille Calmette Guerin,NCBI_Taxonomy,33892
+Habitat,bacille Calmette Guerin cell wall vaccine,OntoBiotope,000464
+Phenotype,virulent,OntoBiotope,002669
+Microorganism,Mycobacterium tuberculosis,NCBI_Taxonomy,1773
+,,OntoBiotope,002201
+Habitat,pediatric,OntoBiotope,003188
+Habitat,pediatric,OntoBiotope,003220
+Habitat,respiratory,OntoBiotope,000407
+Habitat,respiratory,OntoBiotope,000407
+Habitat,pediatric,OntoBiotope,003188
+Habitat,pediatric,OntoBiotope,003220
+Habitat,children less than 2 years of age,OntoBiotope,003188
+Habitat,children less than 2 years of age,OntoBiotope,003220
+Habitat,children greater than 9 years of age who had lower respiratory illness,OntoBiotope,003220
+Habitat,children greater than 9 years of age who had lower respiratory illness,OntoBiotope,003188
+Habitat,respiratory,OntoBiotope,000407
+Habitat,Males,OntoBiotope,003248
+Habitat,Males,OntoBiotope,003220
+Habitat,females,OntoBiotope,003259
+Habitat,females,OntoBiotope,003220
+Habitat,males,OntoBiotope,003248
+Habitat,males,OntoBiotope,003220
+Phenotype,nonbacterial pathogen,OntoBiotope,000375
+Habitat,patients with WARI,OntoBiotope,003188
+Habitat,patients with WARI,OntoBiotope,003220
+Habitat,respiratory,OntoBiotope,000407
+Microorganism,respiratory syncytial virus,NCBI_Taxonomy,12814
+Microorganism,parainfluenza virus types 1,NCBI_Taxonomy,12730
+Microorganism,parainfluenza virus types 3,NCBI_Taxonomy,11216
+Microorganism,adenoviruses,NCBI_Taxonomy,10508
+Microorganism,Mycoplasma pneumoniae,NCBI_Taxonomy,2104
+Habitat,Patient,OntoBiotope,003220
+Habitat,Patient,OntoBiotope,003188
+Phenotype,cause of WARI in children under 5 years of age,OntoBiotope,002806
+Habitat,children under 5 years of age,OntoBiotope,003188
+Habitat,children under 5 years of age,OntoBiotope,003220
+Microorganism,RSV,NCBI_Taxonomy,12814
+Microorganism,Mycoplasma pneumoniae,NCBI_Taxonomy,2104
+Habitat,school age children with wheezing illness,OntoBiotope,003188
+Habitat,school age children with wheezing illness,OntoBiotope,003220
+Habitat,diagnosticians,OntoBiotope,003321
+Habitat,researchers,OntoBiotope,003338
+Habitat,respiratory,OntoBiotope,000407
+Habitat,Hospital S. Camillo De Lellis,OntoBiotope,002714
+,,NCBI_Taxonomy,613
+Habitat,Pelecypod,OntoBiotope,001651
+Habitat,people,OntoBiotope,003269
+Microorganism,Vibrio cholerae O:1,NCBI_Taxonomy,127906
+Habitat,household,OntoBiotope,000315
+Habitat,household contacts of the patients,OntoBiotope,002488
+Habitat,patients,OntoBiotope,003269
+Habitat,people with V. cholerae O:1 infection,OntoBiotope,003269
+Microorganism,V. cholerae O:1,NCBI_Taxonomy,127906
+Habitat,marine bivalves,OntoBiotope,001651
+Habitat,marine,OntoBiotope,000338
+Habitat,arselle,OntoBiotope,001651
+Habitat,pelecypods,OntoBiotope,001651
+Habitat,arselle,OntoBiotope,001651
+Microorganism,V. cholerae O:1,NCBI_Taxonomy,127906
+Habitat,water,OntoBiotope,000468
+Habitat,bivalves,OntoBiotope,001215
+Habitat,bivalves,OntoBiotope,001651
+Habitat,lagoon on the outskirts of the city of Cagliari,OntoBiotope,003213
+Habitat,outskirts of the city of Cagliari,OntoBiotope,000232
+Habitat,Arselle,OntoBiotope,001651
+Habitat,urethral,OntoBiotope,000938
+Habitat,urethral smears,OntoBiotope,000863
+Habitat,urine,OntoBiotope,001367
+Habitat,urine sediments,OntoBiotope,000007
+,,NCBI_Taxonomy,813
+Microorganism,Chlamydia trachomatis,NCBI_Taxonomy,813
+Microorganism,C. psittaci,NCBI_Taxonomy,83554
+Habitat,McCoy cells,OntoBiotope,000061
+Habitat,McCoy cells,OntoBiotope,000062
+Habitat,clinical,OntoBiotope,003220
+Microorganism,Chlamydia trachomatis,NCBI_Taxonomy,813
+Microorganism,C. psittaci,NCBI_Taxonomy,83554
+Habitat,cycloheximide-treated McCoy cells,OntoBiotope,000062
+Habitat,cycloheximide-treated McCoy cells,OntoBiotope,000061
+Microorganism,C. trachomatis,NCBI_Taxonomy,813
+Habitat,clinical,OntoBiotope,003220
+Microorganism,C. psittaci,NCBI_Taxonomy,83554
+Microorganism,C. trachomatis,NCBI_Taxonomy,813
+Microorganism,C. psittaci,NCBI_Taxonomy,83554
+Microorganism,C. trachomatis,NCBI_Taxonomy,813
+Habitat,cases of trachoma,OntoBiotope,003269
+Microorganism,serotypes B,NCBI_Taxonomy,813
+Microorganism,serotypes A,NCBI_Taxonomy,813
+Microorganism,serotypes C,NCBI_Taxonomy,813
+Habitat,oculogenital,OntoBiotope,000364
+Microorganism,serotypes D-I,NCBI_Taxonomy,813
+Microorganism,C. psittaci,NCBI_Taxonomy,83554
+Microorganism,chlamydiae,NCBI_Taxonomy,83554
+Microorganism,chlamydiae,NCBI_Taxonomy,813
+Microorganism,Arhodomonas aquaeolei,NCBI_Taxonomy,2369
+Phenotype,aerobic,OntoBiotope,000179
+Phenotype,halophilic,OntoBiotope,000656
+Habitat,subterranean brine,OntoBiotope,000156
+Habitat,subterranean brine,OntoBiotope,002769
+Microorganism,Arhodomonas aquaeolei,NCBI_Taxonomy,2369
+Habitat,petroleum,OntoBiotope,001058
+Habitat,petroleum reservoir production fluid,OntoBiotope,001058
+Habitat,petroleum reservoir,OntoBiotope,001711
+Phenotype,obligately halophilic,OntoBiotope,001233
+Phenotype,aerobic,OntoBiotope,000179
+Phenotype,gram-negative,OntoBiotope,000648
+Phenotype,oval rod-shaped,OntoBiotope,000563
+Phenotype,motile,OntoBiotope,000117
+Phenotype,catalase positive,OntoBiotope,000222
+Phenotype,oxidase positive,OntoBiotope,000785
+Microorganism,Arhodomonas,NCBI_Taxonomy,2368
+Microorganism,Proteobacteria,NCBI_Taxonomy,1224
+Microorganism,A. aquaeolei,NCBI_Taxonomy,2369
+Microorganism,purple sulfur bacteria,NCBI_Taxonomy,1046
+Microorganism,Ectothiorhodospira,NCBI_Taxonomy,1051
+Microorganism,Chromatium,NCBI_Taxonomy,1047
+Phenotype,phototrophic,OntoBiotope,000805
+Habitat,phototrophic microorganism,OntoBiotope,000114
+Habitat,subterranean environment,OntoBiotope,000156
+Microorganism,strain HA-1,NCBI_Taxonomy,2369
+Microorganism,ATCC 49307,NCBI_Taxonomy,2369
+Habitat,duodenal ulcers,OntoBiotope,001533
+Habitat,duodenal,OntoBiotope,001534
+Microorganism,Helicobacter pylori,NCBI_Taxonomy,210
+Habitat,parietal cell,OntoBiotope,000061
+Habitat,HCl secretion,OntoBiotope,000863
+Habitat,gastroduodenal ulcers,OntoBiotope,001533
+Habitat,gastroduodenal,OntoBiotope,000642
+Habitat,patients with duodenal ulcers,OntoBiotope,003220
+Habitat,duodenal,OntoBiotope,001534
+Habitat,duodenal ulcers,OntoBiotope,001533
+Habitat,duodenal ulcers,OntoBiotope,001533
+Habitat,duodenal,OntoBiotope,001534
+Microorganism,Helicobacter pylori,NCBI_Taxonomy,210
+Habitat,antrum,OntoBiotope,001128
+Habitat,antral,OntoBiotope,001128
+Habitat,chronic duodenal ulcers,OntoBiotope,001533
+Habitat,duodenal,OntoBiotope,001534
+Habitat,ulcers,OntoBiotope,001533
+Habitat,subjects with ulcers and bulbitis,OntoBiotope,003220
+Habitat,ulcers,OntoBiotope,001533
+Habitat,patients,OntoBiotope,003220
+Habitat,ulcer,OntoBiotope,001533
+Habitat,patients,OntoBiotope,003269
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Habitat,patients,OntoBiotope,003269
+Habitat,patients,OntoBiotope,003220
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Habitat,Respiratory,OntoBiotope,000407
+Microorganism,Kingella kingae,NCBI_Taxonomy,504
+Habitat,healthy children,OntoBiotope,003188
+Habitat,healthy children,OntoBiotope,002712
+Microorganism,Kingella kingae,NCBI_Taxonomy,504
+Phenotype,invasive pathogen of young children,OntoBiotope,002806
+Habitat,young children,OntoBiotope,003188
+Habitat,respiratory tract,OntoBiotope,000407
+Habitat,normal flora of children,OntoBiotope,000113
+Habitat,children,OntoBiotope,003188
+Habitat,throat,OntoBiotope,000918
+Habitat,throat cultures,OntoBiotope,000110
+Habitat,nasopharyngeal cultures,OntoBiotope,000110
+Habitat,nasopharyngeal,OntoBiotope,000757
+Habitat,cohorts of children,OntoBiotope,003188
+Habitat,day-care center,OntoBiotope,000963
+Microorganism,K. kingae,NCBI_Taxonomy,504
+Habitat,throat cultures,OntoBiotope,000110
+Habitat,throat,OntoBiotope,000918
+Habitat,children ages 6 months to 14 years,OntoBiotope,003184
+Habitat,children ages 6 months to 14 years,OntoBiotope,003188
+Habitat,hospitalized,OntoBiotope,002714
+Habitat,healthy infants younger than 6 months,OntoBiotope,003263
+Habitat,healthy infants younger than 6 months,OntoBiotope,002712
+Habitat,well-baby-care clinic,OntoBiotope,002694
+Habitat,baby,OntoBiotope,003184
+Habitat,throat cultures,OntoBiotope,000110
+Habitat,throat,OntoBiotope,000918
+Habitat,nasopharyngeal cultures,OntoBiotope,000110
+Habitat,nasopharyngeal,OntoBiotope,000757
+Habitat,day-care center attendees,OntoBiotope,003269
+Habitat,day-care center attendees,OntoBiotope,003188
+Habitat,day-care center,OntoBiotope,000963
+Microorganism,K. kingae,NCBI_Taxonomy,504
+Microorganism,K. kingae,NCBI_Taxonomy,504
+Habitat,children,OntoBiotope,003188
+Habitat,children,OntoBiotope,003188
+Habitat,colonized children,OntoBiotope,003188
+Habitat,colonized children,OntoBiotope,003269
+Microorganism,K. kingae,NCBI_Taxonomy,504
+Habitat,pharyngeal,OntoBiotope,002832
+Habitat,surgical patients,OntoBiotope,003220
+Habitat,surgical patients,OntoBiotope,003188
+Habitat,infants younger than 6 months,OntoBiotope,003263
+Habitat,well-baby-care clinic,OntoBiotope,002694
+Habitat,baby,OntoBiotope,003184
+Paragraph,Twenty-eight blood culture isolates of non-O1 V. cholerae were identified by our clinical microbiology laboratory between July 1989 and June 1994. Patients with underlying cirrhosis and the aforementioned bacteremia were retrospectively reviewed.,,
+Paragraph,"Twenty-one cirrhotic patients (16 male, five female; mean age, 50.9 yr; range 28-67 yr) were identified and classified as Child B (6 cases) and Child C (15 cases). Bacteremic episodes occurred most often from March to September. Seafood ingestion (seven cases) and seawater exposure (two cases) were risk factors, but nosocomial infections were also noted in six cases. Presenting symptoms and signs included ascites (95.2%), fever (81%), abdominal pain (52.4%), diarrhea (33.3%), and cellulitis with bullae formation (19%). Concurrent spontaneous bacterial peritonitis was determined in 10 cases, seven with positive ascites cultures. Antibiotic therapy (either cephalothin with gentamicin or ceftriaxone alone) cured most of the bacteremic episodes. The overall case-fatality rate was 23.8%, but 75% of the deaths were observed in patients with skin manifestation.",,
+Paragraph,Patients with decompensated cirrhosis are susceptible to non-O1 V. cholerae bacteremia and should not ingest raw seafood or expose skin wounds to salt water. A high index of suspicion and early administration of antibiotics may lower the mortality rate.,,
+Microorganism,Non-O1 Vibrio cholerae,NCBI_Taxonomy,66861
+Habitat,patients with cirrhosis,OntoBiotope,003269
+Habitat,medical center,OntoBiotope,002518
+Habitat,cirrhotic patients,OntoBiotope,003220
+Microorganism,non-O1 Vibrio cholerae,NCBI_Taxonomy,66861
+Habitat,blood,OntoBiotope,000521
+Habitat,blood culture,OntoBiotope,000007
+Microorganism,non-O1 V. cholerae,NCBI_Taxonomy,66861
+Habitat,clinical microbiology laboratory,OntoBiotope,000011
+Habitat,clinical microbiology laboratory,OntoBiotope,001169
+Habitat,Patients with underlying cirrhosis and the aforementioned bacteremia,OntoBiotope,003269
+Habitat,"cirrhotic patients (16 male, five female; mean age, 50.9 yr; range 28-67 yr)",OntoBiotope,003269
+Habitat,Child B,OntoBiotope,003269
+Habitat,Child C,OntoBiotope,003269
+Habitat,Seafood,OntoBiotope,001301
+Habitat,seawater,OntoBiotope,003105
+Habitat,nosocomial,OntoBiotope,000011
+Habitat,ascites,OntoBiotope,000799
+Habitat,abdominal,OntoBiotope,000175
+Habitat,ascites,OntoBiotope,000799
+Habitat,patients with skin manifestation,OntoBiotope,003269
+Habitat,skin,OntoBiotope,000875
+Habitat,Patients with decompensated cirrhosis,OntoBiotope,003220
+Microorganism,non-O1 V. cholerae,NCBI_Taxonomy,66861
+Habitat,raw seafood,OntoBiotope,001277
+Habitat,skin wounds,OntoBiotope,003231
+Habitat,skin,OntoBiotope,000875
+Habitat,salt water,OntoBiotope,002592
+Habitat,Gamma/delta T lymphocytes,OntoBiotope,001623
+Habitat,BCG granulomatous lesions,OntoBiotope,000332
+Microorganism,BCG,NCBI_Taxonomy,33892
+Habitat,granulomatous,OntoBiotope,000298
+Habitat,man models,OntoBiotope,003451
+Habitat,animal models,OntoBiotope,000700
+Habitat,TCR-gamma delta-bearing T cells,OntoBiotope,001623
+Habitat,gamma delta T cells,OntoBiotope,001623
+Microorganism,mycobacteria,NCBI_Taxonomy,1763
+Microorganism,mycobacterial,NCBI_Taxonomy,1763
+Habitat,gamma delta T cells,OntoBiotope,001623
+Habitat,cells,OntoBiotope,001623
+Habitat,granulomatous,OntoBiotope,000298
+Habitat,gamma delta T cells,OntoBiotope,001623
+Habitat,BCG granulomas,OntoBiotope,000298
+Microorganism,BCG,NCBI_Taxonomy,33892
+Habitat,T-lymphocytes,OntoBiotope,001623
+Habitat,BCG granulomatous lesion,OntoBiotope,000332
+Microorganism,BCG,NCBI_Taxonomy,33892
+Habitat,granulomatous,OntoBiotope,000298
+Habitat,gamma delta T cells,OntoBiotope,001623
+Habitat,BCG granulomas without necrosis,OntoBiotope,000298
+Microorganism,BCG,NCBI_Taxonomy,33892
+Habitat,gamma delta T cells,OntoBiotope,001623
+Habitat,"granulomas with central caseous necrosis, calcification and fibrotic changes",OntoBiotope,000298
+Habitat,CD8+ gamma delta T lymphocytes,OntoBiotope,001623
+Habitat,BCG granuloma,OntoBiotope,000298
+Microorganism,BCG,NCBI_Taxonomy,33892
+Microorganism,Helicobacter pullorum,NCBI_Taxonomy,35818
+Habitat,patients with enteritis,OntoBiotope,003220
+Microorganism,Helicobacter pullorum,NCBI_Taxonomy,35818
+Habitat,asymptomatic poultry,OntoBiotope,003300
+Habitat,human,OntoBiotope,002488
+Microorganism,H. pullorum,NCBI_Taxonomy,35818
+Habitat,immunocompromised patient,OntoBiotope,003206
+Microorganism,Helicobacter pullorum,NCBI_Taxonomy,35818
+Microorganism,Agrobacterium rhizogenes,NCBI_Taxonomy,359
+Habitat,tobacco,OntoBiotope,002870
+Microorganism,Agrobacterium rhizogenes,NCBI_Taxonomy,359
+Habitat,hairy-root,OntoBiotope,002850
+Habitat,plant,OntoBiotope,000393
+Phenotype,bacterial virulence,OntoBiotope,002732
+Habitat,plant,OntoBiotope,000393
+Habitat,root,OntoBiotope,002850
+Habitat,tobacco leaf,OntoBiotope,001174
+Habitat,tobacco,OntoBiotope,002870
+Habitat,tobacco leaf discs,OntoBiotope,001175
+Habitat,Tobacco plants expressing a chimeric 35S::rolBTR gene,OntoBiotope,002870
+Habitat,off-shoots at the stem base,OntoBiotope,000655
+Habitat,stem,OntoBiotope,002941
+Habitat,bent and wrinkled leaves with epinastic growth,OntoBiotope,001174
+Habitat,mammalian,OntoBiotope,001625
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Habitat,mammalian,OntoBiotope,001625
+Microorganism,E. coli,NCBI_Taxonomy,562
+Microorganism,E. coli,NCBI_Taxonomy,562
+Habitat,mammalian,OntoBiotope,001625
+Microorganism,E. coli,NCBI_Taxonomy,562
+Microorganism,Mycobacterium kansasii,NCBI_Taxonomy,1768
+Habitat,patient with AIDS,OntoBiotope,003269
+,,OntoBiotope,001011
+,,OntoBiotope,003055
+Habitat,neutrophil,OntoBiotope,003004
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Habitat,cattle,OntoBiotope,003532
+Habitat,healthy cows,OntoBiotope,003572
+Habitat,neutrophil,OntoBiotope,003004
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Phenotype,Gram-negative,OntoBiotope,000648
+Habitat,neutrophils,OntoBiotope,003004
+Habitat,neutrophils with enzyme activity,OntoBiotope,003004
+Habitat,cows,OntoBiotope,003572
+Habitat,neutrophils with enzyme activity,OntoBiotope,003004
+Microorganism,E. coli,NCBI_Taxonomy,562
+Habitat,neutrophil,OntoBiotope,003004
+Habitat,neutrophils with enzyme activity,OntoBiotope,003004
+Habitat,severely diseased animals,OntoBiotope,003572
+Habitat,severely diseased animals,OntoBiotope,000491
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Microorganism,Helicobacter pylori,NCBI_Taxonomy,210
+Habitat,gastric,OntoBiotope,001792
+Habitat,human immunodeficiency virus-infected outpatients,OntoBiotope,003206
+Habitat,human immunodeficiency virus-infected outpatients,OntoBiotope,003269
+Microorganism,human immunodeficiency virus,NCBI_Taxonomy,12721
+Habitat,gastric,OntoBiotope,001792
+Habitat,persons infected with human immunodeficiency virus,OntoBiotope,003206
+Microorganism,human immunodeficiency virus,NCBI_Taxonomy,12721
+Microorganism,HIV,NCBI_Taxonomy,12721
+Habitat,asymptomatic subjects,OntoBiotope,003206
+Habitat,asymptomatic subjects,OntoBiotope,003269
+Habitat,Gastric,OntoBiotope,001792
+Habitat,gastric,OntoBiotope,001792
+Habitat,CD4 cell,OntoBiotope,001623
+Microorganism,Helicobacter pylori,NCBI_Taxonomy,210
+Habitat,gastric,OntoBiotope,001792
+Habitat,Subjects with hypoacidity,OntoBiotope,003206
+Habitat,Subjects with hypoacidity,OntoBiotope,003269
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Habitat,subjects without hypoacidity,OntoBiotope,003206
+Habitat,subjects without hypoacidity,OntoBiotope,003269
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Habitat,gastric,OntoBiotope,001792
+Microorganism,HIV,NCBI_Taxonomy,12721
+Habitat,male,OntoBiotope,003451
+Habitat,gastric,OntoBiotope,001792
+Habitat,CD4 cell,OntoBiotope,001623
+Habitat,gastric,OntoBiotope,001792
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Habitat,HIV-positive Hispanic populations,OntoBiotope,003206
+Habitat,HIV-positive black populations,OntoBiotope,003206
+Microorganism,HIV,NCBI_Taxonomy,12721
+Habitat,gastric,OntoBiotope,001792
+Microorganism,Bacillus intermedius,NCBI_Taxonomy,1400
+Phenotype,streptomycin-resistant,OntoBiotope,002858
+Microorganism,Bacillus intermedius S3-19,NCBI_Taxonomy,1400
+Microorganism,B. intermedius,NCBI_Taxonomy,1400
+Microorganism,Bacillus,NCBI_Taxonomy,1386
+Habitat,dairy industry,OntoBiotope,001988
+Habitat,cheese,OntoBiotope,001480
+Habitat,yoghurt,OntoBiotope,003241
+Phenotype,lactic acid bacteria,OntoBiotope,000019
+Phenotype,production of EPS,OntoBiotope,000019
+Habitat,dairy,OntoBiotope,001208
+Microorganism,propionibacteria,NCBI_Taxonomy,1743
+Phenotype,biosynthesis of EPS,OntoBiotope,000019
+Microorganism,Propionibacterium freudenreichii subsp. shermanii TL 34,NCBI_Taxonomy,1752
+Microorganism,CIP 103027,NCBI_Taxonomy,1752
+Microorganism,Streptococcus pneumoniae  type 37,NCBI_Taxonomy,1313
+Phenotype,production of a ¦Â-glucan capsular  polysaccharide,OntoBiotope,000019
+Microorganism,P. freudenreichii subsp. shermanii,NCBI_Taxonomy,1752
+Phenotype,ropy phenotype,OntoBiotope,001288
+Habitat,YEL+ medium,OntoBiotope,000007
+Microorganism,Propionibacterium acidipropionici strain TL 47,NCBI_Taxonomy,1111734
+Habitat,milk,OntoBiotope,001645
+Phenotype,"presence of (1¡ú3, 1¡ú2)-¦Â-d-glucan capsule",OntoBiotope,000116
+Microorganism,S. pneumoniae-type  37,NCBI_Taxonomy,1313
+Microorganism,P. freudenreichii,NCBI_Taxonomy,1744
+Habitat,Dairy,OntoBiotope,001208
+Microorganism,propionibacteria,NCBI_Taxonomy,1743
+Microorganism,P. freudenreichii subsp. shermanii,NCBI_Taxonomy,1752
+Phenotype,EPS  biosynthesis,OntoBiotope,000019
+Microorganism,propionibacteria,NCBI_Taxonomy,1743
+Microorganism,P. freudenreichii subsp. shermanii,NCBI_Taxonomy,1752
+Microorganism,TL 34,NCBI_Taxonomy,1752
+Phenotype,ropy-producing,OntoBiotope,001288
+Phenotype,production of EPS,OntoBiotope,000019
+Phenotype,Gram-negative,OntoBiotope,000648
+Microorganism,Psychrobacter celer,NCBI_Taxonomy,306572
+Microorganism,Hafnia alvei,NCBI_Taxonomy,569
+Habitat,microbial community of an experimental smear soft chees,OntoBiotope,000113
+Habitat,experimental smear soft cheese,OntoBiotope,003494
+Microorganism,P. celer,NCBI_Taxonomy,306572
+Habitat,cheese,OntoBiotope,001480
+Microorganism,P. celer,NCBI_Taxonomy,306572
+Microorganism,H. alvei,NCBI_Taxonomy,569
+Habitat,bacterial community,OntoBiotope,000113
+Habitat,milk,OntoBiotope,001645
+Phenotype,lactic acid bacteria,OntoBiotope,000019
+Microorganism,Lactococcus lactis,NCBI_Taxonomy,1358
+Habitat,curd,OntoBiotope,001208
+Phenotype,acid-tolerant,OntoBiotope,002883
+Microorganism,Debaryomyces hansenii,NCBI_Taxonomy,4959
+Microorganism,Geotrichum candidum,NCBI_Taxonomy,1173061
+Microorganism,Kluyveromyces sp.,NCBI_Taxonomy,4910
+Microorganism,Yarrowia lipolytica,NCBI_Taxonomy,4952
+Habitat,cheese surface,OntoBiotope,001341
+Habitat,cheese,OntoBiotope,001480
+Phenotype,less acid-tolerant,OntoBiotope,002883
+Phenotype,aerobic,OntoBiotope,000179
+Phenotype,facultative  anaerobic,OntoBiotope,000279
+Phenotype,catalase-positive,OntoBiotope,000222
+Phenotype,halo-tolerant,OntoBiotope,002711
+Phenotype,Gram-positive,OntoBiotope,000649
+Microorganism,Brevibacterium aurantiacum,NCBI_Taxonomy,273384
+Microorganism,Corynebacterium,NCBI_Taxonomy,1716
+Microorganism,Arthrobacter,NCBI_Taxonomy,1663
+Microorganism,Staphylococcus spp.,NCBI_Taxonomy,29387
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheese surface,OntoBiotope,001341
+Habitat,smear surface-ripened cheese,OntoBiotope,003494
+Habitat,bacterial microbiota of some smear cheese surfaces,OntoBiotope,000113
+Habitat,smear cheese,OntoBiotope,003494
+Habitat,smear cheese surfaces,OntoBiotope,001341
+Microorganism,Psychrobacter,NCBI_Taxonomy,497
+Phenotype,psychrotrophic,OntoBiotope,000402
+Microorganism,Halomonas,NCBI_Taxonomy,2745
+Habitat,marine environments,OntoBiotope,000338
+Microorganism,Hafnia,NCBI_Taxonomy,568
+Habitat,cheese,OntoBiotope,001480
+Phenotype,Gram-negative,OntoBiotope,000648
+Habitat,cheese,OntoBiotope,001480
+Microorganism,Pseudomonas  spp.,NCBI_Taxonomy,306
+Habitat,dairy,OntoBiotope,001208
+Habitat,cheeses,OntoBiotope,001480
+Microorganism,Enterobacteriaceae,NCBI_Taxonomy,543
+Microorganism,Hafnia alvei,NCBI_Taxonomy,569
+Habitat,cheese,OntoBiotope,001480
+Microorganism,Psychrobacter sp.,NCBI_Taxonomy,56811
+Habitat,cheese,OntoBiotope,001480
+Habitat,model cheese,OntoBiotope,001480
+Microorganism,Proteus vulgaris  1?M10,NCBI_Taxonomy,585
+Habitat,model cheese,OntoBiotope,001480
+Habitat,human,OntoBiotope,002488
+Phenotype,Gram-negative,OntoBiotope,000648
+Microorganism,Psychrobacter celer,NCBI_Taxonomy,306572
+Microorganism,H. alvei,NCBI_Taxonomy,569
+Habitat,microbial populations,OntoBiotope,000113
+Habitat,surface of experimental smear soft  cheese,OntoBiotope,001341
+Habitat,experimental smear soft  cheese,OntoBiotope,003494
+Habitat,cheeses,OntoBiotope,001480
+Microorganism,S3?+ Lactococcus lactis sp. lactis,NCBI_Taxonomy,1360
+Phenotype,protease-negative,OntoBiotope,000019
+Microorganism,S3- Lactococcus lactis sp. lactis,NCBI_Taxonomy,1360
+Habitat,cheese,OntoBiotope,001480
+Habitat,model community,OntoBiotope,000113
+Microorganism,Lactobacillus casei FH1,NCBI_Taxonomy,1582
+Microorganism,Arthrobacter arilaitensis Re117,NCBI_Taxonomy,861360
+Microorganism,Corynebacterium casei Mu120,NCBI_Taxonomy,160386
+Microorganism,C. flavescens Mu128,NCBI_Taxonomy,1255670
+Microorganism,C. variabile Mu129,NCBI_Taxonomy,1727
+Microorganism,Staphylococcus xylosus Com1,NCBI_Taxonomy,1288
+Microorganism,S. equorum Mu2,NCBI_Taxonomy,246432
+Microorganism,D. hansenii DH68,NCBI_Taxonomy,4959
+Microorganism,G. candidum GC129,NCBI_Taxonomy,1173061
+Microorganism,Y. lipolytica CI35,NCBI_Taxonomy,4952
+Microorganism,K. lactis  KL65,NCBI_Taxonomy,28985
+Habitat,smear soft  cheese,OntoBiotope,003494
+Habitat,Munster,OntoBiotope,003512
+Microorganism,Re117,NCBI_Taxonomy,861360
+Habitat,Reblochon,OntoBiotope,003516
+Microorganism,Com1,NCBI_Taxonomy,1288
+Microorganism,FH1,NCBI_Taxonomy,1582
+Habitat,St. Nectaire,OntoBiotope,003519
+Phenotype,Gram-negative,OntoBiotope,000648
+Microorganism,P. celer 91,NCBI_Taxonomy,306572
+Microorganism,H. alvei  2 920,NCBI_Taxonomy,569
+Habitat,Livarot,OntoBiotope,003510
+Habitat,Munster cheese,OntoBiotope,003512
+Habitat,cheese,OntoBiotope,001480
+Phenotype,sensitivity to 24 antibiotics,OntoBiotope,002675
+Phenotype,production of biogenic  amines,OntoBiotope,000019
+Habitat,synthetic media,OntoBiotope,000007
+Phenotype,growth under anaerobic condition,OntoBiotope,000189
+Phenotype,Gram-negative,OntoBiotope,000648
+Habitat,yeast communities,OntoBiotope,000113
+Phenotype,Gram-negative,OntoBiotope,000648
+Microorganism,D. hansenii,NCBI_Taxonomy,4959
+Microorganism,G. candidum,NCBI_Taxonomy,1173061
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheese surface,OntoBiotope,001341
+Microorganism,G. candidum,NCBI_Taxonomy,1173061
+Microorganism,D. hansenii,NCBI_Taxonomy,4959
+Microorganism,Y. lipolytica,NCBI_Taxonomy,4952
+Habitat,cheese,OntoBiotope,001480
+Microorganism,C. flavescens,NCBI_Taxonomy,28028
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheese surface,OntoBiotope,001341
+Habitat,cheese,OntoBiotope,001480
+Microorganism,H. alvei,NCBI_Taxonomy,569
+Habitat,cheese,OntoBiotope,001480
+Microorganism,H. alvei,NCBI_Taxonomy,569
+Microorganism,H. alvei,NCBI_Taxonomy,569
+Microorganism,A. arilaitensis,NCBI_Taxonomy,256701
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheese surface,OntoBiotope,001341
+Microorganism,H. alvei,NCBI_Taxonomy,569
+Habitat,cheese,OntoBiotope,001480
+Microorganism,A. arilaitensis,NCBI_Taxonomy,256701
+Microorganism,P. celer,NCBI_Taxonomy,306572
+Microorganism,C. variabile,NCBI_Taxonomy,1727
+Microorganism,C. casei,NCBI_Taxonomy,160386
+Microorganism,P. celer,NCBI_Taxonomy,306572
+Habitat,cheese,OntoBiotope,001480
+Microorganism,A. arilaitensis,NCBI_Taxonomy,256701
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheese surface,OntoBiotope,001341
+Habitat,cheese surface microbiota,OntoBiotope,000113
+Microorganism,P. celer,NCBI_Taxonomy,306572
+Habitat,cheese,OntoBiotope,001480
+Habitat,community containing H. alvei,OntoBiotope,000113
+Microorganism,H. alvei,NCBI_Taxonomy,569
+Microorganism,P. celer,NCBI_Taxonomy,306572
+Habitat,community without P. celer,OntoBiotope,000113
+Microorganism,P. celer,NCBI_Taxonomy,306572
+Habitat,community  with P. celer,OntoBiotope,000113
+Microorganism,P. celer,NCBI_Taxonomy,306572
+Microorganism,Psychrobacter sp.,NCBI_Taxonomy,56811
+Microorganism,Hafnia sp.,NCBI_Taxonomy,1873498
+Habitat,milk,OntoBiotope,001645
+Habitat,smear cheeses,OntoBiotope,003494
+Microorganism,P. celer,NCBI_Taxonomy,306572
+Microorganism,H. alvei,NCBI_Taxonomy,569
+Habitat,complex cheese community,OntoBiotope,000113
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheeses,OntoBiotope,001480
+Microorganism,D. hansenii,NCBI_Taxonomy,4959
+Microorganism,G. candidum,NCBI_Taxonomy,1173061
+Microorganism,Y. lipolytica,NCBI_Taxonomy,4952
+Microorganism,A. arilaitensis,NCBI_Taxonomy,256701
+Habitat,cheese surface,OntoBiotope,001341
+Habitat,cheese,OntoBiotope,001480
+Habitat,Munster cheeses,OntoBiotope,003512
+Habitat,Livarot cheeses,OntoBiotope,003510
+Habitat,French red-smear soft cheeses,OntoBiotope,003494
+Microorganism,A. arilaitensis,NCBI_Taxonomy,861360
+Microorganism,P. celer,NCBI_Taxonomy,306572
+Habitat,cheese,OntoBiotope,001480
+Microorganism,P. celer,NCBI_Taxonomy,306572
+Habitat,Camembert,OntoBiotope,003500
+Microorganism,P. phenylpyruvica,NCBI_Taxonomy,29432
+Habitat,cured meat model,OntoBiotope,001984
+Habitat,cured meat model,OntoBiotope,001200
+Microorganism,Psychrobacter sp.,NCBI_Taxonomy,56811
+Habitat,model cheese,OntoBiotope,001480
+Microorganism,P. celer,NCBI_Taxonomy,306572
+Habitat,cheeses,OntoBiotope,001480
+Habitat,control cheeses,OntoBiotope,001480
+Microorganism,P. celer,NCBI_Taxonomy,306572
+Phenotype,lipase activity,OntoBiotope,000019
+Microorganism,H. alvei,NCBI_Taxonomy,569
+Habitat,community,OntoBiotope,000113
+Microorganism,H. alvei,NCBI_Taxonomy,569
+Habitat,Livarot cheese,OntoBiotope,003510
+Habitat,Spanish farmhouse cheese,OntoBiotope,001480
+Habitat,Spanish farmhouse,OntoBiotope,000583
+Microorganism,C. variabile,NCBI_Taxonomy,1727
+Microorganism,C. casei,NCBI_Taxonomy,160386
+Habitat,Gubbeen cheese,OntoBiotope,003505
+Microorganism,H. alvei,NCBI_Taxonomy,569
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheese community,OntoBiotope,000113
+Habitat,cheeses,OntoBiotope,001480
+Habitat,cheese model,OntoBiotope,001480
+Habitat,cheese,OntoBiotope,001480
+Phenotype,high capacity to produce VSC,OntoBiotope,000019
+Microorganism,H. alvei,NCBI_Taxonomy,569
+Phenotype,high capacity to convert  methionine or cysteine into aroma compounds,OntoBiotope,000019
+Microorganism,H. alvei,NCBI_Taxonomy,569
+Habitat,beef models,OntoBiotope,000007
+Habitat,beef models,OntoBiotope,001899
+Habitat,microbiota of four Danish surface-ripened cheeses,OntoBiotope,000113
+Habitat,Danish surface-ripened cheeses,OntoBiotope,003428
+Habitat,farmhouses,OntoBiotope,000583
+Habitat,industrial dairy,OntoBiotope,001988
+Habitat,cheese,OntoBiotope,003428
+Habitat,cheese core,OntoBiotope,000373
+Habitat,cheese core microbiota of the farmhouse cheeses,OntoBiotope,000113
+Habitat,farmhouse,OntoBiotope,000583
+Habitat,farmhouse cheeses,OntoBiotope,003428
+Phenotype,mesophilic,OntoBiotope,000343
+Phenotype,lactic acid bacteria,OntoBiotope,000019
+Phenotype,LAB,OntoBiotope,000019
+Habitat,starter cultures,OntoBiotope,001030
+Microorganism,Lactococcus lactis subsp. lactis,NCBI_Taxonomy,1360
+Microorganism,Leuconostoc mesenteorides,NCBI_Taxonomy,1245
+Habitat,starter,OntoBiotope,001030
+Phenotype,LAB,OntoBiotope,000019
+Microorganism,Lactobacillus spp.,NCBI_Taxonomy,1578
+Habitat,cheese from the industrial dairy,OntoBiotope,003428
+Habitat,industrial dairy,OntoBiotope,001988
+Microorganism,Lb. paracasei,NCBI_Taxonomy,1597
+Habitat,surface bacterial microbiota of all four cheeses,OntoBiotope,000113
+Habitat,cheeses,OntoBiotope,003428
+Microorganism,Corynebacterium spp.,NCBI_Taxonomy,1716
+Microorganism,Brachybacterium spp.,NCBI_Taxonomy,43668
+Microorganism,Brevibacterium spp.,NCBI_Taxonomy,1696
+Habitat,farmhouse,OntoBiotope,000583
+Habitat,farmhouse cheeses,OntoBiotope,003428
+Microorganism,Brevibacterium spp.,NCBI_Taxonomy,1696
+Habitat,cheese from the industrial dairy,OntoBiotope,003428
+Habitat,industrial dairy,OntoBiotope,001988
+Microorganism,B. linens,NCBI_Taxonomy,1703
+Habitat,surface-ripening culture,OntoBiotope,001030
+Phenotype,Gram-negative,OntoBiotope,000648
+Microorganism,Alcalignes faecalis,NCBI_Taxonomy,511
+Microorganism,Proteus vulgaris,NCBI_Taxonomy,585
+Habitat,farmhouse,OntoBiotope,000583
+Habitat,farmhouse cheeses,OntoBiotope,003428
+Habitat,surface yeast  microbiota,OntoBiotope,000113
+Habitat,cheese,OntoBiotope,003428
+Habitat,farmhouse cheeses,OntoBiotope,003428
+Habitat,farmhouse,OntoBiotope,000583
+Microorganism,Yarrowia lipolytica,NCBI_Taxonomy,4952
+Microorganism,Geotrichum spp.,NCBI_Taxonomy,43987
+Microorganism,Debaryomyces hansenii,NCBI_Taxonomy,4959
+Habitat,cheese from the industrial dairy,OntoBiotope,003428
+Habitat,industrial dairy,OntoBiotope,001988
+Microorganism,D. hansenii,NCBI_Taxonomy,4959
+Microorganism,Streptococcus thermophilus,NCBI_Taxonomy,1308
+Habitat,farmhouse,OntoBiotope,000583
+Habitat,farmhouse raw milk cheese,OntoBiotope,003428
+Habitat,raw milk,OntoBiotope,001276
+Microorganism,Vagococcus carniphilus,NCBI_Taxonomy,218144
+Microorganism,Psychrobacter spp.,NCBI_Taxonomy,497
+Microorganism,Lb. curvatus,NCBI_Taxonomy,28038
+Habitat,cheese surfaces,OntoBiotope,001341
+Habitat,cheese,OntoBiotope,003428
+Habitat,cheese,OntoBiotope,001480
+Habitat,Cheeses,OntoBiotope,003428
+Habitat,complex microbiota,OntoBiotope,000113
+Habitat,milk,OntoBiotope,001645
+Habitat,cheese,OntoBiotope,003428
+Phenotype,lactic acid bacteria,OntoBiotope,000019
+Phenotype,LAB,OntoBiotope,000019
+Habitat,starter cultures,OntoBiotope,001030
+Phenotype,mesophilic,OntoBiotope,000343
+Microorganism,Lactocococcus lactis,NCBI_Taxonomy,1358
+Phenotype,thermophilic,OntoBiotope,000449
+Microorganism,Streptococcus thermophilus,NCBI_Taxonomy,1308
+Phenotype,LAB,OntoBiotope,000019
+Habitat,starter,OntoBiotope,001030
+Microorganism,Debaryomyces hansenii,NCBI_Taxonomy,4959
+Habitat,semi-soft cheeses,OntoBiotope,003458
+Microorganism,Geotrichum candidum,NCBI_Taxonomy,1173061
+Habitat,soft cheeses,OntoBiotope,003459
+Phenotype,coagulase-negative,OntoBiotope,000235
+Microorganism,staphylococci,NCBI_Taxonomy,1279
+Microorganism,Staphylococcus equorum,NCBI_Taxonomy,246432
+Microorganism,D. hansenii,NCBI_Taxonomy,4959
+Microorganism,staphylococci,NCBI_Taxonomy,1279
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheese surface,OntoBiotope,001341
+Habitat,cheese brine,OntoBiotope,001944
+Habitat,cheese,OntoBiotope,001480
+Microorganism,D. hansenii,NCBI_Taxonomy,4959
+Microorganism,D. hansenii,NCBI_Taxonomy,4959
+Habitat,cheeses of the Danish Danbo type,OntoBiotope,003458
+Habitat,ripening culture,OntoBiotope,001030
+Habitat,dairy housemicrobiota,OntoBiotope,000113
+Habitat,ripening room,OntoBiotope,003301
+Microorganism,D. hansenii,NCBI_Taxonomy,4959
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheese surface,OntoBiotope,001341
+Habitat,cheese,OntoBiotope,001480
+Habitat,acid tolerant bacterial microbiota,OntoBiotope,000113
+Phenotype,acid tolerant,OntoBiotope,002883
+Phenotype,Gram-positive,OntoBiotope,000649
+Microorganism,coryneforms,NCBI_Taxonomy,1653
+Microorganism,Brevibacterium spp.,NCBI_Taxonomy,1696
+Microorganism,Corynebacterium spp.,NCBI_Taxonomy,1716
+Microorganism,Microbacterium spp.,NCBI_Taxonomy,33882
+Phenotype,Gram-positive,OntoBiotope,000649
+Microorganism,Marinilactibacillus spp.,NCBI_Taxonomy,191769
+Phenotype,Gram-negative,OntoBiotope,000648
+Microorganism,Halomonas spp.,NCBI_Taxonomy,2745
+Microorganism,Vibrio spp.,NCBI_Taxonomy,662
+Microorganism,Proteus spp.,NCBI_Taxonomy,583
+Microorganism,Enterobacteriaceae,NCBI_Taxonomy,543
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheese surfaces,OntoBiotope,001341
+Phenotype,Gram-negative,OntoBiotope,000648
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheeses  from dairies C,OntoBiotope,001480
+Habitat,cheeses  from dairies A,OntoBiotope,001480
+Habitat,dairies,OntoBiotope,001988
+Phenotype,LAB,OntoBiotope,000019
+Habitat,starter  cultures,OntoBiotope,001030
+Microorganism,Leuconostoc mesenteroides,NCBI_Taxonomy,1245
+Microorganism,Lactococcus lactis subsp. lactis,NCBI_Taxonomy,1360
+Habitat,cheeses from dairies C,OntoBiotope,001480
+Habitat,cheeses from dairies A,OntoBiotope,001480
+Habitat,dairies,OntoBiotope,001988
+Habitat,starter,OntoBiotope,001030
+Phenotype,lactic acid bacteria,OntoBiotope,000019
+Phenotype,NSLAB,OntoBiotope,000019
+Microorganism,Lactobacillus paracasei,NCBI_Taxonomy,1597
+Habitat,cheese from dairy A,OntoBiotope,001480
+Habitat,dairy,OntoBiotope,001988
+Phenotype,NSLAB,OntoBiotope,000019
+Microorganism,Lb. parabuchneri,NCBI_Taxonomy,152331
+Habitat,cheeses from  dairies B,OntoBiotope,001480
+Habitat,cheeses from  dairies D,OntoBiotope,001480
+Habitat,dairies,OntoBiotope,001988
+Phenotype,NSLAB,OntoBiotope,000019
+Habitat,cheese from dairy  B,OntoBiotope,001480
+Habitat,dairy,OntoBiotope,001988
+Phenotype,NSLAB,OntoBiotope,000019
+Microorganism,Lb. brevis,NCBI_Taxonomy,1580
+Microorganism,Lb. oligofermentans,NCBI_Taxonomy,293371
+Microorganism,Lb. farminis,NCBI_Taxonomy,1612
+Habitat,cheese from dairy D,OntoBiotope,001480
+Habitat,dairy,OntoBiotope,001988
+Phenotype,NSLAB,OntoBiotope,000019
+Microorganism,Lb. paracasei,NCBI_Taxonomy,1597
+Phenotype,LAB,OntoBiotope,000019
+Habitat,starter cultures,OntoBiotope,001030
+Microorganism,Lc. lactis subsp. lactis,NCBI_Taxonomy,1360
+Microorganism,Lc. lactis subsp. cremoris,NCBI_Taxonomy,1359
+Habitat,cheeses from dairies D,OntoBiotope,001480
+Habitat,cheeses from dairies B,OntoBiotope,001480
+Habitat,dairies,OntoBiotope,001988
+Phenotype,Gram-positive,OntoBiotope,000649
+Microorganism,Actinobacteria,NCBI_Taxonomy,1760
+Microorganism,Corynebacterium casei,NCBI_Taxonomy,160386
+Microorganism,C. variabile,NCBI_Taxonomy,1727
+Habitat,cheese from dairy A,OntoBiotope,001480
+Habitat,dairy,OntoBiotope,001988
+Microorganism,Brachybacterium alimentarum,NCBI_Taxonomy,47845
+Microorganism,Brevibacterium,NCBI_Taxonomy,1696
+Habitat,cheeses from the farmhouses,OntoBiotope,001480
+Habitat,farmhouses,OntoBiotope,000583
+Habitat,dairies,OntoBiotope,001988
+Microorganism,B. permense,NCBI_Taxonomy,234834
+Habitat,cheese from dairy A,OntoBiotope,001480
+Habitat,dairy,OntoBiotope,001988
+Microorganism,B. linens,NCBI_Taxonomy,1703
+Habitat,cheese from dairy B,OntoBiotope,001480
+Habitat,dairy,OntoBiotope,001988
+Microorganism,B. aurantiacum,NCBI_Taxonomy,273384
+Habitat,cheese from dairy C,OntoBiotope,001480
+Habitat,dairy,OntoBiotope,001988
+Microorganism,Brevibacterium  spp.,NCBI_Taxonomy,1696
+Habitat,cheese from dairy D,OntoBiotope,001480
+Habitat,dairy,OntoBiotope,001988
+Phenotype,coagulase negative,OntoBiotope,000235
+Microorganism,staphylococci,NCBI_Taxonomy,1279
+Microorganism,Staphylococcus saprophyticus,NCBI_Taxonomy,29385
+Habitat,cheeses from dairies D,OntoBiotope,001480
+Habitat,cheeses from dairies B,OntoBiotope,001480
+Habitat,dairies,OntoBiotope,001988
+Microorganism,Staph. equorum,NCBI_Taxonomy,246432
+Habitat,cheeses from dairies C,OntoBiotope,001480
+Habitat,cheeses from dairies D,OntoBiotope,001480
+Habitat,dairies,OntoBiotope,001988
+Phenotype,Gram-negative,OntoBiotope,000648
+Microorganism,Proteus vulgaris,NCBI_Taxonomy,585
+Microorganism,Alcaligenes faecalis,NCBI_Taxonomy,511
+Habitat,cheese from dairy C,OntoBiotope,001480
+Habitat,dairy,OntoBiotope,001988
+Habitat,surface yeast microbiota,OntoBiotope,000113
+Habitat,yeast surface  microbiota,OntoBiotope,000113
+Habitat,farmhouse,OntoBiotope,000583
+Habitat,farmhouse cheeses,OntoBiotope,001480
+Habitat,cheese,OntoBiotope,001480
+Habitat,industrial dairy,OntoBiotope,001988
+Habitat,dairy,OntoBiotope,001988
+Habitat,cheese from dairy A,OntoBiotope,001480
+Habitat,dairy,OntoBiotope,001988
+Microorganism,Yarrowia lipolytica,NCBI_Taxonomy,4952
+Microorganism,Scopulariopsis brevicaulis,NCBI_Taxonomy,561152
+Habitat,yeast microbiota,OntoBiotope,000113
+Habitat,cheese from dairy B,OntoBiotope,001480
+Habitat,dairy,OntoBiotope,001988
+Microorganism,Geotrichum spp.,NCBI_Taxonomy,43987
+Microorganism,Kluyveromyces marxianus,NCBI_Taxonomy,4911
+Microorganism,Debaryomyces hansenii,NCBI_Taxonomy,4959
+Habitat,cheese from dairy C,OntoBiotope,001480
+Habitat,dairy,OntoBiotope,001988
+Microorganism,D. hansenii,NCBI_Taxonomy,4959
+Microorganism,Geothrichum spp.,NCBI_Taxonomy,43987
+Habitat,cheese from dairy D,OntoBiotope,001480
+Habitat,dairy,OntoBiotope,001988
+Microorganism,D. hansenii,NCBI_Taxonomy,4959
+Habitat,interior of the cheese from dairy A,OntoBiotope,000373
+Habitat,cheese from dairy A,OntoBiotope,001480
+Habitat,dairy,OntoBiotope,001988
+Microorganism,Streptococcus thermophilus,NCBI_Taxonomy,1308
+Habitat,cheese surface samples,OntoBiotope,001341
+Habitat,cheese,OntoBiotope,001480
+Microorganism,Vagococcus carniphilus,NCBI_Taxonomy,218144
+Habitat,cheeses from dairies A,OntoBiotope,001480
+Habitat,cheeses from dairies D,OntoBiotope,001480
+Habitat,cheeses from dairies B,OntoBiotope,001480
+Habitat,dairies,OntoBiotope,001988
+Microorganism,Psychrobacter spp.,NCBI_Taxonomy,497
+Habitat,cheeses from dairies A,OntoBiotope,001480
+Habitat,cheeses from dairies C,OntoBiotope,001480
+Habitat,dairies,OntoBiotope,001988
+Microorganism,Lb. curvatus,NCBI_Taxonomy,28038
+Habitat,cheese from dairy B,OntoBiotope,001480
+Habitat,dairy,OntoBiotope,001988
+Habitat,cheese,OntoBiotope,003428
+Habitat,cheese surface,OntoBiotope,001341
+Habitat,cheese,OntoBiotope,001480
+Microorganism,Streptococcus thermophilus,NCBI_Taxonomy,1308
+Habitat,raw milk,OntoBiotope,001276
+Habitat,raw milk  cheese from dairy A,OntoBiotope,001480
+Habitat,dairy,OntoBiotope,001988
+Phenotype,thermophilic,OntoBiotope,000449
+Phenotype,lactic acid bacterium,OntoBiotope,000019
+Phenotype,mesophilic,OntoBiotope,000343
+Phenotype,LAB,OntoBiotope,000019
+Habitat,starter culture,OntoBiotope,001030
+Habitat,raw milk cheese from dairy A,OntoBiotope,001480
+Habitat,raw milk,OntoBiotope,001276
+Habitat,dairy,OntoBiotope,001988
+Microorganism,Str. thermophilus,NCBI_Taxonomy,1308
+Habitat,GM17 agar,OntoBiotope,000031
+Microorganism,Str. thermophilus,NCBI_Taxonomy,1308
+Phenotype,LAB,OntoBiotope,000019
+Habitat,starter culture,OntoBiotope,001030
+Microorganism,Str. thermophilus,NCBI_Taxonomy,1308
+Habitat,raw milk,OntoBiotope,001276
+Habitat,raw milk,OntoBiotope,001276
+Microorganism,Str. thermophilus,NCBI_Taxonomy,1308
+Microorganism,Str. thermophilus,NCBI_Taxonomy,1308
+Habitat,milk,OntoBiotope,001645
+Habitat,cheese,OntoBiotope,003428
+Microorganism,Lactococcus lactis,NCBI_Taxonomy,1358
+Microorganism,Lactococcus lactis subsp. lactis,NCBI_Taxonomy,1360
+Habitat,cheese,OntoBiotope,001480
+Microorganism,Lc. lactis subsp. cremoris,NCBI_Taxonomy,1359
+Microorganism,Lc. lactis subsp. cremoris,NCBI_Taxonomy,1359
+Habitat,cheeses,OntoBiotope,001480
+Phenotype,LAB,OntoBiotope,000019
+Habitat,starter culture,OntoBiotope,001030
+Phenotype,NSLAB,OntoBiotope,000019
+Microorganism,Lactobacillus paracasei,NCBI_Taxonomy,1597
+Habitat,cheeses,OntoBiotope,001480
+Microorganism,Lb. paracasei,NCBI_Taxonomy,1597
+Phenotype,NSLAB,OntoBiotope,000019
+Habitat,Danbo cheeses,OntoBiotope,003458
+Microorganism,Brevibacterium linens,NCBI_Taxonomy,1703
+Habitat,farmhouse cheeses,OntoBiotope,001480
+Habitat,farmhouse,OntoBiotope,000583
+Microorganism,Brevibacterium  spp.,NCBI_Taxonomy,1696
+Habitat,cheese from the industrial dairy,OntoBiotope,001480
+Habitat,industrial dairy,OntoBiotope,001988
+Microorganism,B. linens,NCBI_Taxonomy,1703
+Habitat,cheese surfaces,OntoBiotope,001341
+Habitat,cheese,OntoBiotope,001480
+Microorganism,Brevibacterium spp.,NCBI_Taxonomy,1696
+Habitat,cheeses from the farmhouses,OntoBiotope,001480
+Habitat,farmhouses,OntoBiotope,000583
+Habitat,dairies,OntoBiotope,001988
+Microorganism,B. linens,NCBI_Taxonomy,1703
+Microorganism,B. aurantiacum,NCBI_Taxonomy,273384
+Habitat,cheeses from dairies B,OntoBiotope,001480
+Habitat,cheeses from dairies C,OntoBiotope,001480
+Habitat,dairies,OntoBiotope,001988
+Habitat,ripening cultures,OntoBiotope,001030
+Habitat,dairy industry,OntoBiotope,001988
+Habitat,soil,OntoBiotope,000427
+Microorganism,B. permense,NCBI_Taxonomy,234834
+Habitat,cheese from dairy A,OntoBiotope,001480
+Habitat,dairy,OntoBiotope,001988
+Habitat,cheese,OntoBiotope,001480
+Microorganism,Corynebacterium spp.,NCBI_Taxonomy,1720
+Habitat,surface-ripened cheeses,OntoBiotope,003428
+Microorganism,C. casei,NCBI_Taxonomy,160386
+Microorganism,C. variabile,NCBI_Taxonomy,1727
+Habitat,surfaces of the four cheeses,OntoBiotope,001341
+Habitat,cheeses,OntoBiotope,001480
+Habitat,cheese,OntoBiotope,003428
+Microorganism,Corynebacterium spp.,NCBI_Taxonomy,1716
+Habitat,ripening cultures,OntoBiotope,001030
+Habitat,surface-ripened cheeses,OntoBiotope,003428
+Habitat,Gram-negative bacterial microbiota,OntoBiotope,000113
+Phenotype,Gram-negative,OntoBiotope,000648
+Microorganism,Proteus vulgaris,NCBI_Taxonomy,585
+Microorganism,Alcaligenes faecalis,NCBI_Taxonomy,511
+Habitat,cheese from dairy C,OntoBiotope,001480
+Habitat,dairy,OntoBiotope,001988
+Microorganism,P. vulgaris,NCBI_Taxonomy,585
+Habitat,cheese ripening culture,OntoBiotope,001030
+Habitat,cheese,OntoBiotope,003428
+Microorganism,P. vulgaris,NCBI_Taxonomy,585
+Habitat,surface-ripening cultures,OntoBiotope,001030
+Microorganism,A. faecalis,NCBI_Taxonomy,511
+Habitat,soil,OntoBiotope,000427
+Habitat,water,OntoBiotope,000468
+Habitat,environments in association with humans,OntoBiotope,000006
+Phenotype,non-pathogenic,OntoBiotope,000239
+Habitat,Livarot cheese,OntoBiotope,003510
+Habitat,marine,OntoBiotope,000338
+Microorganism,Marinilactibacillus psychrotolerans,NCBI_Taxonomy,191770
+Habitat,cheese,OntoBiotope,001480
+Habitat,surface of cheese D,OntoBiotope,001341
+Habitat,cheese,OntoBiotope,001480
+Habitat,French cheeses,OntoBiotope,001480
+Habitat,German cheeses,OntoBiotope,001480
+Microorganism,M. psychrotolerans,NCBI_Taxonomy,191770
+Microorganism,M. psychrotolerans,NCBI_Taxonomy,191770
+Habitat,cheeses,OntoBiotope,001480
+Habitat,marine environments,OntoBiotope,000338
+Habitat,sea  salt,OntoBiotope,002243
+Microorganism,Debaryomyces hansenii,NCBI_Taxonomy,4959
+Microorganism,Geotrichum spp.,NCBI_Taxonomy,43987
+Habitat,surface-ripened cheeses,OntoBiotope,003428
+Microorganism,D. hansenii,NCBI_Taxonomy,4959
+Habitat,cheeses from dairies D,OntoBiotope,003428
+Habitat,cheeses from dairies C,OntoBiotope,003428
+Habitat,dairies,OntoBiotope,001988
+Microorganism,Geotrichum spp.,NCBI_Taxonomy,43987
+Habitat,cheese from dairy B,OntoBiotope,003428
+Habitat,dairy,OntoBiotope,001988
+Habitat,cheese from dairy A,OntoBiotope,003428
+Habitat,dairy,OntoBiotope,001988
+Microorganism,Yarrowia lipolytica,NCBI_Taxonomy,4952
+Microorganism,Y. lipolytica,NCBI_Taxonomy,4952
+Habitat,cheese,OntoBiotope,003428
+Habitat,cheese surfaces,OntoBiotope,001341
+Microorganism,D. hansenii,NCBI_Taxonomy,4959
+Microorganism,Geotrichum spp.,NCBI_Taxonomy,43987
+Phenotype,filamentous,OntoBiotope,000629
+Microorganism,Scopulariopsis brevicaulis,NCBI_Taxonomy,561152
+Habitat,cheese,OntoBiotope,001480
+Microorganism,S. brevicaulis,NCBI_Taxonomy,561152
+Habitat,Danish cheese,OntoBiotope,001480
+Habitat,cheeses,OntoBiotope,001480
+Phenotype,high proteolytic  activity,OntoBiotope,000019
+Phenotype,ammonia production,OntoBiotope,000019
+Phenotype,production of  arsenical compounds,OntoBiotope,000019
+Microorganism,Str. thermophilus,NCBI_Taxonomy,1308
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheese interiors,OntoBiotope,000373
+Microorganism,Vagococcus carniphilus,NCBI_Taxonomy,218144
+Microorganism,Psychrobacter spp.,NCBI_Taxonomy,56811
+Microorganism,Lb. curvatus,NCBI_Taxonomy,28038
+Habitat,cheese surfaces,OntoBiotope,001341
+Habitat,cheese,OntoBiotope,001480
+Microorganism,Hafnia,NCBI_Taxonomy,568
+Microorganism,Enterococcus faecalis,NCBI_Taxonomy,1351
+Microorganism,Lactobacillus plantarum,NCBI_Taxonomy,1590
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheese,OntoBiotope,001480
+Microorganism,H. alvei strain B16,NCBI_Taxonomy,569
+Microorganism,E. coli O26:H11,NCBI_Taxonomy,244319
+Microorganism,H. alvei  B16,NCBI_Taxonomy,569
+Habitat,cheese,OntoBiotope,001480
+Habitat,dairy,OntoBiotope,001208
+Habitat,traditional cheese,OntoBiotope,001480
+Phenotype,Gram-negative,OntoBiotope,000648
+Microorganism,Pseudoalteromonas haloplanktis,NCBI_Taxonomy,228
+Microorganism,Psychrobacter immobilis,NCBI_Taxonomy,498
+Habitat,cheese produced through traditional methods,OntoBiotope,001480
+Microorganism,Corynebacterium casei,NCBI_Taxonomy,160386
+Microorganism,Microbacterium gubbeenense,NCBI_Taxonomy,159896
+Microorganism,Arthrobacter arilaitensis,NCBI_Taxonomy,256701
+Microorganism,Arthrobacter bergerei,NCBI_Taxonomy,256702
+Microorganism,Agrococcus casei,NCBI_Taxonomy,343512
+Microorganism,Mycetocola reblochoni,NCBI_Taxonomy,331618
+Microorganism,Vibrio casei,NCBI_Taxonomy,673372
+Habitat,cheese habitat,OntoBiotope,001480
+Habitat,environment of cheese manufacturing,OntoBiotope,003251
+Habitat,cheese,OntoBiotope,001480
+Microorganism,Arthrobacter,NCBI_Taxonomy,1663
+Habitat,cheese,OntoBiotope,001480
+Microorganism,Arthrobacter,NCBI_Taxonomy,1663
+Habitat,soil,OntoBiotope,000427
+Phenotype,ubiquitous,OntoBiotope,000164
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheese habitat,OntoBiotope,001480
+Phenotype,catabolism of D-galactonate,OntoBiotope,000019
+Microorganism,Arthrobacter arilaitensis Re117,NCBI_Taxonomy,861360
+Microorganism,Streptococcus infantarius,NCBI_Taxonomy,150054
+Habitat,Western African fermented milks,OntoBiotope,003146
+Microorganism,3AG,NCBI_Taxonomy,1255600
+Microorganism,11FA,NCBI_Taxonomy,1255580
+Habitat,infant,OntoBiotope,003263
+Habitat,infant feces,OntoBiotope,001102
+Microorganism,ATCC BAA-102,NCBI_Taxonomy,471872
+Microorganism,CJ18,NCBI_Taxonomy,1069533
+Habitat,Eastern African  fermented milk,OntoBiotope,003146
+Microorganism,Streptococcus infantarius,NCBI_Taxonomy,102684
+Phenotype,ability to ferment  lactose,OntoBiotope,000019
+Microorganism,CJ18,NCBI_Taxonomy,1069533
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheese surface samples,OntoBiotope,001341
+Habitat,smear-ripened cheese,OntoBiotope,003494
+Microorganism,Arthrobacter arilaitensis GMPA29,NCBI_Taxonomy,1255700
+Microorganism,Psychrobacter immobilis PG1,NCBI_Taxonomy,1256511
+Microorganism,Vibrio litoralis  B4,NCBI_Taxonomy,1255618
+Microorganism,Psychrobacter immobilis  PG1,NCBI_Taxonomy,1256511
+Habitat,dairy plant,OntoBiotope,001988
+Habitat,smear-ripened  cheese,OntoBiotope,003494
+Microorganism,strain PG1,NCBI_Taxonomy,1256511
+Habitat,cheese,OntoBiotope,003494
+Microorganism,Geotrichum candidum CLIB 918,NCBI_Taxonomy,1173061
+Microorganism,Debaryomyces hansenii CBS767,NCBI_Taxonomy,284592
+Habitat,smear-ripened cheese,OntoBiotope,003494
+Habitat,cheese,OntoBiotope,003494
+Microorganism,Pseudoalteromonas haloplanktis TAC125,NCBI_Taxonomy,326442
+Microorganism,Halomonas sp. 1?M45,NCBI_Taxonomy,1255591
+Microorganism,Psychrobacter celer  91,NCBI_Taxonomy,1255614
+Microorganism,Halomonas,NCBI_Taxonomy,2745
+Habitat,cheese,OntoBiotope,001480
+Microorganism,1?M45,NCBI_Taxonomy,1255591
+Habitat,smear-ripened cheese,OntoBiotope,003494
+Habitat,manufacturing plant,OntoBiotope,003251
+Microorganism,Providencia heimbachae  GR4,NCBI_Taxonomy,1255655
+Habitat,cheese,OntoBiotope,001480
+Microorganism,Penicillium camemberti  FM 013,NCBI_Taxonomy,1429867
+Habitat,smear-ripened cheeses,OntoBiotope,003494
+Habitat,mould-ripened cheese,OntoBiotope,003492
+Habitat,plant,OntoBiotope,003251
+Habitat,surface of the blue-veined cheese,OntoBiotope,001341
+Habitat,blue-veined cheese,OntoBiotope,003486
+Microorganism,Arthrobacter bergerei Ca106,NCBI_Taxonomy,1255621
+Habitat,cheeses,OntoBiotope,001480
+Microorganism,Psychrobacter,NCBI_Taxonomy,497
+Habitat,cheese,OntoBiotope,001480
+Habitat,Cheese,OntoBiotope,001480
+Habitat,thermophilic lactic starter culture,OntoBiotope,001030
+Phenotype,thermophilic,OntoBiotope,000449
+Microorganism,Streptococcus thermophilus,NCBI_Taxonomy,1308
+Microorganism,Lactobacillus delbrueckii,NCBI_Taxonomy,1584
+Phenotype,lactic acid bacteria,OntoBiotope,000019
+Habitat,cheeses,OntoBiotope,001480
+Microorganism,Lactococcus lactis,NCBI_Taxonomy,1358
+Phenotype,lactic acid bacterium,OntoBiotope,000019
+Microorganism,Psychrobacter aquimaris,NCBI_Taxonomy,292733
+Microorganism,Brachybacterium tyrofermentans,NCBI_Taxonomy,47848
+Microorganism,Corynebacterium ammoniagenes,NCBI_Taxonomy,1697
+Microorganism,Brevibacterium antiquum,NCBI_Taxonomy,234835
+Microorganism,Microbacterium gubbeenense,NCBI_Taxonomy,159896
+Microorganism,Brochothrix thermosphacta,NCBI_Taxonomy,2756
+Microorganism,Marinilactibacillus psychrotolerans,NCBI_Taxonomy,191770
+Habitat,cheeses,OntoBiotope,001480
+Habitat,cheese,OntoBiotope,001480
+Microorganism,Geotrichum candidum,NCBI_Taxonomy,1173061
+Microorganism,Debaryomyces hansenii,NCBI_Taxonomy,4959
+Microorganism,Penicillium roqueforti,NCBI_Taxonomy,5082
+Microorganism,Leuconostoc,NCBI_Taxonomy,1243
+Habitat,cheeses,OntoBiotope,001480
+Microorganism,Pseudoalteromonas,NCBI_Taxonomy,53246
+Microorganism,Halomonas,NCBI_Taxonomy,2745
+Microorganism,Vibrio,NCBI_Taxonomy,662
+Microorganism,Marinilactibacillus,NCBI_Taxonomy,191769
+Microorganism,Psychrobacter,NCBI_Taxonomy,497
+Phenotype,Gram-negative,OntoBiotope,000648
+Habitat,cheeses,OntoBiotope,001480
+Habitat,cheese rinds,OntoBiotope,001481
+Habitat,cheese,OntoBiotope,001480
+Microorganism,Lactococcus lactis,NCBI_Taxonomy,1358
+Microorganism,Lactococcus garvieae,NCBI_Taxonomy,1363
+Microorganism,Leuconostoc pseudomesenteroides,NCBI_Taxonomy,33968
+Microorganism,Leuconostoc  citreum,NCBI_Taxonomy,33964
+Microorganism,Lactobacillus sp,NCBI_Taxonomy,1591
+Microorganism,Carnobacterium mobile,NCBI_Taxonomy,2750
+Microorganism,Enterococcus faecalis,NCBI_Taxonomy,1351
+Microorganism,Enterococcus faecium,NCBI_Taxonomy,1352
+Microorganism,Macrococcus caseolyticus,NCBI_Taxonomy,69966
+Microorganism,Hafnia alvei,NCBI_Taxonomy,569
+Microorganism,STEC O26:H11,NCBI_Taxonomy,244319
+Phenotype,STEC,OntoBiotope,000019
+Microorganism,STEC O157:H7,NCBI_Taxonomy,83334
+Phenotype,STEC,OntoBiotope,000019
+Habitat,pasteurized milk cheeses,OntoBiotope,001480
+Habitat,pasteurized milk cheeses,OntoBiotope,002173
+Habitat,pasteurized milk,OntoBiotope,001645
+Habitat,pasteurized milk,OntoBiotope,002173
+Microorganism,H.?alvei,NCBI_Taxonomy,569
+Microorganism,Lactobacillus plantarum,NCBI_Taxonomy,1590
+Microorganism,Lc. lactis,NCBI_Taxonomy,1358
+Habitat,milk,OntoBiotope,001645
+Microorganism,STEC O26:H11,NCBI_Taxonomy,244319
+Microorganism,STEC O157:H7,NCBI_Taxonomy,83334
+Phenotype,STEC,OntoBiotope,000019
+Habitat,ripened cheese,OntoBiotope,003428
+Microorganism,Ln. pseudomesenteroides (M7),NCBI_Taxonomy,33968
+Microorganism,Ln. citreum (M2),NCBI_Taxonomy,33964
+Microorganism,Lb. plantarum (FH3),NCBI_Taxonomy,1590
+Microorganism,M.?caseolyticus (RP8),NCBI_Taxonomy,69966
+Microorganism,Listeria?monocytogenes,NCBI_Taxonomy,1639
+Microorganism,H.?alvei,NCBI_Taxonomy,569
+Microorganism,STEC O26:H11,NCBI_Taxonomy,244319
+Phenotype,STEC,OntoBiotope,000019
+Habitat,uncooked pressed model cheese,OntoBiotope,001480
+Habitat,Cheeses,OntoBiotope,001480
+Microorganism,Lb. plantarum (FH3),NCBI_Taxonomy,1590
+Microorganism,H.?alvei (B16),NCBI_Taxonomy,569
+Microorganism,Lc. lactis (D5.3),NCBI_Taxonomy,1358
+Phenotype,dextran-producing,OntoBiotope,000019
+Microorganism,Leuconostoc,NCBI_Taxonomy,1243
+Microorganism,Lactococcus,NCBI_Taxonomy,1357
+Microorganism,Lactobacillus,NCBI_Taxonomy,1578
+Microorganism,Pseudomonas,NCBI_Taxonomy,286
+Phenotype,Gram negative,OntoBiotope,000648
+Microorganism,Pseudomonas,NCBI_Taxonomy,286
+Phenotype,Gram positive,OntoBiotope,000649
+Phenotype,catalase positive,OntoBiotope,000222
+Habitat,cheese,OntoBiotope,001480
+Microorganism,H.?alvei (B16),NCBI_Taxonomy,569
+Habitat,cheeses,OntoBiotope,001480
+Habitat,dairy product,OntoBiotope,001208
+Phenotype,production of exopolysaccharides,OntoBiotope,000019
+Phenotype,LAB,OntoBiotope,000019
+Microorganism,Streptococcus thermophilus,NCBI_Taxonomy,1308
+Microorganism,Lactobacillus plantarum,NCBI_Taxonomy,1590
+Microorganism,Lactococcus lactis,NCBI_Taxonomy,1358
+Microorganism,Pediococcus damnsosus,NCBI_Taxonomy,51663
+Microorganism,L. plantarum WCFS1,NCBI_Taxonomy,220668
+Phenotype,surface polysaccharide production,OntoBiotope,000019
+Microorganism,L. lactis,NCBI_Taxonomy,1358
+Microorganism,Streptococcus pneumoniae,NCBI_Taxonomy,1313
+Microorganism,Lactobacillus rhamnosus,NCBI_Taxonomy,47715
+Phenotype,LAB,OntoBiotope,000019
+Phenotype,EPS production,OntoBiotope,000019
+Phenotype,LAB,OntoBiotope,000019
+Phenotype,LAB,OntoBiotope,000019
+Phenotype,yield of heteropolysaccharides,OntoBiotope,000019
+Phenotype,EPS producers,OntoBiotope,000019
+Microorganism,L. rhamnosus RW-9595M,NCBI_Taxonomy,47715
+Microorganism,Lactobacillus kefiranofaciens WT-2B,NCBI_Taxonomy,267818
+Microorganism,L. lactis subsp. cremoris,NCBI_Taxonomy,1359
+Microorganism,S. thermophilus,NCBI_Taxonomy,1308
+Microorganism,Lactobacillus delbrueckii subsp. bulgaricus,NCBI_Taxonomy,1585
+Microorganism,Lactobacillus casei,NCBI_Taxonomy,1582
+Microorganism,L. plantarum,NCBI_Taxonomy,1590
+Phenotype,¦Â-glucan produced,OntoBiotope,000019
+Microorganism,P. parvulus,NCBI_Taxonomy,54062
+Microorganism,Lactobacillus paracasei,NCBI_Taxonomy,1597
+Habitat,gastrointestinal,OntoBiotope,000641
+Habitat,gastric,OntoBiotope,001792
+Habitat,gastric mucosa,OntoBiotope,001577
+Habitat,gastric mucosal-associated lymphoid tissue,OntoBiotope,000334
+Habitat,gastric mucosal,OntoBiotope,001577
+Habitat,gastric,OntoBiotope,001792
+Habitat,MALT,OntoBiotope,000334
+Habitat,monoclonal B cells,OntoBiotope,001623
+Microorganism,Helicobacter pylori,NCBI_Taxonomy,210
+Habitat,gastric,OntoBiotope,001792
+Habitat,gastric MALT,OntoBiotope,000334
+Habitat,patients with atypical lymphoid infiltrates,OntoBiotope,003220
+Habitat,patients with low-grade MALT lymphoma,OntoBiotope,003220
+Habitat,patients with Helicobacter pylori-chronic active gastritis,OntoBiotope,003269
+Habitat,patients with high-grade primary gastric lymphoma,OntoBiotope,003220
+Habitat,gastric,OntoBiotope,001792
+Habitat,MALT,OntoBiotope,000334
+Microorganism,Helicobacter pylori,NCBI_Taxonomy,210
+Habitat,CD20,OntoBiotope,001623
+Habitat,CD3,OntoBiotope,001623
+Habitat,MALT,OntoBiotope,000334
+Habitat,patients with chronic active gastritis,OntoBiotope,003220
+Habitat,CD20-positive cells,OntoBiotope,001623
+Habitat,lymphocytic,OntoBiotope,001623
+Habitat,B cells,OntoBiotope,001623
+Habitat,T cells,OntoBiotope,001623
+Habitat,lymphocytic,OntoBiotope,001623
+Habitat,Lymphoepithelial,OntoBiotope,001091
+Habitat,Lymphoepithelial,OntoBiotope,000334
+Habitat,Lymphoepithelial lesions,OntoBiotope,000332
+Habitat,gastric,OntoBiotope,001792
+Habitat,gastric biopsies,OntoBiotope,000110
+Habitat,monoclonal B cells,OntoBiotope,001623
+Microorganism,Helicobacter pylori,NCBI_Taxonomy,210
+Habitat,CD20,OntoBiotope,001623
+Habitat,CD3,OntoBiotope,001623
+Habitat,gastric MALT,OntoBiotope,000334
+Habitat,gastric,OntoBiotope,001792
+Microorganism,Listeria sp.,NCBI_Taxonomy,1637
+Microorganism,Listeria monocytogenes,NCBI_Taxonomy,1639
+Habitat,chicken nugget processing plant,OntoBiotope,002129
+Habitat,chicken,OntoBiotope,002394
+Habitat,chicken nugget,OntoBiotope,001265
+Habitat,chicken nugget,OntoBiotope,002729
+Microorganism,Listeria,NCBI_Taxonomy,1637
+Microorganism,Listeria sp.,NCBI_Taxonomy,1637
+Microorganism,Listeria monocytogenes,NCBI_Taxonomy,1639
+Habitat,food handlers,OntoBiotope,003311
+Habitat,food,OntoBiotope,000094
+Habitat,chicken,OntoBiotope,002394
+Habitat,chicken nugget,OntoBiotope,001265
+Habitat,chicken nugget,OntoBiotope,002729
+Habitat,chicken nugget processing plant,OntoBiotope,002129
+Habitat,selective agars,OntoBiotope,000031
+Habitat,PALCAM,OntoBiotope,000031
+Habitat,LPM,OntoBiotope,000031
+Habitat,HCLA,OntoBiotope,000031
+Habitat,food handler,OntoBiotope,003311
+Habitat,food,OntoBiotope,000094
+Habitat,food,OntoBiotope,000094
+Habitat,food handlers,OntoBiotope,003311
+Microorganism,Helicobacter pylori,NCBI_Taxonomy,210
+Microorganism,Helicobacter pylori,NCBI_Taxonomy,210
+Microorganism,Helicobacter pylori,NCBI_Taxonomy,210
+Habitat,gastric,OntoBiotope,001792
+Habitat,gastric,OntoBiotope,001792
+Habitat,gastric,OntoBiotope,001792
+Habitat,gastric,OntoBiotope,001792
+Habitat,gastric,OntoBiotope,001792
+Habitat,gastric,OntoBiotope,001792
+Microorganism,Helicobacter pylori,NCBI_Taxonomy,210
+Microorganism,Helicobacter pylori,NCBI_Taxonomy,210
+Microorganism,Helicobacter pylori,NCBI_Taxonomy,210
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Habitat,gastric,OntoBiotope,001792
+Habitat,H. pylori-positive subjects,OntoBiotope,003269
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Habitat,H. pylori-negative subjects,OntoBiotope,002712
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Habitat,gastric mucosa,OntoBiotope,001577
+Habitat,gastric,OntoBiotope,001792
+Habitat,gastric,OntoBiotope,001792
+Habitat,gastric,OntoBiotope,001792
+Habitat,gastric mucosa,OntoBiotope,001577
+Habitat,gastric mucosa,OntoBiotope,001577
+Habitat,H. pylori-infected monkeys,OntoBiotope,000491
+Habitat,H. pylori-infected monkeys,OntoBiotope,003107
+Habitat,H. pylori-infected monkeys,OntoBiotope,000700
+Habitat,H. pylori-infected monkeys,OntoBiotope,000491
+Habitat,H. pylori-infected monkeys,OntoBiotope,003107
+Habitat,H. pylori-infected monkeys,OntoBiotope,000700
+Habitat,H. pylori-infected monkeys,OntoBiotope,000491
+Habitat,H. pylori-infected monkeys,OntoBiotope,003107
+Habitat,H. pylori-infected monkeys,OntoBiotope,000700
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Habitat,control monkeys,OntoBiotope,003107
+Habitat,control monkeys,OntoBiotope,000700
+Habitat,control monkeys,OntoBiotope,003107
+Habitat,control monkeys,OntoBiotope,000700
+Habitat,control monkeys,OntoBiotope,003107
+Habitat,control monkeys,OntoBiotope,000700
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Habitat,children,OntoBiotope,003188
+Habitat,gastric mucosa,OntoBiotope,001577
+Habitat,gastric,OntoBiotope,001792
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Habitat,gastric,OntoBiotope,001792
+Habitat,gastric,OntoBiotope,001792
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Habitat,patients with chronic gastritis,OntoBiotope,003269
+Habitat,patients with chronic gastritis,OntoBiotope,003269
+Habitat,patients with chronic gastritis,OntoBiotope,003220
+Habitat,patients with gastric cancer,OntoBiotope,003220
+Habitat,gastric,OntoBiotope,001792
+Habitat,gastric,OntoBiotope,001792
+Habitat,gastric,OntoBiotope,001792
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Habitat,young Japanese gastric cancer patients,OntoBiotope,003188
+Habitat,young Japanese gastric cancer patients,OntoBiotope,003220
+Habitat,gastric,OntoBiotope,001792
+Habitat,gastric,OntoBiotope,001792
+Habitat,gastric,OntoBiotope,001792
+Habitat,control group,OntoBiotope,003188
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Habitat,gastric,OntoBiotope,001792
+Habitat,young Japanese people,OntoBiotope,003188
+Habitat,young Japanese people,OntoBiotope,003188
+Habitat,young Japanese people,OntoBiotope,003188
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Habitat,gastric,OntoBiotope,001792
+Habitat,gastric mucosa,OntoBiotope,001577
+Habitat,gastric,OntoBiotope,001792
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Microorganism,Vibrio parahaemolyticus,NCBI_Taxonomy,670
+Habitat,clinical,OntoBiotope,003220
+Microorganism,Vibro parahaemolyticus,NCBI_Taxonomy,670
+Habitat,clinical,OntoBiotope,003220
+Habitat,gastroenteritis patients,OntoBiotope,003269
+Habitat,healthy carriers,OntoBiotope,002712
+Habitat,water,OntoBiotope,000468
+Habitat,fish samples,OntoBiotope,002793
+Habitat,Human,OntoBiotope,002488
+Habitat,tick,OntoBiotope,001821
+Microorganism,spotted fever group,NCBI_Taxonomy,114277
+Microorganism,Rickettsia,NCBI_Taxonomy,780
+Microorganism,spotted fever group,NCBI_Taxonomy,114277
+Microorganism,rickettsiae,NCBI_Taxonomy,780
+Habitat,ticks,OntoBiotope,001821
+Habitat,humans,OntoBiotope,002488
+Habitat,human,OntoBiotope,003269
+Habitat,patients suffering from rickettsial disease of different degrees of severity,OntoBiotope,003269
+Microorganism,Rickettsia conorii,NCBI_Taxonomy,781
+Microorganism,R. conorii reference strains no. 7,NCBI_Taxonomy,781
+Microorganism,R. conorii reference strains Moroccan,NCBI_Taxonomy,781
+Microorganism,spotted fever group,NCBI_Taxonomy,114277
+Habitat,ticks,OntoBiotope,001821
+Habitat,humans,OntoBiotope,003269
+Microorganism,R. conorii,NCBI_Taxonomy,781
+Paragraph,"The strain 96-OK-85-24 significantly differed from the existing mosquitocidal B. thuringiensis strains in: (1) lacking the larvicidal activity against Culex pipiens molestus and haemolytic activity, and (2) SDS-PAGE profiles, immunological properties and N-terminal amino acid sequences of parasporal inclusion proteins.",,
+Paragraph,It is clear from the results that the strain 96-OK-85-24 synthesizes a novel mosquitocidal Cry protein with a unique toxicity spectrum.,,
+Paragraph,"This is the first report of the occurrence of a mosquitocidal B. thuringiensis strain with an unusual toxicity spectrum, lacking the activity against the culicine mosquito.",,
+Phenotype,mosquitocidal,OntoBiotope,002809
+Microorganism,Bacillus thuringiensis serovar sotto,NCBI_Taxonomy,29340
+Phenotype,mosquitocidal activity,OntoBiotope,002809
+Microorganism,Bacillus thuringiensis serovar sotto strain 96-OK-85-24,NCBI_Taxonomy,29340
+Phenotype,mosquitocidal,OntoBiotope,002809
+Microorganism,96-OK-85-24,NCBI_Taxonomy,29340
+Phenotype,mosquitocidal,OntoBiotope,002809
+Microorganism,B. thuringiensis,NCBI_Taxonomy,1428
+Phenotype,larvicidal activity,OntoBiotope,002809
+Habitat,Culex pipiens molestus,OntoBiotope,002142
+Phenotype,haemolytic activity,OntoBiotope,000304
+Microorganism,96-OK-85-24,NCBI_Taxonomy,29340
+Phenotype,mosquitocidal,OntoBiotope,002809
+Phenotype,mosquitocidal,OntoBiotope,002809
+Microorganism,B. thuringiensis,NCBI_Taxonomy,1428
+Habitat,culicine mosquito,OntoBiotope,002142
+Microorganism,Pseudomonas aeruginosa,NCBI_Taxonomy,287
+Habitat,paediatric cystic fibrosis units,OntoBiotope,000097
+Habitat,paediatric,OntoBiotope,003188
+Habitat,adult cystic fibrosis units,OntoBiotope,000097
+Habitat,adult,OntoBiotope,003245
+Microorganism,Pseudomonas aeruginosa,NCBI_Taxonomy,287
+Habitat,cystic fibrosis (CF) units,OntoBiotope,000097
+Habitat,Sputum,OntoBiotope,001335
+Habitat,productive patients,OntoBiotope,003220
+Habitat,regional adult CF units,OntoBiotope,000097
+Habitat,regional paediatric CF units,OntoBiotope,000097
+Habitat,paediatric,OntoBiotope,003188
+Habitat,adult,OntoBiotope,003245
+Microorganism,P. aeruginosa,NCBI_Taxonomy,287
+Phenotype,antibiotic sensitivity,OntoBiotope,002675
+Habitat,sputum,OntoBiotope,001335
+Habitat,patients,OntoBiotope,003220
+Habitat,clinic,OntoBiotope,002694
+Microorganism,P. aeruginosa,NCBI_Taxonomy,287
+Habitat,patients,OntoBiotope,003220
+Habitat,patients,OntoBiotope,003220
+Habitat,patient,OntoBiotope,003220
+Habitat,patients,OntoBiotope,003220
+Habitat,patients,OntoBiotope,003220
+Habitat,patients,OntoBiotope,003220
+Habitat,lung,OntoBiotope,000716
+Phenotype,multiresistance,OntoBiotope,002674
+Habitat,patients,OntoBiotope,003220
+Phenotype,colonial morphology,OntoBiotope,000064
+Phenotype,multiresistance,OntoBiotope,002674
+Paragraph,A total of 275 patients with chronic dyspepsia seen in one clinic were enrolled. Gastric biopsies were obtained at endoscopy and H. pylori infection was diagnosed using the rapid urease test. Patients with H. pylori infection were given either clarithromycin or metronidazole-based triple therapy. Six weeks later H. pylori status was assessed using the C-urea breath test (C-UBT). Those who were negative for H. pylori had a further C-UBT after 1 year to establish the recurrence rate.,,
+Paragraph,"The prevalence of H. pylori infection at entry to the study was 82.2% [95% confidence interval (CI) 78-87%]. The overall eradication rate 6 weeks after treatment was 49.1% (95% CI 42.6-55.6%) by intention-to-treat analysis, and 60% (95% CI 53-67%) by per-protocol analysis. Recurrence rate of H. pylori infection at 1 year was 34% (95% CI 14-45%) and the only predictor of recurrence was an excess delta C-UBT value less than 3.5 per million but equal to or greater than 2.5 per million at 6 weeks after treatment (odds ratio 2.28; 95% CI 1.17-4.44; P = 0.028).",,
+Paragraph,"The prevalence of H. pylori infection in dyspeptic patients in Yemen is very high, the eradication rate with standard triple therapy was unsatisfactory probably because of widespread bacterial resistance due to unrestricted antibiotic use. The recurrence rate of infection at 1 year was high, as a result of recrudescence of incompletely eradicated organisms rather than reinfection.",,
+Microorganism,Helicobacter pylori,NCBI_Taxonomy,210
+Microorganism,Helicobacter pylori,NCBI_Taxonomy,210
+Habitat,dyspeptic patients,OntoBiotope,003220
+Habitat,patients with chronic dyspepsia,OntoBiotope,003220
+Habitat,clinic,OntoBiotope,002694
+Habitat,Gastric biopsies,OntoBiotope,000110
+Habitat,Gastric,OntoBiotope,001792
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Habitat,Patients with H. pylori infection,OntoBiotope,003269
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Microorganism,H. pylori,NCBI_Taxonomy,210
+Habitat,dyspeptic patients,OntoBiotope,003220
+Phenotype,widespread bacterial resistance due to unrestricted antibiotic use,OntoBiotope,002674
+Habitat,neonatal,OntoBiotope,003453
+Microorganism,Klebsiella pneumonia,NCBI_Taxonomy,573
+Microorganism,Klebsiella pneumonia,NCBI_Taxonomy,573
+Habitat,humans,OntoBiotope,003493
+Habitat,animals,OntoBiotope,001103
+Habitat,humans,OntoBiotope,002488
+Microorganism,Klebsiella pneumonia,NCBI_Taxonomy,573
+Habitat,placenta of a 38-year-old secondary recurrent aborter,OntoBiotope,000811
+Habitat,38-year-old secondary recurrent aborter,OntoBiotope,003493
+Paragraph,"The study population included 587 children with diarrhea and 249 age-matched healthy controls. The identification of pathogens was carried out by the conventional methods in combination with ELISA, immunoseparation, and PCR. The antibiotic susceptibility was determined by MIC following the NCCLS recommendations.",,
+Paragraph,"Of those with diarrhea, 40.9% were less than one year old and 71.0% were less than two years old. A potential pathogen was identified in 67.3% of children with diarrhea. They were group A rotavirus, diarrheagenic Escherichia coli, Shigella spp, and enterotoxigenic Bacteroides fragilis, with prevalences of 46.7%, 22.5%, 4.7%, and 7.3%, respectively. No Salmonella spp or Vibrio cholerae were isolated. Rotavirus and diarrheagenic E. coli were predominant in children less than two years of age, while Shigella spp, and enterotoxigenic B. fragilis were mostly seen in the older children. Diarrheagenic E. coli and Shigella spp showed high prevalence of resistance to ampicillin, chloramphenicol, and to trimethoprim/sulfamethoxazole. Children attending the hospitals had fever (43.6%), vomiting (53.8%), and dehydration (82.6%). Watery stool was predominant with a prevalence of 66.4%, followed by mucous stool (21.0%). The mean episodes of stools per day was seven, ranging from two to 23 episodes. Before attending hospitals, 162/587 (27.6%) children had been given antibiotics. Overall, more children got diarrhea in (i) poor families; (ii) families where piped water and a latrine were lacking; (iii) families where mothers washed their hands less often before feeding the children; (iv) families where mothers had a low level of education; (v) families where information on health and sanitation less often reached their households.",,
+Paragraph,"Group A rotavirus, diarrheagenic Escherichia coli, Shigella spp, and enterotoxigenic Bacteroides fragilis play an important role in causing diarrhea in children in Hanoi, Vietnam. Epidemiological factors such as lack of fresh water supply, unhygienic septic tank, low family income, lack of health information, and low educational level of parents could contribute to the morbidity of diarrhea in children.",,
+Habitat,children,OntoBiotope,003188
+Habitat,children less than five years of age,OntoBiotope,003188
+Habitat,study population,OntoBiotope,003188
+Habitat,children with diarrhea,OntoBiotope,003188
+Habitat,children with diarrhea,OntoBiotope,003156
+Habitat,age-matched healthy controls,OntoBiotope,003188
+Habitat,age-matched healthy controls,OntoBiotope,002712
+Phenotype,pathogens,OntoBiotope,002806
+Phenotype,antibiotic susceptibility,OntoBiotope,002675
+Phenotype,pathogen,OntoBiotope,002806
+Habitat,children with diarrhea,OntoBiotope,003156
+Habitat,children with diarrhea,OntoBiotope,003188
+Microorganism,group A rotavirus,NCBI_Taxonomy,28875
+Phenotype,diarrheagenic,OntoBiotope,002806
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Microorganism,Shigella spp,NCBI_Taxonomy,620
+Phenotype,enterotoxigenic,OntoBiotope,002806
+Microorganism,Bacteroides fragilis,NCBI_Taxonomy,817
+Microorganism,Salmonella spp,NCBI_Taxonomy,590
+Microorganism,Vibrio cholerae,NCBI_Taxonomy,666
+Microorganism,Rotavirus,NCBI_Taxonomy,10912
+Phenotype,diarrheagenic,OntoBiotope,002806
+Microorganism,E. coli,NCBI_Taxonomy,562
+Habitat,children less than two years of age,OntoBiotope,003184
+Habitat,children less than two years of age,OntoBiotope,003156
+Microorganism,Shigella spp,NCBI_Taxonomy,620
+Phenotype,enterotoxigenic,OntoBiotope,002806
+Microorganism,B. fragilis,NCBI_Taxonomy,817
+Habitat,older children,OntoBiotope,003188
+Habitat,older children,OntoBiotope,003156
+Phenotype,Diarrheagenic,OntoBiotope,002806
+Microorganism,E. coli,NCBI_Taxonomy,562
+Microorganism,Shigella spp,NCBI_Taxonomy,620
+Phenotype,resistance to trimethoprim/sulfamethoxazole,OntoBiotope,002844
+Phenotype,resistance to ampicillin,OntoBiotope,002762
+Phenotype,resistance to chloramphenicol,OntoBiotope,002772
+Habitat,Children attending the hospitals,OntoBiotope,003269
+Habitat,Children attending the hospitals,OntoBiotope,003188
+Habitat,hospitals,OntoBiotope,002714
+Habitat,Watery stool,OntoBiotope,001102
+Habitat,mucous stool,OntoBiotope,001102
+Habitat,mucous,OntoBiotope,001220
+Habitat,stools,OntoBiotope,001102
+Habitat,hospitals,OntoBiotope,002714
+Habitat,children,OntoBiotope,003188
+Habitat,children,OntoBiotope,003269
+Habitat,children,OntoBiotope,003188
+Habitat,children,OntoBiotope,003269
+Habitat,piped water,OntoBiotope,001530
+Habitat,latrine,OntoBiotope,000702
+Habitat,mothers,OntoBiotope,003491
+Habitat,children,OntoBiotope,003188
+Habitat,children,OntoBiotope,003269
+Habitat,mothers,OntoBiotope,003491
+Microorganism,Group A rotavirus,NCBI_Taxonomy,28875
+Phenotype,diarrheagenic,OntoBiotope,002806
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Microorganism,Shigella spp,NCBI_Taxonomy,620
+Phenotype,enterotoxigenic,OntoBiotope,002806
+Microorganism,Bacteroides fragilis,NCBI_Taxonomy,817
+Habitat,children,OntoBiotope,003188
+Habitat,fresh water,OntoBiotope,002455
+Habitat,fresh water supply,OntoBiotope,001082
+Habitat,unhygienic septic tank,OntoBiotope,003116
+Habitat,children,OntoBiotope,003188
+Phenotype,mercury resistance,OntoBiotope,002521
+Phenotype,mer,OntoBiotope,002521
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Habitat,rich medium,OntoBiotope,000007
+Microorganism,E. coli,NCBI_Taxonomy,562
+Microorganism,Deinococcus radiodurans,NCBI_Taxonomy,1299
+Microorganism,Rickettsia,NCBI_Taxonomy,780
+Microorganism,rickettsial,NCBI_Taxonomy,780
+Habitat,animals,OntoBiotope,000193
+Habitat,humans,OntoBiotope,002488
+Habitat,ticks,OntoBiotope,001821
+Habitat,fleas,OntoBiotope,002034
+Habitat,flea,OntoBiotope,002034
+Habitat,Adoratopsylla antiquorum antiquorum,OntoBiotope,002034
+Habitat,Ctenocephalides felis felis,OntoBiotope,002034
+Habitat,Polygenis atopus,OntoBiotope,002034
+Habitat,Polygenis rimatus,OntoBiotope,002034
+Habitat,Polygenis roberti roberti,OntoBiotope,002034
+Habitat,Polygenis tripus,OntoBiotope,002034
+Habitat,Rhopalopsyllus lugubris,OntoBiotope,002034
+Habitat,Rhopalopsyllus lutzi lutzi,OntoBiotope,002034
+Habitat,tick,OntoBiotope,001821
+Habitat,Amblyomma aureolatum,OntoBiotope,001821
+Habitat,Amblyomma cajennense,OntoBiotope,001821
+Habitat,Amblyomma dubitatum,OntoBiotope,001821
+Habitat,Ixodes loricatus,OntoBiotope,001821
+Habitat,Rhipicephalus sanguineus,OntoBiotope,002693
+Habitat,dogs,OntoBiotope,003092
+Habitat,cats,OntoBiotope,003086
+Habitat,opossums,OntoBiotope,002161
+Microorganism,Rickettsia felis,NCBI_Taxonomy,42862
+Microorganism,rickettsia,NCBI_Taxonomy,780
+Habitat,fleas,OntoBiotope,002034
+Microorganism,Rickettsia bellii,NCBI_Taxonomy,33990
+Habitat,ticks,OntoBiotope,001821
+Habitat,animal blood,OntoBiotope,000521
+Habitat,animal,OntoBiotope,000193
+Habitat,human blood,OntoBiotope,000521
+Habitat,human,OntoBiotope,002488
+Microorganism,rickettsial,NCBI_Taxonomy,780
+Habitat,animal,OntoBiotope,000193
+Habitat,animal sera,OntoBiotope,000007
+Habitat,animal sera,OntoBiotope,000524
+Habitat,human,OntoBiotope,002488
+Habitat,human sera,OntoBiotope,000524
+Habitat,human sera,OntoBiotope,000007
+Microorganism,rickettsia,NCBI_Taxonomy,780
+Microorganism,R. rickettsii,NCBI_Taxonomy,783
+Microorganism,R. parkeri,NCBI_Taxonomy,35792
+Microorganism,R. felis,NCBI_Taxonomy,42862
+Microorganism,R. bellii,NCBI_Taxonomy,33990
+Habitat,opossum sera,OntoBiotope,000524
+Habitat,opossum sera,OntoBiotope,000007
+Habitat,opossum,OntoBiotope,002161
+Habitat,dog sera,OntoBiotope,000007
+Habitat,dog sera,OntoBiotope,000524
+Habitat,dog,OntoBiotope,003092
+Habitat,horse,OntoBiotope,003320
+Habitat,horse sera,OntoBiotope,000524
+Habitat,horse sera,OntoBiotope,000007
+Habitat,human sera,OntoBiotope,000524
+Habitat,human sera,OntoBiotope,000007
+Habitat,human,OntoBiotope,002488
+Microorganism,R. rickettsii,NCBI_Taxonomy,783
+Microorganism,rickettsial,NCBI_Taxonomy,780
+Habitat,sera,OntoBiotope,000524
+Habitat,sera,OntoBiotope,000007
+Microorganism,R. rickettsii,NCBI_Taxonomy,783
+Habitat,opossum sera,OntoBiotope,000524
+Habitat,opossum sera,OntoBiotope,000007
+Habitat,opossum,OntoBiotope,002161
+Habitat,dog,OntoBiotope,003092
+Habitat,dog sera,OntoBiotope,000524
+Habitat,dog sera,OntoBiotope,000007
+Habitat,horse,OntoBiotope,003320
+Habitat,horse sera,OntoBiotope,000524
+Habitat,horse sera,OntoBiotope,000007
+Microorganism,R. parkeri,NCBI_Taxonomy,35792
+Microorganism,R. rickettsii,NCBI_Taxonomy,783
+Microorganism,R. parkeri,NCBI_Taxonomy,35792
+Habitat,animals,OntoBiotope,000193
+Habitat,humans,OntoBiotope,002488
+Habitat,LTQ Orbitrap high-resolution mass spectrometer,OntoBiotope,000103
+Habitat,mixtures of pure compounds and uniformly 13C-labeled cell extracts,OntoBiotope,000007
+Habitat,13C-labeled cell,OntoBiotope,000061
+Microorganism,Methylobacterium extorquens AM1,NCBI_Taxonomy,272630
+Habitat,LTQ Obitrap,OntoBiotope,000103
+Paragraph,"We show here that cell-surface expressed nucleolin is a receptor for Francisella tularensis Live Vaccine Strain (LVS) and promotes LVS binding and infection of human monocyte-like THP-1 cells. The HB-19 pseudopeptide that binds specifically carboxy-terminal RGG domain of nucleolin inhibits LVS binding and infection of monocyte-like THP-1 cells. In a pull-down assay, elongation factor Tu (EF-Tu), a GTP-binding protein involved in protein translation, usually found in cytoplasm, was recovered among LVS bacterial membrane proteins bound on RGG domain of nucleolin. A specific polyclonal murine antibody was raised against recombinant LVS EF-Tu. By fluorescence and electron microscopy experiments, we found that a fraction of EF-Tu could be detected at the bacterial surface. Anti-EF-Tu antibodies reduced LVS binding to monocyte-like THP-1 cells and impaired infection, even in absence of complement and complement receptors. Interaction between EF-Tu and nucleolin was illustrated by two different pull-down assays using recombinant EF-Tu proteins and either RGG domain of nucleolin or cell solubilized nucleolin.",,
+Paragraph,"Altogether, our results demonstrate that the interaction between surface nucleolin and its bacterial ligand EF-Tu plays an important role in Francisella tularensis adhesion and entry process and may therefore facilitate invasion of host tissues. Since phagosomal escape and intra-cytosolic multiplication of LVS in infected monocytes are very similar to those of human pathogenic F. tularensis ssp tularensis, the mechanism of entry into monocyte-like THP-1 cells, involving interaction between EF-Tu and nucleolin, might be similar in the two subspecies. Thus, the use of either nucleolin-specific pseudopeptide HB-19 or recombinant EF-Tu could provide attractive therapeutic approaches for modulating F. tularensis infection.",,
+Microorganism,Francisella tularensis,NCBI_Taxonomy,263
+Habitat,monocyte-like THP-1 cells,OntoBiotope,000062
+Habitat,monocyte-like THP-1 cells,OntoBiotope,003001
+Microorganism,Francisella tularensis,NCBI_Taxonomy,263
+Phenotype,causative agent of tularemia,OntoBiotope,002806
+Habitat,human,OntoBiotope,002488
+Phenotype,human bacterial pathogens,OntoBiotope,002806
+Habitat,immune cells,OntoBiotope,000320
+Habitat,monocytes,OntoBiotope,003001
+Habitat,macrophages,OntoBiotope,002995
+Microorganism,F. tularensis,NCBI_Taxonomy,263
+Habitat,cell,OntoBiotope,000061
+Microorganism,Francisella tularensis Live Vaccine Strain,NCBI_Taxonomy,263
+Microorganism,LVS,NCBI_Taxonomy,263
+Microorganism,LVS,NCBI_Taxonomy,263
+Phenotype,binding,OntoBiotope,000029
+Habitat,human,OntoBiotope,002488
+Habitat,human monocyte-like THP-1 cells,OntoBiotope,003001
+Habitat,human monocyte-like THP-1 cells,OntoBiotope,000062
+Habitat,monocyte-like THP-1 cells,OntoBiotope,003001
+Habitat,monocyte-like THP-1 cells,OntoBiotope,000062
+Microorganism,LVS,NCBI_Taxonomy,263
+Phenotype,binding,OntoBiotope,000029
+Habitat,monocyte-like THP-1 cells,OntoBiotope,000062
+Habitat,monocyte-like THP-1 cells,OntoBiotope,003001
+Microorganism,LVS,NCBI_Taxonomy,263
+Habitat,murine,OntoBiotope,002530
+Microorganism,LVS,NCBI_Taxonomy,263
+Microorganism,LVS,NCBI_Taxonomy,263
+Phenotype,binding,OntoBiotope,000029
+Habitat,monocyte-like THP-1 cells,OntoBiotope,000062
+Habitat,monocyte-like THP-1 cells,OntoBiotope,003001
+Habitat,cell,OntoBiotope,000061
+Microorganism,Francisella tularensis,NCBI_Taxonomy,263
+Phenotype,adhesion,OntoBiotope,000029
+Phenotype,invasion of host tissues,OntoBiotope,002806
+Habitat,host tissues,OntoBiotope,000196
+Microorganism,LVS,NCBI_Taxonomy,263
+Habitat,infected monocytes,OntoBiotope,003001
+Habitat,human,OntoBiotope,002488
+Phenotype,human pathogenic,OntoBiotope,002806
+Microorganism,F. tularensis ssp tularensis,NCBI_Taxonomy,119856
+Habitat,monocyte-like THP-1 cells,OntoBiotope,003001
+Habitat,monocyte-like THP-1 cells,OntoBiotope,000062
+Microorganism,F. tularensis,NCBI_Taxonomy,263
+Phenotype,human pathogens,OntoBiotope,002806
+Habitat,human,OntoBiotope,002488
+Microorganism,Staphylococcus aureus,NCBI_Taxonomy,1280
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Microorganism,S. aureus,NCBI_Taxonomy,1280
+Phenotype,Bile resistance,OntoBiotope,000152
+Habitat,Bile,OntoBiotope,000514
+Microorganism,Lactococcus lactis,NCBI_Taxonomy,1358
+Phenotype,Bile resistance,OntoBiotope,000152
+Habitat,Bile,OntoBiotope,000514
+Phenotype,probiotic,OntoBiotope,000827
+Phenotype,bile resistance,OntoBiotope,000152
+Habitat,bile,OntoBiotope,000514
+Microorganism,lactococci,NCBI_Taxonomy,1357
+Phenotype,bile resistance,OntoBiotope,000152
+Habitat,bile,OntoBiotope,000514
+Microorganism,lactococcci,NCBI_Taxonomy,1357
+Phenotype,bile resistance,OntoBiotope,000152
+Habitat,bile,OntoBiotope,000514
+Habitat,lactose-free M17 medium supplemented with glucose only (GM17),OntoBiotope,000007
+Habitat,lactose-free M17 medium supplemented with lactose only (LM17),OntoBiotope,000007
+Phenotype,bile resistance,OntoBiotope,000152
+Habitat,bile,OntoBiotope,000514
+Phenotype,bile resistance,OntoBiotope,000152
+Habitat,bile,OntoBiotope,000514
+Phenotype,bile resistance,OntoBiotope,000152
+Habitat,bile,OntoBiotope,000514
+Microorganism,L. lactis subsp. cremoris,NCBI_Taxonomy,1359
+Habitat,GM17 medium,OntoBiotope,000007
+Phenotype,bile-resistant,OntoBiotope,000152
+Habitat,bile,OntoBiotope,000514
+Phenotype,bile-sensitive,OntoBiotope,000153
+Habitat,bile,OntoBiotope,000514
+Habitat,LM17 medium,OntoBiotope,000007
+Phenotype,bile-resistant,OntoBiotope,000152
+Habitat,bile,OntoBiotope,000514
+Phenotype,bile-sensitive,OntoBiotope,000153
+Habitat,bile,OntoBiotope,000514
+Microorganism,L. lactis subsp. lactis,NCBI_Taxonomy,1360
+Phenotype,bile resistances,OntoBiotope,000152
+Habitat,bile,OntoBiotope,000514
+Phenotype,resistant to bile,OntoBiotope,000152
+Habitat,bile,OntoBiotope,000514
+Habitat,GM17 medium,OntoBiotope,000007
+Phenotype,sensitive to bile,OntoBiotope,000153
+Habitat,bile,OntoBiotope,000514
+Habitat,LM17 medium,OntoBiotope,000007
+Phenotype,resistant,OntoBiotope,000152
+Habitat,GM17 medium,OntoBiotope,000007
+Habitat,LM17 medium,OntoBiotope,000007
+Phenotype,bile-resistant,OntoBiotope,000152
+Habitat,bile,OntoBiotope,000514
+Microorganism,lactococci,NCBI_Taxonomy,1357
+Phenotype,bile-sensitive,OntoBiotope,000153
+Habitat,bile,OntoBiotope,000514
+Phenotype,bile resistance,OntoBiotope,000152
+Habitat,bile,OntoBiotope,000514
+Microorganism,lactococci,NCBI_Taxonomy,1357
+Paragraph,"Cloacal swabs of partridges (n = 240), equally distributed between male and female birds, from a game bird farm located in the Southern Italy were examined for the prevalence of thermotolerant Campylobacter spp. The samples were processed in order to detect thermotolerant Campylobacter spp. by culture methods. The positive samples were then confirmed by multiplex polymerase chain reaction. Thermotolerant Campylobacter spp. were isolated from 118 (49.2%) of the 240 cloacal swabs examined. As proved by PCR, 100% of the strains were identified as Campylobacter coli (118/118), and 15 (12.7%) out of the 118 positive samples were also positive for Campylobacter jejuni. In contrast, Campylobacter lari was not identified. Adult partridges showed a significantly higher prevalence (P < 0.05) than younger ones.",,
+Paragraph,These results reinforce the assumption that game birds may be considered as potential carriers of Campylobacter spp. for human being and other animal species.,,
+Paragraph,"Although an earlier 1986 publication described the prevalence of Campylobacter coli in commercially reared partridges, this is the first report to confirm the species of Campylobacter using a PCR test.",,
+Phenotype,thermotolerant,OntoBiotope,000453
+Microorganism,Campylobacter,NCBI_Taxonomy,194
+Habitat,partridges,OntoBiotope,003066
+Habitat,Perdix perdix,OntoBiotope,003066
+Phenotype,thermotolerant,OntoBiotope,000453
+Microorganism,Campylobacter spp.,NCBI_Taxonomy,194
+Habitat,commercially reared partridges,OntoBiotope,003066
+Habitat,commercially reared partridges,OntoBiotope,002726
+Habitat,Perdix perdix,OntoBiotope,003066
+Habitat,Cloacal swabs of partridges,OntoBiotope,001737
+Habitat,Cloacal,OntoBiotope,001488
+Habitat,partridges,OntoBiotope,003066
+Habitat,partridges,OntoBiotope,002726
+Habitat,male birds,OntoBiotope,001192
+Habitat,male birds,OntoBiotope,003066
+Habitat,male birds,OntoBiotope,002726
+Habitat,female birds,OntoBiotope,001103
+Habitat,female birds,OntoBiotope,003066
+Habitat,female birds,OntoBiotope,002726
+Habitat,game bird,OntoBiotope,001446
+Habitat,game bird farm,OntoBiotope,000194
+Phenotype,thermotolerant,OntoBiotope,000453
+Microorganism,Campylobacter spp.,NCBI_Taxonomy,194
+Phenotype,thermotolerant,OntoBiotope,000453
+Microorganism,Campylobacter spp.,NCBI_Taxonomy,194
+Phenotype,Thermotolerant,OntoBiotope,000453
+Microorganism,Campylobacter spp.,NCBI_Taxonomy,194
+Habitat,cloacal swabs,OntoBiotope,001737
+Microorganism,Campylobacter coli,NCBI_Taxonomy,195
+Microorganism,Campylobacter jejuni,NCBI_Taxonomy,197
+Microorganism,Campylobacter lari,NCBI_Taxonomy,201
+Habitat,Adult partridges,OntoBiotope,002726
+Habitat,Adult partridges,OntoBiotope,003066
+Habitat,Adult partridges,OntoBiotope,001395
+Habitat,younger ones,OntoBiotope,003066
+Habitat,younger ones,OntoBiotope,002726
+Habitat,younger ones,OntoBiotope,001849
+Habitat,game birds,OntoBiotope,001446
+Microorganism,Campylobacter spp.,NCBI_Taxonomy,194
+Habitat,human being,OntoBiotope,002488
+Habitat,animal species,OntoBiotope,000193
+Microorganism,Campylobacter coli,NCBI_Taxonomy,195
+Habitat,commercially reared partridges,OntoBiotope,003066
+Habitat,commercially reared partridges,OntoBiotope,002726
+Microorganism,Campylobacter,NCBI_Taxonomy,194
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Paragraph,"In this study, we utilized wild-type and mutant strains of Yersinia to test the contribution of YopJ and YopP on induction of apoptosis in human monocyte-derived macrophages (HMDM) and neutrophils. Whereas YopJ and YopP similarly induced apoptosis in HMDMs, interaction of human neutrophils with virulence plasmid-containing Yersinia did not result in PMN caspase activation, release of LDH, or loss of membrane integrity greater than PMN controls. In contrast, interaction of human PMNs with the virulence plasmid-deficient Y. pestis strain KIM6 resulted in increased surface exposure of phosphatidylserine (PS) and cell death. PMN reactive oxygen species (ROS) production was inhibited in a virulence plasmid-dependent but YopJ/YopP-independent manner. Following phagocytic interaction with Y. pestis strain KIM6, inhibition of PMN ROS production with diphenyleneiodonium chloride resulted in a reduction of PMN cell death similar to that induced by the virulence plasmid-containing strain Y. pestis KIM5.",,
+Paragraph,"Our findings showed that Yersinia YopJ and/or YopP did not induce pronounced apoptosis in human neutrophils. Furthermore, robust PMN ROS production in response to virulence plasmid-deficient Yersinia was associated with increased PMN cell death, suggesting that Yersinia inhibition of PMN ROS production plays a role in evasion of the human innate immune response in part by limiting PMN apoptosis.",,
+Habitat,Neutrophils,OntoBiotope,003004
+Microorganism,Yersinia,NCBI_Taxonomy,629
+Habitat,cell,OntoBiotope,000061
+Phenotype,type III secretion,OntoBiotope,000019
+Habitat,human,OntoBiotope,002488
+Habitat,human innate immune system,OntoBiotope,000686
+Habitat,macrophages,OntoBiotope,002995
+Habitat,polymorphonuclear leukocytes,OntoBiotope,001134
+Habitat,neutrophils,OntoBiotope,003004
+Habitat,PMNs,OntoBiotope,001134
+Phenotype,bacterial pathogens,OntoBiotope,002806
+Microorganism,Yersinia,NCBI_Taxonomy,629
+Habitat,humans,OntoBiotope,002488
+Microorganism,Yersinia,NCBI_Taxonomy,629
+Microorganism,Y. pestis,NCBI_Taxonomy,632
+Microorganism,Y. pseudotuberculosis,NCBI_Taxonomy,633
+Microorganism,Y. enterocolitica,NCBI_Taxonomy,630
+Habitat,murine macrophages,OntoBiotope,002995
+Habitat,murine dendritic cells,OntoBiotope,002785
+Habitat,murine,OntoBiotope,002530
+Microorganism,Yersinia,NCBI_Taxonomy,630
+Habitat,neutrophil,OntoBiotope,003004
+Phenotype,wild-type,OntoBiotope,000169
+Phenotype,mutant,OntoBiotope,000118
+Microorganism,Yersinia,NCBI_Taxonomy,629
+Habitat,human monocyte-derived macrophages,OntoBiotope,002995
+Habitat,human,OntoBiotope,002488
+Habitat,HMDM,OntoBiotope,002995
+Habitat,neutrophils,OntoBiotope,003004
+Habitat,HMDMs,OntoBiotope,002995
+Habitat,human neutrophils,OntoBiotope,003004
+Habitat,human,OntoBiotope,002488
+Phenotype,virulence,OntoBiotope,002806
+Microorganism,Yersinia,NCBI_Taxonomy,629
+Habitat,PMN,OntoBiotope,001134
+Habitat,PMN,OntoBiotope,001134
+Habitat,human PMNs,OntoBiotope,001134
+Habitat,human,OntoBiotope,002488
+Phenotype,virulence,OntoBiotope,002806
+Microorganism,Y. pestis strain KIM6,NCBI_Taxonomy,187410
+Habitat,cell,OntoBiotope,000706
+Habitat,PMN,OntoBiotope,001134
+Phenotype,virulence,OntoBiotope,002806
+Microorganism,Y. pestis strain KIM6,NCBI_Taxonomy,187410
+Habitat,PMN,OntoBiotope,001134
+Habitat,PMN cell,OntoBiotope,001134
+Phenotype,virulence,OntoBiotope,002806
+Microorganism,Y. pestis KIM5,NCBI_Taxonomy,187410
+Microorganism,Yersinia,NCBI_Taxonomy,629
+Habitat,human neutrophils,OntoBiotope,003004
+Habitat,human,OntoBiotope,002488
+Habitat,PMN,OntoBiotope,001134
+Phenotype,virulence,OntoBiotope,002806
+Microorganism,Yersinia,NCBI_Taxonomy,629
+Habitat,PMN cell,OntoBiotope,001134
+Microorganism,Yersinia,NCBI_Taxonomy,629
+Habitat,PMN,OntoBiotope,001134
+Habitat,human,OntoBiotope,002488
+Habitat,PMN,OntoBiotope,001134
+Habitat,probiotic fermented milk beverage,OntoBiotope,001269
+Habitat,probiotic fermented milk beverage,OntoBiotope,003146
+Habitat,probiotic fermented milk beverage,OntoBiotope,003343
+Microorganism,Lactobacillus casei strain Shirota,NCBI_Taxonomy,1582
+Habitat,intestinal,OntoBiotope,002810
+Habitat,intestinal microbiota,OntoBiotope,000113
+Habitat,intestinal environment of healthy individuals with soft stools,OntoBiotope,002810
+Habitat,healthy individuals with soft stools,OntoBiotope,002712
+Habitat,soft stools,OntoBiotope,001102
+Habitat,fermented milk beverage,OntoBiotope,003146
+Habitat,fermented milk beverage,OntoBiotope,003343
+Microorganism,Lactobacillus casei strain Shirota,NCBI_Taxonomy,1582
+Microorganism,LcS,NCBI_Taxonomy,1582
+Habitat,bottle,OntoBiotope,003146
+Habitat,probiotics,OntoBiotope,001269
+Habitat,bottle,OntoBiotope,003146
+Habitat,bottle,OntoBiotope,001269
+Habitat,intestinal microbiota,OntoBiotope,000113
+Habitat,intestinal,OntoBiotope,002810
+Habitat,intestinal environment of healthy individuals with soft stools,OntoBiotope,002810
+Habitat,healthy individuals with soft stools,OntoBiotope,002712
+Habitat,soft stools,OntoBiotope,001102
+Habitat,healthy adults,OntoBiotope,002712
+Habitat,healthy adults,OntoBiotope,003245
+Habitat,soft stools,OntoBiotope,001102
+Habitat,probiotics,OntoBiotope,001269
+Habitat,probiotic,OntoBiotope,001269
+Habitat,stool,OntoBiotope,001102
+Habitat,water content of the stools,OntoBiotope,000215
+Habitat,stools,OntoBiotope,001102
+Habitat,probiotic,OntoBiotope,001269
+Habitat,probiotic group,OntoBiotope,003245
+Habitat,placebo group,OntoBiotope,003245
+Microorganism,LcS,NCBI_Taxonomy,1582
+Habitat,stool,OntoBiotope,001102
+Habitat,probiotic,OntoBiotope,001269
+Microorganism,bifidobacteria,NCBI_Taxonomy,1678
+Habitat,stools,OntoBiotope,001102
+Habitat,probiotics,OntoBiotope,001269
+Habitat,probiotic groups,OntoBiotope,003245
+Habitat,probiotic,OntoBiotope,001269
+Habitat,placebo groups,OntoBiotope,003245
+Habitat,probiotic fermented milk beverage,OntoBiotope,001269
+Habitat,probiotic fermented milk beverage,OntoBiotope,003146
+Habitat,probiotic fermented milk beverage,OntoBiotope,003343
+Habitat,intestine,OntoBiotope,002810
+Habitat,stool,OntoBiotope,001102
+Microorganism,bifidobacteria,NCBI_Taxonomy,1678
+Habitat,healthy individuals with soft stool,OntoBiotope,002712
+Habitat,soft stool,OntoBiotope,001102
+Habitat,perianal,OntoBiotope,000988
+Habitat,perianal ulceration,OntoBiotope,000933
+Habitat,HIV-positive men who have sex with men,OntoBiotope,003451
+Habitat,HIV-positive men who have sex with men,OntoBiotope,003156
+Microorganism,HIV,NCBI_Taxonomy,12721
+Habitat,men,OntoBiotope,003451
+Habitat,MSM,OntoBiotope,003451
+Habitat,MSM,OntoBiotope,003156
+Habitat,Patients,OntoBiotope,003269
+Habitat,Patients,OntoBiotope,003451
+Habitat,rectal,OntoBiotope,001738
+Habitat,MSM attending sexually transmitted infection clinics,OntoBiotope,003451
+Habitat,MSM attending sexually transmitted infection clinics,OntoBiotope,003269
+Habitat,sexually transmitted infection clinics,OntoBiotope,002694
+Habitat,anorectal,OntoBiotope,000988
+Habitat,anorectal,OntoBiotope,001738
+Habitat,HIV-infected patients presenting with isolated perianal ulcer disease,OntoBiotope,003451
+Habitat,HIV-infected patients presenting with isolated perianal ulcer disease,OntoBiotope,003269
+Microorganism,HIV,NCBI_Taxonomy,35274
+Habitat,perianal ulcer,OntoBiotope,000933
+Habitat,perianal,OntoBiotope,000988
+Habitat,rectal,OntoBiotope,001738
+Microorganism,Chlamydia trachomatis,NCBI_Taxonomy,813
+Microorganism,chlamydia,NCBI_Taxonomy,813
+Habitat,MSM with proctitis,OntoBiotope,003451
+Habitat,MSM with proctitis,OntoBiotope,003156
+Habitat,MSM with perianal ulcer disease,OntoBiotope,003451
+Habitat,MSM with perianal ulcer disease,OntoBiotope,003156
+Habitat,perianal,OntoBiotope,000988
+Habitat,perianal ulcer,OntoBiotope,000933
+Microorganism,Mycobacterium tuberculosis H37Rv,NCBI_Taxonomy,83332
+Habitat,human population,OntoBiotope,002488
+Phenotype,antibiotic resistance,OntoBiotope,002674
+Microorganism,Mycobacterium tuberculosis,NCBI_Taxonomy,83332
+Phenotype,virulence,OntoBiotope,000375
+Microorganism,Chlamydia muridarum,NCBI_Taxonomy,83560
+Habitat,respiratory,OntoBiotope,000407
+Microorganism,Chlamydia trachomatis,NCBI_Taxonomy,813
+Phenotype,sexually transmitted pathogen,OntoBiotope,002669
+Habitat,infant,OntoBiotope,003263
+Habitat,female mouse model of genital tract chlamydia infection,OntoBiotope,001103
+Habitat,female mouse model of genital tract chlamydia infection,OntoBiotope,003211
+Habitat,genital tract,OntoBiotope,000643
+Microorganism,chlamydia,NCBI_Taxonomy,810
+Habitat,oviduct,OntoBiotope,000463
+Habitat,mucosal,OntoBiotope,001218
+Habitat,mice,OntoBiotope,003211
+Habitat,mice,OntoBiotope,001103
+Habitat,intranasal,OntoBiotope,000767
+Microorganism,C. muridarum,NCBI_Taxonomy,83560
+Habitat,mice,OntoBiotope,001103
+Habitat,mice,OntoBiotope,003211
+Habitat,lung,OntoBiotope,000716
+Habitat,neutrophils,OntoBiotope,003004
+Habitat,T-cells,OntoBiotope,001623
+Habitat,lungs,OntoBiotope,000716
+Habitat,TLR2-deficient mice,OntoBiotope,003211
+Habitat,TLR2-deficient mice,OntoBiotope,001103
+Habitat,lung,OntoBiotope,000716
+Microorganism,Chlamydia,NCBI_Taxonomy,810
+Habitat,mucosal,OntoBiotope,001218
+Habitat,mucosal surfaces,OntoBiotope,001654
+Microorganism,Marinobacter,NCBI_Taxonomy,2742
+Microorganism,Marinobacter,NCBI_Taxonomy,2742
+Microorganism,Gammaproteobacteria,NCBI_Taxonomy,1236
+Phenotype,motile,OntoBiotope,000117
+Phenotype,halophilic,OntoBiotope,000656
+Phenotype,halotolerent,OntoBiotope,002711
+Habitat,world's oceans,OntoBiotope,003105
+Habitat,marine environments,OntoBiotope,000338
+Habitat,bacterial flora,OntoBiotope,000113
+Habitat,marine,OntoBiotope,000338
+Habitat,marine organisms,OntoBiotope,000010
+Phenotype,production of native siderophores,OntoBiotope,000019
+Phenotype,production of native siderophores,OntoBiotope,000019
+Phenotype,siderophore production,OntoBiotope,000019
+Phenotype,Siderophore production,OntoBiotope,000019
+Microorganism,Penicillium crustosum,NCBI_Taxonomy,36656
+Microorganism,Penicillium crustosum,NCBI_Taxonomy,36656
+Microorganism,Penicillium brevicompactum,NCBI_Taxonomy,5074
+Microorganism,Penicillium crustosum,NCBI_Taxonomy,36656
+Microorganism,P.?crustosum,NCBI_Taxonomy,36656
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Microorganism,Penicillium,NCBI_Taxonomy,5073
+Habitat,Penicillium-sensitive atopic sera,OntoBiotope,000007
+Habitat,Penicillium-sensitive atopic sera,OntoBiotope,000007
+Phenotype,obligate intracellular,OntoBiotope,000771
+Phenotype,pathogen,OntoBiotope,000375
+Microorganism,Coxiella burnetii,NCBI_Taxonomy,777
+Microorganism,Coxiella burnetii,NCBI_Taxonomy,777
+Microorganism,C. burnetii,NCBI_Taxonomy,777
+Habitat,mice,OntoBiotope,003211
+Microorganism,C. burnetii,NCBI_Taxonomy,777
+Habitat,SCID mice,OntoBiotope,003211
+Microorganism,C. burnetii,NCBI_Taxonomy,777
+Habitat,aerosol,OntoBiotope,000030
+Habitat,aerosolized,OntoBiotope,000030
+Microorganism,C. burnetii,NCBI_Taxonomy,777
+Microorganism,C. burnetii,NCBI_Taxonomy,777
+Microorganism,C. burnetii,NCBI_Taxonomy,777
+Habitat,murine,OntoBiotope,002530
+Microorganism,C. burnetii,NCBI_Taxonomy,777
+Microorganism,C. burnetii,NCBI_Taxonomy,777
+Habitat,mice,OntoBiotope,003211
+Microorganism,C. burnetii,NCBI_Taxonomy,777
+Microorganism,C. burnetii,NCBI_Taxonomy,777
+Microorganism,C. burnetii,NCBI_Taxonomy,777
+Habitat,macrophages,OntoBiotope,002995
+Microorganism,C. burnetii,NCBI_Taxonomy,777
+Microorganism,C. burnetii,NCBI_Taxonomy,777
+Habitat,human,OntoBiotope,002488
+Habitat,human macrophages,OntoBiotope,002995
+Microorganism,C. burnetii,NCBI_Taxonomy,777
+Microorganism,C. burnetii,NCBI_Taxonomy,777
+Phenotype,quinolone resistance,OntoBiotope,002840
+Phenotype,lactic acid bacteria,OntoBiotope,000019
+Phenotype,quinolone resistance,OntoBiotope,002840
+Phenotype,lactic acid bacterial,OntoBiotope,000019
+Microorganism,Enterococcus,NCBI_Taxonomy,1350
+Microorganism,Lactobacillus,NCBI_Taxonomy,1578
+Habitat,natural fermented koumiss,OntoBiotope,003210
+Habitat,yoghurt,OntoBiotope,003241
+Phenotype,quinolone resistance,OntoBiotope,002840
+Phenotype,resistance,OntoBiotope,002840
+Phenotype,probiotic,OntoBiotope,000827
+Phenotype,lactic acid bacteria,OntoBiotope,000019
+Phenotype,drug resistance,OntoBiotope,000598
+Phenotype,quinolone resistance,OntoBiotope,002840
+Phenotype,resistance towards ciprofloxacin,OntoBiotope,002773
+Phenotype,resistance towards norfloxacin,OntoBiotope,002824
+Phenotype,quinolone resistance,OntoBiotope,002840
+Phenotype,quinolone resistance,OntoBiotope,002840
+Microorganism,Enterococcus durans HZ28,NCBI_Taxonomy,53345
+Microorganism,bacteriophage M-13,NCBI_Taxonomy,1977402
+Microorganism,M-13 am5,NCBI_Taxonomy,1977402
+Phenotype,am5,OntoBiotope,000118
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Habitat,cellophane membrane disks,OntoBiotope,000103
+Microorganism,M-13,NCBI_Taxonomy,1977402
+Microorganism,M-13,NCBI_Taxonomy,1977402
+Microorganism,E. coli,NCBI_Taxonomy,562
+Microorganism,Mycobacterium leprae,NCBI_Taxonomy,1769
+Habitat,urine of leprosy patients,OntoBiotope,001367
+Habitat,leprosy patients,OntoBiotope,003269
+Microorganism,Mycobacterium leprae,NCBI_Taxonomy,1769
+Habitat,urine of leprosy patients,OntoBiotope,001367
+Habitat,leprosy patients,OntoBiotope,003269
+Habitat,urine,OntoBiotope,001367
+Habitat,urine of LL patients,OntoBiotope,001367
+Habitat,LL patients,OntoBiotope,003269
+Habitat,nitrocellulose paper,OntoBiotope,000007
+Habitat,urine of LL patients,OntoBiotope,001367
+Habitat,LL patients,OntoBiotope,003269
+Microorganism,mycobacteria,NCBI_Taxonomy,1763
+Phenotype,causing non-pulmonary disease,OntoBiotope,002806
+Habitat,pulmonary,OntoBiotope,000716
+Habitat,Tuberculosis Reference Laboratory,OntoBiotope,001169
+Microorganism,mycobacteria,NCBI_Taxonomy,1763
+Habitat,pulmonary,OntoBiotope,000716
+Phenotype,complicity in disease,OntoBiotope,002806
+Habitat,lymph node,OntoBiotope,000718
+Habitat,lymph,OntoBiotope,000717
+Habitat,children,OntoBiotope,003188
+Habitat,children,OntoBiotope,003269
+Microorganism,M. fortuitum-chelonei complex,NCBI_Taxonomy,1766
+Microorganism,M. fortuitum-chelonei complex,NCBI_Taxonomy,1774
+Habitat,superficial abscesses,OntoBiotope,000476
+Microorganism,M. marinum,NCBI_Taxonomy,1781
+Microorganism,M. ulcerans,NCBI_Taxonomy,1809
+Phenotype,Ampicillin-resistant,OntoBiotope,002762
+Microorganism,Haemophilus influenzae type B,NCBI_Taxonomy,727
+Phenotype,Ampicillin-resistant,OntoBiotope,002762
+Microorganism,Haemophilus influenzae type B,NCBI_Taxonomy,727
+Habitat,clinical,OntoBiotope,003220
+Phenotype,gram-negative,OntoBiotope,000648
+Microorganism,bacilli,NCBI_Taxonomy,91061
+Microorganism,bacilli,NCBI_Taxonomy,91061
+Microorganism,H. influenzae,NCBI_Taxonomy,727
+Microorganism,H. influenzae,NCBI_Taxonomy,727
+Phenotype,resistance to penicillins,OntoBiotope,002829
+Microorganism,H. influenzae,NCBI_Taxonomy,727
+Microorganism,Escherichia coli,NCBI_Taxonomy,562
+Phenotype,resistant,OntoBiotope,002829
+Phenotype,resistance,OntoBiotope,002829
+Microorganism,H. influenzae,NCBI_Taxonomy,727
+Habitat,human,OntoBiotope,002488
+,,NCBI_Taxonomy,196
+Microorganism,Salmonella typhimurium,NCBI_Taxonomy,90371
+Phenotype,drug-resistant,OntoBiotope,000598
+Microorganism,Salmonella typhimurium (993),NCBI_Taxonomy,90371
+Phenotype,wild strain,OntoBiotope,000169
+Microorganism,Salmonella,NCBI_Taxonomy,590
+Microorganism,993,NCBI_Taxonomy,90371
+Phenotype,ampicillin-resistant,OntoBiotope,002762
+Microorganism,S. typhimurium,NCBI_Taxonomy,90371
+Phenotype,nonvirulent,OntoBiotope,002668
+Microorganism,Ara+ Burkholderia pseudomallei,NCBI_Taxonomy,95163
+Phenotype,virulent,OntoBiotope,002806
+Microorganism,Ara-,NCBI_Taxonomy,28450
+Habitat,clinical,OntoBiotope,003220
+Microorganism,Burkholderia (Pseudomonas) pseudomallei,NCBI_Taxonomy,28450
+Habitat,clinical,OntoBiotope,003220
+Phenotype,virulent,OntoBiotope,000375
+Microorganism,B. pseudomallei,NCBI_Taxonomy,28450
+Habitat,sera from patients with different clinical spectra and with other infections,OntoBiotope,000524
+Habitat,patients with different clinical spectra and with other infections,OntoBiotope,003269
+Phenotype,gram-negative,OntoBiotope,000648
+Microorganism,Ara-,NCBI_Taxonomy,28450
+Habitat,clinical,OntoBiotope,003220
+Microorganism,Ara-,NCBI_Taxonomy,28450
+Habitat,soil,OntoBiotope,000427
+Microorganism,Ara+,NCBI_Taxonomy,95163
+Habitat,soil,OntoBiotope,000427
+Habitat,sera from patients with melioidosis,OntoBiotope,000524
+Habitat,patients with melioidosis,OntoBiotope,003269
+Habitat,hyperimmune mouse,OntoBiotope,003211
+Habitat,hyperimmune mouse sera,OntoBiotope,000524
+Microorganism,Ara-,NCBI_Taxonomy,28450
+Microorganism,Ara+,NCBI_Taxonomy,95163
+Habitat,microtiter plates,OntoBiotope,000103
+Microorganism,B. pseudomallei,NCBI_Taxonomy,28450
+Phenotype,virulence,OntoBiotope,000375
+Phenotype,pathogenicity,OntoBiotope,000375
+Microorganism,B. pseudomallei,NCBI_Taxonomy,28450
+Microorganism,Carnobacterium piscicola,NCBI_Taxonomy,2751
+Microorganism,Carnobacterium piscicola,NCBI_Taxonomy,2751
+Habitat,vacuum- packed cold-smoked salmon stored at 5 degrees C,OntoBiotope,001500
+Habitat,vacuum- packed cold-smoked salmon stored at 5 degrees C,OntoBiotope,002300
+Habitat,vacuum- packed cold-smoked salmon stored at 5 degrees C,OntoBiotope,001774
+Habitat,vacuum- packed cold-smoked salmon stored at 5 degrees C,OntoBiotope,002593
+Habitat,modified-atmosphere-packed cold-smoked salmon stored at 5 degrees C,OntoBiotope,002140
+Habitat,modified-atmosphere-packed cold-smoked salmon stored at 5 degrees C,OntoBiotope,001500
+Habitat,modified-atmosphere-packed cold-smoked salmon stored at 5 degrees C,OntoBiotope,002593
+Habitat,modified-atmosphere-packed cold-smoked salmon stored at 5 degrees C,OntoBiotope,001774
+Habitat,microflora,OntoBiotope,000113
+Habitat,spoiled cold-smoked salmon,OntoBiotope,000430
+Habitat,spoiled cold-smoked salmon,OntoBiotope,001774
+Habitat,spoiled cold-smoked salmon,OntoBiotope,001500
+Habitat,spoiled cold-smoked salmon,OntoBiotope,002593
+Phenotype,lactic acid bacteria,OntoBiotope,000019
+Phenotype,LAB,OntoBiotope,000019
+Phenotype,Gram-negative,OntoBiotope,000648
+Habitat,vacuum-packed cold-smoked salmon,OntoBiotope,002300
+Habitat,vacuum-packed cold-smoked salmon,OntoBiotope,002593
+Habitat,vacuum-packed cold-smoked salmon,OntoBiotope,001500
+Habitat,vacuum-packed cold-smoked salmon,OntoBiotope,001774
+Habitat,microflora,OntoBiotope,000113
+Habitat,microflora,OntoBiotope,000113
+Phenotype,LAB,OntoBiotope,000019
+Habitat,Gram-negative flora,OntoBiotope,000113
+Phenotype,Gram-negative,OntoBiotope,000648
+Phenotype,LAB,OntoBiotope,000019
+Phenotype,Gram-negative,OntoBiotope,000648
+Habitat,vacuum packages,OntoBiotope,002300
+Habitat,Gram-negative flora,OntoBiotope,000113
+Phenotype,Gram-negative,OntoBiotope,000648
+Habitat,vacuum-packed salmon,OntoBiotope,002300
+Habitat,vacuum-packed salmon,OntoBiotope,003021
+Habitat,vacuum-packed salmon,OntoBiotope,001500
+Habitat,vacuum-packed salmon,OntoBiotope,001774
+Microorganism,Vibrio sp.,NCBI_Taxonomy,678
+Microorganism,Vibrio sp.,NCBI_Taxonomy,678
+Microorganism,V. marinus,NCBI_Taxonomy,1182512
+Microorganism,V. marinus,NCBI_Taxonomy,1182512
+Microorganism,Enterobacteriaceae,NCBI_Taxonomy,543
+Microorganism,Enterobacteriaceae,NCBI_Taxonomy,543
+Microorganism,Enterobacter agglomerans,NCBI_Taxonomy,549
+Microorganism,Enterobacter agglomerans,NCBI_Taxonomy,549
+Microorganism,Serratia liquefaciens,NCBI_Taxonomy,614
+Microorganism,Serratia liquefaciens,NCBI_Taxonomy,614
+Microorganism,Rahnella aquatilis,NCBI_Taxonomy,34038
+Microorganism,Rahnella aquatilis,NCBI_Taxonomy,34038
+Microorganism,Aeromonas hydrophila,NCBI_Taxonomy,644
+Microorganism,Aeromonas hydrophila,NCBI_Taxonomy,644
+Habitat,LAB microflora,OntoBiotope,000113
+Phenotype,LAB,OntoBiotope,000019
+Microorganism,Carnobacterium piscicola,NCBI_Taxonomy,2751
+Microorganism,Carnobacterium piscicola,NCBI_Taxonomy,2751
+Phenotype,LAB,OntoBiotope,000019
+Microorganism,Carnobacterium,NCBI_Taxonomy,2751
+Microorganism,Carnobacterium,NCBI_Taxonomy,2751
+Microorganism,C. piscicola,NCBI_Taxonomy,1654720
+Microorganism,C. piscicola,NCBI_Taxonomy,1654720
+Habitat,cold-smoked salmon stored at 5 degrees C,OntoBiotope,001500
+Habitat,cold-smoked salmon stored at 5 degrees C,OntoBiotope,001774
+Habitat,cold-smoked salmon stored at 5 degrees C,OntoBiotope,002593
+Habitat,salmon,OntoBiotope,002593
+Habitat,salmon,OntoBiotope,001500
+Habitat,salmon,OntoBiotope,001774
+Microorganism,C. piscicola,NCBI_Taxonomy,1654720
+Phenotype,LAB,OntoBiotope,000019
+Phenotype,Gram-negative,OntoBiotope,000648
+Paragraph,"Ninety patients with active duodenal ulcer disease and H pylori infection, proven with the 13C-urea breath test and CLO test (Campylobacter-like organism test) were treated randomly in three therapeutic groups: Group A, DeNol 120 mg, amoxicillin 500 mg and metronidazole 250 mg four times a day orally for 14 days; Group B, omeprazole 20 mg plus clarithromycin 500 mg twice a day and amoxicillin 500 mg four times a day for 14 days; Group C, omeprazole 20 mg, clarithromycin 250 mg and metronidazole 500 mg twice a day for seven days. Nizatidine 150 mg twice a day was given continuously following the end of anti-H pylori therapy for each group. Two months later, endoscopy, the CLO test and 13C-urea breath test were repeated to assess the eradication rate of H pylori and the ulcer-healing rate. Drug tolerance was evaluated by patients themselves by daily recording of any side-effects.",,
+Paragraph,"Eighty-four patients completed the entire course of therapy and evaluation for H pylori infection. The H pylori eradication rates in Groups A, B and C were 75% (21/28), 93% (26/28) and 89% (25/28), respectively (p = 0.466). The ulcer healing rate was 86% (24/28) in Group A and 89% (25/28) in Groups B and C (p = 0.764). A total of 74 patients (88%) were free from symptoms at the end of the triple therapy. Symptom relief was faster in patients with PPI-based triple therapy (Groups B and C) (days 3 and 4) than for patients with bismuth-based triple therapy (day 5). The cost of Group C therapy was lower than that for Groups A and B. There were no major side-effects in any of the patients.",,
+Paragraph,"One-week triple therapy with omeprazole, clarithromycin and metronidazole is highly effected for the eradication of H pylori. A therapeutic regime of one week's duration with lower cost, good compliance and mild side-effects may offer a good choice for treatment of duodenal ulcer associated with H pylori infection in clinical practice.",,
+Habitat,duodenal,OntoBiotope,001534
+Habitat,duodenal ulcer,OntoBiotope,001533
+Microorganism,Helicobacter pylori,NCBI_Taxonomy,210
+Habitat,duodenal ulcer,OntoBiotope,001533
+Habitat,duodenal,OntoBiotope,001534
+Microorganism,Helicobacter pylori,NCBI_Taxonomy,210
+Phenotype,drug resistance,OntoBiotope,000598
+Habitat,patient,OntoBiotope,003220
+Habitat,patients with active duodenal ulcer disease and H pylori infection,OntoBiotope,003269
+Habitat,duodenal ulcer,OntoBiotope,001533
+Habitat,duodenal,OntoBiotope,001534
+Microorganism,H pylori,NCBI_Taxonomy,210
+Microorganism,Campylobacter,NCBI_Taxonomy,194
+Microorganism,H pylori,NCBI_Taxonomy,210
+Microorganism,H pylori,NCBI_Taxonomy,210
+Habitat,ulcer,OntoBiotope,001533
+Habitat,patients,OntoBiotope,003269
+Habitat,patients,OntoBiotope,003269
+Microorganism,H pylori,NCBI_Taxonomy,210
+Microorganism,H pylori,NCBI_Taxonomy,210
+Habitat,ulcer,OntoBiotope,000933
+Habitat,patients,OntoBiotope,003269
+Habitat,patients with PPI-based triple therapy,OntoBiotope,003269
+Habitat,patients with bismuth-based triple therapy,OntoBiotope,003269
+Habitat,patients,OntoBiotope,003269
+Microorganism,H pylori,NCBI_Taxonomy,210
+Habitat,duodenal,OntoBiotope,001534
+Habitat,duodenal ulcer,OntoBiotope,001533
+Microorganism,H pylori,NCBI_Taxonomy,210
+Habitat,semi-hard cheeses,OntoBiotope,003458
+Habitat,Gouda,OntoBiotope,003474
+Habitat,Cheddar,OntoBiotope,003469
+Microorganism,Lactococcus sp.,NCBI_Taxonomy,44273
+Microorganism,Lactobacillus sp.,NCBI_Taxonomy,1591
+Habitat,dairy products,OntoBiotope,001208
+Microorganism,Propionibacterium,NCBI_Taxonomy,1743
+Habitat,Maasdammer,OntoBiotope,003458
+Habitat,Swiss-type cheeses,OntoBiotope,003428
+Microorganism,Streptococcus sp.,NCBI_Taxonomy,1306
+Microorganism,Lb. bulgaricus spp.,NCBI_Taxonomy,1585
+Microorganism,Bifidobacterium sp.,NCBI_Taxonomy,41200
+Habitat,yoghurts,OntoBiotope,003241
+Microorganism,Arthrobacter,NCBI_Taxonomy,1663
+Microorganism,Brevibacterium,NCBI_Taxonomy,1696
+Microorganism,Corynebacterium sp.,NCBI_Taxonomy,1720
+Habitat,surface-ripened cheeses,OntoBiotope,003428
+Microorganism,Lactococcus lactis,NCBI_Taxonomy,1358
+Microorganism,Lactobacillus,NCBI_Taxonomy,1578
+Microorganism,Streptococcus,NCBI_Taxonomy,1301
+Microorganism,Propionibacterium,NCBI_Taxonomy,1743
+Microorganism,Corynebacterium ammoniagenes B1506,NCBI_Taxonomy,1697
+Microorganism,Lactococcus lactis  B1157,NCBI_Taxonomy,1358
+Phenotype,able to produce considerable amounts of 3-methylbutanol,OntoBiotope,000019
+Phenotype,able to produce considerable amounts of 3-methylbutanal,OntoBiotope,000019
+Phenotype,transaminase activity,OntoBiotope,000019
+Microorganism,Lactobacillus,NCBI_Taxonomy,1578
+Microorganism,L. lactis,NCBI_Taxonomy,1246
+Microorganism,Streptococcus thermophilus,NCBI_Taxonomy,1308
+Phenotype,transaminase activity towards leucine,OntoBiotope,000019
+Phenotype,anaerobic,OntoBiotope,000189
+Microorganism,Lactococcus,NCBI_Taxonomy,1357
+Microorganism,Lactobacillus,NCBI_Taxonomy,1578
+Microorganism,Streptococcus,NCBI_Taxonomy,1301
+Microorganism,Leuconostoc,NCBI_Taxonomy,1243
+Phenotype,hydroxy acid dehydrogenase activity,OntoBiotope,000019
+Phenotype,transaminase activity,OntoBiotope,000019
+Phenotype,decarboxylase activity,OntoBiotope,000068
+Microorganism,B1157,NCBI_Taxonomy,1358
+Microorganism,B1506,NCBI_Taxonomy,1697
+Microorganism,L. lactis subsp. cremoris B697,NCBI_Taxonomy,1359
+Phenotype,high hydroxy acid dehydrogenase activity,OntoBiotope,000019
+Phenotype,transaminase activity,OntoBiotope,000019
+Microorganism,L. lactis subsp. cremoris strain B1157,NCBI_Taxonomy,1359
+Phenotype,transaminase activities,OntoBiotope,000019
+Phenotype,hydroxy acid dehydrogenase activities,OntoBiotope,000019
+Microorganism,B697,NCBI_Taxonomy,1359
+Phenotype,presence of decarboxylase activity,OntoBiotope,000252
+Phenotype,absence of decarboxylase activity,OntoBiotope,000251
+Microorganism,L. lactis B697,NCBI_Taxonomy,1359
+Microorganism,L. lactis B1157,NCBI_Taxonomy,1359
+Microorganism,B1157,NCBI_Taxonomy,1359
+Phenotype,decarboxylase-positive,OntoBiotope,000252
+Phenotype,decarboxylase- negative,OntoBiotope,000251
+Microorganism,B697,NCBI_Taxonomy,1359
+Microorganism,L. lactis subsp. cremoris B1157,NCBI_Taxonomy,1359
+Microorganism,C. ammoniagenes B1506,NCBI_Taxonomy,1697
+Habitat,dairy industry,OntoBiotope,001988
+Microorganism,Staphylococcus,NCBI_Taxonomy,1279
+Microorganism,Micrococcus,NCBI_Taxonomy,1269
+Microorganism,Psychrobacter,NCBI_Taxonomy,497
+Microorganism,Enterococcus,NCBI_Taxonomy,1350
+Microorganism,Brevibacterium,NCBI_Taxonomy,1696
+Habitat,surface of cheeses,OntoBiotope,001341
+Habitat,cheeses,OntoBiotope,001480
+Habitat,Gorgonzola cheeses,OntoBiotope,003504
+Habitat,Taleggio cheeses,OntoBiotope,003525
+Habitat,Formaggio di Fossa cheeses,OntoBiotope,003473
+Habitat,Scimudin,OntoBiotope,003522
+Habitat,Casera,OntoBiotope,003483
+Phenotype,Gram positive,OntoBiotope,000649
+Microorganism,Staphylococcus,NCBI_Taxonomy,1279
+Microorganism,Micrococcus,NCBI_Taxonomy,1269
+Microorganism,Macrococcus,NCBI_Taxonomy,69965
+Microorganism,Enterococcus,NCBI_Taxonomy,1350
+Microorganism,Lactobacillus,NCBI_Taxonomy,1578
+Microorganism,Carnobacterium,NCBI_Taxonomy,2747
+Microorganism,Leuconostoc,NCBI_Taxonomy,1243
+Microorganism,Brevibacterium,NCBI_Taxonomy,1696
+Microorganism,Corynebacterium,NCBI_Taxonomy,1716
+Microorganism,Brochothrix,NCBI_Taxonomy,2755
+Microorganism,Bacillus,NCBI_Taxonomy,1386
+Phenotype,Gram positive,OntoBiotope,000649
+Phenotype,catalase positive,OntoBiotope,000222
+Phenotype,salt-tolerant,OntoBiotope,002711
+Phenotype,coagulase-negative,OntoBiotope,000235
+Phenotype,cocci,OntoBiotope,000850
+Microorganism,coryneform bacteria,NCBI_Taxonomy,1653
+Microorganism,Staphylococcus,NCBI_Taxonomy,1279
+Microorganism,Micrococcus,NCBI_Taxonomy,1269
+Microorganism,Brevibacterium,NCBI_Taxonomy,1696
+Microorganism,Arthrobacter,NCBI_Taxonomy,1663
+Habitat,soft smear cheeses,OntoBiotope,003494
+Microorganism,Listeria monocytogenes,NCBI_Taxonomy,1639
+Microorganism,Psychrobacter,NCBI_Taxonomy,497
+Habitat,Formaggio di Fossa,OntoBiotope,003473
+Habitat,Gorgonzola,OntoBiotope,003504
+Habitat,Taleggio,OntoBiotope,003525
+Habitat,Scimudin,OntoBiotope,003522
+Microorganism,Staphylococcus equorum,NCBI_Taxonomy,246432
+Habitat,cheese,OntoBiotope,001480
+Habitat,Casera,OntoBiotope,003483
+Microorganism,Micrococcus luteus,NCBI_Taxonomy,1270
+Habitat,Casera cheese,OntoBiotope,003483
+Microorganism,S. vitulinus,NCBI_Taxonomy,71237
+Habitat,Scimudin,OntoBiotope,003522
+Microorganism,Lactobacillus delbrueckii,NCBI_Taxonomy,1584
+Habitat,Casera cheeses,OntoBiotope,003483
+Habitat,Gorgonzola cheeses,OntoBiotope,003504
+Microorganism,Streptococcus thermophilus,NCBI_Taxonomy,1308
+Habitat,Casera,OntoBiotope,003483
+Habitat,Formaggio di Fossa,OntoBiotope,003473
+Microorganism,Enterococcus faecium,NCBI_Taxonomy,1352
+Habitat,Casera cheese,OntoBiotope,003483
+Habitat,Formaggio di Fossa cheeses,OntoBiotope,003473
+Habitat,Scimudin cheeses,OntoBiotope,003522
+Microorganism,Brevibacterium casei,NCBI_Taxonomy,33889
+Microorganism,B. linens,NCBI_Taxonomy,1703
+Habitat,Casera cheese,OntoBiotope,003483
+Habitat,Casera cheese surface,OntoBiotope,001341
+Habitat,community of Staphylococcus and micrococci-corynebacteria groups,OntoBiotope,000113
+Microorganism,Staphylococcus,NCBI_Taxonomy,1279
+Microorganism,micrococci,NCBI_Taxonomy,1269
+Microorganism,corynebacteria,NCBI_Taxonomy,1716
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheese surfaces,OntoBiotope,001341
+Microorganism,E. faecium,NCBI_Taxonomy,1352
+Habitat,Formaggio di Fossa,OntoBiotope,003473
+Microorganism,enterococci,NCBI_Taxonomy,1350
+Habitat,Enterococcus  selective agar,OntoBiotope,000031
+Microorganism,Enterococcus,NCBI_Taxonomy,1350
+Habitat,SB,OntoBiotope,000031
+Habitat,Casera cheeses,OntoBiotope,003483
+Habitat,Taleggio cheeses,OntoBiotope,003525
+Habitat,Gorgonzola cheeses,OntoBiotope,003504
+Habitat,Scimudin cheeses,OntoBiotope,003522
+Microorganism,Lactobacilli,NCBI_Taxonomy,1578
+Habitat,Rogosa agar,OntoBiotope,000031
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheese surfaces,OntoBiotope,001341
+Habitat,Pseudomonas agar,OntoBiotope,000031
+Microorganism,Pseudomonas,NCBI_Taxonomy,286
+Habitat,Gorgonzola surfaces,OntoBiotope,001341
+Habitat,Gorgonzola,OntoBiotope,003504
+Habitat,Scimudin surfaces,OntoBiotope,001341
+Habitat,Scimudin,OntoBiotope,003522
+Habitat,Taleggio,OntoBiotope,003525
+Habitat,Taleggio surfaces,OntoBiotope,001341
+Habitat,Casera,OntoBiotope,003483
+Microorganism,Pseudomonas,NCBI_Taxonomy,286
+Habitat,Formaggio di Fossa,OntoBiotope,003473
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheese surfaces,OntoBiotope,001341
+Microorganism,Staphylococcus,NCBI_Taxonomy,1279
+Microorganism,S. saprophyticus,NCBI_Taxonomy,29385
+Microorganism,S. equorum,NCBI_Taxonomy,246432
+Microorganism,S. vitulinus,NCBI_Taxonomy,71237
+Microorganism,S. caprae,NCBI_Taxonomy,29380
+Microorganism,E. faecalis,NCBI_Taxonomy,1351
+Microorganism,E. faecium,NCBI_Taxonomy,1352
+Microorganism,B. linens,NCBI_Taxonomy,1703
+Microorganism,Corynebacterium flavescens,NCBI_Taxonomy,28028
+Microorganism,M. luteus,NCBI_Taxonomy,415
+Habitat,Scimudin cheese,OntoBiotope,003522
+Microorganism,S. saprophyticus,NCBI_Taxonomy,29385
+Habitat,Taleggio cheeses,OntoBiotope,003525
+Habitat,Scimudin cheeses,OntoBiotope,003522
+Habitat,Gorgonzola cheese,OntoBiotope,003504
+Habitat,Taleggio cheeses,OntoBiotope,003525
+Habitat,Casera cheeses,OntoBiotope,003483
+Habitat,Scimudin,OntoBiotope,003522
+Habitat,Gorgonzola,OntoBiotope,003504
+Habitat,Taleggio,OntoBiotope,003525
+Habitat,Scimudin cheeses,OntoBiotope,003522
+Microorganism,S. equorum,NCBI_Taxonomy,246432
+Habitat,Taleggio cheeses,OntoBiotope,003525
+Habitat,Scimudin cheeses,OntoBiotope,003522
+Habitat,Casera cheeses,OntoBiotope,003483
+Habitat,Gorgonzola cheeses,OntoBiotope,003504
+Habitat,Gorgonzola,OntoBiotope,003504
+Habitat,Scimudin,OntoBiotope,003522
+Habitat,Taleggio,OntoBiotope,003525
+Habitat,surface microbiota of Taleggio  cheeses,OntoBiotope,000113
+Habitat,surface microbiota of Gorgonzola cheeses,OntoBiotope,000113
+Habitat,surface microbiota of Formaggio di Fossa cheeses,OntoBiotope,000113
+Habitat,Formaggio di Fossa cheeses,OntoBiotope,003473
+Habitat,Gorgonzola cheeses,OntoBiotope,003504
+Habitat,Taleggio  cheeses,OntoBiotope,003525
+Microorganism,P. celer,NCBI_Taxonomy,306572
+Microorganism,P. aquimaris,NCBI_Taxonomy,292733
+Microorganism,P. glacincolaus,NCBI_Taxonomy,56810
+Microorganism,S. equorum,NCBI_Taxonomy,246432
+Microorganism,M. luteus,NCBI_Taxonomy,415
+Habitat,white mould rind,OntoBiotope,001481
+Habitat,Scimudin cheese,OntoBiotope,003522
+Microorganism,M. luteus,NCBI_Taxonomy,415
+Microorganism,P. glacincolaus,NCBI_Taxonomy,56810
+Microorganism,S. vitulinus,NCBI_Taxonomy,71237
+Habitat,Casera Valtellina,OntoBiotope,003483
+Habitat,cheese,OntoBiotope,001480
+Habitat,rind,OntoBiotope,001481
+Microorganism,S. equorum,NCBI_Taxonomy,246432
+Microorganism,B. linens,NCBI_Taxonomy,1703
+Microorganism,B. casei,NCBI_Taxonomy,33889
+Microorganism,B. linens,NCBI_Taxonomy,1703
+Habitat,Casera cheese,OntoBiotope,003483
+Habitat,Casera cheese  surfaces,OntoBiotope,001341
+Habitat,Gorgonzola cheese  surfaces,OntoBiotope,001341
+Habitat,Gorgonzola cheese,OntoBiotope,003504
+Habitat,Scimudin cheese,OntoBiotope,003522
+Habitat,Scimudin cheese  surfaces,OntoBiotope,001341
+Habitat,smear cheeses,OntoBiotope,003494
+Microorganism,Corynebacterium,NCBI_Taxonomy,1716
+Microorganism,C. casei,NCBI_Taxonomy,160386
+Microorganism,C. variabilis,NCBI_Taxonomy,1727
+Habitat,cheese rinds,OntoBiotope,001481
+Habitat,cheese,OntoBiotope,001480
+Microorganism,C. flavescens,NCBI_Taxonomy,28028
+Habitat,rind of Gorgonzola cheeses,OntoBiotope,001481
+Habitat,rind of Scimudin cheeses,OntoBiotope,001481
+Habitat,Gorgonzola cheeses,OntoBiotope,003504
+Habitat,Scimudin cheeses,OntoBiotope,003522
+Habitat,surface of Gobbeen cheese,OntoBiotope,001341
+Habitat,Gobbeen cheese,OntoBiotope,003505
+Microorganism,C. flavescens,NCBI_Taxonomy,28028
+Phenotype,yellow pigment,OntoBiotope,001386
+Microorganism,C. casei,NCBI_Taxonomy,160386
+Microorganism,C. variabile,NCBI_Taxonomy,1727
+Microorganism,C. ammoniagenes,NCBI_Taxonomy,1697
+Habitat,dairy,OntoBiotope,001208
+Phenotype,lactic acid bacterial,OntoBiotope,000019
+Phenotype,LAB,OntoBiotope,000019
+Microorganism,Lactobacillus,NCBI_Taxonomy,1578
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheese surface,OntoBiotope,001341
+Microorganism,Lactobacillus,NCBI_Taxonomy,1578
+Habitat,Fontina cheese surface,OntoBiotope,001341
+Habitat,Fontina cheese,OntoBiotope,003472
+Microorganism,lactococci,NCBI_Taxonomy,1357
+Microorganism,lactobacilli,NCBI_Taxonomy,1578
+Habitat,Gorgonzola,OntoBiotope,003504
+Habitat,Gorgonzola rind,OntoBiotope,001481
+Microorganism,L. curvatus,NCBI_Taxonomy,28038
+Habitat,Taleggio,OntoBiotope,003525
+Habitat,Taleggio rind,OntoBiotope,001481
+Microorganism,L. brevis,NCBI_Taxonomy,1580
+Habitat,surface of Gorgonzola cheeses,OntoBiotope,001341
+Habitat,surface of Scimudin cheeses,OntoBiotope,001341
+Habitat,Gorgonzola cheeses,OntoBiotope,003504
+Habitat,Scimudin cheeses,OntoBiotope,003522
+Habitat,Formaggio di Fossa cheese,OntoBiotope,003473
+Microorganism,L. acidipiscis,NCBI_Taxonomy,89059
+Phenotype,Gram positive,OntoBiotope,000649
+Phenotype,rod,OntoBiotope,000848
+Phenotype,microaerophilic,OntoBiotope,000347
+Habitat,fermented fish,OntoBiotope,003145
+Habitat,Greek cheese,OntoBiotope,001480
+Microorganism,Enteroccocci,NCBI_Taxonomy,1350
+Habitat,Scimudin surfaces,OntoBiotope,001341
+Habitat,Scimudin,OntoBiotope,003522
+Habitat,Gorgonzola,OntoBiotope,003504
+Habitat,Gorgonzola surfaces,OntoBiotope,001341
+Habitat,Fontina,OntoBiotope,003472
+Habitat,Fontina rind,OntoBiotope,001481
+Microorganism,enterococci,NCBI_Taxonomy,1350
+Habitat,Gorgonzola,OntoBiotope,003504
+Habitat,Gorgonzola rinds,OntoBiotope,001481
+Phenotype,Gram negative,OntoBiotope,000648
+Microorganism,Microbacterium foliorum,NCBI_Taxonomy,104336
+Microorganism,Psychrobacter sp.,NCBI_Taxonomy,56811
+Microorganism,Proteus vulgaris,NCBI_Taxonomy,585
+Microorganism,Pseudomonas,NCBI_Taxonomy,286
+Phenotype,Gram-negative,OntoBiotope,000648
+Microorganism,Halomonas,NCBI_Taxonomy,2745
+Microorganism,Enterobacteriaceae,NCBI_Taxonomy,543
+Habitat,cheese surface,OntoBiotope,001341
+Habitat,cheese,OntoBiotope,001480
+Microorganism,Psychrobacter,NCBI_Taxonomy,497
+Habitat,surface of Formaggio di  Fossa cheese,OntoBiotope,001341
+Habitat,Formaggio di  Fossa cheese,OntoBiotope,003473
+Microorganism,S. thermophilus,NCBI_Taxonomy,1308
+Microorganism,L. delbrueckii,NCBI_Taxonomy,1584
+Habitat,cheese,OntoBiotope,001480
+Habitat,community,OntoBiotope,000113
+Habitat,cheese,OntoBiotope,001480
+Microorganism,Yaniella,NCBI_Taxonomy,225447
+Microorganism,Nocardiopsis,NCBI_Taxonomy,2013
+Habitat,food,OntoBiotope,000094
+Phenotype,halotolerant,OntoBiotope,002711
+Microorganism,¦Ã-Proteobacteria,NCBI_Taxonomy,1236
+Microorganism,Vibrio,NCBI_Taxonomy,662
+Microorganism,Halomonas,NCBI_Taxonomy,2745
+Microorganism,Pseudoalteromonas,NCBI_Taxonomy,53246
+Habitat,marine environments,OntoBiotope,000338
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheese communities,OntoBiotope,000113
+Microorganism,Galactomyces,NCBI_Taxonomy,27316
+Microorganism,Proteobacteria,NCBI_Taxonomy,1224
+Habitat,moist bloomy rinds,OntoBiotope,001481
+Microorganism,Scopulariopsis,NCBI_Taxonomy,40374
+Microorganism,Aspergillus,NCBI_Taxonomy,5052
+Microorganism,Actinobacteria,NCBI_Taxonomy,1760
+Microorganism,Staphylococcus,NCBI_Taxonomy,1279
+Habitat,dry natural rinds,OntoBiotope,001481
+Habitat,marine,OntoBiotope,000338
+Microorganism,Pseudoalteromonas haloplanktis,NCBI_Taxonomy,228
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheese,OntoBiotope,001480
+Microorganism,Brevibacterium linens,NCBI_Taxonomy,1703
+Microorganism,¦Ã-Proteobacteria,NCBI_Taxonomy,1236
+Habitat,cheeses,OntoBiotope,001480
+Microorganism,Pseudoalteromonas spp.,NCBI_Taxonomy,53246
+Habitat,cheeses,OntoBiotope,001480
+Microorganism,Pseudoalteromonas,NCBI_Taxonomy,53246
+Microorganism,Pseudoalteromonas haloplanktis,NCBI_Taxonomy,228
+Microorganism,Pseudoalteromonas,NCBI_Taxonomy,53246
+Phenotype,cold-adapted,OntoBiotope,002982
+Habitat,polar seawater,OntoBiotope,003105
+Phenotype,cold-adapted,OntoBiotope,002975
+Habitat,cheeses,OntoBiotope,001480
+Microorganism,Pseudoalteromonas,NCBI_Taxonomy,53246
+Habitat,cheese,OntoBiotope,001480
+Habitat,cheese rind,OntoBiotope,001481
+Habitat,cheese,OntoBiotope,001480
+Habitat,community,OntoBiotope,000113
+Microorganism,Proteobacteria,NCBI_Taxonomy,1224
+Microorganism,Leuconostoc,NCBI_Taxonomy,1243
+Microorganism,Candida,NCBI_Taxonomy,1535326
+Habitat,raw milk,OntoBiotope,001276
+Microorganism,Candida,NCBI_Taxonomy,1535326
+Habitat,community,OntoBiotope,000113
+Microorganism,Proteobacteria,NCBI_Taxonomy,1224
+Microorganism,Staphylococcus,NCBI_Taxonomy,1279
+Habitat,rinds,OntoBiotope,001481
+Microorganism,Brevibacterium,NCBI_Taxonomy,1696
+Microorganism,Brachybacterium,NCBI_Taxonomy,43668
+Microorganism,Penicillium,NCBI_Taxonomy,5073
+Microorganism,Scopulariopsis,NCBI_Taxonomy,40374
+Habitat,community,OntoBiotope,000113
+Habitat,mature cheeses,OntoBiotope,001480

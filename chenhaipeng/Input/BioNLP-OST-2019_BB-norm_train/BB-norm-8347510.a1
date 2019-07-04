@@ -1,0 +1,28 @@
+T1	Title 0 111	Arhodomonas aquaeolei gen. nov., sp. nov., an aerobic, halophilic bacterium isolated from a subterranean brine.
+T2	Paragraph 112 1288	Arhodomonas aquaeolei gen. nov., sp. nov., isolated from a petroleum reservoir production fluid, is described. The single isolate was an obligately halophilic, aerobic, gram-negative, oval rod-shaped bacterium that was actively motile by means of a single polar flagellum. It was catalase and oxidase positive. The isolate had a specific requirement for NaCl; growth occurred at NaCl concentrations between 6 and 20%, and optimal growth occurred in the presence of 15% NaCl. This species metabolized primarily organic acids and required biotin for growth. The name Arhodomonas is proposed for the new genus, which was placed in the gamma subclass of the Proteobacteria on the basis of the results of a 16S rRNA sequence analysis. Although A. aquaeolei is most closely related to purple sulfur bacteria (the genera Ectothiorhodospira and Chromatium), it is not a phototrophic microorganism, which is consistent with its isolation from a subterranean environment. The major components of its cellular fatty acids were C16:0, C18:1, C19:0, C16:1, and C18:0 acids. The DNA base composition of the type strain is 67 mol% G+C. The type and only strain is strain HA-1 (= ATCC 49307).
+T3	Microorganism 0 21	Arhodomonas aquaeolei
+T4	Phenotype 46 53	aerobic
+T5	Phenotype 55 65	halophilic
+T6	Habitat 92 110	subterranean brine
+T7	Microorganism 112 133	Arhodomonas aquaeolei
+T8	Habitat 171 180	petroleum
+T9	Habitat 171 207	petroleum reservoir production fluid
+T10	Habitat 171 190	petroleum reservoir
+T11	Phenotype 249 270	obligately halophilic
+T12	Phenotype 272 279	aerobic
+T13	Phenotype 281 294	gram-negative
+T14	Phenotype 296 311	oval rod-shaped
+T15	Phenotype 340 346	motile
+T16	Phenotype 392 400;413 421	catalase positive
+T17	Phenotype 405 421	oxidase positive
+T18	Microorganism 677 688	Arhodomonas
+T19	Microorganism 766 780	Proteobacteria
+T20	Microorganism 851 863	A. aquaeolei
+T21	Microorganism 891 913	purple sulfur bacteria
+T22	Microorganism 926 944	Ectothiorhodospira
+T23	Microorganism 949 959	Chromatium
+T24	Phenotype 974 986	phototrophic
+T25	Habitat 974 1000	phototrophic microorganism
+T26	Habitat 1048 1072	subterranean environment
+T27	Microorganism 1261 1272	strain HA-1
+T28	Microorganism 1276 1286	ATCC 49307

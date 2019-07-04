@@ -1,0 +1,37 @@
+T1	Title 0 159	Widespread acquisition of antimicrobial resistance among Campylobacter isolates from UK retail poultry and evidence for clonal expansion of resistant lineages.
+T2	Paragraph 160 837	Antimicrobial resistance is increasing among clinical Campylobacter cases and is common among isolates from other sources, specifically retail poultry - a major source of human infection. In this study the antimicrobial susceptibility of isolates from a UK-wide survey of Campylobacter in retail poultry in 2001 and 2004-5 was investigated. The occurrence of phenotypes resistant to tetracycline, quinolones (ciprofloxacin and naladixic acid), erythromycin, chloramphenicol and aminoglycosides was quantified. This was compared with a phylogeny for these isolates based upon Multi Locus Sequence Typing (MLST) to investigate the pattern of antimicrobial resistance acquisition.
+T3	Paragraph 838 1292	Antimicrobial resistance was present in all lineage clusters, but statistical testing showed a non-random distribution. Erythromycin resistance was associated with Campylobacter coli. For all antimicrobials tested, resistant isolates were distributed among relatively distant lineages indicative of widespread acquisition. There was also evidence of clustering of resistance phenotypes within lineages; indicative of local expansion of resistant strains.
+T4	Paragraph 1293 1795	These results are consistent with the widespread acquisition of antimicrobial resistance among chicken associated Campylobacter isolates, either through mutation or horizontal gene transfer, and the expansion of these lineages as a proportion of the population. As Campylobacter are not known to multiply outside of the host and long-term carriage in humans is extremely infrequent in industrialized countries, the most likely location for the proliferation of resistant lineages is in farmed chickens.
+T5	Phenotype 26 50	antimicrobial resistance
+T6	Microorganism 57 70	Campylobacter
+T7	Habitat 85 102	UK retail poultry
+T8	Phenotype 140 149	resistant
+T9	Phenotype 160 184	Antimicrobial resistance
+T10	Habitat 205 213	clinical
+T11	Microorganism 214 227	Campylobacter
+T12	Habitat 296 310	retail poultry
+T13	Habitat 331 336	human
+T14	Phenotype 366 394	antimicrobial susceptibility
+T15	Microorganism 432 445	Campylobacter
+T16	Habitat 449 463	retail poultry
+T17	Phenotype 530 542;604 616	resistant to erythromycin
+T18	Phenotype 530 542;618 633	resistant to chloramphenicol
+T19	Phenotype 530 542;557 567	resistant to quinolones
+T20	Phenotype 530 542;587 601	resistant to naladixic acid
+T21	Phenotype 530 542;638 653	resistant to aminoglycosides
+T22	Phenotype 530 542;569 582	resistant to ciprofloxacin
+T23	Phenotype 530 555	resistant to tetracycline
+T24	Phenotype 800 824	antimicrobial resistance
+T25	Phenotype 838 862	Antimicrobial resistance
+T26	Phenotype 958 981	Erythromycin resistance
+T27	Microorganism 1002 1020	Campylobacter coli
+T28	Phenotype 1053 1062	resistant
+T29	Phenotype 1202 1212	resistance
+T30	Phenotype 1274 1283	resistant
+T31	Phenotype 1357 1381	antimicrobial resistance
+T32	Habitat 1388 1395	chicken
+T33	Microorganism 1407 1420	Campylobacter
+T34	Microorganism 1558 1571	Campylobacter
+T35	Habitat 1644 1650	humans
+T36	Phenotype 1754 1763	resistant
+T37	Habitat 1779 1794	farmed chickens

@@ -1,0 +1,24 @@
+T1	Habitat 7 11	milk
+T2	Phenotype 25 45	lactic acid bacteria
+T3	Microorganism 54 72	Lactococcus lactis
+T4	Habitat 81 85	curd
+T5	Phenotype 176 189	acid-tolerant
+T6	Microorganism 198 219	Debaryomyces hansenii
+T7	Microorganism 221 240	Geotrichum candidum
+T8	Microorganism 242 259	Kluyveromyces sp.
+T9	Microorganism 264 283	Yarrowia lipolytica
+T10	Habitat 455 469	cheese surface
+T11	Habitat 455 461	cheese
+T12	Phenotype 500 518	less acid-tolerant
+T13	Phenotype 520 527	aerobic
+T14	Phenotype 531 553	facultative  anaerobic
+T15	Phenotype 555 572	catalase-positive
+T16	Phenotype 574 587	halo-tolerant
+T17	Phenotype 588 601	Gram-positive
+T18	Microorganism 630 656	Brevibacterium aurantiacum
+T19	Microorganism 658 673	Corynebacterium
+T20	Microorganism 675 687	Arthrobacter
+T21	Microorganism 692 711	Staphylococcus spp.
+T22	Habitat 754 760	cheese
+T23	Habitat 754 768	cheese surface
+T24	Habitat 865 893	smear surface-ripened cheese

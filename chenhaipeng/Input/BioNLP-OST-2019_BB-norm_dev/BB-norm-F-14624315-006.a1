@@ -1,0 +1,8 @@
+T1	Phenotype 184 192;205 230	presence of decarboxylase activity
+T2	Phenotype 197 230	absence of decarboxylase activity
+T3	Microorganism 261 270;281 285	L. lactis B697
+T4	Microorganism 261 276	L. lactis B1157
+T5	Microorganism 318 323	B1157
+T6	Phenotype 330 352	decarboxylase-positive
+T7	Phenotype 330 344;362 370	decarboxylase- negative
+T8	Microorganism 357 361	B697

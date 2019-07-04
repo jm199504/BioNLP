@@ -1,0 +1,54 @@
+T1	Title 0 153	Natural history of colonization with methicillin-resistant Staphylococcus aureus (MRSA) and vancomycin-resistant Enterococcus (VRE): a systematic review.
+T2	Paragraph 154 443	No published systematic reviews have assessed the natural history of colonization with methicillin-resistant Staphylococcus aureus (MRSA) or vancomycin-resistant Enterococcus (VRE). Time to clearance of colonization has important implications for patient care and infection control policy.
+T3	Paragraph 444 653	We performed parallel searches in OVID Medline for studies that reported the time to documented clearance of MRSA and VRE colonization in the absence of treatment, published between January 1990 and July 2012.
+T4	Paragraph 654 1897	For MRSA, we screened 982 articles, identified 16 eligible studies (13 observational studies and 3 randomized controlled trials), for a total of 1,804 non-duplicated subjects. For VRE, we screened 284 articles, identified 13 eligible studies (12 observational studies and 1 randomized controlled trial), for a total of 1,936 non-duplicated subjects. Studies reported varying definitions of clearance of colonization; no study reported time of initial colonization. Studies varied in the frequency of sampling, assays used for sampling, and follow-up period. The median duration of total follow-up was 38 weeks for MRSA and 25 weeks for VRE. Based on pooled analyses, the model-estimated median time to clearance was 88 weeks after documented colonization for MRSA-colonized patients and 26 weeks for VRE-colonized patients. In a secondary analysis, clearance rates for MRSA and VRE were compared by restricting the duration of follow-up for the MRSA studies to the maximum observed time point for VRE studies (43 weeks). With this restriction, the model-fitted median time to documented clearance for MRSA would occur at 41 weeks after documented colonization, demonstrating the sensitivity of the pooled estimate to length of study follow-up.
+T5	Paragraph 1898 2508	Few available studies report the natural history of MRSA and VRE colonization. Lack of a consistent definition of clearance, uncertainty regarding the time of initial colonization, variation in frequency of sampling for persistent colonization, assays employed and variation in duration of follow-up are limitations of the existing published literature. The heterogeneity of study characteristics limits interpretation of pooled estimates of time to clearance, however, studies included in this review suggest an increase in documented clearance over time, a result which is sensitive to duration of follow-up.
+T6	Phenotype 37 58	methicillin-resistant
+T7	Microorganism 59 80	Staphylococcus aureus
+T8	Phenotype 82 86	MRSA
+T9	Microorganism 82 86	MRSA
+T10	Phenotype 92 112	vancomycin-resistant
+T11	Microorganism 113 125	Enterococcus
+T12	Phenotype 127 130	VRE
+T13	Microorganism 127 130	VRE
+T14	Phenotype 241 262	methicillin-resistant
+T15	Microorganism 263 284	Staphylococcus aureus
+T16	Phenotype 286 290	MRSA
+T17	Microorganism 286 290	MRSA
+T18	Phenotype 295 315	vancomycin-resistant
+T19	Microorganism 316 328	Enterococcus
+T20	Phenotype 330 333	VRE
+T21	Microorganism 330 333	VRE
+T22	Habitat 401 408	patient
+T23	Phenotype 553 557	MRSA
+T24	Microorganism 553 557	MRSA
+T25	Phenotype 562 565	VRE
+T26	Microorganism 562 565	VRE
+T27	Phenotype 658 662	MRSA
+T28	Microorganism 658 662	MRSA
+T29	Phenotype 834 837	VRE
+T30	Microorganism 834 837	VRE
+T31	Phenotype 1268 1272	MRSA
+T32	Microorganism 1268 1272	MRSA
+T33	Phenotype 1290 1293	VRE
+T34	Microorganism 1290 1293	VRE
+T35	Phenotype 1413 1417	MRSA
+T36	Microorganism 1413 1417	MRSA
+T37	Habitat 1413 1436	MRSA-colonized patients
+T38	Phenotype 1454 1457	VRE
+T39	Microorganism 1454 1457	VRE
+T40	Habitat 1454 1476	VRE-colonized patients
+T41	Phenotype 1523 1527	MRSA
+T42	Microorganism 1523 1527	MRSA
+T43	Phenotype 1532 1535	VRE
+T44	Microorganism 1532 1535	VRE
+T45	Phenotype 1599 1603	MRSA
+T46	Microorganism 1599 1603	MRSA
+T47	Phenotype 1651 1654	VRE
+T48	Microorganism 1651 1654	VRE
+T49	Phenotype 1755 1759	MRSA
+T50	Microorganism 1755 1759	MRSA
+T51	Phenotype 1950 1954	MRSA
+T52	Microorganism 1950 1954	MRSA
+T53	Phenotype 1959 1962	VRE
+T54	Microorganism 1959 1962	VRE

@@ -1,0 +1,13 @@
+T1	Habitat 0 7	Cheeses
+T2	Habitat 19 37	complex microbiota
+T3	Habitat 104 108	milk
+T4	Habitat 147 153	cheese
+T5	Phenotype 164 184	lactic acid bacteria
+T6	Phenotype 186 189	LAB
+T7	Habitat 191 207	starter cultures
+T8	Phenotype 215 225	mesophilic
+T9	Microorganism 226 246	Lactocococcus lactis
+T10	Phenotype 250 262	thermophilic
+T11	Microorganism 263 289	Streptococcus thermophilus
+T12	Phenotype 374 377	LAB
+T13	Habitat 378 385	starter

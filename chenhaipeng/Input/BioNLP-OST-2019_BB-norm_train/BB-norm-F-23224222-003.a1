@@ -1,0 +1,39 @@
+T1	Habitat 4 25;32 33	cheeses  from dairies C
+T2	Habitat 4 27	cheeses  from dairies A
+T3	Habitat 18 25	dairies
+T4	Phenotype 66 69	LAB
+T5	Habitat 70 87	starter  cultures
+T6	Microorganism 88 113	Leuconostoc mesenteroides
+T7	Microorganism 118 150	Lactococcus lactis subsp. lactis
+T8	Habitat 179 199;206 207	cheeses from dairies C
+T9	Habitat 179 201	cheeses from dairies A
+T10	Habitat 192 199	dairies
+T11	Habitat 234 241	starter
+T12	Phenotype 242 262	lactic acid bacteria
+T13	Phenotype 264 269	NSLAB
+T14	Microorganism 271 294	Lactobacillus paracasei
+T15	Habitat 308 327	cheese from dairy A
+T16	Habitat 320 325	dairy
+T17	Phenotype 361 366	NSLAB
+T18	Microorganism 367 383	Lb. parabuchneri
+T19	Habitat 437 460	cheeses from  dairies B
+T20	Habitat 437 458;465 466	cheeses from  dairies D
+T21	Habitat 451 458	dairies
+T22	Phenotype 495 500	NSLAB
+T23	Habitat 506 526	cheese from dairy  B
+T24	Habitat 518 523	dairy
+T25	Phenotype 555 560	NSLAB
+T26	Microorganism 571 581	Lb. brevis
+T27	Microorganism 583 602	Lb. oligofermentans
+T28	Microorganism 607 619	Lb. farminis
+T29	Habitat 633 652	cheese from dairy D
+T30	Habitat 645 650	dairy
+T31	Phenotype 686 691	NSLAB
+T32	Microorganism 692 705	Lb. paracasei
+T33	Phenotype 741 744	LAB
+T34	Habitat 745 761	starter cultures
+T35	Microorganism 762 786	Lc. lactis subsp. lactis
+T36	Microorganism 791 817	Lc. lactis subsp. cremoris
+T37	Habitat 836 856;863 864	cheeses from dairies D
+T38	Habitat 836 858	cheeses from dairies B
+T39	Habitat 849 856	dairies

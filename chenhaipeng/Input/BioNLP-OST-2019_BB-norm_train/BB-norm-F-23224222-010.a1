@@ -1,0 +1,29 @@
+T1	Habitat 36 70	Gram-negative bacterial microbiota
+T2	Phenotype 36 49	Gram-negative
+T3	Microorganism 85 101	Proteus vulgaris
+T4	Microorganism 106 126	Alcaligenes faecalis
+T5	Habitat 140 159	cheese from dairy C
+T6	Habitat 152 157	dairy
+T7	Microorganism 193 204	P. vulgaris
+T8	Habitat 208 231	cheese ripening culture
+T9	Habitat 208 214	cheese
+T10	Microorganism 238 249	P. vulgaris
+T11	Habitat 349 374	surface-ripening cultures
+T12	Microorganism 387 398	A. faecalis
+T13	Habitat 418 422	soil
+T14	Habitat 424 429	water
+T15	Habitat 435 474	environments in association with humans
+T16	Phenotype 500 514	non-pathogenic
+T17	Habitat 555 569	Livarot cheese
+T18	Habitat 622 628	marine
+T19	Microorganism 638 673	Marinilactibacillus psychrotolerans
+T20	Habitat 678 684	cheese
+T21	Habitat 718 737	surface of cheese D
+T22	Habitat 729 735	cheese
+T23	Habitat 745 751;763 770	French cheeses
+T24	Habitat 756 770	German cheeses
+T25	Microorganism 812 830	M. psychrotolerans
+T26	Microorganism 863 881	M. psychrotolerans
+T27	Habitat 905 912	cheeses
+T28	Habitat 922 941	marine environments
+T29	Habitat 946 955	sea  salt

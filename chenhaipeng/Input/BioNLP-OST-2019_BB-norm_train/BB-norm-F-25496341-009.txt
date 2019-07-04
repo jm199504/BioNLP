@@ -1,0 +1,6 @@
+As all the DNA present in the cheese 
+samples is sequenced, the high throughput sequencing may detect any type
+ of DNA (bacteria, archaea, eukaryotes and viruses), provided that 
+adequate references are used. Eukaryotes, such as Geotrichum candidum, Debaryomyces hansenii, and Penicillium roqueforti,
+ were found, which was not surprising, as these fungi are frequently 
+used in cheesemaking.

@@ -1,0 +1,5 @@
+Several models of EPS assembly have been proposed for L. lactis (Kleerebezem et al. 1999; Laws et al. 2001), Streptococcus pneumoniae (Bentley et al. 2006), and Lactobacillus rhamnosus (Lebeer et al. 2009).
+ However, in addition to the “flippase-like” route, it could be 
+possible, in LAB, another route involving ABC transporters, although the
+ export-polymerization pathway for EPS production in LAB has not yet 
+been demonstrated.

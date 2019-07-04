@@ -1,0 +1,33 @@
+T1	Microorganism 11 15;67 96	S3 + Lactococcus lactis sp. lactis
+T2	Phenotype 24 41	protease-negative
+T3	Microorganism 50 53;67 96	S3- Lactococcus lactis sp. lactis
+T4	Habitat 111 117	cheese
+T5	Habitat 166 181	model community
+T6	Microorganism 208 231	Lactobacillus casei FH1
+T7	Microorganism 233 264	Arthrobacter arilaitensis Re117
+T8	Microorganism 266 293	Corynebacterium casei Mu120
+T9	Microorganism 295 314	C. flavescens Mu128
+T10	Microorganism 316 334	C. variabile Mu129
+T11	Microorganism 336 363	Staphylococcus xylosus Com1
+T12	Microorganism 368 382	S. equorum Mu2
+T13	Microorganism 403 419	D. hansenii DH68
+T14	Microorganism 421 438	G. candidum GC129
+T15	Microorganism 440 458	Y. lipolytica CI35
+T16	Microorganism 463 478	K. lactis  KL65
+T17	Habitat 535 553	smear soft  cheese
+T18	Habitat 604 611	Munster
+T19	Microorganism 624 629	Re117
+T20	Habitat 631 640	Reblochon
+T21	Microorganism 643 647	Com1
+T22	Microorganism 662 665	FH1
+T23	Habitat 667 679	St. Nectaire
+T24	Phenotype 687 700	Gram-negative
+T25	Microorganism 719 730	P. celer 91
+T26	Microorganism 735 750	H. alvei  2 920
+T27	Habitat 766 773	Livarot
+T28	Habitat 778 792	Munster cheese
+T29	Habitat 834 840	cheese
+T30	Phenotype 900 929	sensitivity to 24 antibiotics
+T31	Phenotype 934 964	production of biogenic  amines
+T32	Habitat 968 983	synthetic media
+T33	Phenotype 991 1023	growth under anaerobic condition

@@ -1,0 +1,7 @@
+Dairy
+ propionibacteria have been shown to be able to produce EPS, although 
+the biosynthesis mechanism involved is poorly documented. Recently, the 
+structure of excreted EPS by P. freudenreichii subsp. shermanii was studied by NMR, showing a homopolysaccharide with the structure [→3)[β-d-Glcp-(1→2)]-β-d-Glcp-(1→] ( Nordmark et al., 2005).
+ To date, no data are available concerning the genes responsible for EPS
+ biosynthesis by propionibacteria. In this work, 20% of the tested 
+strains of P. freudenreichii subsp. shermanii, including the sequenced type strain TL 34 ( Meurice et al., 2004), were identified as “ropy-producing”, suggesting the production of EPS.

@@ -1,0 +1,9 @@
+Intensive sampling of three batches of cheese over a
+ 63-day aging period demonstrates that patterns of succession are highly
+ reproducible (Figures 7A and 7B). At the first time point, the community consisted primarily of Proteobacteria, the bacterium Leuconostoc, and the yeast Candida, which can be found at low levels in raw milk ( Quigley et al., 2013). Whereas Candida persisted in the fungal portion of the community, the Proteobacteria were succeeded by Staphylococcus within the first 7 days. As the rinds matured, bacterial taxa Brevibacterium and Brachybacterium and fungal taxa Penicillium and Scopulariopsis
+ emerged consistently as a significant fraction of the community (on 
+average, >1% in mature cheeses). Principal coordinate analysis shows a
+ reproducible trajectory of all three communities over time ( Figure 7B),
+ with the most rapid changes in composition occurring at early time 
+points, which is consistent with previous observations of primary 
+succession ( Fierer et al., 2012 and Shade et al., 2013).

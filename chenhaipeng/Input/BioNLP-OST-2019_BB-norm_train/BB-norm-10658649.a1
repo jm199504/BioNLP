@@ -1,0 +1,20 @@
+T1	Title 0 108	Identification of a novel glycoprotein-binding activity in Streptococcus pyogenes regulated by the mga gene.
+T2	Paragraph 109 1148	The interaction between Streptococcus pyogenes and the host cell surface is not completely understood. Characterization of the adhesion mechanisms of the bacterium to the host cell surface is needed in order to develop new vaccines and anti-adhesion drugs. The presence of glycoprotein-binding activities among streptococcal strains was investigated. An activity binding to thyroglobulin, fetuin, asialofetuin and mucin but not non-glycosylated proteins was found to be present in the majority of the S. pyogenes strains studied. Cross-inhibition experiments suggested that the glycoproteins share a common structure recognized by the bacteria. The glycoprotein-binding activity was found to be proteinaceous, tightly attached to the bacterial surface and it also mediated the adherence of bacteria to solid surfaces coated with glycoproteins. The activity was found by transposon mutagenesis and complementation to be regulated by the multiple-gene regulator Mga, which has been implicated as a regulator of S. pyogenes virulence factors.
+T3	Phenotype 26 55	glycoprotein-binding activity
+T4	Microorganism 59 81	Streptococcus pyogenes
+T5	Microorganism 133 155	Streptococcus pyogenes
+T6	Habitat 164 173	host cell
+T7	Phenotype 236 255	adhesion mechanisms
+T8	Habitat 280 289	host cell
+T9	Habitat 332 340	vaccines
+T10	Phenotype 382 413	glycoprotein-binding activities
+T11	Microorganism 420 433	streptococcal
+T12	Phenotype 463 482;498 504	activity binding to fetuin
+T13	Phenotype 463 482;506 518	activity binding to asialofetuin
+T14	Phenotype 463 496	activity binding to thyroglobulin
+T15	Phenotype 463 482;523 528	activity binding to mucin
+T16	Microorganism 610 621	S. pyogenes
+T17	Phenotype 758 787	glycoprotein-binding activity
+T18	Phenotype 886 895	adherence
+T19	Microorganism 1118 1129	S. pyogenes
+T20	Phenotype 1130 1139	virulence

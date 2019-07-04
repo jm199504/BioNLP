@@ -1,0 +1,10 @@
+The strain S3 + and its protease-negative variant S3-, assigned to Lactococcus lactis sp. lactis, was used for cheese-making. The 11 microorganisms that composed the model community included seven bacteria — Lactobacillus casei FH1, Arthrobacter arilaitensis Re117, Corynebacterium casei Mu120, C. flavescens Mu128, C. variabile Mu129, Staphylococcus xylosus Com1 and S. equorum Mu2 — and four yeasts — D. hansenii DH68, G. candidum GC129, Y. lipolytica CI35 and K. lactis
+ KL65. This composition is representative of the diversity of smear soft
+ cheese. The microorganisms were originally isolated from Munster except
+ for Re117 (Reblochon), Com1 (unknown) and FH1 (St. Nectaire). The 
+Gram-negative bacteria studied, P. celer 91 and H. alvei
+ 2 920, isolated from Livarot and Munster cheese, respectively, were 
+chosen from a large cheese bacteria collection for their low level of 
+sanitary risk (sensitivity to 24 antibiotics, no production of biogenic 
+amines in synthetic media and no growth under anaerobic condition and at
+ 37 °C) (Coton et al., 2012).

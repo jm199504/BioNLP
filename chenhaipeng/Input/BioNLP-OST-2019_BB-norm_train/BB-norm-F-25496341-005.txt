@@ -1,0 +1,3 @@
+Most prevalent microorganisms detected by metagenomic sequencing of three cheese surface samples
+In the smear-ripened cheese E, the Arthrobacter arilaitensis GMPA29 reference genome was the most represented, as it corresponded to 19.8% of the total good quality reads, followed by Psychrobacter immobilis PG1 and Vibrio litoralis
+ B4, with 8.5 and 5.2% of the reads, respectively.

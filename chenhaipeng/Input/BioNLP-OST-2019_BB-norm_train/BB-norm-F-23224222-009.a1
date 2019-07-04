@@ -1,0 +1,29 @@
+T1	Microorganism 1 10	B. linens
+T2	Habitat 91 106	cheese surfaces
+T3	Habitat 91 97	cheese
+T4	Microorganism 151 170	Brevibacterium spp.
+T5	Habitat 189 216	cheeses from the farmhouses
+T6	Habitat 206 216	farmhouses
+T7	Habitat 218 225	dairies
+T8	Microorganism 239 248	B. linens
+T9	Microorganism 253 267	B. aurantiacum
+T10	Habitat 283 305	cheeses from dairies B
+T11	Habitat 283 303;310 311	cheeses from dairies C
+T12	Habitat 296 303	dairies
+T13	Habitat 362 379	ripening cultures
+T14	Habitat 387 401	dairy industry
+T15	Habitat 420 424	soil
+T16	Microorganism 434 445	B. permense
+T17	Habitat 459 478	cheese from dairy A
+T18	Habitat 471 476	dairy
+T19	Habitat 531 537	cheese
+T20	Microorganism 574 594	Corynebacterium spp.
+T21	Habitat 637 660	surface-ripened cheeses
+T22	Microorganism 673 681	C. casei
+T23	Microorganism 689 701	C. variabile
+T24	Habitat 783 811	surfaces of the four cheeses
+T25	Habitat 804 811	cheeses
+T26	Habitat 851 857	cheese
+T27	Microorganism 903 923	Corynebacterium spp.
+T28	Habitat 942 959	ripening cultures
+T29	Habitat 978 1001	surface-ripened cheeses

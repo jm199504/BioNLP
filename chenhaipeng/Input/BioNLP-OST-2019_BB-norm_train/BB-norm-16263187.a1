@@ -1,0 +1,58 @@
+T1	Title 0 135	Ability of Lactobacillus gasseri K 7 to inhibit Escherichia coli adhesion in vitro on Caco-2 cells and ex vivo on pigs' jejunal tissue.
+T2	Paragraph 136 1930	The ability of Lactobacillus (Lb.) gasseri K 7 to inhibit adhesion of Escherichia coli O8:K88 to intestinal mucosa was studied on cultured Caco-2 cells and ex vivo on pigs' small intestinal tissue. Lactobacilli were added simultaneously with E. coli, before E. coli and after E. coli for competition, exclusion and displacement assays. The concentration of lactobacilli on fully differentiated Caco-2 cells was 4.5+/-0.3 x 10(8) cfu/well, while the concentration of E. coli varied from 1.5 x 10(6) to 4.3 x 10(8) cfu/well. The number of E. coli adhered to Caco-2 monolayer (cfu/well) was lineary correlated (R(2)=0.97) to the concentration of added cells. In the assay simulating exclusion, E. coli adhesion was reduced by Lb. gasseri K 7 strain by 0.1 to 0.6 log cfu/well. The binding of E. coli was inhibited even more when incubated simultaneously with lactobacilli, particularly at the lowest concentration of E. coli (ratio E. coli/lactobacilli 1:248), where five-times reduction (or 0.7 log) was observed. When adhesion to tissue derived from pigs' jejunum was tested, concentration of E. coli was constant (6.9+/-0.14 x 10(7) cfu/ml), while the concentration of Lb. gasseri K 7 was 5.9 x 10(7) and 1.3 x 10(7) cfu/ml in two independent experiments, respectively. The adhesion of E. coli and Lb. gasseri K 7 cells to jejunal mucosa was similar (1.0+/-0.17 x 10(6) and 1.54+/-0.10 x 10(6) cfu/cm(2)) when the concentrations of single strains in suspensions were approximately the same. No significant competition, exclusion or displacement of E. coli by lactobacilli was observed on jejunal tissue. In conclusion, Lb. gasseri K 7 was found to be effective in reducing E. coli adhesion to Caco-2 enterocytes, but it was not able to do so in ex vivo conditions tested for pig jejunal tissue.
+T3	Microorganism 11 36	Lactobacillus gasseri K 7
+T4	Microorganism 48 64	Escherichia coli
+T5	Phenotype 65 73	adhesion
+T6	Habitat 86 98	Caco-2 cells
+T7	Habitat 114 134	pigs' jejunal tissue
+T8	Habitat 114 118	pigs
+T9	Habitat 120 127	jejunal
+T10	Microorganism 151 182	Lactobacillus (Lb.) gasseri K 7
+T11	Phenotype 194 202	adhesion
+T12	Microorganism 206 229	Escherichia coli O8:K88
+T13	Habitat 233 250	intestinal mucosa
+T14	Habitat 233 243	intestinal
+T15	Habitat 266 287	cultured Caco-2 cells
+T16	Habitat 303 332	pigs' small intestinal tissue
+T17	Habitat 303 307	pigs
+T18	Habitat 309 325	small intestinal
+T19	Microorganism 334 346	Lactobacilli
+T20	Microorganism 378 385	E. coli
+T21	Microorganism 394 401	E. coli
+T22	Microorganism 412 419	E. coli
+T23	Microorganism 493 505	lactobacilli
+T24	Habitat 509 542	fully differentiated Caco-2 cells
+T25	Microorganism 602 609	E. coli
+T26	Microorganism 673 680	E. coli
+T27	Habitat 692 698	Caco-2
+T28	Microorganism 827 834	E. coli
+T29	Phenotype 835 843	adhesion
+T30	Microorganism 859 874	Lb. gasseri K 7
+T31	Phenotype 914 921	binding
+T32	Microorganism 925 932	E. coli
+T33	Microorganism 992 1004	lactobacilli
+T34	Microorganism 1050 1057	E. coli
+T35	Microorganism 1065 1072	E. coli
+T36	Microorganism 1073 1085	lactobacilli
+T37	Phenotype 1153 1161	adhesion
+T38	Habitat 1165 1198	tissue derived from pigs' jejunum
+T39	Habitat 1185 1198	pigs' jejunum
+T40	Habitat 1185 1189	pigs
+T41	Microorganism 1228 1235	E. coli
+T42	Microorganism 1305 1320	Lb. gasseri K 7
+T43	Phenotype 1410 1418	adhesion
+T44	Microorganism 1422 1429	E. coli
+T45	Microorganism 1434 1449	Lb. gasseri K 7
+T46	Habitat 1459 1466	jejunal
+T47	Habitat 1459 1473	jejunal mucosa
+T48	Microorganism 1684 1691	E. coli
+T49	Microorganism 1695 1707	lactobacilli
+T50	Habitat 1724 1731	jejunal
+T51	Habitat 1724 1738	jejunal tissue
+T52	Microorganism 1755 1770	Lb. gasseri K 7
+T53	Microorganism 1809 1816	E. coli
+T54	Phenotype 1817 1825	adhesion
+T55	Habitat 1829 1847	Caco-2 enterocytes
+T56	Habitat 1911 1929	pig jejunal tissue
+T57	Habitat 1911 1914	pig
+T58	Habitat 1915 1922	jejunal
