@@ -71,13 +71,17 @@ where
 
 <img src="https://github.com/jm199504/BioNLP/blob/master/Guojunming/Evaluation/image/3.jpg">
 
-评估指标 Jaccard Index（Java代码）：
+评价指标 Jaccard Index（Java代码）：
 
 <img src="https://github.com/jm199504/BioNLP/blob/master/Guojunming/Evaluation/image/4.png" width="500">
 
 评价指标 Jaccard Index（Wikipedia）：
 
 <img src="https://github.com/jm199504/BioNLP/blob/master/Guojunming/Evaluation/image/5.png">
+
+评价指标 Jaccard Index（Python）：
+
+<img src="https://github.com/jm199504/BioNLP/blob/master/Guojunming/Evaluation/image/6.png">
 
 备注：
 
