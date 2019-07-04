@@ -1,0 +1,1316 @@
+text_id,entity_id,name,category,positions
+F-20167385-008,T1,white mould rind,Habitat,41 57
+F-20167385-008,T2,Scimudin cheese,Habitat,59 74
+F-20167385-008,T3,M. luteus,Microorganism,100 109
+F-20167385-008,T4,P. glacincolaus,Microorganism,114 129
+F-20167385-008,T5,S. vitulinus,Microorganism,150 162
+F-20167385-008,T6,Casera Valtellina,Habitat,181 198
+F-20167385-008,T7,cheese,Habitat,202 208
+F-20167385-008,T8,rind,Habitat,252 256
+F-20167385-008,T9,S. equorum,Microorganism,287 297
+F-20167385-008,T10,B. linens,Microorganism,299 308
+F-20167385-008,T11,B. casei,Microorganism,313 321
+F-14624315-002,T1,Corynebacterium ammoniagenes B1506,Microorganism,0 34
+F-14624315-002,T2,Lactococcus lactis  B1157,Microorganism,39 64
+F-14624315-002,T3,able to produce considerable amounts of 3-methylbutanol,Phenotype,70 109;131 146
+F-14624315-002,T4,able to produce considerable amounts of 3-methylbutanal,Phenotype,70 125
+16273411,T1,Early pregnancy loss and neonatal deaths associated with Klebsiella pneumonia infection: a mini review of possible occupational health risk.,Title,0 140
+16273411,T2,"Recurrent pregnancy loss is a disease of grave psychological and economic concern. The etiology in the vast majority of the cases is unknown or at best poorly understood. Although Klebsiella pneumonia infections have been reported in humans and animals during pregnancy, there is hardly any information to indicate whether or not these infections may be responsible for early pregnancy loss. We present a review of literature and report for the first time in humans, Klebsiella pneumonia infection in placenta of a 38-year-old secondary recurrent aborter (parity 2 + 3).",Paragraph,141 711
+16273411,T3,neonatal,Habitat,25 33
+16273411,T4,Klebsiella pneumonia,Microorganism,57 77
+16273411,T5,Klebsiella pneumonia,Microorganism,321 341
+16273411,T6,humans,Habitat,375 381
+16273411,T7,animals,Habitat,386 393
+16273411,T8,humans,Habitat,600 606
+16273411,T9,Klebsiella pneumonia,Microorganism,608 628
+16273411,T10,placenta of a 38-year-old secondary recurrent aborter,Habitat,642 695
+16273411,T11,38-year-old secondary recurrent aborter,Habitat,656 695
+1356998,T1,Human and tick spotted fever group Rickettsia isolates from Israel: a genotypic analysis.,Title,0 89
+1356998,T2,"The genomes of spotted fever group rickettsiae isolated in different geographical areas of Israel (two from ticks and four from humans, obtained over a span of 20 years) were studied by polymerase chain reaction (PCR) and restriction endonuclease fragment length polymorphism (RFLP) analysis. The human isolates were obtained from patients suffering from rickettsial disease of different degrees of severity. The PCR products obtained with five pairs of oligonucleotide primers (two primer sets derived from the 190-kDa polypeptide gene and three from the 120-kDa polypeptide gene) and cleaved with restriction endonucleases were used to study the Israeli isolates and reference Rickettsia conorii isolates. Subtle differences between the PCR-RFLP patterns of Israeli isolates and the two R. conorii reference strains (Moroccan and no. 7) were seen when the PCR products derived from the 190-kDa gene-derived primer sets were digested. All of the Israeli isolates were identical by RFLP analysis using all of the primer sets. This study showed that the Israeli spotted fever group isolates (from both ticks and humans) were genetically homogeneous by the criteria used in this study, despite the time and location differences in their original isolation, and different as a group from R. conorii.",Paragraph,90 1386
+1356998,T3,Human,Habitat,0 5
+1356998,T4,tick,Habitat,10 14
+1356998,T5,spotted fever group,Microorganism,15 34
+1356998,T6,Rickettsia,Microorganism,35 45
+1356998,T7,spotted fever group,Microorganism,105 124
+1356998,T8,rickettsiae,Microorganism,125 136
+1356998,T9,ticks,Habitat,198 203
+1356998,T10,humans,Habitat,218 224
+1356998,T11,human,Habitat,387 392
+1356998,T12,patients suffering from rickettsial disease of different degrees of severity,Habitat,421 497
+1356998,T13,Rickettsia conorii,Microorganism,769 787
+1356998,T14,R. conorii reference strains no. 7,Microorganism,879 907;922 927
+1356998,T15,R. conorii reference strains Moroccan,Microorganism,879 907;909 917
+1356998,T16,spotted fever group,Microorganism,1151 1170
+1356998,T17,ticks,Habitat,1191 1196
+1356998,T18,humans,Habitat,1201 1207
+1356998,T19,R. conorii,Microorganism,1375 1385
+19339076,T1,Bile resistance in Lactococcus lactis strains varies with cellular fatty acid composition: analysis by using different growth media.,Title,0 132
+19339076,T2,"Bile resistance is one of the basic characteristics of probiotic bacteria. The aim of this study was to investigate the characteristics of bile resistance in lactococci by studying the relationship between bile resistance and cellular fatty acid composition in lactococcci grown on different media. We determined the bile resistance of 14 strains in lactose-free M17 medium supplemented with either glucose only (GM17) or lactose only (LM17). Gas chromatographic analyses of free lipids extracted from the tested strains were used for determining their fatty acid composition. A correlation analysis of all strains grown in both media revealed significant positive correlations between bile resistance and relative contents of hexadecanoic acid and octadecenoic acid, and negative correlations between bile resistance and relative contents of hexadecenoic acid and C-19 cyclopropane fatty acid. It is also a fact that the fatty acids associated with bile resistance depended on species, strain, and/or growth medium. In L. lactis subsp. cremoris strains grown in GM17 medium, the bile-resistant strains had significantly more octadecenoic acid than the bile-sensitive strains. In LM17 medium, bile-resistant strains had significantly more octadecenoic acid and significantly less C-19 cyclopropane fatty acid than the bile-sensitive strains. In L. lactis subsp. lactis strains, bile resistances of some of the tested strains were altered by growth medium. Some strains were resistant to bile in GM17 medium but sensitive to bile in LM17 medium. Some strains were resistant in both media tested. The strains grown in GM17 medium had significantly more hexadecanoic acid and octadecenoic acid, and significantly less tetradecanoic acid, octadecadienoic acid and C-19 cyclopropane fatty acid than the strains grown in LM17 medium. In conclusion, the fatty acid compositions of the bile-resistant lactococci differed from those of the bile-sensitive ones. More importantly, our data suggest that altering their fatty acid composition (i.e. increased hexadecanoic acid and octadecenoic acid and decreased hexadecenoic acid and C-19 cyclopropane fatty acid) by changing growth conditions may be a useful way to enhance their bile resistance in lactococci.",Paragraph,133 2382
+19339076,T3,Bile resistance,Phenotype,0 15
+19339076,T4,Bile,Habitat,0 4
+19339076,T5,Lactococcus lactis,Microorganism,19 37
+19339076,T6,Bile resistance,Phenotype,133 148
+19339076,T7,Bile,Habitat,133 137
+19339076,T8,probiotic,Phenotype,188 197
+19339076,T9,bile resistance,Phenotype,272 287
+19339076,T10,bile,Habitat,272 276
+19339076,T11,lactococci,Microorganism,291 301
+19339076,T12,bile resistance,Phenotype,339 354
+19339076,T13,bile,Habitat,339 343
+19339076,T14,lactococcci,Microorganism,394 405
+19339076,T15,bile resistance,Phenotype,450 465
+19339076,T16,bile,Habitat,450 454
+19339076,T17,lactose-free M17 medium supplemented with glucose only (GM17),Habitat,483 524;532 551
+19339076,T18,lactose-free M17 medium supplemented with lactose only (LM17),Habitat,483 524;555 574
+19339076,T19,bile resistance,Phenotype,819 834
+19339076,T20,bile,Habitat,819 823
+19339076,T21,bile resistance,Phenotype,935 950
+19339076,T22,bile,Habitat,935 939
+19339076,T23,bile resistance,Phenotype,1083 1098
+19339076,T24,bile,Habitat,1083 1087
+19339076,T25,L. lactis subsp. cremoris,Microorganism,1153 1178
+19339076,T26,GM17 medium,Habitat,1196 1207
+19339076,T27,bile-resistant,Phenotype,1213 1227
+19339076,T28,bile,Habitat,1213 1217
+19339076,T29,bile-sensitive,Phenotype,1286 1300
+19339076,T30,bile,Habitat,1286 1290
+19339076,T31,LM17 medium,Habitat,1313 1324
+19339076,T32,bile-resistant,Phenotype,1326 1340
+19339076,T33,bile,Habitat,1326 1330
+19339076,T34,bile-sensitive,Phenotype,1451 1465
+19339076,T35,bile,Habitat,1451 1455
+19339076,T36,L. lactis subsp. lactis,Microorganism,1478 1501
+19339076,T37,bile resistances,Phenotype,1511 1527
+19339076,T38,bile,Habitat,1511 1515
+19339076,T39,resistant to bile,Phenotype,1607 1624
+19339076,T40,bile,Habitat,1620 1624
+19339076,T41,GM17 medium,Habitat,1628 1639
+19339076,T42,sensitive to bile,Phenotype,1644 1661
+19339076,T43,bile,Habitat,1657 1661
+19339076,T44,LM17 medium,Habitat,1665 1676
+19339076,T45,resistant,Phenotype,1696 1705
+19339076,T46,GM17 medium,Habitat,1749 1760
+19339076,T47,LM17 medium,Habitat,1948 1959
+19339076,T48,bile-resistant,Phenotype,2011 2025
+19339076,T49,bile,Habitat,2011 2015
+19339076,T50,lactococci,Microorganism,2026 2036
+19339076,T51,bile-sensitive,Phenotype,2064 2078
+19339076,T52,bile,Habitat,2064 2068
+19339076,T53,bile resistance,Phenotype,2352 2367
+19339076,T54,bile,Habitat,2352 2356
+19339076,T55,lactococci,Microorganism,2371 2381
+8559802,T1,Construction of a cloning vector from a naturally occurring plasmid of Salmonella typhimurium.,Title,0 94
+8559802,T2,"A naturally occurring plasmid isolated from a drug-resistant strain of Salmonella typhimurium (993) has been used to construct a plasmid vector for cloning in a wild strain of Salmonella. The strain (993) contains at least two plasmids. The smaller plasmid (9 kb) contains an ampicillin-resistant marker, while the larger one (25 kb) is cryptic. Physical mapping of the 9-kb plasmid and construction of a 3.5-kb derivative have been carried out. This plasmid has been used for cloning in a restriction+modification+strain of S. typhimurium using a conventional calcium chloride method. It exhibited better efficiency of transformation than other commonly used plasmids such as pBR322 or its derivatives and transformants were found to be stable in the absence of antibiotic selection. The vector is compatible with pBR322 and can be used to study the expression of cloned genes in minicells.",Paragraph,95 986
+8559802,T3,Salmonella typhimurium,Microorganism,71 93
+8559802,T4,drug-resistant,Phenotype,141 155
+8559802,T5,Salmonella typhimurium (993),Microorganism,166 194
+8559802,T6,wild strain,Phenotype,256 267
+8559802,T7,Salmonella,Microorganism,271 281
+8559802,T8,993,Microorganism,295 298
+8559802,T9,ampicillin-resistant,Phenotype,371 391
+8559802,T10,S. typhimurium,Microorganism,620 634
+F-14624315-006,T1,presence of decarboxylase activity,Phenotype,184 192;205 230
+F-14624315-006,T2,absence of decarboxylase activity,Phenotype,197 230
+F-14624315-006,T3,L. lactis B697,Microorganism,261 270;281 285
+F-14624315-006,T4,L. lactis B1157,Microorganism,261 276
+F-14624315-006,T5,B1157,Microorganism,318 323
+F-14624315-006,T6,decarboxylase-positive,Phenotype,330 352
+F-14624315-006,T7,decarboxylase- negative,Phenotype,330 344;362 370
+F-14624315-006,T8,B697,Microorganism,357 361
+3544198,T1,Methods for the detection of a specific Mycobacterium leprae antigen in the urine of leprosy patients.,Title,0 102
+3544198,T2,"Two methods for detecting the phenolic glycolipid, PGL-1, a Mycobacterium leprae-specific molecule, in the urine of leprosy patients are described. Both methods rely on the 100-fold preconcentration of the urine, which can be accomplished by a single-step ultrafiltration procedure. The equivalent of approximately 2.5 micrograms of PGL-1/ml was detected in the urine of LL patients with an inhibition ELISA. The second method, a direct dot-blot assay on nitrocellulose paper, was much simpler and more sensitive. As little as 3 ng of antigen was detected by the dot-blot technique. PGL-1 was detected in the urine of LL patients.",Paragraph,103 733
+3544198,T3,Mycobacterium leprae,Microorganism,40 60
+3544198,T4,urine of leprosy patients,Habitat,76 101
+3544198,T5,leprosy patients,Habitat,85 101
+3544198,T6,Mycobacterium leprae,Microorganism,163 183
+3544198,T7,urine of leprosy patients,Habitat,210 235
+3544198,T8,leprosy patients,Habitat,219 235
+3544198,T9,urine,Habitat,309 314
+3544198,T10,urine of LL patients,Habitat,465 485
+3544198,T11,LL patients,Habitat,474 485
+3544198,T12,nitrocellulose paper,Habitat,558 578
+3544198,T13,urine of LL patients,Habitat,712 732
+3544198,T14,LL patients,Habitat,721 732
+16458564,T1,"Etiology and epidemiology of diarrhea in children in Hanoi, Vietnam.",Title,0 68
+16458564,T2,"This paper provides a preliminary picture of diarrhea with regards to etiology, clinical symptoms, and some related epidemiologic factors in children less than five years of age living in Hanoi, Vietnam.",Paragraph,69 272
+16458564,T3,"The study population included 587 children with diarrhea and 249 age-matched healthy controls. The identification of pathogens was carried out by the conventional methods in combination with ELISA, immunoseparation, and PCR. The antibiotic susceptibility was determined by MIC following the NCCLS recommendations.",Paragraph,273 586
+16458564,T4,"Of those with diarrhea, 40.9% were less than one year old and 71.0% were less than two years old. A potential pathogen was identified in 67.3% of children with diarrhea. They were group A rotavirus, diarrheagenic Escherichia coli, Shigella spp, and enterotoxigenic Bacteroides fragilis, with prevalences of 46.7%, 22.5%, 4.7%, and 7.3%, respectively. No Salmonella spp or Vibrio cholerae were isolated. Rotavirus and diarrheagenic E. coli were predominant in children less than two years of age, while Shigella spp, and enterotoxigenic B. fragilis were mostly seen in the older children. Diarrheagenic E. coli and Shigella spp showed high prevalence of resistance to ampicillin, chloramphenicol, and to trimethoprim/sulfamethoxazole. Children attending the hospitals had fever (43.6%), vomiting (53.8%), and dehydration (82.6%). Watery stool was predominant with a prevalence of 66.4%, followed by mucous stool (21.0%). The mean episodes of stools per day was seven, ranging from two to 23 episodes. Before attending hospitals, 162/587 (27.6%) children had been given antibiotics. Overall, more children got diarrhea in (i) poor families; (ii) families where piped water and a latrine were lacking; (iii) families where mothers washed their hands less often before feeding the children; (iv) families where mothers had a low level of education; (v) families where information on health and sanitation less often reached their households.",Paragraph,587 2024
+16458564,T5,"Group A rotavirus, diarrheagenic Escherichia coli, Shigella spp, and enterotoxigenic Bacteroides fragilis play an important role in causing diarrhea in children in Hanoi, Vietnam. Epidemiological factors such as lack of fresh water supply, unhygienic septic tank, low family income, lack of health information, and low educational level of parents could contribute to the morbidity of diarrhea in children.",Paragraph,2025 2431
+16458564,T6,children,Habitat,41 49
+16458564,T7,children less than five years of age,Habitat,210 246
+16458564,T8,study population,Habitat,277 293
+16458564,T9,children with diarrhea,Habitat,307 329
+16458564,T10,age-matched healthy controls,Habitat,338 366
+16458564,T11,pathogens,Phenotype,390 399
+16458564,T12,antibiotic susceptibility,Phenotype,502 527
+16458564,T13,pathogen,Phenotype,697 705
+16458564,T14,children with diarrhea,Habitat,733 755
+16458564,T15,group A rotavirus,Microorganism,767 784
+16458564,T16,diarrheagenic,Phenotype,786 799
+16458564,T17,Escherichia coli,Microorganism,800 816
+16458564,T18,Shigella spp,Microorganism,818 830
+16458564,T19,enterotoxigenic,Phenotype,836 851
+16458564,T20,Bacteroides fragilis,Microorganism,852 872
+16458564,T21,Salmonella spp,Microorganism,941 955
+16458564,T22,Vibrio cholerae,Microorganism,959 974
+16458564,T23,Rotavirus,Microorganism,990 999
+16458564,T24,diarrheagenic,Phenotype,1004 1017
+16458564,T25,E. coli,Microorganism,1018 1025
+16458564,T26,children less than two years of age,Habitat,1046 1081
+16458564,T27,Shigella spp,Microorganism,1089 1101
+16458564,T28,enterotoxigenic,Phenotype,1107 1122
+16458564,T29,B. fragilis,Microorganism,1123 1134
+16458564,T30,older children,Habitat,1159 1173
+16458564,T31,Diarrheagenic,Phenotype,1175 1188
+16458564,T32,E. coli,Microorganism,1189 1196
+16458564,T33,Shigella spp,Microorganism,1201 1213
+16458564,T34,resistance to trimethoprim/sulfamethoxazole,Phenotype,1240 1253;1290 1319
+16458564,T35,resistance to ampicillin,Phenotype,1240 1264
+16458564,T36,resistance to chloramphenicol,Phenotype,1240 1253;1266 1281
+16458564,T37,Children attending the hospitals,Habitat,1321 1353
+16458564,T38,hospitals,Habitat,1344 1353
+16458564,T39,Watery stool,Habitat,1416 1428
+16458564,T40,mucous stool,Habitat,1485 1497
+16458564,T41,mucous,Habitat,1485 1491
+16458564,T42,stools,Habitat,1528 1534
+16458564,T43,hospitals,Habitat,1604 1613
+16458564,T44,children,Habitat,1631 1639
+16458564,T45,children,Habitat,1682 1690
+16458564,T46,piped water,Habitat,1746 1757
+16458564,T47,latrine,Habitat,1764 1771
+16458564,T48,mothers,Habitat,1807 1814
+16458564,T49,children,Habitat,1864 1872
+16458564,T50,mothers,Habitat,1894 1901
+16458564,T51,Group A rotavirus,Microorganism,2025 2042
+16458564,T52,diarrheagenic,Phenotype,2044 2057
+16458564,T53,Escherichia coli,Microorganism,2058 2074
+16458564,T54,Shigella spp,Microorganism,2076 2088
+16458564,T55,enterotoxigenic,Phenotype,2094 2109
+16458564,T56,Bacteroides fragilis,Microorganism,2110 2130
+16458564,T57,children,Habitat,2177 2185
+16458564,T58,fresh water,Habitat,2245 2256
+16458564,T59,fresh water supply,Habitat,2245 2263
+16458564,T60,unhygienic septic tank,Habitat,2265 2287
+16458564,T61,children,Habitat,2422 2430
+F-14624315-007,T1,L. lactis subsp. cremoris B1157,Microorganism,42 73
+F-14624315-007,T2,C. ammoniagenes B1506,Microorganism,166 187
+F-14624315-007,T3,dairy industry,Habitat,319 333
+18789156,T1,A novel receptor - ligand pathway for entry of Francisella tularensis in monocyte-like THP-1 cells: interaction between surface nucleolin and bacterial elongation factor Tu.,Title,0 173
+18789156,T2,"Francisella tularensis, the causative agent of tularemia, is one of the most infectious human bacterial pathogens. It is phagocytosed by immune cells, such as monocytes and macrophages. The precise mechanisms that initiate bacterial uptake have not yet been elucidated. Participation of C3, CR3, class A scavenger receptors and mannose receptor in bacterial uptake have been already reported. However, contribution of an additional, as-yet-unidentified receptor for F. tularensis internalization has been suggested.",Paragraph,174 689
+18789156,T3,"We show here that cell-surface expressed nucleolin is a receptor for Francisella tularensis Live Vaccine Strain (LVS) and promotes LVS binding and infection of human monocyte-like THP-1 cells. The HB-19 pseudopeptide that binds specifically carboxy-terminal RGG domain of nucleolin inhibits LVS binding and infection of monocyte-like THP-1 cells. In a pull-down assay, elongation factor Tu (EF-Tu), a GTP-binding protein involved in protein translation, usually found in cytoplasm, was recovered among LVS bacterial membrane proteins bound on RGG domain of nucleolin. A specific polyclonal murine antibody was raised against recombinant LVS EF-Tu. By fluorescence and electron microscopy experiments, we found that a fraction of EF-Tu could be detected at the bacterial surface. Anti-EF-Tu antibodies reduced LVS binding to monocyte-like THP-1 cells and impaired infection, even in absence of complement and complement receptors. Interaction between EF-Tu and nucleolin was illustrated by two different pull-down assays using recombinant EF-Tu proteins and either RGG domain of nucleolin or cell solubilized nucleolin.",Paragraph,690 1808
+18789156,T4,"Altogether, our results demonstrate that the interaction between surface nucleolin and its bacterial ligand EF-Tu plays an important role in Francisella tularensis adhesion and entry process and may therefore facilitate invasion of host tissues. Since phagosomal escape and intra-cytosolic multiplication of LVS in infected monocytes are very similar to those of human pathogenic F. tularensis ssp tularensis, the mechanism of entry into monocyte-like THP-1 cells, involving interaction between EF-Tu and nucleolin, might be similar in the two subspecies. Thus, the use of either nucleolin-specific pseudopeptide HB-19 or recombinant EF-Tu could provide attractive therapeutic approaches for modulating F. tularensis infection.",Paragraph,1809 2536
+18789156,T5,Francisella tularensis,Microorganism,47 69
+18789156,T6,monocyte-like THP-1 cells,Habitat,73 98
+18789156,T7,Francisella tularensis,Microorganism,174 196
+18789156,T8,causative agent of tularemia,Phenotype,202 230
+18789156,T9,human,Habitat,262 267
+18789156,T10,human bacterial pathogens,Phenotype,262 287
+18789156,T11,immune cells,Habitat,311 323
+18789156,T12,monocytes,Habitat,333 342
+18789156,T13,macrophages,Habitat,347 358
+18789156,T14,F. tularensis,Microorganism,640 653
+18789156,T15,cell,Habitat,708 712
+18789156,T16,Francisella tularensis Live Vaccine Strain,Microorganism,759 801
+18789156,T17,LVS,Microorganism,803 806
+18789156,T18,LVS,Microorganism,821 824
+18789156,T19,binding,Phenotype,825 832
+18789156,T20,human,Habitat,850 855
+18789156,T21,human monocyte-like THP-1 cells,Habitat,850 881
+18789156,T22,monocyte-like THP-1 cells,Habitat,856 881
+18789156,T23,LVS,Microorganism,981 984
+18789156,T24,binding,Phenotype,985 992
+18789156,T25,monocyte-like THP-1 cells,Habitat,1010 1035
+18789156,T26,LVS,Microorganism,1192 1195
+18789156,T27,murine,Habitat,1280 1286
+18789156,T28,LVS,Microorganism,1327 1330
+18789156,T29,LVS,Microorganism,1499 1502
+18789156,T30,binding,Phenotype,1503 1510
+18789156,T31,monocyte-like THP-1 cells,Habitat,1514 1539
+18789156,T32,cell,Habitat,1781 1785
+18789156,T33,Francisella tularensis,Microorganism,1950 1972
+18789156,T34,adhesion,Phenotype,1973 1981
+18789156,T35,invasion of host tissues,Phenotype,2029 2053
+18789156,T36,host tissues,Habitat,2041 2053
+18789156,T37,LVS,Microorganism,2117 2120
+18789156,T38,infected monocytes,Habitat,2124 2142
+18789156,T39,human,Habitat,2172 2177
+18789156,T40,human pathogenic,Phenotype,2172 2188
+18789156,T41,F. tularensis ssp tularensis,Microorganism,2189 2217
+18789156,T42,monocyte-like THP-1 cells,Habitat,2247 2272
+18789156,T43,F. tularensis,Microorganism,2512 2525
+460951,T1,Atypical mycobacteria causing non-pulmonary disease in Queensland.,Title,0 66
+460951,T2,"During the period 1971--7, the Tuberculosis Reference Laboratory in Queensland dealt with 52 isolates of atypical mycobacteria made from non-pulmonary sites under circumstances suggesting complicity in disease. Twenty-four isolates belonging to the MAIS complex were associated with lymph node infections in children. Twelve isolates belonged to the M. fortuitum-chelonei complex; most were from superficial abscesses. Five cases of M. marinum infection and 8 of M. ulcerans disease were detected.",Paragraph,67 564
+460951,T3,mycobacteria,Microorganism,9 21
+460951,T4,causing non-pulmonary disease,Phenotype,22 51
+460951,T5,pulmonary,Habitat,34 43
+460951,T6,Tuberculosis Reference Laboratory,Habitat,98 131
+460951,T7,mycobacteria,Microorganism,181 193
+460951,T8,pulmonary,Habitat,208 217
+460951,T9,complicity in disease,Phenotype,255 276
+460951,T10,lymph node,Habitat,350 360
+460951,T11,lymph,Habitat,350 355
+460951,T12,children,Habitat,375 383
+460951,T13,M. fortuitum-chelonei complex,Microorganism,417 446
+460951,T14,superficial abscesses,Habitat,463 484
+460951,T15,M. marinum,Microorganism,500 510
+460951,T16,M. ulcerans,Microorganism,530 541
+16514151,T1,Hg(II) sequestration and protection by the MerR metal-binding domain (MBD).,Title,0 75
+16514151,T2,"MerR, the metalloregulator of the bacterial mercury resistance (mer) operon, binds Hg(II) with high affinity. To study the mechanism of metal-induced activation, a small protein was previously engineered embodying in a single polypeptide the metal-binding domain (MBD) ordinarily formed between two monomers of MerR. Here the physiological and biochemical properties of MBD expressed on the cell surface or in the cytosol were examined, to better understand the environments in which specific metal binding can occur with this small derivative. Over 20 000 surface copies of MBD were expressed per Escherichia coli cell, with metal stoichiometries of approximately 1.0 Hg(II) per MBD monomer. Cells expressing MBD on their surface in rich medium bound 6.1-fold more Hg(II) than those not expressing MBD. Although in nature cells use the entire mer operon to detoxify mercury, it was interesting to note that cells expressing only MBD survived Hg(II) challenge and recovered more quickly than cells without MBD. Cell-surface-expressed MBD bound Hg(II) preferentially even in the presence of a 22-fold molar excess of Zn(II) and when exposed to equimolar Cd(II) in addition. MBD expressed in the cystosol also afforded improved survival from Hg(II) exposure for E. coli and for the completely unrelated bacterium Deinococcus radiodurans.",Paragraph,76 1411
+16514151,T3,mercury resistance,Phenotype,120 138
+16514151,T4,mer,Phenotype,140 143
+16514151,T5,Escherichia coli,Microorganism,674 690
+16514151,T6,rich medium,Habitat,810 821
+16514151,T7,E. coli,Microorganism,1336 1343
+16514151,T8,Deinococcus radiodurans,Microorganism,1387 1410
+F-20167385-009,T1,B. linens,Microorganism,0 9
+F-20167385-009,T2,Casera cheese,Habitat,38 44;70 76
+F-20167385-009,T3,Casera cheese  surfaces,Habitat,38 44;70 86
+F-20167385-009,T4,Gorgonzola cheese  surfaces,Habitat,46 56;70 86
+F-20167385-009,T5,Gorgonzola cheese,Habitat,46 56;70 76
+F-20167385-009,T6,Scimudin cheese,Habitat,61 76
+F-20167385-009,T7,Scimudin cheese  surfaces,Habitat,61 86
+F-20167385-009,T8,smear cheeses,Habitat,185 198
+F-14624315-003,T1,transaminase activity,Phenotype,153 174
+F-14624315-003,T2,Lactobacillus,Microorganism,282 295
+F-14624315-003,T3,L. lactis,Microorganism,303 312
+F-14624315-003,T4,Streptococcus thermophilus,Microorganism,322 348
+F-14624315-003,T5,transaminase activity towards leucine,Phenotype,378 415
+25114119,T1,Characterization of a lipopolysaccharide-targeted monoclonal antibody and its variable fragments as candidates for prophylaxis against the obligate intracellular bacterial pathogen Coxiella burnetii.,Title,0 199
+25114119,T2,"Our previous study demonstrated that treatment of Coxiella burnetii with the phase I lipopolysaccharide (PI-LPS)-targeted monoclonal antibody (MAb) 1E4 significantly inhibited C. burnetii infection in mice, suggesting that 1E4 is a protective MAb. To determine whether passive transfer of antibodies (Abs) can provide protection against C. burnetii natural infection, we examined if passive transfer of 1E4 would protect SCID mice against C. burnetii aerosol infection. The results indicated that 1E4 conferred significant protection against aerosolized C. burnetii, suggesting that 1E4 may be useful for preventing C. burnetii natural infection. To further understand the mechanisms of 1E4-mediated protection and to test the possibility of using humanized 1E4 to prevent C. burnetii infection, we examined whether the Fab fragment of 1E4 (Fab1E4), a recombinant murine single-chain variable fragment (muscFv1E4), and a humanized single-chain variable fragment (huscFv1E4) retained the ability of 1E4 to inhibit C. burnetii infection. The results indicated that Fab1E4, muscFv1E4, and huscFv1E4 were able to inhibit C. burnetii infection in mice but that their ability to inhibit C. burnetii infection was lower than that of 1E4. In addition, treatment of C. burnetii with Fab1E4, muscFv1E4, or huscFv1E4 can block C. burnetii infection of macrophages. Interestingly, treatment of C. burnetii with huscFv1E4 can significantly reduce C. burnetii infectivity in human macrophages. This report provides the first evidence to demonstrate that the humanized variable fragments of an LPS-specific MAb can neutralize C. burnetii infection and appears to be a promising step toward the potential use of a humanized MAb as emergency prophylaxis against C. burnetii exposure.",Paragraph,200 1966
+25114119,T3,obligate intracellular,Phenotype,139 161
+25114119,T4,pathogen,Phenotype,172 180
+25114119,T5,Coxiella burnetii,Microorganism,181 198
+25114119,T6,Coxiella burnetii,Microorganism,250 267
+25114119,T7,C. burnetii,Microorganism,376 387
+25114119,T8,mice,Habitat,401 405
+25114119,T9,C. burnetii,Microorganism,537 548
+25114119,T10,SCID mice,Habitat,621 630
+25114119,T11,C. burnetii,Microorganism,639 650
+25114119,T12,aerosol,Habitat,651 658
+25114119,T13,aerosolized,Habitat,742 753
+25114119,T14,C. burnetii,Microorganism,754 765
+25114119,T15,C. burnetii,Microorganism,816 827
+25114119,T16,C. burnetii,Microorganism,973 984
+25114119,T17,murine,Habitat,1064 1070
+25114119,T18,C. burnetii,Microorganism,1213 1224
+25114119,T19,C. burnetii,Microorganism,1317 1328
+25114119,T20,mice,Habitat,1342 1346
+25114119,T21,C. burnetii,Microorganism,1381 1392
+25114119,T22,C. burnetii,Microorganism,1457 1468
+25114119,T23,C. burnetii,Microorganism,1516 1527
+25114119,T24,macrophages,Habitat,1541 1552
+25114119,T25,C. burnetii,Microorganism,1582 1593
+25114119,T26,C. burnetii,Microorganism,1634 1645
+25114119,T27,human,Habitat,1661 1666
+25114119,T28,human macrophages,Habitat,1661 1678
+25114119,T29,C. burnetii,Microorganism,1811 1822
+25114119,T30,C. burnetii,Microorganism,1945 1956
+9553794,T1,Evaluation of the role of Carnobacterium piscicola in spoilage of vacuum- and modified-atmosphere-packed cold-smoked salmon stored at 5 degrees C.,Title,0 146
+9553794,T2,"The microflora on spoiled cold-smoked salmon often consists of a mixture of lactic acid bacteria (LAB) and Gram-negative bacteria. To elucidate the role of the different groups, a storage trial was carried out in which nisin and CO2 were used for the selective inhibition of the two bacterial groups. The shelf-life of vacuum-packed cold-smoked salmon, recorded by sensory evaluation, was four weeks at 5 degrees C and the microflora was composed of LAB (10(6)-10(7) cfu/g) with an associate Gram-negative flora in varying levels (10(5)-10(7) cfu/g). The addition of nisin and/or a CO2-atmosphere increased the shelf-life to five or six weeks and limited the level of LAB to about 10(4)-10(6), 10(3)-10(6) and 10(2)-10(4) cfu/g, respectively. CO2-atmosphere +/- nisin inhibited the growth of Gram-negative bacteria, whereas nisin had no effect on these in vacuum packages. The Gram-negative flora on vacuum-packed salmon was dominated by a Vibrio sp., resembling V. marinus, Enterobacteriaceae (Enterobacter agglomerans, Serratia liquefaciens and Rahnella aquatilis) and occasionally Aeromonas hydrophila. Irrespective of the addition of nisin and/or CO2-atmosphere, the LAB microflora was dominated by Carnobacterium piscicola, which was found to account for 87% of the 255 LAB isolates characterized. Whole-cell-protein patterns analysed by SDS-PAGE confirmed the Carnobacterium species identification. The spoilage potential of C. piscicola isolates was further studied by inoculation of approx. 10(6) cfu/g in cold-smoked salmon stored at 5 degrees C. The salmon did not spoil within 4 weeks of storage in vacuum- or CO2-atmosphere, and it is concluded that despite high levels (> 10(7) cfu/g) of C. piscicola, sensory rejection was caused by autolytic changes. This was supported by the development of soft texture and sour, rancid and bitter off-flavours at the point of spoilage, irrespective of the length of shelf-life and low or high total counts of LAB and Gram-negative bacteria.",Paragraph,147 2138
+9553794,T3,Carnobacterium piscicola,Microorganism,26 50
+9553794,T4,Carnobacterium piscicola,Microorganism,26 50
+9553794,T5,vacuum- packed cold-smoked salmon stored at 5 degrees C,Habitat,66 73;98 145
+9553794,T6,modified-atmosphere-packed cold-smoked salmon stored at 5 degrees C,Habitat,78 145
+9553794,T7,microflora,Habitat,151 161
+9553794,T8,spoiled cold-smoked salmon,Habitat,165 191
+9553794,T9,lactic acid bacteria,Phenotype,223 243
+9553794,T10,LAB,Phenotype,245 248
+9553794,T11,Gram-negative,Phenotype,254 267
+9553794,T12,vacuum-packed cold-smoked salmon,Habitat,466 498
+9553794,T13,microflora,Habitat,570 580
+9553794,T14,microflora,Habitat,570 580
+9553794,T15,LAB,Phenotype,597 600
+9553794,T16,Gram-negative flora,Habitat,639 658
+9553794,T17,Gram-negative,Phenotype,639 652
+9553794,T18,LAB,Phenotype,815 818
+9553794,T19,Gram-negative,Phenotype,939 952
+9553794,T20,vacuum packages,Habitat,1003 1018
+9553794,T21,Gram-negative flora,Habitat,1024 1043
+9553794,T22,Gram-negative,Phenotype,1024 1037
+9553794,T23,vacuum-packed salmon,Habitat,1047 1067
+9553794,T24,Vibrio sp.,Microorganism,1087 1097
+9553794,T25,Vibrio sp.,Microorganism,1087 1097
+9553794,T26,V. marinus,Microorganism,1110 1120
+9553794,T27,V. marinus,Microorganism,1110 1120
+9553794,T28,Enterobacteriaceae,Microorganism,1122 1140
+9553794,T29,Enterobacteriaceae,Microorganism,1122 1140
+9553794,T30,Enterobacter agglomerans,Microorganism,1142 1166
+9553794,T31,Enterobacter agglomerans,Microorganism,1142 1166
+9553794,T32,Serratia liquefaciens,Microorganism,1168 1189
+9553794,T33,Serratia liquefaciens,Microorganism,1168 1189
+9553794,T34,Rahnella aquatilis,Microorganism,1194 1212
+9553794,T35,Rahnella aquatilis,Microorganism,1194 1212
+9553794,T36,Aeromonas hydrophila,Microorganism,1231 1251
+9553794,T37,Aeromonas hydrophila,Microorganism,1231 1251
+9553794,T38,LAB microflora,Habitat,1318 1332
+9553794,T39,LAB,Phenotype,1318 1321
+9553794,T40,Carnobacterium piscicola,Microorganism,1350 1374
+9553794,T41,Carnobacterium piscicola,Microorganism,1350 1374
+9553794,T42,LAB,Phenotype,1422 1425
+9553794,T43,Carnobacterium,Microorganism,1513 1527
+9553794,T44,Carnobacterium,Microorganism,1513 1527
+9553794,T45,C. piscicola,Microorganism,1578 1590
+9553794,T46,C. piscicola,Microorganism,1578 1590
+9553794,T47,cold-smoked salmon stored at 5 degrees C,Habitat,1661 1701
+9553794,T48,salmon,Habitat,1707 1713
+9553794,T49,C. piscicola,Microorganism,1848 1860
+9553794,T50,LAB,Phenotype,2107 2110
+9553794,T51,Gram-negative,Phenotype,2115 2128
+20580604,T1,"Effects of a probiotic fermented milk beverage containing Lactobacillus casei strain Shirota on defecation frequency, intestinal microbiota, and the intestinal environment of healthy individuals with soft stools.",Title,0 212
+20580604,T2,"The effects of drinking a fermented milk beverage that contains Lactobacillus casei strain Shirota (LcS) at 40 billion bacterial cells/bottle for 4 weeks (probiotics, 1 bottle/day) on defecation frequency, intestinal microbiota and the intestinal environment of healthy individuals with soft stools were evaluated. Thirty-four healthy adults who had soft stools were randomised into 2 groups, and the effects of a regular 4-week intake of probiotics were evaluated by a placebo-controlled, double-blind, parallel-group comparative design. Defecation frequency significantly decreased after the 4-week intake period compared with before the probiotic treatment. The stool quality significantly improved (hardened) compared to the placebo. Also, the water content of the stools was lower in the probiotic group than in the placebo group. Live LcS was recovered at 6.9 ± 1.3 and 7.2 ± 0.8 log(10) CFU per 1g of stool after 2 and 4 weeks, respectively, of probiotic treatment. The number of bifidobacteria in the stools also increased significantly compared with the level before starting the probiotics. The organic acid levels (total, acetic acid, propionic acid, and butyric acid) significantly increased compared with the level before intake in both the probiotic and placebo groups, but they returned to the original levels after the end of the intake period. These results suggest that probiotic fermented milk beverage has an intestine-conditioning effect by improving the frequency of defecation and stool quality and increasing the intrinsic bifidobacteria in healthy individuals with soft stool.",Paragraph,213 1814
+20580604,T3,probiotic fermented milk beverage,Habitat,13 46
+20580604,T4,Lactobacillus casei strain Shirota,Microorganism,58 92
+20580604,T5,intestinal,Habitat,118 128
+20580604,T6,intestinal microbiota,Habitat,118 139
+20580604,T7,intestinal environment of healthy individuals with soft stools,Habitat,149 211
+20580604,T8,healthy individuals with soft stools,Habitat,175 211
+20580604,T9,soft stools,Habitat,200 211
+20580604,T10,fermented milk beverage,Habitat,239 262
+20580604,T11,Lactobacillus casei strain Shirota,Microorganism,277 311
+20580604,T12,LcS,Microorganism,313 316
+20580604,T13,bottle,Habitat,348 354
+20580604,T14,probiotics,Habitat,368 378
+20580604,T15,bottle,Habitat,382 388
+20580604,T16,intestinal microbiota,Habitat,419 440
+20580604,T17,intestinal,Habitat,419 429
+20580604,T18,intestinal environment of healthy individuals with soft stools,Habitat,449 511
+20580604,T19,healthy individuals with soft stools,Habitat,475 511
+20580604,T20,soft stools,Habitat,500 511
+20580604,T21,healthy adults,Habitat,540 554
+20580604,T22,soft stools,Habitat,563 574
+20580604,T23,probiotics,Habitat,652 662
+20580604,T24,probiotic,Habitat,853 862
+20580604,T25,stool,Habitat,878 883
+20580604,T26,water content of the stools,Habitat,961 988
+20580604,T27,stools,Habitat,982 988
+20580604,T28,probiotic,Habitat,1006 1015
+20580604,T29,probiotic group,Habitat,1006 1021
+20580604,T30,placebo group,Habitat,1034 1047
+20580604,T31,LcS,Microorganism,1054 1057
+20580604,T32,stool,Habitat,1121 1126
+20580604,T33,probiotic,Habitat,1165 1174
+20580604,T34,bifidobacteria,Microorganism,1200 1214
+20580604,T35,stools,Habitat,1222 1228
+20580604,T36,probiotics,Habitat,1302 1312
+20580604,T37,probiotic groups,Habitat,1467 1476;1489 1495
+20580604,T38,probiotic,Habitat,1467 1476
+20580604,T39,placebo groups,Habitat,1481 1495
+20580604,T40,probiotic fermented milk beverage,Habitat,1601 1634
+20580604,T41,intestine,Habitat,1642 1651
+20580604,T42,stool,Habitat,1717 1722
+20580604,T43,bifidobacteria,Microorganism,1760 1774
+20580604,T44,healthy individuals with soft stool,Habitat,1778 1813
+20580604,T45,soft stool,Habitat,1803 1813
+F-20167385-002,T1,soft smear cheeses,Habitat,35 53
+F-20167385-002,T2,Listeria monocytogenes,Microorganism,59 81
+21894542,T1,Iron transport in the genus Marinobacter.,Title,0 41
+21894542,T2,"Marinobacter belong to the class of Gammaproteobacteria and these motile, halophilic or halotolerent bacteria are widely distributed throughout the world's oceans having been isolated from a wide variety of marine environments. They have also been identified as members of the bacterial flora associated with other marine organisms. Here, using a combination of natural products chemistry and genomic analysis, we assess the nature of the siderophores produced by this genus and their potential relationship to phylogeny and lifestyle/ecological niche of this diverse group of organisms. Our analysis shows a wide level of diversity in siderophore based iron uptake systems among this genus with three general strategies: (1) production and utilization of native siderophores in addition to utilization of a variety of exogenous ones, (2) production and utilization of native siderophores only, (3) lack of siderophore production but utilization of exogenous ones. They all share the presence of at least one siderophore-independent iron uptake ABC transport systems of the FbpABC iron metal type and lack the ability for direct transport of ferrous iron. Siderophore production and utilization can be correlated with phylogeny and thus it forms a type of chemotaxonomic marker for this genus.",Paragraph,42 1335
+21894542,T3,Marinobacter,Microorganism,28 40
+21894542,T4,Marinobacter,Microorganism,42 54
+21894542,T5,Gammaproteobacteria,Microorganism,78 97
+21894542,T6,motile,Phenotype,108 114
+21894542,T7,halophilic,Phenotype,116 126
+21894542,T8,halotolerent,Phenotype,130 142
+21894542,T9,world's oceans,Habitat,190 204
+21894542,T10,marine environments,Habitat,249 268
+21894542,T11,bacterial flora,Habitat,319 334
+21894542,T12,marine,Habitat,357 363
+21894542,T13,marine organisms,Habitat,357 373
+21894542,T14,production of native siderophores,Phenotype,768 778;795 817
+21894542,T15,production of native siderophores,Phenotype,881 891;908 930
+21894542,T16,siderophore production,Phenotype,949 971
+21894542,T17,Siderophore production,Phenotype,1198 1220
+15293611,T1,Clonal strains of Pseudomonas aeruginosa in paediatric and adult cystic fibrosis units.,Title,0 87
+15293611,T2,"Despite recent reports of clonal strains of Pseudomonas aeruginosa in cystic fibrosis (CF) units, the need for routine microbiological surveillance remains contentious. Sputum was collected prospectively from productive patients attending the regional paediatric and adult CF units in Brisbane, Australia. All P. aeruginosa isolates were typed using pulsed-field gel electrophoresis. Spirometry, anthropometrics, hospitalisations and antibiotic sensitivity data were recorded. The first 100 sputum samples (first 50 patients at each clinic) harboured 163 isolates of P. aeruginosa. A total of 39 patients shared a common strain (pulsotype 2), 20 patients shared a strain with at least one other patient and 41 patients harboured unique strains. Eight patients shared a strain identical to a previously reported Australian transmissible strain (pulsotype 1). Compared with the unique strain group, patients harbouring pulsotype 2 were younger and had poorer lung function. Treatment requirements were similar in these two groups, as were the rates of multiresistance. In conclusion, 59% of patients harboured a clonal strain, supporting the need for routine microbiological surveillance. In contrast to previously described clonal strains, the dominant pulsotype was indistinguishable from nonclonal strains with respect to both colonial morphology and multiresistance. The clinical significance of clonal strains remains uncertain and requires longitudinal study.",Paragraph,88 1551
+15293611,T3,Pseudomonas aeruginosa,Microorganism,18 40
+15293611,T4,paediatric cystic fibrosis units,Habitat,44 54;65 86
+15293611,T5,paediatric,Habitat,44 54
+15293611,T6,adult cystic fibrosis units,Habitat,59 86
+15293611,T7,adult,Habitat,59 64
+15293611,T8,Pseudomonas aeruginosa,Microorganism,132 154
+15293611,T9,cystic fibrosis (CF) units,Habitat,158 184
+15293611,T10,Sputum,Habitat,257 263
+15293611,T11,productive patients,Habitat,297 316
+15293611,T12,regional adult CF units,Habitat,331 339;355 369
+15293611,T13,regional paediatric CF units,Habitat,331 350;361 369
+15293611,T14,paediatric,Habitat,340 350
+15293611,T15,adult,Habitat,355 360
+15293611,T16,P. aeruginosa,Microorganism,398 411
+15293611,T17,antibiotic sensitivity,Phenotype,522 544
+15293611,T18,sputum,Habitat,579 585
+15293611,T19,patients,Habitat,604 612
+15293611,T20,clinic,Habitat,621 627
+15293611,T21,P. aeruginosa,Microorganism,655 668
+15293611,T22,patients,Habitat,684 692
+15293611,T23,patients,Habitat,734 742
+15293611,T24,patient,Habitat,783 790
+15293611,T25,patients,Habitat,798 806
+15293611,T26,patients,Habitat,839 847
+15293611,T27,patients,Habitat,985 993
+15293611,T28,lung,Habitat,1045 1049
+15293611,T29,multiresistance,Phenotype,1138 1153
+15293611,T30,patients,Habitat,1177 1185
+15293611,T31,colonial morphology,Phenotype,1416 1435
+15293611,T32,multiresistance,Phenotype,1440 1455
+F-20167385-012,T1,Gram negative,Phenotype,35 48
+F-20167385-012,T2,Microbacterium foliorum,Microorganism,68 91
+F-20167385-012,T3,Psychrobacter sp.,Microorganism,93 110
+F-20167385-012,T4,Proteus vulgaris,Microorganism,115 131
+18694716,T1,Quantitative metabolome analysis using liquid chromatography-high-resolution mass spectrometry.,Title,0 95
+18694716,T2,"In this report, we introduce a liquid chromatography single-mass spectrometry method for metabolome quantification, using the LTQ Orbitrap high-resolution mass spectrometer. Analytes were separated with hydrophilic interaction liquid chromatography. At a working resolution of 30,000 (at m/z 400), the limit of detection varied from 50 fmol to 5 pmol for 25 metabolites tested. In terms of metabolite concentration, the linearity was about 2 to 3 orders of magnitude for most compounds (R(2)>0.99). To determine the accuracy of the system in complex sample matrices, the isotope dilution method was evaluated from mixtures of pure compounds and uniformly 13C-labeled cell extracts. With the application of this method, quantification was possible within single runs even when the pool sizes of individual metabolites varied from 0.13 to 55.6 microM. As a case study, intracellular concentrations of central metabolites were determined for Methylobacterium extorquens AM1 during growth on two different carbon sources, methanol and succinate. Reproducible results from technical and biological repetitions were obtained that revealed significant variations of intracellular metabolite pool sizes, depending on the carbon source. The LTQ Obitrap offers new perspectives and strategies for metabolome quantification.",Paragraph,96 1409
+18694716,T3,LTQ Orbitrap high-resolution mass spectrometer,Habitat,222 268
+18694716,T4,mixtures of pure compounds and uniformly 13C-labeled cell extracts,Habitat,710 776
+18694716,T5,13C-labeled cell,Habitat,751 767
+18694716,T6,Methylobacterium extorquens AM1,Microorganism,1035 1066
+18694716,T7,LTQ Obitrap,Habitat,1328 1339
+19621381,T1,A general strategy for the bacterial expression of amyloidogenic peptides using BCL-XL-1/2 fusions.,Title,0 99
+19621381,T2,"Biophysical studies on amyloidogenic and aggregation-prone peptides often require large quantities of material. However, solid-phase synthesis, handling, and purification of peptides often present challenges on these scales. Recombinant expression is an attractive alternative because of its low cost, the ability to isotopically label the peptides, and access to sequences exceeding approximately 50 residues. However, expression systems that seek to solubilize amyloidogenic peptides suffer from low yields, difficult optimizations, and isolation challenges. We present a general strategy for expressing and isolating amyloidogenic peptides in Escherichia coli by fusion to a polypeptide that drives the expression of attached peptides into bacterial inclusion bodies. This scheme minimizes toxicity during bacterial growth and enables the processing and handling of the peptides in denaturing solutions. Immobilized metal affinity chromatography, reverse phase HPLC, and cyanogen bromide cleavage are used to isolate the peptide, followed by further reverse phase HPLC, which yields milligram quantities of the purified peptide. We demonstrate that driving the peptides into inclusion bodies using fusion to BCL-XL-1/2 is a general strategy for their expression and isolation, as exemplified by the production of 11 peptides species.",Paragraph,100 1436
+19621381,T3,Escherichia coli,Microorganism,746 762
+9745160,T1,"New one-week, low-dose triple therapy for the treatment of duodenal ulcer with Helicobacter pylori infection.",Title,0 109
+9745160,T2,"Antimicrobial therapy is the recommended treatment for duodenal ulcer associated with Helicobacter pylori infection. The eradication of bismuth-based triple therapy with bismuth subcitrate, metronidazole and amoxicillin is limited by low compliance, drug resistance and side-effects. Two-week proton pump inhibitor (PPI)-based triple therapy has a higher eradication rate but is costly. This study was designed to compare the efficacy, patient compliance and cost of short-term PPI-based triple therapy with those of bismuth-based triple therapy.",Paragraph,110 656
+9745160,T3,"Ninety patients with active duodenal ulcer disease and H pylori infection, proven with the 13C-urea breath test and CLO test (Campylobacter-like organism test) were treated randomly in three therapeutic groups: Group A, DeNol 120 mg, amoxicillin 500 mg and metronidazole 250 mg four times a day orally for 14 days; Group B, omeprazole 20 mg plus clarithromycin 500 mg twice a day and amoxicillin 500 mg four times a day for 14 days; Group C, omeprazole 20 mg, clarithromycin 250 mg and metronidazole 500 mg twice a day for seven days. Nizatidine 150 mg twice a day was given continuously following the end of anti-H pylori therapy for each group. Two months later, endoscopy, the CLO test and 13C-urea breath test were repeated to assess the eradication rate of H pylori and the ulcer-healing rate. Drug tolerance was evaluated by patients themselves by daily recording of any side-effects.",Paragraph,657 1547
+9745160,T4,"Eighty-four patients completed the entire course of therapy and evaluation for H pylori infection. The H pylori eradication rates in Groups A, B and C were 75% (21/28), 93% (26/28) and 89% (25/28), respectively (p = 0.466). The ulcer healing rate was 86% (24/28) in Group A and 89% (25/28) in Groups B and C (p = 0.764). A total of 74 patients (88%) were free from symptoms at the end of the triple therapy. Symptom relief was faster in patients with PPI-based triple therapy (Groups B and C) (days 3 and 4) than for patients with bismuth-based triple therapy (day 5). The cost of Group C therapy was lower than that for Groups A and B. There were no major side-effects in any of the patients.",Paragraph,1548 2241
+9745160,T5,"One-week triple therapy with omeprazole, clarithromycin and metronidazole is highly effected for the eradication of H pylori. A therapeutic regime of one week's duration with lower cost, good compliance and mild side-effects may offer a good choice for treatment of duodenal ulcer associated with H pylori infection in clinical practice.",Paragraph,2242 2579
+9745160,T6,duodenal,Habitat,59 67
+9745160,T7,duodenal ulcer,Habitat,59 73
+9745160,T8,Helicobacter pylori,Microorganism,79 98
+9745160,T9,duodenal ulcer,Habitat,165 179
+9745160,T10,duodenal,Habitat,165 173
+9745160,T11,Helicobacter pylori,Microorganism,196 215
+9745160,T12,drug resistance,Phenotype,360 375
+9745160,T13,patient,Habitat,546 553
+9745160,T14,patients with active duodenal ulcer disease and H pylori infection,Habitat,664 730
+9745160,T15,duodenal ulcer,Habitat,685 699
+9745160,T16,duodenal,Habitat,685 693
+9745160,T17,H pylori,Microorganism,712 720
+9745160,T18,Campylobacter,Microorganism,783 796
+9745160,T19,H pylori,Microorganism,1271 1279
+9745160,T20,H pylori,Microorganism,1419 1427
+9745160,T21,ulcer,Habitat,1436 1441
+9745160,T22,patients,Habitat,1488 1496
+9745160,T23,patients,Habitat,1560 1568
+9745160,T24,H pylori,Microorganism,1627 1635
+9745160,T25,H pylori,Microorganism,1651 1659
+9745160,T26,ulcer,Habitat,1776 1781
+9745160,T27,patients,Habitat,1883 1891
+9745160,T28,patients with PPI-based triple therapy,Habitat,1985 2023
+9745160,T29,patients with bismuth-based triple therapy,Habitat,2065 2107
+9745160,T30,patients,Habitat,2232 2240
+9745160,T31,H pylori,Microorganism,2358 2366
+9745160,T32,duodenal,Habitat,2508 2516
+9745160,T33,duodenal ulcer,Habitat,2508 2522
+9745160,T34,H pylori,Microorganism,2539 2547
+F-25036636-003,T1,cheese,Habitat,20 26
+F-25036636-003,T2,Brevibacterium linens,Microorganism,75 96
+F-25036636-003,T3,γ-Proteobacteria,Microorganism,284 300
+F-25036636-003,T4,cheeses,Habitat,304 311
+F-25036636-003,T5,Pseudoalteromonas spp.,Microorganism,427 449
+F-25036636-003,T6,cheeses,Habitat,512 519
+F-25036636-003,T7,Pseudoalteromonas,Microorganism,529 546
+F-25036636-003,T8,Pseudoalteromonas haloplanktis,Microorganism,587 617
+F-25036636-003,T9,Pseudoalteromonas,Microorganism,671 688
+F-25036636-003,T10,cold-adapted,Phenotype,711 723
+F-25036636-003,T11,polar seawater,Habitat,753 767
+F-20167385-006,T1,S. saprophyticus,Microorganism,0 16
+F-20167385-006,T2,Taleggio cheeses,Habitat,131 139;153 160
+F-20167385-006,T3,Scimudin cheeses,Habitat,144 160
+F-20167385-006,T4,Gorgonzola cheese,Habitat,217 234
+F-20167385-006,T5,Taleggio cheeses,Habitat,316 324;337 344
+F-20167385-006,T6,Casera cheeses,Habitat,330 344
+F-20167385-006,T7,Scimudin,Habitat,364 372
+F-20167385-006,T8,Gorgonzola,Habitat,377 387
+F-20167385-006,T9,Taleggio,Habitat,468 476
+F-20167385-006,T10,Scimudin cheeses,Habitat,490 506
+F-20167385-006,T11,S. equorum,Microorganism,534 544
+F-20167385-006,T12,Taleggio cheeses,Habitat,639 647;697 704
+F-20167385-006,T13,Scimudin cheeses,Habitat,653 661;697 704
+F-20167385-006,T14,Casera cheeses,Habitat,667 673;697 704
+F-20167385-006,T15,Gorgonzola cheeses,Habitat,682 692;697 704
+F-20167385-006,T16,Gorgonzola,Habitat,761 771
+F-20167385-006,T17,Scimudin,Habitat,781 789
+F-20167385-006,T18,Taleggio,Habitat,808 816
+11989773,T1,Evaluation of two commercial methods for the detection of Listeria sp. and Listeria monocytogenes in a chicken nugget processing plant.,Title,0 135
+11989773,T2,"This study measures the detection performances of two rapid test systems (Listeria Rapid Test Clearview and Bax system) for the screening of Listeria sp. and Listeria monocytogenes, respectively. A total of 413 samples from different sources (product from (i) different stages of processing, (ii) different environments, and (iii) different food handlers), collected from a chicken nugget processing plant, were analysed by both rapid methods and a cultural method consisting of pre-enrichment, enrichment, and isolation onto selective agars (PALCAM, LPM, and HCLA). Overall, results showed an excellent correlation between data obtained using Clearview and the cultural method, with Clearview presenting an efficiency of 99%. Bax showed a lower correlation using the cultural method, with an efficiency of 71.1%. The type of sample did not affect the efficiency of Clearview, which varied from 98.1% for product samples to 100% for environmental and food handler samples, while for Bax it had a marked influence. Efficiency of Bax varied from as high as 100% for food handlers to 37.9% for product samples.",Paragraph,136 1243
+11989773,T3,Listeria sp.,Microorganism,58 70
+11989773,T4,Listeria monocytogenes,Microorganism,75 97
+11989773,T5,chicken nugget processing plant,Habitat,103 134
+11989773,T6,chicken,Habitat,103 110
+11989773,T7,chicken nugget,Habitat,103 117
+11989773,T8,Listeria,Microorganism,210 218
+11989773,T9,Listeria sp.,Microorganism,277 289
+11989773,T10,Listeria monocytogenes,Microorganism,294 316
+11989773,T11,food handlers,Habitat,477 490
+11989773,T12,food,Habitat,477 481
+11989773,T13,chicken,Habitat,510 517
+11989773,T14,chicken nugget,Habitat,510 524
+11989773,T15,chicken nugget processing plant,Habitat,510 541
+11989773,T16,selective agars,Habitat,662 677
+11989773,T17,PALCAM,Habitat,679 685
+11989773,T18,LPM,Habitat,687 690
+11989773,T19,HCLA,Habitat,696 700
+11989773,T20,food handler,Habitat,1087 1099
+11989773,T21,food,Habitat,1087 1091
+11989773,T22,food,Habitat,1200 1204
+11989773,T23,food handlers,Habitat,1200 1213
+F-25036636-002,T1,marine,Habitat,48 54
+F-25036636-002,T2,Pseudoalteromonas haloplanktis,Microorganism,65 95
+F-25036636-002,T3,cheese,Habitat,122 128
+15618837,T1,Recurrence of Helicobacter pylori infection 1 year after successful treatment: prospective cohort study in the Republic of Yemen.,Title,0 129
+15618837,T2,To investigate the prevalence of Helicobacter pylori infection in dyspeptic patients in the Republic of Yemen and the recurrence rate 1 year after apparently successful eradication.,Paragraph,130 311
+15618837,T3,A total of 275 patients with chronic dyspepsia seen in one clinic were enrolled. Gastric biopsies were obtained at endoscopy and H. pylori infection was diagnosed using the rapid urease test. Patients with H. pylori infection were given either clarithromycin or metronidazole-based triple therapy. Six weeks later H. pylori status was assessed using the C-urea breath test (C-UBT). Those who were negative for H. pylori had a further C-UBT after 1 year to establish the recurrence rate.,Paragraph,312 798
+15618837,T4,"The prevalence of H. pylori infection at entry to the study was 82.2% [95% confidence interval (CI) 78-87%]. The overall eradication rate 6 weeks after treatment was 49.1% (95% CI 42.6-55.6%) by intention-to-treat analysis, and 60% (95% CI 53-67%) by per-protocol analysis. Recurrence rate of H. pylori infection at 1 year was 34% (95% CI 14-45%) and the only predictor of recurrence was an excess delta C-UBT value less than 3.5 per million but equal to or greater than 2.5 per million at 6 weeks after treatment (odds ratio 2.28; 95% CI 1.17-4.44; P = 0.028).",Paragraph,799 1360
+15618837,T5,"The prevalence of H. pylori infection in dyspeptic patients in Yemen is very high, the eradication rate with standard triple therapy was unsatisfactory probably because of widespread bacterial resistance due to unrestricted antibiotic use. The recurrence rate of infection at 1 year was high, as a result of recrudescence of incompletely eradicated organisms rather than reinfection.",Paragraph,1361 1744
+15618837,T6,Helicobacter pylori,Microorganism,14 33
+15618837,T7,Helicobacter pylori,Microorganism,163 182
+15618837,T8,dyspeptic patients,Habitat,196 214
+15618837,T9,patients with chronic dyspepsia,Habitat,327 358
+15618837,T10,clinic,Habitat,371 377
+15618837,T11,Gastric biopsies,Habitat,393 409
+15618837,T12,Gastric,Habitat,393 400
+15618837,T13,H. pylori,Microorganism,441 450
+15618837,T14,Patients with H. pylori infection,Habitat,504 537
+15618837,T15,H. pylori,Microorganism,518 527
+15618837,T16,H. pylori,Microorganism,626 635
+15618837,T17,H. pylori,Microorganism,722 731
+15618837,T18,H. pylori,Microorganism,817 826
+15618837,T19,H. pylori,Microorganism,1092 1101
+15618837,T20,H. pylori,Microorganism,1379 1388
+15618837,T21,dyspeptic patients,Habitat,1402 1420
+15618837,T22,widespread bacterial resistance due to unrestricted antibiotic use,Phenotype,1533 1599
+F-20167385-007,T1,surface microbiota of Taleggio  cheeses,Habitat,77 98;134 151
+F-20167385-007,T2,surface microbiota of Gorgonzola cheeses,Habitat,77 98;119 129;144 151
+F-20167385-007,T3,surface microbiota of Formaggio di Fossa cheeses,Habitat,77 117;144 151
+F-20167385-007,T4,Formaggio di Fossa cheeses,Habitat,99 117;144 151
+F-20167385-007,T5,Gorgonzola cheeses,Habitat,119 129;144 151
+F-20167385-007,T6,Taleggio  cheeses,Habitat,134 151
+F-20167385-007,T7,P. celer,Microorganism,207 215
+F-20167385-007,T8,P. aquimaris,Microorganism,217 229
+F-20167385-007,T9,P. glacincolaus,Microorganism,231 246
+F-20167385-007,T10,S. equorum,Microorganism,248 258
+F-20167385-007,T11,M. luteus,Microorganism,264 273
+21543877,T1,"Cloning, expression, purification, crystallization and X-ray crystallographic analysis of Rv3168 from Mycobacterium tuberculosis H37Rv.",Title,0 135
+21543877,T2,"Tuberculosis is a widespread and deadly infectious disease, with one third of the human population already being infected. Aminoglycoside antibiotics have become less effective in recent years owing to antibiotic resistance, which arises primarily through enzymatic modification of the antibiotics. The gene product Rv3168, a putative aminoglycoside phosphotransferase (APH), from Mycobacterium tuberculosis was crystallized using the sitting-drop vapour-diffusion method in the presence of 0.2 M calcium acetate, 0.1 M Tris-HCl pH 7.0 and 20% PEG 3000 at 295 K. X-ray diffraction data were collected to a maximum resolution of 1.67 Å on a synchrotron beamline. The crystal belonged to space group P2(1)2(1)2(1), with unit-cell parameters a = 56.74, b = 62.37, c = 103.61 Å. With one molecule per asymmetric unit, the crystal volume per unit protein weight (V(M)) is 2.91 Å(3) Da(-1). The structure was solved by the single-wavelength anomalous dispersion method and refinement of the selenomethionine structure is in progress.",Paragraph,136 1163
+21543877,T3,Mycobacterium tuberculosis H37Rv,Microorganism,102 134
+21543877,T4,human population,Habitat,218 234
+21543877,T5,antibiotic resistance,Phenotype,338 359
+21543877,T6,Mycobacterium tuberculosis,Microorganism,517 543
+14633026,T1,"Characterization of a mosquitocidal Bacillus thuringiensis serovar sotto strain isolated from Okinawa, Japan.",Title,0 109
+14633026,T2,"To characterize the mosquitocidal activity of parasporal inclusions of the Bacillus thuringiensis serovar sotto strain 96-OK-85-24, for comparison with two well-characterized mosquitocidal strains.",Paragraph,110 307
+14633026,T3,"The strain 96-OK-85-24 significantly differed from the existing mosquitocidal B. thuringiensis strains in: (1) lacking the larvicidal activity against Culex pipiens molestus and haemolytic activity, and (2) SDS-PAGE profiles, immunological properties and N-terminal amino acid sequences of parasporal inclusion proteins.",Paragraph,308 628
+14633026,T4,It is clear from the results that the strain 96-OK-85-24 synthesizes a novel mosquitocidal Cry protein with a unique toxicity spectrum.,Paragraph,629 764
+14633026,T5,"This is the first report of the occurrence of a mosquitocidal B. thuringiensis strain with an unusual toxicity spectrum, lacking the activity against the culicine mosquito.",Paragraph,765 937
+14633026,T6,mosquitocidal,Phenotype,22 35
+14633026,T7,Bacillus thuringiensis serovar sotto,Microorganism,36 72
+14633026,T8,mosquitocidal activity,Phenotype,130 152
+14633026,T9,Bacillus thuringiensis serovar sotto strain 96-OK-85-24,Microorganism,185 240
+14633026,T10,mosquitocidal,Phenotype,285 298
+14633026,T11,96-OK-85-24,Microorganism,319 330
+14633026,T12,mosquitocidal,Phenotype,372 385
+14633026,T13,B. thuringiensis,Microorganism,386 402
+14633026,T14,larvicidal activity,Phenotype,431 450
+14633026,T15,Culex pipiens molestus,Habitat,459 481
+14633026,T16,haemolytic activity,Phenotype,486 505
+14633026,T17,96-OK-85-24,Microorganism,674 685
+14633026,T18,mosquitocidal,Phenotype,706 719
+14633026,T19,mosquitocidal,Phenotype,813 826
+14633026,T20,B. thuringiensis,Microorganism,827 843
+14633026,T21,culicine mosquito,Habitat,919 936
+21695078,T1,Enhanced virulence of Chlamydia muridarum respiratory infections in the absence of TLR2 activation.,Title,0 99
+21695078,T2,"Chlamydia trachomatis is a common sexually transmitted pathogen and is associated with infant pneumonia. Data from the female mouse model of genital tract chlamydia infection suggests a requirement for TLR2-dependent signaling in the induction of inflammation and oviduct pathology. We hypothesized that the role of TLR2 in moderating mucosal inflammation is site specific. In order to investigate this, we infected mice via the intranasal route with C. muridarum and observed that in the absence of TLR2 activation, mice had more severe disease, higher lung cytokine levels, and an exaggerated influx of neutrophils and T-cells into the lungs. This could not be explained by impaired bacterial clearance as TLR2-deficient mice cleared the infection similar to controls. These data suggest that TLR2 has an anti-inflammatory function in the lung during Chlamydia infection, and that the role of TLR2 in mucosal inflammation varies at different mucosal surfaces.",Paragraph,100 1061
+21695078,T3,virulence,Phenotype,9 18
+21695078,T4,Chlamydia muridarum,Microorganism,22 41
+21695078,T5,respiratory,Habitat,42 53
+21695078,T6,Chlamydia trachomatis,Microorganism,100 121
+21695078,T7,sexually transmitted pathogen,Phenotype,134 163
+21695078,T8,infant,Habitat,187 193
+21695078,T9,female mouse model of genital tract chlamydia infection,Habitat,219 274
+21695078,T10,genital tract,Habitat,241 254
+21695078,T11,chlamydia,Microorganism,255 264
+21695078,T12,oviduct,Habitat,364 371
+21695078,T13,mucosal,Habitat,435 442
+21695078,T14,mice,Habitat,516 520
+21695078,T15,intranasal,Habitat,529 539
+21695078,T16,C. muridarum,Microorganism,551 563
+21695078,T17,mice,Habitat,617 621
+21695078,T18,lung,Habitat,654 658
+21695078,T19,neutrophils,Habitat,705 716
+21695078,T20,T-cells,Habitat,721 728
+21695078,T21,lungs,Habitat,738 743
+21695078,T22,TLR2-deficient mice,Habitat,808 827
+21695078,T23,lung,Habitat,941 945
+21695078,T24,Chlamydia,Microorganism,953 962
+21695078,T25,mucosal,Habitat,1003 1010
+21695078,T26,mucosal surfaces,Habitat,1044 1060
+20174624,T1,Neutrophils are resistant to Yersinia YopJ/P-induced apoptosis and are protected from ROS-mediated cell death by the type III secretion system.,Title,0 143
+20174624,T2,"The human innate immune system relies on the coordinated activity of macrophages and polymorphonuclear leukocytes (neutrophils or PMNs) for defense against bacterial pathogens. Yersinia spp. subvert the innate immune response to cause disease in humans. In particular, the Yersinia outer protein YopJ (Y. pestis and Y. pseudotuberculosis) and YopP (Y. enterocolitica) rapidly induce apoptosis in murine macrophages and dendritic cells. However, the effects of Yersinia Yop J/P on neutrophil fate are not clearly defined.",Paragraph,144 664
+20174624,T3,"In this study, we utilized wild-type and mutant strains of Yersinia to test the contribution of YopJ and YopP on induction of apoptosis in human monocyte-derived macrophages (HMDM) and neutrophils. Whereas YopJ and YopP similarly induced apoptosis in HMDMs, interaction of human neutrophils with virulence plasmid-containing Yersinia did not result in PMN caspase activation, release of LDH, or loss of membrane integrity greater than PMN controls. In contrast, interaction of human PMNs with the virulence plasmid-deficient Y. pestis strain KIM6 resulted in increased surface exposure of phosphatidylserine (PS) and cell death. PMN reactive oxygen species (ROS) production was inhibited in a virulence plasmid-dependent but YopJ/YopP-independent manner. Following phagocytic interaction with Y. pestis strain KIM6, inhibition of PMN ROS production with diphenyleneiodonium chloride resulted in a reduction of PMN cell death similar to that induced by the virulence plasmid-containing strain Y. pestis KIM5.",Paragraph,665 1672
+20174624,T4,"Our findings showed that Yersinia YopJ and/or YopP did not induce pronounced apoptosis in human neutrophils. Furthermore, robust PMN ROS production in response to virulence plasmid-deficient Yersinia was associated with increased PMN cell death, suggesting that Yersinia inhibition of PMN ROS production plays a role in evasion of the human innate immune response in part by limiting PMN apoptosis.",Paragraph,1673 2071
+20174624,T5,Neutrophils,Habitat,0 11
+20174624,T6,Yersinia,Microorganism,29 37
+20174624,T7,cell,Habitat,99 103
+20174624,T8,type III secretion,Phenotype,117 135
+20174624,T9,human,Habitat,148 153
+20174624,T10,human innate immune system,Habitat,148 174
+20174624,T11,macrophages,Habitat,213 224
+20174624,T12,polymorphonuclear leukocytes,Habitat,229 257
+20174624,T13,neutrophils,Habitat,259 270
+20174624,T14,PMNs,Habitat,274 278
+20174624,T15,bacterial pathogens,Phenotype,300 319
+20174624,T16,Yersinia,Microorganism,321 329
+20174624,T17,humans,Habitat,390 396
+20174624,T18,Yersinia,Microorganism,417 425
+20174624,T19,Y. pestis,Microorganism,446 455
+20174624,T20,Y. pseudotuberculosis,Microorganism,460 481
+20174624,T21,Y. enterocolitica,Microorganism,493 510
+20174624,T22,murine macrophages,Habitat,540 558
+20174624,T23,murine dendritic cells,Habitat,540 546;563 578
+20174624,T24,murine,Habitat,540 546
+20174624,T25,Yersinia,Microorganism,604 612
+20174624,T26,neutrophil,Habitat,624 634
+20174624,T27,wild-type,Phenotype,692 701
+20174624,T28,mutant,Phenotype,706 712
+20174624,T29,Yersinia,Microorganism,724 732
+20174624,T30,human monocyte-derived macrophages,Habitat,804 838
+20174624,T31,human,Habitat,804 809
+20174624,T32,HMDM,Habitat,840 844
+20174624,T33,neutrophils,Habitat,850 861
+20174624,T34,HMDMs,Habitat,916 921
+20174624,T35,human neutrophils,Habitat,938 955
+20174624,T36,human,Habitat,938 943
+20174624,T37,virulence,Phenotype,961 970
+20174624,T38,Yersinia,Microorganism,990 998
+20174624,T39,PMN,Habitat,1017 1020
+20174624,T40,PMN,Habitat,1100 1103
+20174624,T41,human PMNs,Habitat,1142 1152
+20174624,T42,human,Habitat,1142 1147
+20174624,T43,virulence,Phenotype,1162 1171
+20174624,T44,Y. pestis strain KIM6,Microorganism,1190 1211
+20174624,T45,cell,Habitat,1282 1286
+20174624,T46,PMN,Habitat,1294 1297
+20174624,T47,virulence,Phenotype,1358 1367
+20174624,T48,Y. pestis strain KIM6,Microorganism,1458 1479
+20174624,T49,PMN,Habitat,1495 1498
+20174624,T50,PMN cell,Habitat,1575 1583
+20174624,T51,virulence,Phenotype,1621 1630
+20174624,T52,Y. pestis KIM5,Microorganism,1657 1671
+20174624,T53,Yersinia,Microorganism,1698 1706
+20174624,T54,human neutrophils,Habitat,1763 1780
+20174624,T55,human,Habitat,1763 1768
+20174624,T56,PMN,Habitat,1802 1805
+20174624,T57,virulence,Phenotype,1836 1845
+20174624,T58,Yersinia,Microorganism,1864 1872
+20174624,T59,PMN cell,Habitat,1903 1911
+20174624,T60,Yersinia,Microorganism,1935 1943
+20174624,T61,PMN,Habitat,1958 1961
+20174624,T62,human,Habitat,2008 2013
+20174624,T63,PMN,Habitat,2057 2060
+F-20167385-003,T1,Psychrobacter,Microorganism,47 60
+F-20167385-003,T2,Formaggio di Fossa,Habitat,85 103
+F-20167385-003,T3,Gorgonzola,Habitat,105 115
+F-20167385-003,T4,Taleggio,Habitat,117 125
+F-20167385-003,T5,Scimudin,Habitat,130 138
+F-20167385-003,T6,Staphylococcus equorum,Microorganism,168 190
+F-20167385-003,T7,cheese,Habitat,210 216
+F-20167385-003,T8,Casera,Habitat,259 265
+F-20167385-003,T9,Micrococcus luteus,Microorganism,267 285
+F-20167385-003,T10,Casera cheese,Habitat,336 349
+F-20167385-003,T11,S. vitulinus,Microorganism,370 382
+F-20167385-003,T12,Scimudin,Habitat,414 422
+F-20167385-003,T13,Lactobacillus delbrueckii,Microorganism,444 469
+F-20167385-003,T14,Casera cheeses,Habitat,502 508;524 531
+F-20167385-003,T15,Gorgonzola cheeses,Habitat,513 531
+F-20167385-003,T16,Streptococcus thermophilus,Microorganism,550 576
+F-20167385-003,T17,Casera,Habitat,595 601
+F-20167385-003,T18,Formaggio di Fossa,Habitat,606 624
+F-20167385-003,T19,Enterococcus faecium,Microorganism,634 654
+F-20167385-003,T20,Casera cheese,Habitat,688 701
+F-20167385-003,T21,Formaggio di Fossa cheeses,Habitat,733 751;765 772
+F-20167385-003,T22,Scimudin cheeses,Habitat,756 772
+F-20167385-003,T23,Brevibacterium casei,Microorganism,788 808
+F-20167385-003,T24,B. linens,Microorganism,825 834
+F-20167385-003,T25,Casera cheese,Habitat,872 885
+F-20167385-003,T26,Casera cheese surface,Habitat,872 893
+12109661,T1,Long-term Helicobacter pylori infection and the development of atrophic gastritis and gastric cancer in Japan.,Title,0 110
+12109661,T2,"The incidence of gastric cancer and the prevalence of Helicobacter pylori are high in Japan, so it is an important issue whether long-term H. pylori infection leads to chronic atrophic gastritis, considered one of the precursors of gastric cancer. We have reported that the grade of atrophy was higher in H. pylori-positive subjects than in H. pylori-negative subjects. It has also been reported that the atrophy of gastric mucosa increased in H. pylori-infected monkeys compared with control monkeys in a 5-year follow-up study. Most H. pylori infections occur in children, and atrophy of the gastric mucosa progresses during aging. Long-term data show that H. pylori infection can lead to gastric atrophy and may play an important role in the development of gastric cancer. Interestingly, there was no difference in the prevalence of H. pylori between patients with chronic gastritis and gastric cancer in Japan, but the prevalence of H. pylori in young Japanese gastric cancer patients was significantly higher than in the control group. These data clearly show that H. pylori infection is one of the risk factors of gastric cancer in young Japanese people, There is no answer to whether curing H. pylori infection can reverse the atrophy of the gastric mucosa and decrease the risk of gastric cancer development. To clarify this issue, an intervention study must be done. A large clinical trial called the Japanese Intervention Trial of H. pylori is in progress.",Paragraph,111 1577
+12109661,T3,Helicobacter pylori,Microorganism,10 29
+12109661,T4,Helicobacter pylori,Microorganism,10 29
+12109661,T5,Helicobacter pylori,Microorganism,10 29
+12109661,T6,gastric,Habitat,86 93
+12109661,T7,gastric,Habitat,86 93
+12109661,T8,gastric,Habitat,86 93
+12109661,T9,gastric,Habitat,128 135
+12109661,T10,gastric,Habitat,128 135
+12109661,T11,gastric,Habitat,128 135
+12109661,T12,Helicobacter pylori,Microorganism,165 184
+12109661,T13,Helicobacter pylori,Microorganism,165 184
+12109661,T14,Helicobacter pylori,Microorganism,165 184
+12109661,T15,H. pylori,Microorganism,250 259
+12109661,T16,H. pylori,Microorganism,250 259
+12109661,T17,H. pylori,Microorganism,250 259
+12109661,T18,gastric,Habitat,343 350
+12109661,T19,H. pylori-positive subjects,Habitat,416 443
+12109661,T20,H. pylori,Microorganism,416 425
+12109661,T21,H. pylori-negative subjects,Habitat,452 479
+12109661,T22,H. pylori,Microorganism,452 461
+12109661,T23,gastric mucosa,Habitat,527 541
+12109661,T24,gastric,Habitat,527 534
+12109661,T25,gastric,Habitat,527 534
+12109661,T26,gastric,Habitat,527 534
+12109661,T27,gastric mucosa,Habitat,527 541
+12109661,T28,gastric mucosa,Habitat,527 541
+12109661,T29,H. pylori-infected monkeys,Habitat,555 581
+12109661,T30,H. pylori-infected monkeys,Habitat,555 581
+12109661,T31,H. pylori-infected monkeys,Habitat,555 581
+12109661,T32,H. pylori,Microorganism,555 564
+12109661,T33,H. pylori,Microorganism,555 564
+12109661,T34,H. pylori,Microorganism,555 564
+12109661,T35,control monkeys,Habitat,596 611
+12109661,T36,control monkeys,Habitat,596 611
+12109661,T37,control monkeys,Habitat,596 611
+12109661,T38,H. pylori,Microorganism,646 655
+12109661,T39,children,Habitat,676 684
+12109661,T40,gastric mucosa,Habitat,705 719
+12109661,T41,gastric,Habitat,705 712
+12109661,T42,H. pylori,Microorganism,770 779
+12109661,T43,H. pylori,Microorganism,770 779
+12109661,T44,H. pylori,Microorganism,770 779
+12109661,T45,gastric,Habitat,802 809
+12109661,T46,gastric,Habitat,871 878
+12109661,T47,H. pylori,Microorganism,947 956
+12109661,T48,H. pylori,Microorganism,947 956
+12109661,T49,H. pylori,Microorganism,947 956
+12109661,T50,patients with chronic gastritis,Habitat,965 996
+12109661,T51,patients with chronic gastritis,Habitat,965 996
+12109661,T52,patients with chronic gastritis,Habitat,965 996
+12109661,T53,patients with gastric cancer,Habitat,965 978;1001 1015
+12109661,T54,gastric,Habitat,1001 1008
+12109661,T55,gastric,Habitat,1001 1008
+12109661,T56,gastric,Habitat,1001 1008
+12109661,T57,H. pylori,Microorganism,1048 1057
+12109661,T58,H. pylori,Microorganism,1048 1057
+12109661,T59,H. pylori,Microorganism,1048 1057
+12109661,T60,young Japanese gastric cancer patients,Habitat,1061 1099
+12109661,T61,gastric,Habitat,1076 1083
+12109661,T62,gastric,Habitat,1076 1083
+12109661,T63,gastric,Habitat,1076 1083
+12109661,T64,control group,Habitat,1137 1150
+12109661,T65,H. pylori,Microorganism,1181 1190
+12109661,T66,H. pylori,Microorganism,1181 1190
+12109661,T67,H. pylori,Microorganism,1181 1190
+12109661,T68,gastric,Habitat,1231 1238
+12109661,T69,young Japanese people,Habitat,1249 1270
+12109661,T70,young Japanese people,Habitat,1249 1270
+12109661,T71,young Japanese people,Habitat,1249 1270
+12109661,T72,H. pylori,Microorganism,1309 1318
+12109661,T73,gastric,Habitat,1360 1367
+12109661,T74,gastric mucosa,Habitat,1360 1374
+12109661,T75,gastric,Habitat,1400 1407
+12109661,T76,H. pylori,Microorganism,1552 1561
+12109661,T77,H. pylori,Microorganism,1552 1561
+12109661,T78,H. pylori,Microorganism,1552 1561
+5526468,T1,Vibrio fetus human infection--isolation from a subacute bacterial endocarditis case.,Title,0 84
+5526468,T2,Vibrio fetus,Microorganism,0 12
+5526468,T3,human,Habitat,13 18
+F-20167385-013,T1,Pseudomonas,Microorganism,44 55
+F-20167385-013,T2,Gram-negative,Phenotype,67 80
+F-20167385-013,T3,Halomonas,Microorganism,98 107
+F-20167385-013,T4,Enterobacteriaceae,Microorganism,127 145
+F-20167385-013,T5,cheese surface,Habitat,179 193
+F-20167385-013,T6,cheese,Habitat,179 185
+F-25036636-001,T1,Galactomyces,Microorganism,11 23
+F-25036636-001,T2,Proteobacteria,Microorganism,43 57
+F-25036636-001,T3,moist bloomy rinds,Habitat,91 109
+F-25036636-001,T4,Scopulariopsis,Microorganism,227 241
+F-25036636-001,T5,Aspergillus,Microorganism,243 254
+F-25036636-001,T6,Actinobacteria,Microorganism,256 270
+F-25036636-001,T7,Staphylococcus,Microorganism,276 290
+F-25036636-001,T8,dry natural rinds,Habitat,315 332
+F-20167385-004,T1,community of Staphylococcus and micrococci-corynebacteria groups,Habitat,56 120
+F-20167385-004,T2,Staphylococcus,Microorganism,69 83
+F-20167385-004,T3,micrococci,Microorganism,88 98
+F-20167385-004,T4,corynebacteria,Microorganism,99 113
+F-20167385-004,T5,cheese,Habitat,128 134
+F-20167385-004,T6,cheese surfaces,Habitat,128 143
+F-20167385-004,T7,E. faecium,Microorganism,154 164
+F-20167385-004,T8,Formaggio di Fossa,Habitat,184 202
+F-20167385-004,T9,enterococci,Microorganism,219 230
+F-20167385-004,T10,Enterococcus  selective agar,Habitat,245 273
+F-20167385-004,T11,Enterococcus,Microorganism,245 257
+F-20167385-004,T12,SB,Habitat,275 277
+F-20167385-004,T13,Casera cheeses,Habitat,331 337;373 380
+F-20167385-004,T14,Taleggio cheeses,Habitat,339 347;373 380
+F-20167385-004,T15,Gorgonzola cheeses,Habitat,349 359;373 380
+F-20167385-004,T16,Scimudin cheeses,Habitat,364 380
+F-20167385-004,T17,Lactobacilli,Microorganism,382 394
+F-20167385-004,T18,Rogosa agar,Habitat,421 432
+F-20167385-004,T19,cheese,Habitat,440 446
+F-20167385-004,T20,cheese surfaces,Habitat,440 455
+F-20167385-004,T21,Pseudomonas agar,Habitat,510 526
+F-20167385-004,T22,Pseudomonas,Microorganism,510 521
+F-20167385-004,T23,Gorgonzola surfaces,Habitat,540 550;574 582
+F-20167385-004,T24,Gorgonzola,Habitat,540 550
+F-20167385-004,T25,Scimudin surfaces,Habitat,552 560;574 582
+F-20167385-004,T26,Scimudin,Habitat,552 560
+F-20167385-004,T27,Taleggio,Habitat,565 573
+F-20167385-004,T28,Taleggio surfaces,Habitat,565 582
+F-20167385-004,T29,Casera,Habitat,607 613
+F-20167385-004,T30,Pseudomonas,Microorganism,626 637
+F-20167385-004,T31,Formaggio di Fossa,Habitat,700 718
+F-20167385-004,T32,cheese,Habitat,790 796
+F-20167385-004,T33,cheese surfaces,Habitat,790 805
+25204345,T1,Association of mutation patterns in GyrA and ParC genes with quinolone resistance levels in lactic acid bacteria.,Title,0 113
+25204345,T2,"The quinolone resistance of 19 lactic acid bacterial strains belonging to the genera Enterococcus and Lactobacillus isolated from the natural fermented koumiss and yoghurt were investigated. The objective of this study was to determine the quinolone resistance levels and to explore the association of the resistance with the mutation patterns in gyrA and parC genes, as is currently recommended by the Food and Agriculture Organization/World Health Organization Joint Expert Committee in Guidelines for Evaluation of Probiotics in Food for probiotic lactic acid bacteria drug resistance in 2001. The Oxford Cup method and double-tube dilution method were used to determine the quinolone resistance levels of the isolated strains. Generally, all of the 19 strains showed resistance towards norfloxacin and ciprofloxacin when the Oxford cup method was used, whereas the incidence was lower (to norfloxacin 89.5% and to ciprofloxacin 68.4%) when minimum inhibitory concentration breakpoints (CLSI M100-S23) were tested. Furthermore, gene sequencing was conducted on gyrA and parC of topoisomerase II of these isolated strains. The genetic basis for quinolone resistance may be closely related to mutations in gyrA genes as there were 10 mutation sites in amino-acid sequences encoded by gyrA genes in 10 quinolone resistance strains and 14 mutation sites in Enterococcus durans HZ28, whereas no typical mutations were detected in parC genes.",Paragraph,114 1553
+25204345,T3,quinolone resistance,Phenotype,61 81
+25204345,T4,lactic acid bacteria,Phenotype,92 112
+25204345,T5,quinolone resistance,Phenotype,118 138
+25204345,T6,lactic acid bacterial,Phenotype,145 166
+25204345,T7,Enterococcus,Microorganism,199 211
+25204345,T8,Lactobacillus,Microorganism,216 229
+25204345,T9,natural fermented koumiss,Habitat,248 273
+25204345,T10,yoghurt,Habitat,278 285
+25204345,T11,quinolone resistance,Phenotype,354 374
+25204345,T12,resistance,Phenotype,420 430
+25204345,T13,probiotic,Phenotype,655 664
+25204345,T14,lactic acid bacteria,Phenotype,665 685
+25204345,T15,drug resistance,Phenotype,686 701
+25204345,T16,quinolone resistance,Phenotype,792 812
+25204345,T17,resistance towards ciprofloxacin,Phenotype,885 903;920 933
+25204345,T18,resistance towards norfloxacin,Phenotype,885 915
+25204345,T19,quinolone resistance,Phenotype,1261 1281
+25204345,T20,quinolone resistance,Phenotype,1416 1436
+25204345,T21,Enterococcus durans HZ28,Microorganism,1470 1494
+F-20167385-014,T1,Psychrobacter,Microorganism,44 57
+F-20167385-014,T2,surface of Formaggio di  Fossa cheese,Habitat,69 106
+F-20167385-014,T3,Formaggio di  Fossa cheese,Habitat,80 106
+351567,T1,A cell-free system for the replication fo bacteriophage M-13 duplex DNA.,Title,0 72
+351567,T2,"Cell-free extracts from M-13 am5 infected Escherichia coli cells which are highly concentrated on cellophane membrane disks replicate efficiently endogenous M-13 duplex DNA. If the reaction is carried out in the presence of bromodeoxyuridine triphosphate, the majority of the label is found in two classes of hybrid DNA molecules in which either the viral or the complementary strand is newly synthesized. A minor portion of the label is incorporated into fully synthetic duplex DNA. DNA synthesis requires ATP and is inhibited by nalidixic acid, novobiocin, and arabinosylnucleoside triphosphates. Rifampicin blocks preferentially the synthesis of molecules with labeled complementary strands. A similar effect is observed upon addition of the helix-destabilising M-13 gene V protein. In contrast, addition of E. coli helix-destabilising protein (Eco HD-protein) stimulates the synthesis of both types of hybrid DNA molecules as well as the formation of fully synthetic duplex DNA.",Paragraph,73 1055
+351567,T3,bacteriophage M-13,Microorganism,42 60
+351567,T4,M-13 am5,Microorganism,97 105
+351567,T5,am5,Phenotype,102 105
+351567,T6,Escherichia coli,Microorganism,115 131
+351567,T7,cellophane membrane disks,Habitat,171 196
+351567,T8,M-13,Microorganism,230 234
+351567,T9,M-13,Microorganism,838 842
+351567,T10,E. coli,Microorganism,884 891
+23902156,T1,"Isolation, expression and characterization of a minor allergen from Penicillium crustosum.",Title,0 90
+23902156,T2,"A ribosomal P1 protein, Pen b 26 from Penicillium brevicompactum, was previously identified as a major allergen. A homolog protein was isolated and characterized from Penicillium crustosum which is not known to be allergenic mold. A cDNA library of P. crustosum was constructed and screened using a probe based on the DNA sequence of Pen b 26. A positive clone was isolated, expressed in Escherichia coli, purified and characterized by comparing its immunological and physical properties to Pen b 26. It was designated as Pen cr 26 and had a 321 nt ORF corresponding to 107 amino acids with a MW of 11 kDa. Pen cr 26 had strong sequence homology to Pen b 26 (92% for nucleotides and 86% for amino acids) and its physical and predicted structural properties were similar to the latter. The level of expression of Pen cr 26 was much lower than that of Pen b 26 in the same expression vector. Both proteins were recognized equally well by the IgG class specific antibodies, but Pen cr 26 was poorly recognized by Penicillium-sensitive atopic sera (IgE), suggesting striking antigenic difference in IgE epitopes, i.e., 87% were positive for Pen b 26 while only 23% were positive for Pen cr 26. The allergenicity of Pen cr 26 seems to be minor in nature and it could be a hypoallergenic variant of Pen b 26.",Paragraph,91 1393
+23902156,T3,Penicillium crustosum,Microorganism,68 89
+23902156,T4,Penicillium crustosum,Microorganism,68 89
+23902156,T5,Penicillium brevicompactum,Microorganism,129 155
+23902156,T6,Penicillium crustosum,Microorganism,258 279
+23902156,T7,P. crustosum,Microorganism,340 352
+23902156,T8,Escherichia coli,Microorganism,479 495
+23902156,T9,Penicillium,Microorganism,1101 1112
+23902156,T10,Penicillium-sensitive atopic sera,Habitat,1101 1134
+23902156,T11,Penicillium-sensitive atopic sera,Habitat,1101 1134
+F-20167385-000,T1,Staphylococcus,Microorganism,52 66
+F-20167385-000,T2,Micrococcus,Microorganism,68 79
+F-20167385-000,T3,Psychrobacter,Microorganism,81 94
+F-20167385-000,T4,Enterococcus,Microorganism,96 108
+F-20167385-000,T5,Brevibacterium,Microorganism,113 127
+F-20167385-000,T6,surface of cheeses,Habitat,158 176
+F-20167385-000,T7,cheeses,Habitat,169 176
+F-20167385-000,T8,Gorgonzola cheeses,Habitat,212 222;256 263
+F-20167385-000,T9,Taleggio cheeses,Habitat,224 232;256 263
+F-20167385-000,T10,Formaggio di Fossa cheeses,Habitat,237 263
+F-20167385-000,T11,Scimudin,Habitat,391 399
+F-20167385-000,T12,Casera,Habitat,404 410
+F-20167385-000,T13,Gram positive,Phenotype,464 477
+F-20167385-000,T14,Staphylococcus,Microorganism,545 559
+F-20167385-000,T15,Micrococcus,Microorganism,561 572
+F-20167385-000,T16,Macrococcus,Microorganism,574 585
+F-20167385-000,T17,Enterococcus,Microorganism,587 599
+F-20167385-000,T18,Lactobacillus,Microorganism,601 614
+F-20167385-000,T19,Carnobacterium,Microorganism,616 630
+F-20167385-000,T20,Leuconostoc,Microorganism,632 643
+F-20167385-000,T21,Brevibacterium,Microorganism,645 659
+F-20167385-000,T22,Corynebacterium,Microorganism,661 676
+F-20167385-000,T23,Brochothrix,Microorganism,678 689
+F-20167385-000,T24,Bacillus,Microorganism,691 699
+F-25036636-005,T1,cheese,Habitat,39 45
+F-25036636-005,T2,community,Habitat,190 199
+F-25036636-005,T3,Proteobacteria,Microorganism,223 237
+F-25036636-005,T4,Leuconostoc,Microorganism,253 264
+F-25036636-005,T5,Candida,Microorganism,280 287
+F-25036636-005,T6,raw milk,Habitat,325 333
+F-25036636-005,T7,Candida,Microorganism,367 374
+F-25036636-005,T8,community,Habitat,414 423
+F-25036636-005,T9,Proteobacteria,Microorganism,429 443
+F-25036636-005,T10,Staphylococcus,Microorganism,462 476
+F-25036636-005,T11,rinds,Habitat,509 514
+F-25036636-005,T12,Brevibacterium,Microorganism,539 553
+F-25036636-005,T13,Brachybacterium,Microorganism,558 573
+F-25036636-005,T14,Penicillium,Microorganism,590 601
+F-25036636-005,T15,Scopulariopsis,Microorganism,606 620
+F-25036636-005,T16,community,Habitat,676 685
+F-25036636-005,T17,mature cheeses,Habitat,707 721
+F-20167385-010,T1,Corynebacterium,Microorganism,19 34
+F-20167385-010,T2,C. casei,Microorganism,44 52
+F-20167385-010,T3,C. variabilis,Microorganism,57 70
+F-20167385-010,T4,cheese rinds,Habitat,114 126
+F-20167385-010,T5,cheese,Habitat,114 120
+F-20167385-010,T6,C. flavescens,Microorganism,195 208
+F-20167385-010,T7,rind of Gorgonzola cheeses,Habitat,231 249;263 270
+F-20167385-010,T8,rind of Scimudin cheeses,Habitat,231 238;254 270
+F-20167385-010,T9,Gorgonzola cheeses,Habitat,239 249;263 270
+F-20167385-010,T10,Scimudin cheeses,Habitat,254 270
+F-20167385-010,T11,surface of Gobbeen cheese,Habitat,336 361
+F-20167385-010,T12,Gobbeen cheese,Habitat,347 361
+F-20167385-010,T13,C. flavescens,Microorganism,401 414
+F-20167385-010,T14,yellow pigment,Phenotype,426 440
+F-20167385-010,T15,C. casei,Microorganism,459 467
+F-20167385-010,T16,C. variabile,Microorganism,469 481
+F-20167385-010,T17,C. ammoniagenes,Microorganism,487 502
+F-20167385-010,T18,dairy,Habitat,518 523
+21270066,T1,Lymphogranuloma venereum presenting as perianal ulceration: an emerging clinical presentation?,Title,0 94
+21270066,T2,"An outbreak of lymphogranuloma venereum (LGV) infection has been recognised in the UK since 2004, predominantly affecting HIV-positive men who have sex with men (MSM). Patients typically present with proctitis symptoms. The prevalence of rectal LGV in MSM attending sexually transmitted infection clinics in London is estimated at 1%. Health Protection Agency surveillance has shown a decrease in anorectal manifestations despite little demographic change. Two cases of HIV-infected patients presenting with isolated perianal ulcer disease are reported here. Both cases were confirmed to have rectal Chlamydia trachomatis-specific DNA of an LGV associated serovar. As presentations of LGV diversify, further education and surveillance are needed in order to reduce transmission and prevent long-term complications. A strong argument already exists for the incorporation of chlamydia nucleic acid amplification tests in the management of MSM with proctitis; this paper provides evidence that this should be extended to MSM with perianal ulcer disease.",Paragraph,95 1145
+21270066,T3,perianal,Habitat,39 47
+21270066,T4,perianal ulceration,Habitat,39 58
+21270066,T5,HIV-positive men who have sex with men,Habitat,217 255
+21270066,T6,HIV,Microorganism,217 220
+21270066,T7,men,Habitat,252 255
+21270066,T8,MSM,Habitat,257 260
+21270066,T9,Patients,Habitat,263 271
+21270066,T10,rectal,Habitat,333 339
+21270066,T11,MSM attending sexually transmitted infection clinics,Habitat,347 399
+21270066,T12,sexually transmitted infection clinics,Habitat,361 399
+21270066,T13,anorectal,Habitat,492 501
+21270066,T14,HIV-infected patients presenting with isolated perianal ulcer disease,Habitat,565 634
+21270066,T15,HIV,Microorganism,565 568
+21270066,T16,perianal ulcer,Habitat,612 626
+21270066,T17,perianal,Habitat,612 620
+21270066,T18,rectal,Habitat,688 694
+21270066,T19,Chlamydia trachomatis,Microorganism,695 716
+21270066,T20,chlamydia,Microorganism,968 977
+21270066,T21,MSM with proctitis,Habitat,1032 1050
+21270066,T22,MSM with perianal ulcer disease,Habitat,1113 1144
+21270066,T23,perianal,Habitat,1122 1130
+21270066,T24,perianal ulcer,Habitat,1122 1136
+F-20167385-001,T1,Gram positive,Phenotype,98 111
+F-20167385-001,T2,catalase positive,Phenotype,113 130
+F-20167385-001,T3,salt-tolerant,Phenotype,132 145
+F-20167385-001,T4,coagulase-negative,Phenotype,188 206
+F-20167385-001,T5,cocci,Phenotype,207 212
+F-20167385-001,T6,coryneform bacteria,Microorganism,224 243
+F-20167385-001,T7,Staphylococcus,Microorganism,273 287
+F-20167385-001,T8,Micrococcus,Microorganism,289 300
+F-20167385-001,T9,Brevibacterium,Microorganism,302 316
+F-20167385-001,T10,Arthrobacter,Microorganism,322 334
+10496597,T1,The differential diagnosis of early gastric mucosa-associated lymphoma: polymerase chain reaction and paraffin section immunophenotyping.,Title,0 137
+10496597,T2,"The distinction between benign florid lymphoid hyperplasia and low-grade gastric mucosal-associated lymphoid tissue (MALT) lymphoma may be a challenge. The presence of monoclonal B cells in Helicobacter pylori-chronic active gastritis has suggested that polymerase chain reaction (PCR) data should be viewed with caution. We investigated the reliability of PCR versus immunophenotyping in diagnosing early gastric MALT lymphoma. We studied 1511 biopsies from eight patients with high-grade primary gastric lymphoma, 25 with low-grade MALT lymphoma, 32 with atypical lymphoid infiltrates, and 39 with Helicobacter pylori-chronic active gastritis. Paraffin sections from all cases were stained with antibodies to CD20, CD3, AE1/AE3, kappa and lambda. PCR was performed on paraffin sections using the primer set VH-FR3/J(H). Using histopathology as the gold standard in diagnosis, we confirmed monoclonality in 22 of 25 MALT lymphomas (88%); a clonal band was found in 38% (15 of 39) of patients with chronic active gastritis. An immunophenotype pattern with predominance of CD20-positive cells in lymphocytic infiltrates was associated with monoclonality in 92% of cases. The presence of an enlarged irregular mantle zone was found in both monoclonal and polyclonal areas. An equal prevalence of B and T cells in lymphocytic infiltrates was associated with a polyclonal pattern in 24 of 31 cases (77%). Immunostaining of sIg (kappa and lambda) was difficult in paraffin sections and convincing proof of monoclonality was not obtained. Lymphoepithelial lesions were infrequent in gastric biopsies and their presence was highlighted with keratin stains. Because monoclonal B cells are observed in Helicobacter pylori-associated gastritis, the correct interpretation of clonality by PCR remains unclear. Paraffin section IHC using CD20 and CD3 is especially useful to confirm the diagnosis of gastric MALT lymphoma.",Paragraph,138 2048
+10496597,T3,gastric,Habitat,36 43
+10496597,T4,gastric mucosa,Habitat,36 50
+10496597,T5,gastric mucosal-associated lymphoid tissue,Habitat,211 253
+10496597,T6,gastric mucosal,Habitat,211 226
+10496597,T7,gastric,Habitat,211 218
+10496597,T8,MALT,Habitat,255 259
+10496597,T9,monoclonal B cells,Habitat,306 324
+10496597,T10,Helicobacter pylori,Microorganism,328 347
+10496597,T11,gastric,Habitat,544 551
+10496597,T12,gastric MALT,Habitat,544 556
+10496597,T13,patients with atypical lymphoid infiltrates,Habitat,603 611;690 724
+10496597,T14,patients with low-grade MALT lymphoma,Habitat,603 611;657 685
+10496597,T15,patients with Helicobacter pylori-chronic active gastritis,Habitat,603 611;733 782
+10496597,T16,patients with high-grade primary gastric lymphoma,Habitat,603 652
+10496597,T17,gastric,Habitat,636 643
+10496597,T18,MALT,Habitat,672 676
+10496597,T19,Helicobacter pylori,Microorganism,738 757
+10496597,T20,CD20,Habitat,849 853
+10496597,T21,CD3,Habitat,855 858
+10496597,T22,MALT,Habitat,1055 1059
+10496597,T23,patients with chronic active gastritis,Habitat,1122 1160
+10496597,T24,CD20-positive cells,Habitat,1210 1229
+10496597,T25,lymphocytic,Habitat,1233 1244
+10496597,T26,B cells,Habitat,1432 1433;1440 1445
+10496597,T27,T cells,Habitat,1438 1445
+10496597,T28,lymphocytic,Habitat,1449 1460
+10496597,T29,Lymphoepithelial,Habitat,1671 1687
+10496597,T30,Lymphoepithelial lesions,Habitat,1671 1695
+10496597,T31,gastric,Habitat,1715 1722
+10496597,T32,gastric biopsies,Habitat,1715 1731
+10496597,T33,monoclonal B cells,Habitat,1796 1814
+10496597,T34,Helicobacter pylori,Microorganism,1831 1850
+10496597,T35,CD20,Habitat,1964 1968
+10496597,T36,CD3,Habitat,1973 1976
+10496597,T37,gastric MALT,Habitat,2026 2038
+10496597,T38,gastric,Habitat,2026 2033
+F-25036636-004,T1,cold-adapted,Phenotype,91 103
+F-25036636-004,T2,cheeses,Habitat,282 289
+F-25036636-004,T3,Pseudoalteromonas,Microorganism,364 381
+F-25036636-004,T4,cheese,Habitat,469 475
+F-25036636-004,T5,cheese rind,Habitat,469 480
+9521147,T1,Lipopolysaccharide from nonvirulent Ara+ Burkholderia pseudomallei isolates is immunologically indistinguishable from lipopolysaccharide from virulent Ara- clinical isolates.,Title,0 174
+9521147,T2,"Different lines of evidence suggest that a discrepancy between the distribution of Burkholderia (Pseudomonas) pseudomallei in the environment and the distribution of the disease melioidosis is attributable, at least in part, to phenotypic differences between clinical and some environmental isolates. Two antigenically and biochemically distinct biotypes have been described, only one of which is virulent. In this study, lipopolysaccharides (LPSs) were extracted by the proteinase K digestion method from a total of 214 B. pseudomallei isolates, and their immunoreactivities with sera from patients with different clinical spectra and with other infections were evaluated. With the exception of4 isolates from a total of 214 tested, the sodium dodecyl sulfate-polyacrylamide gel electrophoresis silver-staining profiles of the LPSs from the two biotypes showed identical ladder patterns that were typical for smooth LPSs from other gram-negative bacteria. The 210 isolates with typical LPS patterns (119 Ara- clinical, 13 Ara- soil, 70 Ara+ soil, and 8 reference National Type Culture Collection strains) also exhibited similar immunoblot profiles against pooled sera from patients with melioidosis and hyperimmune mouse sera. Concordant findings were noted in the indirect enzyme-linked immunosorbent assay with Ara- and Ara+ LPSs to coat the microtiter plates. The LPSs of the different B. pseudomallei biotypes appear antigenically indistinguishable. It is, therefore, unlikely that this component is related to the virulence and pathogenicity of B. pseudomallei.",Paragraph,175 1742
+9521147,T3,nonvirulent,Phenotype,24 35
+9521147,T4,Ara+ Burkholderia pseudomallei,Microorganism,36 66
+9521147,T5,virulent,Phenotype,142 150
+9521147,T6,Ara-,Microorganism,151 155
+9521147,T7,clinical,Habitat,156 164
+9521147,T8,Burkholderia (Pseudomonas) pseudomallei,Microorganism,258 297
+9521147,T9,clinical,Habitat,434 442
+9521147,T10,virulent,Phenotype,572 580
+9521147,T11,B. pseudomallei,Microorganism,696 711
+9521147,T12,sera from patients with different clinical spectra and with other infections,Habitat,756 832
+9521147,T13,patients with different clinical spectra and with other infections,Habitat,766 832
+9521147,T14,gram-negative,Phenotype,1108 1121
+9521147,T15,Ara-,Microorganism,1180 1184
+9521147,T16,clinical,Habitat,1185 1193
+9521147,T17,Ara-,Microorganism,1198 1202
+9521147,T18,soil,Habitat,1203 1207
+9521147,T19,Ara+,Microorganism,1212 1216
+9521147,T20,soil,Habitat,1217 1221
+9521147,T21,sera from patients with melioidosis,Habitat,1339 1374
+9521147,T22,patients with melioidosis,Habitat,1349 1374
+9521147,T23,hyperimmune mouse,Habitat,1379 1396
+9521147,T24,hyperimmune mouse sera,Habitat,1379 1401
+9521147,T25,Ara-,Microorganism,1489 1493
+9521147,T26,Ara+,Microorganism,1498 1502
+9521147,T27,microtiter plates,Habitat,1520 1537
+9521147,T28,B. pseudomallei,Microorganism,1565 1580
+9521147,T29,virulence,Phenotype,1695 1704
+9521147,T30,pathogenicity,Phenotype,1709 1722
+9521147,T31,B. pseudomallei,Microorganism,1726 1741
+F-20167385-011,T1,lactic acid bacterial,Phenotype,14 35
+F-20167385-011,T2,LAB,Phenotype,43 46
+F-20167385-011,T3,Lactobacillus,Microorganism,49 62
+F-20167385-011,T4,cheese,Habitat,124 130
+F-20167385-011,T5,cheese surface,Habitat,124 138
+F-20167385-011,T6,Lactobacillus,Microorganism,170 183
+F-20167385-011,T7,Fontina cheese surface,Habitat,213 235
+F-20167385-011,T8,Fontina cheese,Habitat,213 227
+F-20167385-011,T9,lactococci,Microorganism,303 313
+F-20167385-011,T10,lactobacilli,Microorganism,318 330
+F-20167385-011,T11,Gorgonzola,Habitat,368 378
+F-20167385-011,T12,Gorgonzola rind,Habitat,368 383
+F-20167385-011,T13,L. curvatus,Microorganism,421 432
+F-20167385-011,T14,Taleggio,Habitat,468 476
+F-20167385-011,T15,Taleggio rind,Habitat,468 481
+F-20167385-011,T16,L. brevis,Microorganism,486 495
+F-20167385-011,T17,surface of Gorgonzola cheeses,Habitat,519 540;554 561
+F-20167385-011,T18,surface of Scimudin cheeses,Habitat,519 529;545 561
+F-20167385-011,T19,Gorgonzola cheeses,Habitat,530 540;554 561
+F-20167385-011,T20,Scimudin cheeses,Habitat,545 561
+F-20167385-011,T21,Formaggio di Fossa cheese,Habitat,612 637
+F-20167385-011,T22,L. acidipiscis,Microorganism,658 672
+F-20167385-011,T23,Gram positive,Phenotype,676 689
+F-20167385-011,T24,rod,Phenotype,690 693
+F-20167385-011,T25,microaerophilic,Phenotype,696 711
+F-20167385-011,T26,fermented fish,Habitat,787 801
+F-20167385-011,T27,Greek cheese,Habitat,891 903
+F-20167385-011,T28,Enteroccocci,Microorganism,927 939
+F-20167385-011,T29,Scimudin surfaces,Habitat,974 982;1026 1034
+F-20167385-011,T30,Scimudin,Habitat,974 982
+F-20167385-011,T31,Gorgonzola,Habitat,1001 1011
+F-20167385-011,T32,Gorgonzola surfaces,Habitat,1001 1011;1026 1034
+F-20167385-011,T33,Fontina,Habitat,1043 1050
+F-20167385-011,T34,Fontina rind,Habitat,1043 1055
+F-20167385-011,T35,enterococci,Microorganism,1150 1161
+F-20167385-011,T36,Gorgonzola,Habitat,1233 1243
+F-20167385-011,T37,Gorgonzola rinds,Habitat,1233 1249
+1214327,T1,Serotypes of Vibrio parahaemolyticus from clinical and environmental sources in Togo (West Africa).,Title,0 99
+1214327,T2,"Serological analysis of O and K antigens was performed on 343 strains of Vibro parahaemolyticus isolated from clinical and environmental sources in Togo. Only two strains were not typable by the available O antisera. K untypable strains were found in 4.8% of isolates from gastroenteritis patients, in 11% from healthy carriers, and in 47% and 46% of isolates, respectively, from water and fish samples. Thirteen serotypes identified in Togo are not considered in the Japanese antigenic scheme. The suitability of the Japanese typing scheme for geographic areas outside of Japan is discussed and its extension is suggested.",Paragraph,100 723
+1214327,T3,Vibrio parahaemolyticus,Microorganism,13 36
+1214327,T4,clinical,Habitat,42 50
+1214327,T5,Vibro parahaemolyticus,Microorganism,173 195
+1214327,T6,clinical,Habitat,210 218
+1214327,T7,gastroenteritis patients,Habitat,373 397
+1214327,T8,healthy carriers,Habitat,411 427
+1214327,T9,water,Habitat,480 485
+1214327,T10,fish samples,Habitat,490 502
+F-25036636-000,T1,community,Habitat,79 88
+F-25036636-000,T2,cheese,Habitat,113 119
+F-25036636-000,T3,Yaniella,Microorganism,193 201
+F-25036636-000,T4,Nocardiopsis,Microorganism,206 218
+F-25036636-000,T5,food,Habitat,253 257
+F-25036636-000,T6,halotolerant,Phenotype,298 310
+F-25036636-000,T7,γ-Proteobacteria,Microorganism,311 327
+F-25036636-000,T8,Vibrio,Microorganism,336 342
+F-25036636-000,T9,Halomonas,Microorganism,344 353
+F-25036636-000,T10,Pseudoalteromonas,Microorganism,359 376
+F-25036636-000,T11,marine environments,Habitat,412 431
+F-25036636-000,T12,cheese,Habitat,506 512
+F-25036636-000,T13,cheese communities,Habitat,506 524
+F-20167385-005,T1,Staphylococcus,Microorganism,132 146
+F-20167385-005,T2,S. saprophyticus,Microorganism,171 187
+F-20167385-005,T3,S. equorum,Microorganism,189 199
+F-20167385-005,T4,S. vitulinus,Microorganism,201 213
+F-20167385-005,T5,S. caprae,Microorganism,218 227
+F-20167385-005,T6,E. faecalis,Microorganism,237 248
+F-20167385-005,T7,E. faecium,Microorganism,250 260
+F-20167385-005,T8,B. linens,Microorganism,262 271
+F-20167385-005,T9,Corynebacterium flavescens,Microorganism,273 299
+F-20167385-005,T10,M. luteus,Microorganism,331 340
+F-20167385-005,T11,Scimudin cheese,Habitat,365 380
+F-20167385-015,T1,S. thermophilus,Microorganism,50 65
+F-20167385-015,T2,L. delbrueckii,Microorganism,70 84
+F-20167385-015,T3,cheese,Habitat,129 135
+47483,T1,Ampicillin-resistant Haemophilus influenzae type B possessing a TEM-type beta-lactamase but little permeability barrier to ampicillin.,Title,0 134
+47483,T2,"Ampicillin-resistant Haemophilus influenzae type B have been reported only during the past year. Five clinical isolates from the U.S. and Germany all had the TEM-type beta-lactamase which is known to be transferred widely among other gram-negative bacilli. Unlike those bacilli, however, the H. influenzae cell had very little barrier to entry of penicillins. This greater permeability of the H. influenzae cell to penicillins appeared to reduce the protective effect of its beta-lactamase, in that acquisition of the TEM-type beta-lactamase increased levels of resistance to penicillins much less for individual cells of H. influenzae than for those of Escherichia coli. Large inocula of either species appeared highly resistant. The unusually low level of resistance of individual cells of H. influenzae containing the TEM-type beta-lactamase may have delayed their emergence or recognition, and has unresolved clinical implications.",Paragraph,135 1070
+47483,T3,Ampicillin-resistant,Phenotype,0 20
+47483,T4,Haemophilus influenzae type B,Microorganism,21 50
+47483,T5,Ampicillin-resistant,Phenotype,135 155
+47483,T6,Haemophilus influenzae type B,Microorganism,156 185
+47483,T7,clinical,Habitat,237 245
+47483,T8,gram-negative,Phenotype,369 382
+47483,T9,bacilli,Microorganism,383 390
+47483,T10,bacilli,Microorganism,405 412
+47483,T11,H. influenzae,Microorganism,427 440
+47483,T12,H. influenzae,Microorganism,528 541
+47483,T13,resistance to penicillins,Phenotype,697 722
+47483,T14,H. influenzae,Microorganism,757 770
+47483,T15,Escherichia coli,Microorganism,789 805
+47483,T16,resistant,Phenotype,855 864
+47483,T17,resistance,Phenotype,893 903
+47483,T18,H. influenzae,Microorganism,927 940
+F-14624315-004,T1,anaerobic,Phenotype,8 17
+F-14624315-004,T2,Lactococcus,Microorganism,50 61
+F-14624315-004,T3,Lactobacillus,Microorganism,63 76
+F-14624315-004,T4,Streptococcus,Microorganism,78 91
+F-14624315-004,T5,Leuconostoc,Microorganism,96 107
+F-14624315-004,T6,hydroxy acid dehydrogenase activity,Phenotype,118 153
+F-14624315-004,T7,transaminase activity,Phenotype,200 221
+F-14624315-004,T8,decarboxylase activity,Phenotype,324 346
+F-14624315-004,T9,B1157,Microorganism,392 397
+F-14624315-004,T10,B1506,Microorganism,402 407
+F-14624315-000,T1,semi-hard cheeses,Habitat,3 20
+F-14624315-000,T2,Gouda,Habitat,27 32
+F-14624315-000,T3,Cheddar,Habitat,36 43
+F-14624315-000,T4,Lactococcus sp.,Microorganism,130 145
+F-14624315-000,T5,Lactobacillus sp.,Microorganism,153 170
+F-14624315-000,T6,dairy products,Habitat,326 340
+F-14624315-000,T7,Propionibacterium,Microorganism,345 362
+F-14624315-000,T8,Maasdammer,Habitat,370 380
+F-14624315-000,T9,Swiss-type cheeses,Habitat,385 403
+F-14624315-000,T10,Streptococcus sp.,Microorganism,429 446
+F-14624315-000,T11,Lb. bulgaricus spp.,Microorganism,448 467
+F-14624315-000,T12,Bifidobacterium sp.,Microorganism,472 491
+F-14624315-000,T13,yoghurts,Habitat,514 522
+F-14624315-000,T14,Arthrobacter,Microorganism,594 606
+F-14624315-000,T15,Brevibacterium,Microorganism,608 622
+F-14624315-000,T16,Corynebacterium sp.,Microorganism,627 646
+F-14624315-000,T17,surface-ripened cheeses,Habitat,650 673
+19552770,T1,Prevalence of thermotolerant Campylobacter in partridges (Perdix perdix).,Title,0 73
+19552770,T2,To estimate the prevalence of thermotolerant Campylobacter spp. in commercially reared partridges (Perdix perdix) in southern Italy.,Paragraph,74 206
+19552770,T3,"Cloacal swabs of partridges (n = 240), equally distributed between male and female birds, from a game bird farm located in the Southern Italy were examined for the prevalence of thermotolerant Campylobacter spp. The samples were processed in order to detect thermotolerant Campylobacter spp. by culture methods. The positive samples were then confirmed by multiplex polymerase chain reaction. Thermotolerant Campylobacter spp. were isolated from 118 (49.2%) of the 240 cloacal swabs examined. As proved by PCR, 100% of the strains were identified as Campylobacter coli (118/118), and 15 (12.7%) out of the 118 positive samples were also positive for Campylobacter jejuni. In contrast, Campylobacter lari was not identified. Adult partridges showed a significantly higher prevalence (P < 0.05) than younger ones.",Paragraph,207 1018
+19552770,T4,These results reinforce the assumption that game birds may be considered as potential carriers of Campylobacter spp. for human being and other animal species.,Paragraph,1019 1177
+19552770,T5,"Although an earlier 1986 publication described the prevalence of Campylobacter coli in commercially reared partridges, this is the first report to confirm the species of Campylobacter using a PCR test.",Paragraph,1178 1379
+19552770,T6,thermotolerant,Phenotype,14 28
+19552770,T7,Campylobacter,Microorganism,29 42
+19552770,T8,partridges,Habitat,46 56
+19552770,T9,Perdix perdix,Habitat,58 71
+19552770,T10,thermotolerant,Phenotype,104 118
+19552770,T11,Campylobacter spp.,Microorganism,119 137
+19552770,T12,commercially reared partridges,Habitat,141 171
+19552770,T13,Perdix perdix,Habitat,173 186
+19552770,T14,Cloacal swabs of partridges,Habitat,207 234
+19552770,T15,Cloacal,Habitat,207 214
+19552770,T16,partridges,Habitat,224 234
+19552770,T17,male birds,Habitat,274 278;290 295
+19552770,T18,female birds,Habitat,283 295
+19552770,T19,game bird,Habitat,304 313
+19552770,T20,game bird farm,Habitat,304 318
+19552770,T21,thermotolerant,Phenotype,385 399
+19552770,T22,Campylobacter spp.,Microorganism,400 418
+19552770,T23,thermotolerant,Phenotype,465 479
+19552770,T24,Campylobacter spp.,Microorganism,480 498
+19552770,T25,Thermotolerant,Phenotype,600 614
+19552770,T26,Campylobacter spp.,Microorganism,615 633
+19552770,T27,cloacal swabs,Habitat,676 689
+19552770,T28,Campylobacter coli,Microorganism,757 775
+19552770,T29,Campylobacter jejuni,Microorganism,857 877
+19552770,T30,Campylobacter lari,Microorganism,892 910
+19552770,T31,Adult partridges,Habitat,931 947
+19552770,T32,younger ones,Habitat,1005 1017
+19552770,T33,game birds,Habitat,1063 1073
+19552770,T34,Campylobacter spp.,Microorganism,1117 1135
+19552770,T35,human being,Habitat,1140 1151
+19552770,T36,animal species,Habitat,1162 1176
+19552770,T37,Campylobacter coli,Microorganism,1243 1261
+19552770,T38,commercially reared partridges,Habitat,1265 1295
+19552770,T39,Campylobacter,Microorganism,1348 1361
+F-14624315-001,T1,Lactococcus lactis,Microorganism,165 183
+F-14624315-001,T2,Lactobacillus,Microorganism,185 198
+F-14624315-001,T3,Streptococcus,Microorganism,200 213
+F-14624315-001,T4,Propionibacterium,Microorganism,218 235
+19004249,T1,Evaluation of antibacterial activity of synthetic aliphatic and aromatic monoacylglycerols.,Title,0 91
+19004249,T2,The antibacterial activity of synthetic aliphatic and aromatic monoacylglycerols (MAGs) was studied against two human pathogens: Staphylococcus aureus and Escherichia coli. The active compounds inhibited selectively S. aureus. The most active compounds amongst them were those with medium size aliphatic chain and aromatic MAGs with electron withdrawing substituents at the aryl ring. The introduction of one or two-carbon spacer between the aryl ring and the carboxylic function did not influence antibacterial effectiveness.,Paragraph,92 618
+19004249,T3,human pathogens,Phenotype,204 219
+19004249,T4,human,Habitat,204 209
+19004249,T5,Staphylococcus aureus,Microorganism,221 242
+19004249,T6,Escherichia coli,Microorganism,247 263
+19004249,T7,S. aureus,Microorganism,308 317
+F-14624315-005,T1,L. lactis subsp. cremoris B697,Microorganism,19 49
+F-14624315-005,T2,high hydroxy acid dehydrogenase activity,Phenotype,67 107
+F-14624315-005,T3,transaminase activity,Phenotype,124 145
+F-14624315-005,T4,L. lactis subsp. cremoris strain B1157,Microorganism,230 268
+F-14624315-005,T5,transaminase activities,Phenotype,361 373;405 415
+F-14624315-005,T6,hydroxy acid dehydrogenase activities,Phenotype,378 415
+F-14624315-005,T7,B697,Microorganism,458 462
+18094887,T1,"Rickettsia infection in five areas of the state of São Paulo, Brazil.",Title,0 69
+18094887,T2,"This study investigated rickettsial infection in animals, humans, ticks, and fleas collected in five areas of the state of São Paulo. Eight flea species (Adoratopsylla antiquorum antiquorum, Ctenocephalides felis felis, Polygenis atopus, Polygenis rimatus, Polygenis roberti roberti, Polygenis tripus, Rhopalopsyllus lugubris, and Rhopalopsyllus lutzi lutzi), and five tick species (Amblyomma aureolatum, Amblyomma cajennense, Amblyomma dubitatum, Ixodes loricatus, and Rhipicephalus sanguineus) were collected from dogs, cats, and opossums. Rickettsia felis was the only rickettsia found infecting fleas, whereas Rickettsia bellii was the only agent infecting ticks, but no animal or human blood was shown to contain rickettsial DNA. Testing animal and human sera by indirect immunofluorescence assay against four rickettsia antigens (R. rickettsii, R. parkeri, R. felis, and R. bellii), some opossum, dog, horse, and human sera reacted to R. rickettsii with titers at least four-fold higher than to the other three rickettsial antigens. These sera were considered to have a predominant antibody response to R. rickettsii. Using the same criteria, opossum, dog, and horse sera showed predominant antibody response to R. parkeri or a very closely related genotype. Our serological results suggest that both R. rickettsii and R. parkeri infected animals and/or humans in the studied areas.",Paragraph,70 1458
+18094887,T3,Rickettsia,Microorganism,0 10
+18094887,T4,rickettsial,Microorganism,94 105
+18094887,T5,animals,Habitat,119 126
+18094887,T6,humans,Habitat,128 134
+18094887,T7,ticks,Habitat,136 141
+18094887,T8,fleas,Habitat,147 152
+18094887,T9,flea,Habitat,210 214
+18094887,T10,Adoratopsylla antiquorum antiquorum,Habitat,224 259
+18094887,T11,Ctenocephalides felis felis,Habitat,261 288
+18094887,T12,Polygenis atopus,Habitat,290 306
+18094887,T13,Polygenis rimatus,Habitat,308 325
+18094887,T14,Polygenis roberti roberti,Habitat,327 352
+18094887,T15,Polygenis tripus,Habitat,354 370
+18094887,T16,Rhopalopsyllus lugubris,Habitat,372 395
+18094887,T17,Rhopalopsyllus lutzi lutzi,Habitat,401 427
+18094887,T18,tick,Habitat,439 443
+18094887,T19,Amblyomma aureolatum,Habitat,453 473
+18094887,T20,Amblyomma cajennense,Habitat,475 495
+18094887,T21,Amblyomma dubitatum,Habitat,497 516
+18094887,T22,Ixodes loricatus,Habitat,518 534
+18094887,T23,Rhipicephalus sanguineus,Habitat,540 564
+18094887,T24,dogs,Habitat,586 590
+18094887,T25,cats,Habitat,592 596
+18094887,T26,opossums,Habitat,602 610
+18094887,T27,Rickettsia felis,Microorganism,612 628
+18094887,T28,rickettsia,Microorganism,642 652
+18094887,T29,fleas,Habitat,669 674
+18094887,T30,Rickettsia bellii,Microorganism,684 701
+18094887,T31,ticks,Habitat,731 736
+18094887,T32,animal blood,Habitat,745 751;761 766
+18094887,T33,animal,Habitat,745 751
+18094887,T34,human blood,Habitat,755 766
+18094887,T35,human,Habitat,755 760
+18094887,T36,rickettsial,Microorganism,788 799
+18094887,T37,animal,Habitat,813 819
+18094887,T38,animal sera,Habitat,813 819;830 834
+18094887,T39,human,Habitat,824 829
+18094887,T40,human sera,Habitat,824 834
+18094887,T41,rickettsia,Microorganism,885 895
+18094887,T42,R. rickettsii,Microorganism,906 919
+18094887,T43,R. parkeri,Microorganism,921 931
+18094887,T44,R. felis,Microorganism,933 941
+18094887,T45,R. bellii,Microorganism,947 956
+18094887,T46,opossum sera,Habitat,964 971;995 999
+18094887,T47,opossum,Habitat,964 971
+18094887,T48,dog sera,Habitat,973 976;995 999
+18094887,T49,dog,Habitat,973 976
+18094887,T50,horse,Habitat,978 983
+18094887,T51,horse sera,Habitat,978 983;995 999
+18094887,T52,human sera,Habitat,989 999
+18094887,T53,human,Habitat,989 994
+18094887,T54,R. rickettsii,Microorganism,1011 1024
+18094887,T55,rickettsial,Microorganism,1087 1098
+18094887,T56,sera,Habitat,1115 1119
+18094887,T57,R. rickettsii,Microorganism,1179 1192
+18094887,T58,opossum sera,Habitat,1219 1226;1243 1247
+18094887,T59,opossum,Habitat,1219 1226
+18094887,T60,dog,Habitat,1228 1231
+18094887,T61,dog sera,Habitat,1228 1231;1243 1247
+18094887,T62,horse,Habitat,1237 1242
+18094887,T63,horse sera,Habitat,1237 1247
+18094887,T64,R. parkeri,Microorganism,1288 1298
+18094887,T65,R. rickettsii,Microorganism,1377 1390
+18094887,T66,R. parkeri,Microorganism,1395 1405
+18094887,T67,animals,Habitat,1415 1422
+18094887,T68,humans,Habitat,1430 1436
