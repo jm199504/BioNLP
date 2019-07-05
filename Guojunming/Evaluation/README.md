@@ -88,3 +88,7 @@ where
 1. bionlp-st 文件夹已经放入数据集和jar包，可以直接下载执行命令
 
 2. Python版本的Jaccard Index代码——evaluation.py
+
+评估代码输出格式如下：
+
+<img src="https://github.com/jm199504/BioNLP/tree/master/Guojunming/Evaluation/image">
