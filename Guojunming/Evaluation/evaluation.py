@@ -36,7 +36,7 @@ file_pred_list = [file_pred_path+_ for _ in os.listdir(file_pred_path)]
 
 '''
 读取文件列表：
-输入:文件列表
+file_list：数据集的a文件列表
 输出:实体字典（Entity_id:OBT_list），类型字典（Entity_id:Dict_ype）
 '''
 def read_files(file_list):
@@ -91,13 +91,14 @@ def evaluation(pred_dict,real_dict,pred_type_dict,entity_list_path,dict_OBT_list
             real_list = real_item[item[0]]
             dict_type = pred_type[item[0]]
             score = evaluation_formula(pred_list,real_list)
+            input_entity_name_list = list()
             pred_entity_name_list = list()
             real_entity_name_list = list()
             for i in pred_list:
                 # 训练文本输出实体名称
                 for j in entity_name_df.values:
                     if j[0] == text_id and j[1] == entity_id:
-                        pred_entity_name_list.append(j[2])
+                        input_entity_name_list.append(j[2])
                 # 标准字典输出实体名称
                 if i[0] == 'O':
                     for m in standard_name_BOT.values:
@@ -107,8 +108,20 @@ def evaluation(pred_dict,real_dict,pred_type_dict,entity_list_path,dict_OBT_list
                     for m in standard_name_TAX.values:
                         if i == m[0].split('|')[0]:
                             real_entity_name_list.append(m[0].split('|')[1])
+                            
+                # 标准字典输出实体名称
+                if i[0] == 'O':
+                    for m in standard_name_BOT.values:
+                        if i == m[0].split('|')[0]:
+                            pred_entity_name_list.append(m[0].split('|')[1])
+                else:
+                    for m in standard_name_TAX.values:
+                        if i == m[0].split('|')[0]:
+                            pred_entity_name_list.append(m[0].split('|')[1])
+                            
             res = res.append([{'text_id':text_id,'dict_type':dict_type[0],
                                'entity_id':entity_id,'pred_entity_name':pred_entity_name_list,
+                               'input_entity_name':input_entity_name_list,
                                'pred':pred_list,'real':real_list,
                                'real_entity_name':real_entity_name_list,'score':score}], ignore_index=True)
     
@@ -123,31 +136,6 @@ def evaluation(pred_dict,real_dict,pred_type_dict,entity_list_path,dict_OBT_list
 if __name__=='__main__':
     evaluation(pred_dict,real_dict,pred_type_dict,entity_list_path,dict_OBT_list_path,dict_TAX1_trim_list_path)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
-    
-    
+ 
     
     
