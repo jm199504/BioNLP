@@ -61,7 +61,7 @@ where
 
 <img src="https://github.com/jm199504/BioNLP/blob/master/Guojunming/Evaluation/image/1.png">
 
-<img src="https://github.com/jm199504/BioNLP/blob/master/Guojunming/Evaluation/image/2.png" width="500">
+<img src="https://github.com/jm199504/BioNLP/blob/master/Guojunming/Evaluation/image/2.png" width="400">
 
 3. 将jar包和下载的数据集拷贝到项目目录
 
@@ -81,7 +81,7 @@ where
 
 评价指标 Jaccard Index（Python）：
 
-<img src="https://github.com/jm199504/BioNLP/blob/master/Guojunming/Evaluation/image/6.png">
+<img src="https://github.com/jm199504/BioNLP/blob/master/Guojunming/Evaluation/image/6.png" width="500">
 
 备注：
 
