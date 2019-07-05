@@ -91,4 +91,4 @@ where
 
 评估代码输出格式如下：
 
-<img src="https://github.com/jm199504/BioNLP/tree/master/Guojunming/Evaluation/image">
+<img src="https://github.com/jm199504/BioNLP/blob/master/Guojunming/Evaluation/image/result_demo.png">
