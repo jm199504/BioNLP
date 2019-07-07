@@ -8,7 +8,7 @@ Siamese LSTM network（孪生LSTM模型）
 
 孪生网络结构：
 
-<img src="https://github.com/jm199504/BioNLP/blob/master/Guojunming/SiameseLSTM/images/1.jpg">
+<img src="https://github.com/jm199504/BioNLP/blob/master/Guojunming/SiameseLSTM/images/1.jpg" width="500">
 
 衍生：两个Network不共享权重，表示为Pseudo-siamese network（伪孪生神经网络）。
 
@@ -24,7 +24,7 @@ Siamese LSTM network（孪生LSTM模型）
 
 Hadsell在CVPR 2006大会发表的《Dimensionality Reduction by Learning an Invariant Mapping》中提及
 
-<img src="https://github.com/jm199504/BioNLP/blob/master/Guojunming/SiameseLSTM/images/2.png">
+<img src="https://github.com/jm199504/BioNLP/blob/master/Guojunming/SiameseLSTM/images/2.png" width="500">
 
 其中d=||an-bn||2，代表样本特征间的欧氏距离了，y表示为两样本是否匹配（匹配或者相似为1，不匹配为0），margin为超参数（设置的阈值）。
 
@@ -34,13 +34,13 @@ Hadsell在CVPR 2006大会发表的《Dimensionality Reduction by Learning an Inv
 
 余弦距离，也称为余弦相似度/余弦相似性
 
-<img src="https://github.com/jm199504/BioNLP/blob/master/Guojunming/SiameseLSTM/images/3.png">
+<img src="https://github.com/jm199504/BioNLP/blob/master/Guojunming/SiameseLSTM/images/3.png" width="500">
 
 其中A，B分别表示两个向量，其Am表示向量A中第m个元素值。
 
 3.Exp Function
 
-<img src="https://github.com/jm199504/BioNLP/blob/master/Guojunming/SiameseLSTM/images/4.png">
+<img src="https://github.com/jm199504/BioNLP/blob/master/Guojunming/SiameseLSTM/images/4.png" width="500">
 
 其中Y表示真实值标签，f（X）表示预测值标签。
 
@@ -48,7 +48,7 @@ Hadsell在CVPR 2006大会发表的《Dimensionality Reduction by Learning an Inv
 
 欧氏距离，也称欧几里得距离/欧几里得度量
 
-<img src="https://github.com/jm199504/BioNLP/blob/master/Guojunming/SiameseLSTM/images/5.png">
+<img src="https://github.com/jm199504/BioNLP/blob/master/Guojunming/SiameseLSTM/images/5.png" width="500">
 
 其中公式展示为2维(x,y)的欧氏距离计算公式，可以拓展到N维
 
@@ -62,7 +62,7 @@ Siamese Recurrent Architectures 将两个变长语句分别encode成相同长度
 
 Siamese Recurrent Architectures（论文提供图）
 
-<img src="https://github.com/jm199504/BioNLP/blob/master/Guojunming/SiameseLSTM/images/6.png">
+<img src="https://github.com/jm199504/BioNLP/blob/master/Guojunming/SiameseLSTM/images/6.png" width="500">
 
 输入维度：300；隐藏维度：50
 
