@@ -128,14 +128,27 @@ def evaluation(pred_dict,real_dict,pred_type_dict,entity_list_path,dict_OBT_list
     res.to_csv('result.csv',index=None)
 #    return res
 
-
+'''
+统计所有文章的分数均值
+'''
+def calc_precision(result_path):
+    result = pd.read_csv(result_path)
+    return result['score'].mean()
 '''
 运行主函数
 将评估结果输出到当前目录\\result.csv
 '''
 if __name__=='__main__':
     evaluation(pred_dict,real_dict,pred_type_dict,entity_list_path,dict_OBT_list_path,dict_TAX1_trim_list_path)
-
+    result_path = "result.csv"
+    print(calc_precision(result_path))
  
+    
+    
+    
+    
+    
+    
+    
     
     
