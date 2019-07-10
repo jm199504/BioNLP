@@ -17,22 +17,6 @@ def evaluation_formula(prediction,real,method='jaccard'):
 				union+=1
 		return inter / union
 
-'''
-文件路径指定
-file_real_path：真实数据集Entity：OBT路径
-file_pred_path：预测数据集Entity：OBT路径
-entity_list_path：训练文本的Entity名称
-dict_OBT_list_path：标准字典（OBT）
-dict_TAX1_trim_list_path：标准字典（非OBT）
-'''
-file_real_path = "example_data\\train\\real\\"
-file_pred_path = "example_data\\train\\pred\\"
-entity_list_path = "example_data\\entity_list_BioNLP-OST-2019_BB-norm_train.tsv"
-
-dict_OBT_list_path = "example_data\\OBT.txt"
-dict_TAX1_trim_list_path = "example_data\\TAX1_trim.txt"
-file_real_list = [file_real_path+_ for _ in os.listdir(file_real_path)]
-file_pred_list = [file_pred_path+_ for _ in os.listdir(file_pred_path)]
 
 '''
 读取文件列表：
@@ -60,11 +44,7 @@ def read_files(file_list):
                 type_dict[i[2]] = [i[1]]
         file_OBT_dict[file.split("\\")[-1]] = entity_dict
         file_type_dict[file.split("\\")[-1]] = type_dict
-    return file_OBT_dict,file_type_dict
-        
-real_dict,real_type_dict = read_files(file_real_list)   
-pred_dict,pred_type_dict = read_files(file_pred_list)   
-
+    return file_OBT_dict,file_type_dict   
 
 '''
 评估函数
@@ -75,7 +55,7 @@ entity_list_path:实体对应entity
 dict_OBT_list_path:OBT字典(标准)
 dict_TAX1_trim_list_path:非OBT字典(标准)
 '''
-def evaluation(pred_dict,real_dict,pred_type_dict,entity_list_path,dict_OBT_list_path,dict_TAX1_trim_list_path):
+def evaluation_main(pred_dict,real_dict,pred_type_dict,entity_list_path,dict_OBT_list_path,dict_TAX1_trim_list_path):
     entity_name_df = pd.read_csv(entity_list_path,delimiter="\t")
     standard_name_BOT = pd.read_csv(dict_OBT_list_path,delimiter="\t")
     standard_name_TAX = pd.read_csv(dict_TAX1_trim_list_path,delimiter="\t")
@@ -127,21 +107,46 @@ def evaluation(pred_dict,real_dict,pred_type_dict,entity_list_path,dict_OBT_list
     
     res.to_csv('result.csv',index=None)
 #    return res
-
+    
 '''
 统计所有文章的分数均值
 '''
 def calc_precision(result_path):
     result = pd.read_csv(result_path)
     return result['score'].mean()
+
+
 '''
-运行主函数
-将评估结果输出到当前目录\\result.csv
+评估函数
+输入参数：预测结果文件路径，真实结果文件路径
 '''
-if __name__=='__main__':
-    evaluation(pred_dict,real_dict,pred_type_dict,entity_list_path,dict_OBT_list_path,dict_TAX1_trim_list_path)
+def evaluation(file_pred_path,file_real_path="example_data\\train\\real\\"):
+
+    '''
+    文件路径指定
+    file_real_path：真实数据集Entity：OBT路径
+    file_pred_path：预测数据集Entity：OBT路径
+    entity_list_path：训练文本的Entity名称
+    dict_OBT_list_path：标准字典（OBT）
+    dict_TAX1_trim_list_path：标准字典（非OBT）
+    '''
+    #file_real_path = "example_data\\train\\real\\"
+    #file_pred_path = "example_data\\train\\pred\\"
+    entity_list_path = "example_data\\entity_list_BioNLP-OST-2019_BB-norm_train.tsv"
+    
+    dict_OBT_list_path = "example_data\\OBT.txt"
+    dict_TAX1_trim_list_path = "example_data\\TAX1_trim.txt"
+    file_real_list = [file_real_path+_ for _ in os.listdir(file_real_path)]
+    file_pred_list = [file_pred_path+_ for _ in os.listdir(file_pred_path)]
+    
+    real_dict,real_type_dict = read_files(file_real_list)   
+    pred_dict,pred_type_dict = read_files(file_pred_list)   
+    evaluation_main(pred_dict,real_dict,pred_type_dict,entity_list_path,dict_OBT_list_path,dict_TAX1_trim_list_path)
     result_path = "result.csv"
-    print(calc_precision(result_path))
+    return calc_precision(result_path)
+
+result_precision = evaluation("example_data\\train\\pred\\")
+print(result_precision)
  
     
     
